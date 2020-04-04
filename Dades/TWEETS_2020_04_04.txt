@@ -1,0 +1,295 @@
+{"data": "Fri Apr 03 22:00:24 +0000 2020",
+"name": "Laura",
+"screen_name": "Laupercon",
+"text": "Mi #FFPaciente de hoy para @eurordis porque en tiempos difíciles ellos no se han olvidado de las #EnfermedadesRaras y han manifestado la discriminación de este colectivo en las guías de cuidados intensivos durante la crisis del #COVIDー19 Más info aquí: https://t.co/9SWD5wWzir",
+"ReTweet: "False"},
+{"data": "Fri Apr 03 22:16:04 +0000 2020",
+"name": "Silvia Moncayo",
+"screen_name": "silvimoncayo",
+"text": "La Federación Española de #EnfermedadesRaras @FEDER_ONG insta al Gobierno a que los ERTEs no suspendan las prestaciones por hijos con enfermedades graves.
+https://t.co/efD766ARlJ",
+"ReTweet: "False"},
+{"data": "Fri Apr 03 22:49:51 +0000 2020",
+"name": "Dr Georgina Holmes",
+"screen_name": "1GeorginaHolmes",
+"text": "This is what NHS England were doing on Twitter on 29th February: 1. Promoting Rare Disease day (yes, really); 2. Telling everyone to wash their hands. How times have changed. BUT a lot of us did try to warn them to lock down sooner &amp; we were ignored #CoronavirusPandemic #COVID19",
+"ReTweet: "True"},
+{"data": "Fri Apr 03 23:43:45 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "Mi #FFPaciente de hoy para @eurordis porque en tiempos difíciles ellos no se han olvidado de las #EnfermedadesRaras y han manifestado la discriminación de este colectivo en las guías de cuidados intensivos durante la crisis del #COVIDー19 Más info aquí: https://t.co/9SWD5wWzir",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 00:27:15 +0000 2020",
+"name": "Juan Carlos Romero B",
+"screen_name": "jcromerobenavid",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 00:31:58 +0000 2020",
+"name": "John NSENGO",
+"screen_name": "JohnNsengo",
+"text": "Do you know the different types of #HereditaryAngioedema? These are the most common types. We’re raising awareness of #HAE and you can learn more about why the protein C1-INH is so important at https://t.co/7eSGi13fuf #RareDiseaseDay",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 03:50:40 +0000 2020",
+"name": "Conchi Martín #QuédateEnCasa",
+"screen_name": "Conchimartin",
+"text": "Mi #FFPaciente de hoy para @eurordis porque en tiempos difíciles ellos no se han olvidado de las #EnfermedadesRaras y han manifestado la discriminación de este colectivo en las guías de cuidados intensivos durante la crisis del #COVIDー19 Más info aquí: https://t.co/9SWD5wWzir",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 05:03:41 +0000 2020",
+"name": "School of Animal Science",
+"screen_name": "IswarChandraNa8",
+"text": "#disease #autoimmunedisease #addisonsdisease #diseaseprevention #rarediseaseday #coronavirus #invisibledisease #diseases #thyroiddisease #sarscov2 #chronicdisease #indiafightscorona #kidneydisease #hashimotosdisease… https://t.co/IfMzTpMaPp",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 05:37:29 +0000 2020",
+"name": "Quistes Tarlov #QuédateEnCasa",
+"screen_name": "quistestarlov",
+"text": "La Federación Española de #EnfermedadesRaras @FEDER_ONG insta al Gobierno a que los ERTEs no suspendan las prestaciones por hijos con enfermedades graves.
+https://t.co/efD766ARlJ",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 07:45:28 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/9lfiyiVSN6 Thanks to @CureHIBM @pulseinfoframe @CDKL5USA #raredisease #nord",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 07:45:53 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/dmp8r1EXrK Gracias a @fundacionantama @RarasReales @InstitutoRoche #enfermedadesraras #pimiento",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 08:25:02 +0000 2020",
+"name": "MARTIN ERIKSSON",
+"screen_name": "martinerik2",
+"text": "Do you know the different types of #HereditaryAngioedema? These are the most common types. We’re raising awareness of #HAE and you can learn more about why the protein C1-INH is so important at https://t.co/7eSGi13fuf #RareDiseaseDay",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 09:24:29 +0000 2020",
+"name": "PacienteSinPaz",
+"screen_name": "PacienteSinPaz",
+"text": "La Federación Española de #EnfermedadesRaras @FEDER_ONG insta al Gobierno a que los ERTEs no suspendan las prestaciones por hijos con enfermedades graves.
+https://t.co/efD766ARlJ",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 09:29:46 +0000 2020",
+"name": "Amarachukwu Okafor",
+"screen_name": "maokafor",
+"text": "#RareDiseaseDay offers us the opportunity to together care for our brothers and sisters who are ill, to integrate research, medical care, and social assistance so that they might enjoy equal opportunities and lead a full life.",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 10:05:40 +0000 2020",
+"name": "Una madre rara",
+"screen_name": "RaraMadre",
+"text": "No sentir miedo es lo que mas me asusta.
+#enfermedadesraras #confinamiento #yalohevivido",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 10:08:59 +0000 2020",
+"name": "Una madre rara",
+"screen_name": "RaraMadre",
+"text": "No sentir miedo es lo que más me asusta.
+#enfermedadesraras #confinamiento #yalohevivido",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 10:25:00 +0000 2020",
+"name": "ECOVIDRIO (en casa 🏡)",
+"screen_name": "ecovidrio",
+"text": "¿Sabías que este año nos hemos unido a @lavecinarubia y a @FEDER_ONG para luchar contra las #EnfermedadesRaras? 👏 
+
+Llévate este miniglú a casa y ayúdanos a ayudar 💜⬇️",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 10:44:27 +0000 2020",
+"name": "mari carmen",
+"screen_name": "maricar28250452",
+"text": "¿Sabías que este año nos hemos unido a @lavecinarubia y a @FEDER_ONG para luchar contra las #EnfermedadesRaras? 👏 
+
+Llévate este miniglú a casa y ayúdanos a ayudar 💜⬇️",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 11:14:25 +0000 2020",
+"name": "Juan Mari Telletxea",
+"screen_name": "ea2dop",
+"text": "Lee El diario de Genagen ▸ noticias destacadas del dia via @FEDER_ONG #enfermedadesraras #pimiento https://t.co/QUHaFIo5cO",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 11:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 11:31:39 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 11:35:03 +0000 2020",
+"name": "yolanda badas gonzalez",
+"screen_name": "yotauro61",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 11:41:38 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "¿Tienes dudas sobre #COVID19 y #distrofia muscular de #Duchenne/Becker? En este webinar varios profesionales dan recomendaciones para los pacientes y comentan los nuevos #tratamientos con esteroides contra COVID-19 para #pacientes con #EnfermedadesRaras.
+https://t.co/4Cgk8X442t",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 11:47:06 +0000 2020",
+"name": "Santiago Molina",
+"screen_name": "molcru",
+"text": "¿Sabías que este año nos hemos unido a @lavecinarubia y a @FEDER_ONG para luchar contra las #EnfermedadesRaras? 👏 
+
+Llévate este miniglú a casa y ayúdanos a ayudar 💜⬇️",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 12:42:21 +0000 2020",
+"name": "Esteban A.  SanMartín L.",
+"screen_name": "easanmartin",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 13:05:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 13:17:04 +0000 2020",
+"name": "Patricia Montalvo",
+"screen_name": "md7patty",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 14:10:37 +0000 2020",
+"name": "AMMA ( #QuedatACasa 🏘️ )",
+"screen_name": "Amma_Andorra",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 14:37:25 +0000 2020",
+"name": "Arnasa Bizkaia",
+"screen_name": "fqbizkaia",
+"text": "🌾🌬️ FIBROSI KISTIKOA zer den hobeto ulertzeko infografia.🌬️🌾
+.
+💙ZuRe ArNaSa eTa GuReA, BiAk BaT!!!💙
+.
+.
+.
+#fibrosisquistica #FibrosisKistikoa #respiraconmigo #arnasabizkaia #arnasa #nirekinarnastu #enfermedadesraras… https://t.co/F355VwnYnv",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 14:41:33 +0000 2020",
+"name": "NO NOELIA, NO PARTY",
+"screen_name": "NoeliaAspera",
+"text": "La realidad de muchos. La diferencia es que ves cómo el mundo sigue sin ti.
+#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sat Apr 04 15:26:38 +0000 2020",
+"name": "Vanesa",
+"screen_name": "vane_exposito",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 15:36:33 +0000 2020",
+"name": "Vanesa",
+"screen_name": "vane_exposito",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 15:40:26 +0000 2020",
+"name": "Maria Jose Salgado R",
+"screen_name": "mjsvrn",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+FEDER recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/JM71vF4mN4",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 15:43:51 +0000 2020",
+"name": "Nur",
+"screen_name": "Nuria2844",
+"text": "SM la Reina ha presidido el acto oficial por el día de las #EnfermedadesRaras (campaña ‘Crecer contigo, nuestra esperanza’ @FEDER_ONG) poniendo de relieve el movimiento asociativo en tres ámbitos:
+✔INVESTIGACIÓN
+✔TRANSFORMACIÓN SOCIAL 
+✔SERVICIOS
+@AlejandroSanz https://t.co/eU587x5AIW",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 15:44:08 +0000 2020",
+"name": "Nur",
+"screen_name": "Nuria2844",
+"text": "III Charla Coloquio sobre #EnfermedadesRaras en #Villablanca 
+Dr. David Farrington. Traumatólogo Hospital Virgen del Rocío de Sevilla https://t.co/pOQk1jgBDZ",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 16:34:21 +0000 2020",
+"name": "DITEC Uruguay",
+"screen_name": "AsociacionDitec",
+"text": "Para leer desde el celular al hacer clic en el link te va a aparecer la opción "Continue to Publication", ir allí para poder visualizar la revista. https://t.co/MvcqASp4xh",
+"ReTweet: "True"},
+{"data": "Sat Apr 04 16:58:01 +0000 2020",
+"name": "Nezha Egle",
+"screen_name": "NezhaEgle",
+"text": "Did you know that up to 50 rare inherited metabolic diseases can be managed through an adapted diet? Find out more here: https://t.co/5iJMhD6W87 #RareDiseaseDay #PKU #MetabolicDisorder #ShowYourRare https://t.co/sdRWNOxGHW",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 17:32:26 +0000 2020",
+"name": "Máire Ní Bheirn",
+"screen_name": "mobyrne100",
+"text": "Another MLD family on a mission to expand newborn screening in Uk. Good luck to george and Ava from Cogs and Kiwi♥️🇮🇪🇬🇧
+#RareDiseaseDay @SimonHarrisTD @DonnellyStephen @MaryLouMcDonald @RoisinShortall @paulreiddublin https://t.co/spwBfz8B8P",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 17:32:48 +0000 2020",
+"name": "Máire Ní Bheirn",
+"screen_name": "mobyrne100",
+"text": "#RareDiseaseDay on 29 February saw thousands of events take place in over 100 countries to raise awareness! Check out the Colosseum lit up to raise awareness! https://t.co/eRaTVNy3Lp",
+"ReTweet: "True"},
+{"data": "Sat Apr 04 18:08:09 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/p39OKWyB0y Gracias a @pieldemariposa @ashua_spain @FEDER_ONG #enfermedadesraras #pieldemariposa",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 18:46:22 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "una de las conocidas como “enfermedades raras”, que padece la niña cabanillera Olivia García, hija de Alfredo.
+
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 19:15:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Un ejemplo a seguir (si se puede) 👏👏
+
+💻 La Asociación de #EnfermedadesRaras @dgenesmurcia ofrece a sus usuarios continuar de manera online con las sesiones de logopedia, estimulación cognitiva, apoyo educativo y atención psicológica.
+https://t.co/LI40Sxvt0j",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/Oov1qnI0w3 Thanks to @cdhintl #raredisease #cysticfibrosis",
+"ReTweet: "False"},
+{"data": "Sat Apr 04 21:16:14 +0000 2020",
+"name": "Ismael",
+"screen_name": "Ismael_Or_Or",
+"text": "Un ejemplo a seguir (si se puede) 👏👏
+
+💻 La Asociación de #EnfermedadesRaras @dgenesmurcia ofrece a sus usuarios continuar de manera online con las sesiones de logopedia, estimulación cognitiva, apoyo educativo y atención psicológica.
+https://t.co/LI40Sxvt0j",
+"ReTweet: "False"},
