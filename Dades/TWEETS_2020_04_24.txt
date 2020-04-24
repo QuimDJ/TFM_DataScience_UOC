@@ -1,0 +1,1292 @@
+{"data": "Thu Apr 23 22:00:42 +0000 2020",
+"name": "La valentía de Martina",
+"screen_name": "valentia_de",
+"text": "pautas, tareas y están muy pendiente de ella. Es difícil explicar a un “bebé” de cuatro años sin lenguaje, que sus rutinas tardarán en volver. Mientras hacemos lo que podemos en casa 💙 #enfermedadesraras #rarasperonoinvisibles #enfermedadesrarasperonoinvisibles #2q332_2q34",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:01:21 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "Todo un orgullo poner nuestro granito de arena para el desarrollo de este programa de @dgenesmurcia con @AEEPompe @RarasReales @SanofiES",
+"ReTweet: "True"},
+{"data": "Thu Apr 23 22:06:09 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "Rocío padece una enfermedad minoritaria cuyo tratamiento dura 24 h. Antes esperaba en el centro a que todo estuviera preparado. Ahora lo hace en el coche. Es uno de los muchos casos de cómo pacientes con #EnfermedadesRaras afrontan esta crisis sanitaria.
+https://t.co/okSzUDJZsq",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:10:03 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "ENHORABUENA!!! a @dgenesmurcia junto con @AEEPompe por su Programa de atención especializada de fisioterapia a domicilio en enfermos de #Pompe, #EnfermedadesRaras @RarasReales @SanofiES https://t.co/RHvlx6Magt",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:11:08 +0000 2020",
+"name": "Chiesi España",
+"screen_name": "Chiesi_es",
+"text": "¡Apunta la fecha! 📝 Café virtual sobre diagnóstico genético en #EnfermedadesRaras con los investigadores @GMarfanyN y @LluisMontoliu  
+
+📆 Martes, 5 de Mayo
+⏳ 17:00 CET
+
+Inscríbete aquí ➡️ https://t.co/ZRHRGsCxjY #Share4Rare #Share4Research https://t.co/yK88szdOxR",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:13:09 +0000 2020",
+"name": "Chiesi España",
+"screen_name": "Chiesi_es",
+"text": "¿Qué hacer con #EnfermedadesLisosomales ante la pandemia? Recomendaciones @vallhebron para pacientes de #EnfermedadesRaras como #EnfermedadDeGaucher, #EnfermedadDePompe o #EnfermedadDeFabry  
+@AEEPompe @asociacion_mps @MPSpapas @AEEFEGaucher
+https://t.co/ZovppL4nZW",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:25:29 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "#MesFabry
+¿Sábes dónde sospechar de #EnfermedadDeFabry?  El Dr. Luis Tamargo, del Hospital Serranía de Ronda (Málaga) responde a esta pregunta desde el punto de vista de un cardiólogo.
+
+#Cardiología #Fabry #EnfermedadesRaras
+
+💻👉https://t.co/BuvY2pVkve https://t.co/5z5am23JAW",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:47:06 +0000 2020",
+"name": "LaSonrisaDePablo",
+"screen_name": "LaSonrisaDPablo",
+"text": "@dgenesmurcia presenta su Programa de atención especializada de fisioterapia a domicilio en enfermos de #Pompe, coincidiendo con el Día Internacional de esta patología @AEEPompe #EnfermedadesRaras 
+https://t.co/aQFocvWdOx https://t.co/Prwg0CfWBs",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:50:22 +0000 2020",
+"name": "LaSonrisaDePablo",
+"screen_name": "LaSonrisaDPablo",
+"text": "@dgenesmurcia, junto con otras asociaciones y organizaciones de pacientes, lanza una campaña para dar visibilidad a la realidad de las personas #Sindiagnóstico, con motivo mañana del #DíaMundialSindiagnóstico #EERR #EnfermedadesRaras 
+https://t.co/gfgG9cIhX5 https://t.co/YMy7T1AqvB",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 22:51:17 +0000 2020",
+"name": "LaSonrisaDePablo",
+"screen_name": "LaSonrisaDPablo",
+"text": "Silvia García, madre de un niño #sindiagnostico ofrece su testimonio en el IV WorkER Investigación en #EnfermedadesRaras. Ha apelado a la importancia de la investigación y ha hablado de sentimientos de desesperación, soledad o rabia por los que atraviesan las familias https://t.co/aqufH8dhY9",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 23:05:04 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "#MesFabry
+¿Sábes dónde sospechar de #EnfermedadDeFabry?  El Dr. Luis Tamargo, del Hospital Serranía de Ronda (Málaga) responde a esta pregunta desde el punto de vista de un cardiólogo.
+
+#Cardiología #Fabry #EnfermedadesRaras
+
+💻👉https://t.co/BuvY2pVkve https://t.co/5z5am23JAW",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 23:06:32 +0000 2020",
+"name": "María #Vivircondolor",
+"screen_name": "vivircondolor",
+"text": "Muchas familias en busca de un #diagnóstico.
+Ayudanos a darles visibilidad. 
+#Sindiagnostico
+#EnfermedadesRaras
+#Visibilidad
+#investigacion https://t.co/8arY9fLebb",
+"ReTweet: "False"},
+{"data": "Thu Apr 23 23:24:16 +0000 2020",
+"name": "sara o. olmedo",
+"screen_name": "xaraoo",
+"text": "Muchas familias en busca de un #diagnóstico.
+Ayudanos a darles visibilidad. 
+#Sindiagnostico
+#EnfermedadesRaras
+#Visibilidad
+#investigacion https://t.co/8arY9fLebb",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 00:54:20 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "💫☁️
+
+...
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post #myownstyle… https://t.co/wipHV6CCdR",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 01:48:42 +0000 2020",
+"name": "Bru Cormand Rifà",
+"screen_name": "bcormand",
+"text": "Porque la ciencia no para en tiempos de #COVIDー19. Enhorabuena por los avances en el campo de las #enfermedadesraras por el desarrollo de modelos para #SantfilippoC.
+Enhorabuena @NoeBke3, Isaac Canals, Lluisa Vilageliu y Daniel Grinberg del @CIBERER 
+https://t.co/0LRIAsY2AY https://t.co/jv5068bG23",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 01:50:32 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "Rocío padece una enfermedad minoritaria cuyo tratamiento dura 24 h. Antes esperaba en el centro a que todo estuviera preparado. Ahora lo hace en el coche. Es uno de los muchos casos de cómo pacientes con #EnfermedadesRaras afrontan esta crisis sanitaria.
+https://t.co/okSzUDJZsq",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 01:52:07 +0000 2020",
+"name": "Asami Santa Fe",
+"screen_name": "asamisantafe",
+"text": "¡Apunta la fecha! 📝 Café virtual sobre diagnóstico genético en #EnfermedadesRaras con los investigadores @GMarfanyN y @LluisMontoliu  
+
+📆 Martes, 5 de Mayo
+⏳ 17:00 CET
+
+Inscríbete aquí ➡️ https://t.co/ZRHRGsCxjY #Share4Rare #Share4Research https://t.co/yK88szdOxR",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 02:11:25 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "Gracias @FEDER_ONG por el gran trabajo que estáis realizando y el apoyo enorme a las Asociaciones y a las familias #xfragil #somosFEDER",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 04:15:15 +0000 2020",
+"name": "Melisa Quigley",
+"screen_name": "MQuigley1963",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 06:05:05 +0000 2020",
+"name": "Escuela de Salud de Aragón",
+"screen_name": "EscuelaSaludARA",
+"text": "Hoy, 24 de abril, es el Día Internacional #SinDiagnóstico #SinDiagnostico2020 No hay enfermedad más rara que la que no tiene nombre...
+
+Desde #EscuelaSaludARA nos sumamos y dejamos alguna info sobre #EnfermedadesRaras o poco frecuentes 👉 https://t.co/3YBXzaMbz9
+
+@FundacionACDM https://t.co/MnrWmYoXvO",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 06:18:48 +0000 2020",
+"name": "cnag-crg",
+"screen_name": "cnag_eu",
+"text": "Hoy es el Día Internacional Sin Diagnóstico.
+
+No hay enfermedad más rara que la que no tiene nombre, desde el #CNAGCRG trabajamos para intentar solucionar esta situación por la que pasan gran parte de las personas que sufren #EnfermedadesRaras
+#SinDiagnostico #SinDiagnostico2020 https://t.co/dx9N2rSI6q",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 06:30:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras #Coronavirus
+
+El grupo de trabajo internacional de expertos en #MisteniaGravis publica una serie de recomendaciones para el manejo de esta enfermedad minoritaria en el contexto de la actual pandemia #Covid19
+
+https://t.co/5mlvrLLorH https://t.co/Lsp5DIGK4V",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 07:25:12 +0000 2020",
+"name": "Kelly Rabionet",
+"screen_name": "krabionet",
+"text": "Excelente trabajo sobre modelos celulares en la enfermedad de SanfilippoC @CIBERER @GeneticsUB @BiologiaUB @UniBarcelona",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 07:40:02 +0000 2020",
+"name": "Lady Dark",
+"screen_name": "AryaStark5",
+"text": "Muchas familias en busca de un #diagnóstico.
+Ayudanos a darles visibilidad. 
+#Sindiagnostico
+#EnfermedadesRaras
+#Visibilidad
+#investigacion https://t.co/8arY9fLebb",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 07:45:28 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/l2IuiYI6VX #raredisease #cysticfibrosis",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 07:45:52 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/EV6TwfrRyQ Gracias a @InfomedCuba @RarasReales #enfermedadesraras #biología",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 07:49:28 +0000 2020",
+"name": "Maria Jose Salgado R",
+"screen_name": "mjsvrn",
+"text": "La unidad de enfermedades metabólicas congénitas del CHUS trata +500 pacientes con #EnfermedadesRaras. Su directora explica cómo la unidad ha organizado la asistencia para que este colectivo no resulte afectado por la crisis sanitaria #covid19.
+https://t.co/l52SpuT6nY",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:01:43 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#BuenosDias mi primer #FFpaciente de hoy es para una nueva incorporación en #Twitter 
+@RecordatiD 
+Laboratorio dedicado a #EnfermedadesRaras y comprometido con los pacientes. 
+@ffpaciente @soriano_p @aelmhu @FEDER_ONG @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:08:17 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Nuevos modelos celulares cerebrales ayudan a evaluar terapias para el síndrome de Sanfilippo C #Stopsanfilippo #EnfermedadesRaras https://t.co/1h3AEG9hB0",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 08:14:29 +0000 2020",
+"name": "CIBERER",
+"screen_name": "CIBERER",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:15:09 +0000 2020",
+"name": "Francis Villatoro",
+"screen_name": "emulenews",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:17:07 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 24 de abril es el Día Mundial de las Personas Sin Diagnóstico #DíaMundialSinDiagnóstico #sindiagnostico #EnfermedadesRaras #UndiagnosedChildrensDay #UndiagnosedDay",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 08:17:16 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "#BuenosDias mi primer #FFpaciente de hoy es para una nueva incorporación en #Twitter 
+@RecordatiD 
+Laboratorio dedicado a #EnfermedadesRaras y comprometido con los pacientes. 
+@ffpaciente @soriano_p @aelmhu @FEDER_ONG @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:17:40 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "Hoy 24 de abril es el Día Mundial de las Personas Sin Diagnóstico #DíaMundialSinDiagnóstico #sindiagnostico #EnfermedadesRaras #UndiagnosedChildrensDay #UndiagnosedDay https://t.co/6msji1AYw9",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 08:18:27 +0000 2020",
+"name": "Catiruli",
+"screen_name": "Catiruli1",
+"text": "Gracias @FEDER_ONG por el gran trabajo que estáis realizando y el apoyo enorme a las Asociaciones y a las familias #xfragil #somosFEDER",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 08:28:20 +0000 2020",
+"name": "Lluis Montoliu",
+"screen_name": "LluisMontoliu",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:30:03 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "🎯El objetivo es conocer mejor los síntomas de los pacientes #SinDiagnóstico para agruparlos y analizar la carga de la enfermedad. Esto nos ayudará a identificar necesidades no cubiertas y mejorar la vida de estos pacientes desde una perspectiva 360º #EnfermedadesRaras https://t.co/pKUK2rATeB",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:30:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:30:48 +0000 2020",
+"name": "Carmen lópez valiente",
+"screen_name": "carmen_sjogren",
+"text": "Escucharè el webinar aunq el síndrome Sjögren no es enf genètica @aesjogren #sjögren #EstoeselSjögren @CIBERER",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 08:39:53 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "New brain cell models to evaluate therapy on neurodegenerative disease #Sanfilippo C
+#MPS #RareDisease #enfermedadesraras
+https://t.co/y8HfRpPZdy via @UniBarcelona",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:40:20 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:43:26 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:49:32 +0000 2020",
+"name": "yu🐑",
+"screen_name": "delphiniumpearl",
+"text": "Examples of rare lung diseases include sarcoidosis, cystic fibrosis, pulmonary alveolar proteinosis, alpha-1 anti-trypsin deficiency, vasculitis, lymphagiomatosis, lymphangioleiomyomatosis, and the Hermansky-Pudlak Syndrome. #RareDiseaseDay https://t.co/S2SnxMNMZI",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:50:59 +0000 2020",
+"name": "Irene Rivera",
+"screen_name": "Ire_Rivera",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:51:28 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Modelos celulares cerebrales para síndrome de Sanfilippo C vía @Consalud_es
+#MPS #MPS3C #ENFERMEDADESRARAS https://t.co/66WkTb3VoY",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:51:39 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 08:52:06 +0000 2020",
+"name": "mari jose",
+"screen_name": "pitxona2",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:13:04 +0000 2020",
+"name": "ferrufa",
+"screen_name": "ferrufa",
+"text": "Added together, they are not so rare. Yet, not many people know about them!
+#raredisease #RareDiseaseDay 
+Rare genetic diseases from different points of view https://t.co/YOx4XRIaMn",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:26:08 +0000 2020",
+"name": "うえちゃん 健康第一",
+"screen_name": "uechan_1107",
+"text": "Dave is living with Leber’s hereditary optic neuropathy (LHON)–an inherited form of vision loss. Hear him share why he’s excited to #JoinAllofUs + help us advance research ➡️https://t.co/7uNue4oLpP #RareDiseaseDay https://t.co/jqmchTEpYr",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:29:39 +0000 2020",
+"name": "Fundación RafaPuede",
+"screen_name": "rafapuede_org",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:30:00 +0000 2020",
+"name": "Genotipia",
+"screen_name": "genotipia",
+"text": "Se generan modelos celulares de neuronas y astrocitos que permiten conocer mejor el síndrome de Sanfilippo.
+#INVESTIGACIÓN #Sanfilippo #neurodegeneración #enfermedadesraras
+https://t.co/cmDkCZ2KJM",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:31:21 +0000 2020",
+"name": "Ana (pero no Karenina) Elena🩰",
+"screen_name": "Daria_Neca",
+"text": "Se generan modelos celulares de neuronas y astrocitos que permiten conocer mejor el síndrome de Sanfilippo.
+#INVESTIGACIÓN #Sanfilippo #neurodegeneración #enfermedadesraras
+https://t.co/cmDkCZ2KJM",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:31:25 +0000 2020",
+"name": "Copper rose Scarlett's",
+"screen_name": "copper_scarlett",
+"text": "Did you get rituximab ?I'm waiting for approval to start:-)",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 09:35:03 +0000 2020",
+"name": "FerranAXP",
+"screen_name": "FerranAXP",
+"text": "Que esta pandemia no nos impida avanzar hacia #TodosCONdiagnostico gracias a los esfuerzos de todos con las #enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 09:37:56 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "#BuenosDias mi primer #FFpaciente de hoy es para una nueva incorporación en #Twitter 
+@RecordatiD 
+Laboratorio dedicado a #EnfermedadesRaras y comprometido con los pacientes. 
+@ffpaciente @soriano_p @aelmhu @FEDER_ONG @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:40:05 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "#BuenosDias mi primer #FFpaciente de hoy es para una nueva incorporación en #Twitter 
+@RecordatiD 
+Laboratorio dedicado a #EnfermedadesRaras y comprometido con los pacientes. 
+@ffpaciente @soriano_p @aelmhu @FEDER_ONG @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:50:41 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "💥RETO SUPERADO por Gerard, nuestro chico de #Girona 👏🏻👏🏻💪🏼 🔥🔥Te unes al reto #26steps4AT❓ Reto internacional por la #investigación de la #ataxiatelangiectasia ante la crisis del #Covid19. https://t.co/ZQ9uDh7KBH #twopointsixchallenge @ActionforAT #enfermedadesraras https://t.co/x0j8volMTl",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:53:11 +0000 2020",
+"name": "Action for A-T",
+"screen_name": "ActionforAT",
+"text": "Check out this brave young man taking #26steps4AT #hero #ataxiatelangiectasia #twopointsixchallenge",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 09:53:21 +0000 2020",
+"name": "Julio",
+"screen_name": "kiskojulio",
+"text": "Muchas familias en busca de un #diagnóstico.
+Ayudanos a darles visibilidad. 
+#Sindiagnostico
+#EnfermedadesRaras
+#Visibilidad
+#investigacion https://t.co/8arY9fLebb",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 09:55:13 +0000 2020",
+"name": "María Jesus Portillo",
+"screen_name": "marizuportillo",
+"text": "Dia mundial de las personas sin diagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/VXQRsuYW7M",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:13:54 +0000 2020",
+"name": "Zurich Seguros España",
+"screen_name": "ZurichSeguros",
+"text": "El gran @salvareinachuki también se ha sumado al reto  #26steps4AT de @AEF_AT por la #investigación de la #ataxiatelangiectasia ante la crisis del #Covid19. Y tú, ¿te atreves a intentarlo?🙅También puedes aportar tu granito de arena con @migranodearena en https://t.co/hb53mU1Xq2",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 10:25:07 +0000 2020",
+"name": "🧬🧬BC Della Rina🔬🔬🛫🛬",
+"screen_name": "BettinaColos3",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:28:10 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "El gran @salvareinachuki también se ha sumado al reto  #26steps4AT de @AEF_AT por la #investigación de la #ataxiatelangiectasia ante la crisis del #Covid19. Y tú, ¿te atreves a intentarlo?🙅También puedes aportar tu granito de arena con @migranodearena en https://t.co/hb53mU1Xq2",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 10:30:10 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Expertos apuntan que el principal criterio utilizado actualmente para clasificar un producto farmacéutico como #Medicamento Huérfano —la prevalencia— puede fracasar para abordar con precisión las #EnfermedadesRaras.
+https://t.co/JwnW2erVJg",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:31:33 +0000 2020",
+"name": "Adela-Emilia Gómez Ayala",
+"screen_name": "miwebdesalud",
+"text": "Expertos apuntan que el principal criterio utilizado actualmente para clasificar un producto farmacéutico como #Medicamento Huérfano —la prevalencia— puede fracasar para abordar con precisión las #EnfermedadesRaras.
+https://t.co/JwnW2erVJg",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:33:48 +0000 2020",
+"name": "Stop Sanfilippo",
+"screen_name": "StopSanfilippo",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:34:06 +0000 2020",
+"name": "Stop Sanfilippo",
+"screen_name": "StopSanfilippo",
+"text": "Expertos apuntan que el principal criterio utilizado actualmente para clasificar un producto farmacéutico como #Medicamento Huérfano —la prevalencia— puede fracasar para abordar con precisión las #EnfermedadesRaras.
+https://t.co/JwnW2erVJg",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:38:10 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "Hoy, 24 de abril, es el Día Internacional #SinDiagnóstico #SinDiagnostico2020 No hay enfermedad más rara que la que no tiene nombre...
+
+Desde #EscuelaSaludARA nos sumamos y dejamos alguna info sobre #EnfermedadesRaras o poco frecuentes 👉 https://t.co/3YBXzaMbz9
+
+@FundacionACDM https://t.co/MnrWmYoXvO",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:53:27 +0000 2020",
+"name": "GrupoOrphar_SEFH",
+"screen_name": "GrupoOrpharSEFH",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 10:55:08 +0000 2020",
+"name": "Leo📚🖋(🏘)#pacientesquecuentan",
+"screen_name": "leo_veritas",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 10:56:27 +0000 2020",
+"name": "Nélida Conejo",
+"screen_name": "DUEconCiencia",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 11:18:36 +0000 2020",
+"name": "Pr. Heber Bendezu",
+"screen_name": "heberbendezu",
+"text": "Gracias al amor y la entrega de Dios puedes recordar que no estás solo en la carrera de la vida. Porque “el eterno Dios es tu refugio y sus brazos eternos son tu apoyo”.  #DM2020 #PrimeroDios https://t.co/lT5XEnmj4h",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 11:27:07 +0000 2020",
+"name": "Pilar Pérez Peña",
+"screen_name": "pilarpe23800441",
+"text": "ENHORABUENA!!! a @dgenesmurcia junto con @AEEPompe por su Programa de atención especializada de fisioterapia a domicilio en enfermos de #Pompe, #EnfermedadesRaras @RarasReales @SanofiES https://t.co/RHvlx6Magt",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 11:29:35 +0000 2020",
+"name": "Translational Genomics Lab University of Valencia",
+"screen_name": "GenomicsLab_UV",
+"text": "Expertos apuntan que el principal criterio utilizado actualmente para clasificar un producto farmacéutico como #Medicamento Huérfano —la prevalencia— puede fracasar para abordar con precisión las #EnfermedadesRaras.
+https://t.co/JwnW2erVJg",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 11:30:58 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Entre 2017 y 2019 un total de 908 niños que tienen una enfermedad minoritaria y que no estaban diagnosticados han recibido finalmente una valoración médica gracias al Centro Daniel Bravo
+#enfermedadesraras
+https://t.co/nz3BbpBP6Y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 11:35:13 +0000 2020",
+"name": "Eva Ma. Ponce💙💙",
+"screen_name": "evamaponce",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 11:40:55 +0000 2020",
+"name": "Nymph",
+"screen_name": "Nymphhar",
+"text": "Un #FFpaciente para todos ellos. https://t.co/ivI1ynRoNG",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 11:51:58 +0000 2020",
+"name": "Catalina Covas 📚 🎀 #QuédateEnCasa",
+"screen_name": "CatalinaCovas",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 12:00:37 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:03:04 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "Expertos apuntan que el principal criterio utilizado actualmente para clasificar un producto farmacéutico como #Medicamento Huérfano —la prevalencia— puede fracasar para abordar con precisión las #EnfermedadesRaras.
+https://t.co/JwnW2erVJg",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:09:14 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Los ni�os con inmunodeficiencias primarias, m�s vulnerables ante el #coronavirus, según la Sociedad Española de Inmunología Clínica, Alergología y Asma Pediátrica @SEICAP. #EnfermedadesRaras  https://t.co/SenXZW3YcU",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:11:32 +0000 2020",
+"name": "Txarli",
+"screen_name": "Txarli_Zudaire",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:12:22 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "La asociación @obgdiagnostico celebra hoy el día de las personas sin diagnóstico #DíaMundialSinDiagnóstico
+"No hay enfermedad mas rara que la que no tiene nombre" #EnfermedadesRaras 
+#SinDiagnóstico #SinDiagnóstico2020  #UndiagnosedChildrensDay #UndiagnosedDay https://t.co/oSHKS1gdv1",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:12:57 +0000 2020",
+"name": "Paula Blanco #quedateencasa",
+"screen_name": "PBlancoFisio",
+"text": "La asociación @obgdiagnostico celebra hoy el día de las personas sin diagnóstico #DíaMundialSinDiagnóstico
+"No hay enfermedad mas rara que la que no tiene nombre" #EnfermedadesRaras 
+#SinDiagnóstico #SinDiagnóstico2020  #UndiagnosedChildrensDay #UndiagnosedDay https://t.co/oSHKS1gdv1",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:13:38 +0000 2020",
+"name": "Jesus Gabriel Inciso",
+"screen_name": "jesusincis",
+"text": "Gracias al amor y la entrega de Dios puedes recordar que no estás solo en la carrera de la vida. Porque “el eterno Dios es tu refugio y sus brazos eternos son tu apoyo”.  #DM2020 #PrimeroDios https://t.co/lT5XEnmj4h",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:15:00 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Los niños con #inmunodeficiencias primarias, más vulnerables ante el coronavirus según la @SEICAP. #EnfermedadesRaras
+https://t.co/XjiwOwciTs",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:15:51 +0000 2020",
+"name": "Dory Rosado",
+"screen_name": "DORYRORO2",
+"text": "Comparto el decálogo para el #DíaMundialsinDiagnóstico #sindiagnostico porque la mayoría de los que tenemos #EnfermedadesRaras hemos pasado por estar #sindiagnostico #FFPaciente https://t.co/ENfG8ZGxCN",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:19:48 +0000 2020",
+"name": "Diego Alvarez",
+"screen_name": "AlvarezPerez_",
+"text": "O objetivo da leitura da Bíblia não é chegar ao fim do livro, mas compreender a vontade de Deus para sua vida.
+#DM2020",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:21:28 +0000 2020",
+"name": "FAEMA SALUD MENTAL ÁVILA",
+"screen_name": "AvilaFaema",
+"text": "Desde @AvilaFaema nos unimos a la campaña con motivo del #DíaMundialSindiagnóstico para dar nuestro apoyo a todas las personas y familias que están pasando por esta situación.
+"No tienen diagnóstico pero sí necesidades"
+
+#sindiagnóstico
+#EERR
+#EnfermedadesRaras https://t.co/E9KEC8SrYT",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:22:23 +0000 2020",
+"name": "María Jesus Portillo",
+"screen_name": "marizuportillo",
+"text": "Dia mundial de las personas #sindiagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/MNyaPRfkaf",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:30:02 +0000 2020",
+"name": "Catalina Covas 📚 🎀 #QuédateEnCasa",
+"screen_name": "CatalinaCovas",
+"text": "Comparto el decálogo para el #DíaMundialsinDiagnóstico #sindiagnostico porque la mayoría de los que tenemos #EnfermedadesRaras hemos pasado por estar #sindiagnostico #FFPaciente https://t.co/ENfG8ZGxCN",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:35:16 +0000 2020",
+"name": "leon haslam",
+"screen_name": "realleonhaslam",
+"text": "Check out this brave young man taking #26steps4AT #hero #ataxiatelangiectasia #twopointsixchallenge",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 12:48:37 +0000 2020",
+"name": "Pakito M. (yo me quedo 🏠🏠)",
+"screen_name": "pakito1912",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 12:54:47 +0000 2020",
+"name": "BioCores",
+"screen_name": "biocores_",
+"text": "Hoy es el Día Internacional Sin Diagnóstico.
+
+No hay enfermedad más rara que la que no tiene nombre, desde el #CNAGCRG trabajamos para intentar solucionar esta situación por la que pasan gran parte de las personas que sufren #EnfermedadesRaras
+#SinDiagnostico #SinDiagnostico2020 https://t.co/dx9N2rSI6q",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:55:42 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Dia mundial de las personas #sindiagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/MNyaPRfkaf",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 12:56:02 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Dia mundial de las personas sin diagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/VXQRsuYW7M",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:00:15 +0000 2020",
+"name": "DEBABRATA DEY",
+"screen_name": "DEBABRA13997238",
+"text": "CureSMAIndia team Chennai participated in #racefor7 2day. Thanks to @ORDIndia 4 organizing it. #RareDiseaseDay #BattleAgainstSMA #HealthForAll #EveryLifeIsPrecious #SupportCureSMAIndia @MoHFW_INDIA @narendramodi @PMOIndia @drharshvardhan https://t.co/FJ83Cir31q",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:02:52 +0000 2020",
+"name": "Noemí Martínez Tévar",
+"screen_name": "NoemiMtnezTevar",
+"text": ""Estamos preocupados: hemos estimulado a nuestra hija todo lo posible y no queremos que ahora haya un retroceso". Sandra, madre de Paula. Los niños con #enfermedadesraras necesitan seguir con sus terapias. Familias de @FEDER_ONG lo cuentan en @radio5_rne
+🔊https://t.co/YyHPFDo9Z3 https://t.co/amGY53hM5y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:03:17 +0000 2020",
+"name": "Txarli",
+"screen_name": "Txarli_Zudaire",
+"text": "La asociación @obgdiagnostico celebra hoy el día de las personas sin diagnóstico #DíaMundialSinDiagnóstico
+"No hay enfermedad mas rara que la que no tiene nombre" #EnfermedadesRaras 
+#SinDiagnóstico #SinDiagnóstico2020  #UndiagnosedChildrensDay #UndiagnosedDay https://t.co/oSHKS1gdv1",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:10:09 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "Este es el decálogo elaborado por GERNA , junto a otras asociones, que recoge propuestas y necesidades para mejorar la situación que viven niños y adultos con enfermedades #Sindiagnóstico.
+
+#DíaMundialSindiagnóstico
+#EERR 
+#EnfermedadesRaras 
+#undiagnosed #undiagnosedchildrensday https://t.co/Tnu6wpxIiI",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:12:57 +0000 2020",
+"name": "Txarli",
+"screen_name": "Txarli_Zudaire",
+"text": "Este es el decálogo elaborado por GERNA , junto a otras asociones, que recoge propuestas y necesidades para mejorar la situación que viven niños y adultos con enfermedades #Sindiagnóstico.
+
+#DíaMundialSindiagnóstico
+#EERR 
+#EnfermedadesRaras 
+#undiagnosed #undiagnosedchildrensday https://t.co/Tnu6wpxIiI",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:32 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "[ Le saviez-vous ❓ ] 
+Les leucodystrophies "indéterminées" sont les maladies pour lesquelles les gènes en cause ne sont pas identifiés. Elles représentent encore 20% des cas. Elles correspondent aux types de leucodystrophies les plus rares. #RareDiseaseDay #JIMR2020
+📸 Inserm https://t.co/RRWp3k3uJ4",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:33 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "[ Le saviez-vous ❓ ] 
+Les #leucodystrophies sont des maladies rares. L'ALD, la leucodystrophie la plus fréquente, concerne 1 naissance sur 17 000. Il existe aujourd'hui, une trentaine de leucodystrophies identifiées. #RareDiseaseDay #JIMR2020 https://t.co/P1spMikzCv",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:36 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Aujourd'hui, c'est la Journée Internationale des maladies rares. Une maladie est dite rare lorsqu’elle touche moins d’une personne sur 2 000. 
+Les #leucodystrophies en font partie. Ne les oublions pas ! 
+Pour comprendre ce que sont les leucodystrophies 👇#RareDiseaseDay #JIMR2020 https://t.co/3Y8FxH1xEY",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:42 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Aujourd’hui, #ELA organise une rencontre inédite dans un #laboratoire de #recherche à @icm_institute à #Paris. 
+Restez connectés ! 📲 #RareDiseaseDay #JIMR
+📸 ICM https://t.co/suMZ7aaJ8C",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:49 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Conclusion par Guy Alba, Président d’ELA : lancement d’un essai clinique majeur pour 2020. #RareDiseaseDay #JIMR2020 https://t.co/ayjCVELwMv",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:53 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Visite du laboratoire 🧪 de thérapie génique à l’ICM. #ICM #RareDiseaseDay #JIMR2020 #laboratoire #maladiesrares https://t.co/HcXzQg1HLL",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:16:02 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "🧠29 février, une date rare pour la journée des maladies rares. #JIMR2020 #RareDiseaseDay https://t.co/Dnkz9fRI7H",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:15:58 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "À la veille de la Journée Internationale des maladies rares, #ELA sera présente à Paris pour une présentation inédite sur les avancées de la #recherche sur les #leucodystrophies en 2020, maladies génétiques rares. 
+Restez connectés ! 📲 #RareDiseaseDay #JIMR https://t.co/FKf7It3k0I",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:20:38 +0000 2020",
+"name": "ALCE Epilepsia",
+"screen_name": "ALCEEpilepsia",
+"text": "Las dietas de los niños y niñas con #enfermedadesraras, ¿causan a largo plazo algún efecto neurológico en el 🧠 cerebro? @AGarciaCazorla trató este tema en el Congreso del #SSIEM. Lee la 1ª parte de su 🔝 conferencia: La nutrición y el desarrolllo cerebral https://t.co/vg9wcwaEdG",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 13:25:04 +0000 2020",
+"name": "Nutricia España",
+"screen_name": "Nutricia_es",
+"text": "#EnfermedadesRaras #EERR #QuédateEnCasa @FEDER_ONG
+
+https://t.co/bTLPmiigIq",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 13:49:55 +0000 2020",
+"name": "Jorge García Palomo",
+"screen_name": "jorgegpalomo",
+"text": ""Estamos preocupados: hemos estimulado a nuestra hija todo lo posible y no queremos que ahora haya un retroceso". Sandra, madre de Paula. Los niños con #enfermedadesraras necesitan seguir con sus terapias. Familias de @FEDER_ONG lo cuentan en @radio5_rne
+🔊https://t.co/YyHPFDo9Z3 https://t.co/amGY53hM5y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 14:07:02 +0000 2020",
+"name": "Marta Palao.J",
+"screen_name": "snoige",
+"text": ""Estamos preocupados: hemos estimulado a nuestra hija todo lo posible y no queremos que ahora haya un retroceso". Sandra, madre de Paula. Los niños con #enfermedadesraras necesitan seguir con sus terapias. Familias de @FEDER_ONG lo cuentan en @radio5_rne
+🔊https://t.co/YyHPFDo9Z3 https://t.co/amGY53hM5y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:10:24 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "Gracias a la publicación @DiarioSUR in English por el reportaje de hoy sobre nuestra asociación de familias, nuestros retos y la ataxia telangiectasia. .
+Thank you very much! 😊
+@FEDER_ONG @FEDAES @CentroCREER 
+#ataxiatelangiectasia #enfermedadesraras #raredisease #Málaga https://t.co/xJYFTHvagi",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:11:10 +0000 2020",
+"name": "Mito_guerrera",
+"screen_name": "Nerea_mine",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:13:05 +0000 2020",
+"name": "Maribel Sáez",
+"screen_name": "maribelsaez76",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:14:40 +0000 2020",
+"name": "FEGEREC",
+"screen_name": "FEGEREC",
+"text": "🗓 24 de abril, día mundial das persoas #sendiagnostico
+
+Máis información 👉 https://t.co/T940O9i1nY
+
+#EERRGalicia #enfermedadesraras #sindiagnostico https://t.co/ezZZaLEMg8",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:16:30 +0000 2020",
+"name": "Felipe Saez Barranquero",
+"screen_name": "BarranqueroSaez",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:21:56 +0000 2020",
+"name": "Clara Ibáñez",
+"screen_name": "Claraif1",
+"text": "Mario, Raúl, Antonio, Manuela y tantos niños #sindiagnostico, pero sí con necesidades... 
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes #AtenciónTemprana",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 15:23:05 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "Mario, Raúl, Antonio, Manuela y tantos niños #sindiagnostico, pero sí con necesidades... 
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes #AtenciónTemprana https://t.co/Gub9TKITc8",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 15:24:44 +0000 2020",
+"name": "Lau",
+"screen_name": "aletheia13",
+"text": "Mario, Raúl, Antonio, Manuela y tantos niños #sindiagnostico, pero sí con necesidades... 
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes #AtenciónTemprana https://t.co/Gub9TKITc8",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 15:25:27 +0000 2020",
+"name": "Eni Mamposo",
+"screen_name": "MamposoEni",
+"text": "Mario, Raúl, Antonio, Manuela y tantos niños #sindiagnostico, pero sí con necesidades... 
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes #AtenciónTemprana",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 15:25:41 +0000 2020",
+"name": "Aepef",
+"screen_name": "Aepef",
+"text": "Apoyo psicológico online para todos nuestros asociados.
+Para más información e inscripciones escribe a oficina@aepef.org
+#asociacionaepef #paraparesiaespastica #enfermedadesraras #yomequedoencasa https://t.co/2kS0zjnpWM",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:27:31 +0000 2020",
+"name": "Micky Boy",
+"screen_name": "MickyBo53591838",
+"text": "Yesterday I had an opportunity to participate at the #RareDiseaseDay Commemorations in Dar es Salaam. It was a life changing experience to learn what children with rare diseases and families are going through.Thanks to @AliKimara and @humangeneticstz . 
+ #RareDiseaseDayTz2020 https://t.co/kKLj9dEmUc",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:34:05 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Dia mundial de las personas #sindiagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/MNyaPRfkaf",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:39:01 +0000 2020",
+"name": "Una sufridora más #CroniChat #pacientesquecuentan",
+"screen_name": "1asufridoramas",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:39:42 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Este es el decálogo elaborado por GERNA , junto a otras asociones, que recoge propuestas y necesidades para mejorar la situación que viven niños y adultos con enfermedades #Sindiagnóstico.
+
+#DíaMundialSindiagnóstico
+#EERR 
+#EnfermedadesRaras 
+#undiagnosed #undiagnosedchildrensday https://t.co/Tnu6wpxIiI",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:41:05 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "Dia mundial de las personas sin diagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/VXQRsuYW7M",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:45:29 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:46:04 +0000 2020",
+"name": " copado ",
+"screen_name": "copado7",
+"text": "Dia mundial de las personas #sindiagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/MNyaPRfkaf",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:48:41 +0000 2020",
+"name": "Aepef",
+"screen_name": "Aepef",
+"text": "Apoyo psicológico online para todos nuestros asociados.
+Para más información e inscripciones escribe a oficina@aepef.org
+#aepef #paraparesiaespastica #enfermedadesraras #yomequedoencasa https://t.co/USU9zrhvhl",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:50:28 +0000 2020",
+"name": "Una sufridora más #CroniChat #pacientesquecuentan",
+"screen_name": "1asufridoramas",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 15:51:29 +0000 2020",
+"name": "Camm💫",
+"screen_name": "Camssolange",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:52:21 +0000 2020",
+"name": "Dory Rosado",
+"screen_name": "DORYRORO2",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 15:57:54 +0000 2020",
+"name": "PacienteSinPaz",
+"screen_name": "PacienteSinPaz",
+"text": "Dia mundial de las personas sin diagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/VXQRsuYW7M",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:05:26 +0000 2020",
+"name": "💜𝕄𝕒𝕣𝕚𝕥𝕖 𝕄𝕒𝕣𝕥𝕚𝕟𝕖𝕫💚",
+"screen_name": "marite15586",
+"text": "🗓 24 de abril, día mundial das persoas #sendiagnostico
+
+Máis información 👉 https://t.co/T940O9i1nY
+
+#EERRGalicia #enfermedadesraras #sindiagnostico https://t.co/ezZZaLEMg8",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:08:15 +0000 2020",
+"name": "PacienteSinPaz",
+"screen_name": "PacienteSinPaz",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:08:33 +0000 2020",
+"name": "PacienteSinPaz",
+"screen_name": "PacienteSinPaz",
+"text": "Hoy 24 de abril es el Día Mundial de las Personas Sin Diagnóstico #DíaMundialSinDiagnóstico #sindiagnostico #EnfermedadesRaras #UndiagnosedChildrensDay #UndiagnosedDay",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 16:08:51 +0000 2020",
+"name": "Y de verdad tienes 3 💚💙",
+"screen_name": "deverdadtienes3",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:10:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Federación Española de #EnfermedadesRaras quiere identificar la respuesta dada a las familias con hijos con enfermedades minoritarias durante el estado de alarma y ofrecer alternativas para garantizar la continuidad de los servicios interrumpidos.
+https://t.co/pz0Wl6vwtr",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:15:47 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "Comparto el decálogo para el #DíaMundialsinDiagnóstico #sindiagnostico porque la mayoría de los que tenemos #EnfermedadesRaras hemos pasado por estar #sindiagnostico #FFPaciente https://t.co/ENfG8ZGxCN",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:18:56 +0000 2020",
+"name": "madresestresadas #zascabulos",
+"screen_name": "madrestresadas",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:19:52 +0000 2020",
+"name": "Duchenne Ecuador . FEDIMURA",
+"screen_name": "FedimuraE",
+"text": "#EnfermedadesRaras Nuestro pedido como organizaciónes de Enfermedades raras hacemos conocer nuestros requerimientos a los entes de @Salud_Ec @IESSHCAM @DrJuanCZevallos @eluniversocom @elcomerciocom para que no nos olviden una vez más. https://t.co/hzJFCvgVUb",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:25:42 +0000 2020",
+"name": "@encarniarahal",
+"screen_name": "encarniarahal",
+"text": "El es Hugo y ha estado 1500 días sin saber su diagnóstico. A día de hoy ya lo tenemos, pero queremos seguir apoyando y dar visibilidad a las personas que aún no lo han conseguido.
+#notenemosdiagnosticoperosinecesidades
+#dgenes
+#EnfermedadesRaras 
+#sindromegillespie https://t.co/ewFkqstJwI",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:38:35 +0000 2020",
+"name": "Duchenne Ecuador . FEDIMURA",
+"screen_name": "FedimuraE",
+"text": "#EnfermedadesRaras Es nuestro pedido como organizaciónes de Enfermedades raras y hacemos conocer nuestros requerimientos a los entes de @Salud_Ec @IESSHCAM @DrJuanCZevallos @eluniversocom @elcomerciocom para que no nos olviden una vez más. https://t.co/u0NmzE9kUu",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:39:03 +0000 2020",
+"name": "Ninalaguerrera.org",
+"screen_name": "NinalaguerreraO",
+"text": "La #glucogenosis es muy dura pero tiene que ser muy difícil también vivir sin saber qué se padece. Hoy es el día internacional de las personas #SinDiagnostico y a ellos les mandamos mucho ánimo y muchos NinAbrazos. #FFPaciente #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:41:10 +0000 2020",
+"name": "JAM",
+"screen_name": "judarmstrong",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:44:43 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Este es el decálogo elaborado por GERNA , junto a otras asociones, que recoge propuestas y necesidades para mejorar la situación que viven niños y adultos con enfermedades #Sindiagnóstico.
+
+#DíaMundialSindiagnóstico
+#EERR 
+#EnfermedadesRaras 
+#undiagnosed #undiagnosedchildrensday https://t.co/Tnu6wpxIiI",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:51:26 +0000 2020",
+"name": "Maria Casanova",
+"screen_name": "MariaCa30355361",
+"text": "Comparto el decálogo para el #DíaMundialsinDiagnóstico #sindiagnostico porque la mayoría de los que tenemos #EnfermedadesRaras hemos pasado por estar #sindiagnostico #FFPaciente https://t.co/ENfG8ZGxCN",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:57:48 +0000 2020",
+"name": "La Palabra de Dios",
+"screen_name": "EliasTorresc",
+"text": "Gracias al amor y la entrega de Dios puedes recordar que no estás solo en la carrera de la vida. Porque “el eterno Dios es tu refugio y sus brazos eternos son tu apoyo”.  #DM2020 #PrimeroDios https://t.co/lT5XEnmj4h",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 16:58:19 +0000 2020",
+"name": "TOTTI",
+"screen_name": "IDDANNERCK",
+"text": "Gracias al amor y la entrega de Dios puedes recordar que no estás solo en la carrera de la vida. Porque “el eterno Dios es tu refugio y sus brazos eternos son tu apoyo”.  #DM2020 #PrimeroDios https://t.co/lT5XEnmj4h",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:00:37 +0000 2020",
+"name": "Somos Pacientes",
+"screen_name": "somos_pacientes",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:11:24 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Modelos celulares cerebrales para síndrome de Sanfilippo C vía @Consalud_es
+#MPS #MPS3C #ENFERMEDADESRARAS https://t.co/66WkTb3VoY",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:15:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#MesFabry es mes de la #EnfermedadDeFabry, en el cual se da voz a la enfermedad y a los pacientes que la padecen y se conciencia sobre el impacto de la enfermedad en sus vidas. #enfermedadesraras
+
+Infórmate aquí sobre #fabry y sus signos y síntomas: 
+👉https://t.co/SK71xnYWQA https://t.co/voC5VXX1uC",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:23:32 +0000 2020",
+"name": "Jose Luis",
+"screen_name": "gargijo",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:28:37 +0000 2020",
+"name": " copado ",
+"screen_name": "copado7",
+"text": "Dia mundial de las personas sin diagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/VXQRsuYW7M",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:28:44 +0000 2020",
+"name": "Cecilia Real",
+"screen_name": "CealciRelia",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:33:36 +0000 2020",
+"name": "Fco. Javier Garcia",
+"screen_name": "fcojavier63",
+"text": ""Estamos preocupados: hemos estimulado a nuestra hija todo lo posible y no queremos que ahora haya un retroceso". Sandra, madre de Paula. Los niños con #enfermedadesraras necesitan seguir con sus terapias. Familias de @FEDER_ONG lo cuentan en @radio5_rne
+🔊https://t.co/YyHPFDo9Z3 https://t.co/amGY53hM5y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:35:42 +0000 2020",
+"name": "Dr. Alfonso Vidal",
+"screen_name": "DrAlfonsoVidal",
+"text": ""Estamos preocupados: hemos estimulado a nuestra hija todo lo posible y no queremos que ahora haya un retroceso". Sandra, madre de Paula. Los niños con #enfermedadesraras necesitan seguir con sus terapias. Familias de @FEDER_ONG lo cuentan en @radio5_rne
+🔊https://t.co/YyHPFDo9Z3 https://t.co/amGY53hM5y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:36:16 +0000 2020",
+"name": "Mary Carmen Porres #QuédateEnCasa",
+"screen_name": "LaPorres",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:38:52 +0000 2020",
+"name": "Nymph",
+"screen_name": "Nymphhar",
+"text": ""Estamos preocupados: hemos estimulado a nuestra hija todo lo posible y no queremos que ahora haya un retroceso". Sandra, madre de Paula. Los niños con #enfermedadesraras necesitan seguir con sus terapias. Familias de @FEDER_ONG lo cuentan en @radio5_rne
+🔊https://t.co/YyHPFDo9Z3 https://t.co/amGY53hM5y",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 17:40:24 +0000 2020",
+"name": "Vicky Bendito",
+"screen_name": "Vicky_Bendito",
+"text": "Dia mundial de las personas #sindiagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/MNyaPRfkaf",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:01:33 +0000 2020",
+"name": "Mar",
+"screen_name": "marmatias_D",
+"text": "Hoy 24 de abril es el Día Mundial de las Personas Sin Diagnóstico #DíaMundialSinDiagnóstico #sindiagnostico #EnfermedadesRaras #UndiagnosedChildrensDay #UndiagnosedDay",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 18:08:47 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/fYKBOQ7KvT Gracias a @AEF_AT @rafapuede_org @Alfa1Espana #enfermedadesraras #26steps4at",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:11:35 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Los investigadores del CIBERER continúan trabajando durante estos días en sus proyectos en #enfermedadesraras
+Nos lo cuentan en:
+#YoInvestigoenEnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:13:05 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "La #glucogenosis es muy dura pero tiene que ser muy difícil también vivir sin saber qué se padece. Hoy es el día internacional de las personas #SinDiagnostico y a ellos les mandamos mucho ánimo y muchos NinAbrazos. #FFPaciente #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:14:46 +0000 2020",
+"name": "Pedro Soriano #QuedateEnCasa 🤜🏻🦠🤛🏻",
+"screen_name": "soriano_p",
+"text": "Dia mundial de las personas sin diagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/VXQRsuYW7M",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:16:12 +0000 2020",
+"name": "RosaTarroja",
+"screen_name": "rtarroja",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 18:19:56 +0000 2020",
+"name": "Mary Carmen Porres #QuédateEnCasa",
+"screen_name": "LaPorres",
+"text": "La #glucogenosis es muy dura pero tiene que ser muy difícil también vivir sin saber qué se padece. Hoy es el día internacional de las personas #SinDiagnostico y a ellos les mandamos mucho ánimo y muchos NinAbrazos. #FFPaciente #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:26:25 +0000 2020",
+"name": "Alex Caro R.",
+"screen_name": "AlexCaroR",
+"text": "Original propuesta del presidente Trump: Si el virus muere por desinfectante, ¿por qué no probar una inyección de desinfectante?
+
+La senadora Cabal no está sola.
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:30:23 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Cómo están viviendo estas semanas de estado de alarma los pacientes con #EnfermedadesRaras?
+
+@ORMurcia habló con Juan Carrión, presidente  @FEDER_ONG @dgenesmurcia sobre el día a día de las personas confinadas con algún tipo de enfermedad minoritaria
+https://t.co/9bWCnuWjjW",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:32:24 +0000 2020",
+"name": "Daniel Solano 🇵🇪",
+"screen_name": "danielsolano89",
+"text": "Gracias al amor y la entrega de Dios puedes recordar que no estás solo en la carrera de la vida. Porque “el eterno Dios es tu refugio y sus brazos eternos son tu apoyo”.  #DM2020 #PrimeroDios https://t.co/lT5XEnmj4h",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:40:27 +0000 2020",
+"name": "Henry Mantilla Príncipe",
+"screen_name": "henrymp_",
+"text": "Gracias al amor y la entrega de Dios puedes recordar que no estás solo en la carrera de la vida. Porque “el eterno Dios es tu refugio y sus brazos eternos son tu apoyo”.  #DM2020 #PrimeroDios https://t.co/lT5XEnmj4h",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:41:16 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "¿Cómo están viviendo estas semanas de estado de alarma los pacientes con #EnfermedadesRaras?
+
+@ORMurcia habló con Juan Carrión, presidente  @FEDER_ONG @dgenesmurcia sobre el día a día de las personas confinadas con algún tipo de enfermedad minoritaria
+https://t.co/9bWCnuWjjW",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:43:04 +0000 2020",
+"name": "Manuel Pérez",
+"screen_name": "mdeojen",
+"text": "Dia mundial de las personas #sindiagnostico, el es Antonio y lleva 1398 dias sin un diagnóstico, seguiremos luchando por la visibilidad y derechos de estas personas, por que no tendrá diagnóstico, pero si tiene necesidades.
+#DiaMundialSinDiagnostico
+#enfermedadesraras
+#dgenes https://t.co/MNyaPRfkaf",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:57:18 +0000 2020",
+"name": "Conchi Martín #QuédateEnCasa",
+"screen_name": "Conchimartin",
+"text": "La #glucogenosis es muy dura pero tiene que ser muy difícil también vivir sin saber qué se padece. Hoy es el día internacional de las personas #SinDiagnostico y a ellos les mandamos mucho ánimo y muchos NinAbrazos. #FFPaciente #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:57:30 +0000 2020",
+"name": "AMMA ( #QuedatACasa 🏘️ )",
+"screen_name": "Amma_Andorra",
+"text": "¿Cómo están viviendo estas semanas de estado de alarma los pacientes con #EnfermedadesRaras?
+
+@ORMurcia habló con Juan Carrión, presidente  @FEDER_ONG @dgenesmurcia sobre el día a día de las personas confinadas con algún tipo de enfermedad minoritaria
+https://t.co/9bWCnuWjjW",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:57:32 +0000 2020",
+"name": "Guerreros Púrpura",
+"screen_name": "guerreropurpura",
+"text": "#SinDiagnostico #SinDiagnostico2020 #EnfermedadesRaras @guerreropurpura https://t.co/67hGlenrrP",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:57:51 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 18:59:09 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:12:52 +0000 2020",
+"name": "Guerreros Púrpura",
+"screen_name": "guerreropurpura",
+"text": "#DiaInternacionalSinDiagnostico #SinDiagnostico #SinDiagnostico2020 #EnfermedadesRaras @guerreropurpura https://t.co/CwBGDDTyRX",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:13:40 +0000 2020",
+"name": "AMMA ( #QuedatACasa 🏘️ )",
+"screen_name": "Amma_Andorra",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:14:06 +0000 2020",
+"name": "Guerreros Púrpura",
+"screen_name": "guerreropurpura",
+"text": "#SinDiagnostico #SinDiagnostico2020 #YoMeQuedoEnCasa @guerreropurpura #EnfermedadesRaras https://t.co/M6kYhujVq2",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:20:13 +0000 2020",
+"name": "Eugenia de la Morena",
+"screen_name": "ugedelamorbar",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:40:02 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "Hoy es #DíaMundialSindiagnóstico
+
+#AsociacionesDePacientes con #EnfermedadesRaras invitan a subir a redes sociales imágenes y microvídeos apoyando y dando visibilidad a las personas #Sindiagnóstico @dgenesmurcia @FEDER_ONG @AERSCYL @GernaInfo @InfoAliber
+
+https://t.co/6QwHR9RIbr https://t.co/6JgM1Tkl86",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/AqjE35JJsF Thanks to @RareDiseases @KnoppBio @KnowPheoPara #raredisease #covid19",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 19:55:36 +0000 2020",
+"name": "NeCLO Ciencia y Cultura al Máximo",
+"screen_name": "NeCLO_Cultura",
+"text": "Hoy en el #DiaMundialSinDiagnostico @maribelsaez76 , una mamá muy especial, nos recuerda lo importante que es salir de esta incertidumbre #EnfermedadesRaras
+
+https://t.co/TWo8wPzkwm",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 20:42:31 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "La Federación Española de #EnfermedadesRaras quiere identificar la respuesta dada a las familias con hijos con enfermedades minoritarias durante el estado de alarma y ofrecer alternativas para garantizar la continuidad de los servicios interrumpidos.
+https://t.co/pz0Wl6vwtr",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 21:02:26 +0000 2020",
+"name": "Hipertensión Pulmonar",
+"screen_name": "LatinosConHP",
+"text": "Tips para manejo del estrés.
+-
+
+#quedateencasa #stayathome #Covid-19 #graciasheroes #StopTheSpread #LatinosConHP #Hipertension Pulmonar #SociedadLatinaHp #LatinosConHP #enfermedadesraras https://t.co/aE6TZR3ZHM",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 21:10:22 +0000 2020",
+"name": "María Ramírez Sánchez",
+"screen_name": "lovenursingmery",
+"text": "Un #FFpaciente para todos ellos.",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 21:33:27 +0000 2020",
+"name": "Pil Uca",
+"screen_name": "pil_uca",
+"text": "#SinDiagnostico #SinDiagnostico2020 #EnfermedadesRaras @guerreropurpura https://t.co/67hGlenrrP",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 21:36:17 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Gracias a la publicación @DiarioSUR in English por el reportaje de hoy sobre nuestra asociación de familias, nuestros retos y la ataxia telangiectasia. .
+Thank you very much! 😊
+@FEDER_ONG @FEDAES @CentroCREER 
+#ataxiatelangiectasia #enfermedadesraras #raredisease #Málaga https://t.co/xJYFTHvagi",
+"ReTweet: "False"},
+{"data": "Fri Apr 24 21:36:23 +0000 2020",
+"name": "AFIBROSAL",
+"screen_name": "afibrosal",
+"text": "Muchas suerte y fuerza @marizuportillo",
+"ReTweet: "True"},
+{"data": "Fri Apr 24 21:52:20 +0000 2020",
+"name": "Encarna Guillén",
+"screen_name": "encarna_guillen",
+"text": "Comparto el decálogo para el #DíaMundialsinDiagnóstico #sindiagnostico porque la mayoría de los que tenemos #EnfermedadesRaras hemos pasado por estar #sindiagnostico #FFPaciente https://t.co/ENfG8ZGxCN",
+"ReTweet: "False"},
