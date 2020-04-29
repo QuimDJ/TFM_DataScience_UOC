@@ -1,0 +1,1035 @@
+{"data": "Tue Apr 28 22:01:46 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Encuentra #COVID__19 y #EnfermedadesRaras 
+
+                    👇👇👇 https://t.co/L1WNX6SAdP",
+"ReTweet: "True"},
+{"data": "Tue Apr 28 22:02:06 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Encuesta de RareBarometer @eurordis para personas con 
+#EnfermedadesRaras, sobre cómo estan viviendo la pandemia. Para personas de todos los países. Y disponible en &gt;20 idiomas @FECHER_CL @fenpofChile https://t.co/5iuEcNu0yV",
+"ReTweet: "True"},
+{"data": "Tue Apr 28 22:19:10 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "Encuesta de RareBarometer @eurordis para personas con 
+#EnfermedadesRaras, sobre cómo estan viviendo la pandemia. Para personas de todos los países. Y disponible en &gt;20 idiomas @FECHER_CL @fenpofChile https://t.co/5iuEcNu0yV",
+"ReTweet: "True"},
+{"data": "Tue Apr 28 22:33:53 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "Encuesta, cómo está afectando la pandemia a los pacientes con #enfermedadesraras @TodosconFanconi @curadba @MedulaparaMateo @fcarreras @curefanconi @FanconiAnemiaSA @fanconihope @FA_Ireland @FacingFanconi @FAdaymay1st @FanconiAnemie @FanconiAnemia_",
+"ReTweet: "True"},
+{"data": "Tue Apr 28 22:52:21 +0000 2020",
+"name": "Carolina Toneloto",
+"screen_name": "CToneloto",
+"text": "Fatores que influenciam na experiência com o adoecimento. No blog: https://t.co/oEyTC0T1Ui
+
+#DoençaDeGaucher
+#EnfermedadesRaras 
+#GaucherDisease
+#RareDisease",
+"ReTweet: "False"},
+{"data": "Tue Apr 28 23:06:49 +0000 2020",
+"name": "Stephen Conohan",
+"screen_name": "stephen_conohan",
+"text": "Where is today's update?",
+"ReTweet: "True"},
+{"data": "Tue Apr 28 23:34:45 +0000 2020",
+"name": "mismamente",
+"screen_name": "mismamente2",
+"text": "Encuesta de RareBarometer @eurordis para personas con 
+#EnfermedadesRaras, sobre cómo estan viviendo la pandemia. Para personas de todos los países. Y disponible en &gt;20 idiomas @FECHER_CL @fenpofChile",
+"ReTweet: "True"},
+{"data": "Tue Apr 28 23:45:46 +0000 2020",
+"name": "Gara  Dorta",
+"screen_name": "GaraDorta",
+"text": "Recomendaciones de ejercicio y estilo de vida en Esclerosis Múltiple: Conocimiento y Experiencia. 
+.
+.
+.
+#masfisioterapia #fisioterapia #EM #estiramientos  #terapia #terapeutafisico #esclerosismultiple #fisio #fisioterapeuta #fisioterapiaenmoviento  #MS #enfermedadesraras https://t.co/DjhFRXu8Vi",
+"ReTweet: "False"},
+{"data": "Tue Apr 28 23:54:33 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᐯIᗷᖇᗩ Tᗩᑎ ᗩᒪTO. 🧿💫
+
+...
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post… https://t.co/qipay8vEFL",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 02:13:23 +0000 2020",
+"name": "AnAnAvA🖤🇪🇦",
+"screen_name": "analugarji",
+"text": "@noethebest_  Segunda vez que leo #Extrañasmariposas y lo hago mío. Momentos duros, incertidumbre, fecha, frases, cantantes, escritores. Y la verdad, se debería dar más voz a la enfermedad #cancerdetiroides, ese que llaman "cáncer bueno" 🤨 que está entre #EnfermedadesRaras 😔😏 https://t.co/XfmiGsKrDk",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 02:31:19 +0000 2020",
+"name": "Martha Lucía",
+"screen_name": "dircommarthalu",
+"text": "Respirar bien es básico para tener buena salud.  #EnfermedadesRaras #COVID19 #SaludParaTodos",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 03:20:50 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Encuesta, cómo está afectando la pandemia a los pacientes con #enfermedadesraras @TodosconFanconi @curadba @MedulaparaMateo @fcarreras @curefanconi @FanconiAnemiaSA @fanconihope @FA_Ireland @FacingFanconi @FAdaymay1st @FanconiAnemie @FanconiAnemia_ https://t.co/sEI2K5PLs6",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 04:51:35 +0000 2020",
+"name": "FENPOF CHILE 🇨🇱",
+"screen_name": "fenpofChile",
+"text": "Encuesta de RareBarometer @eurordis para personas con 
+#EnfermedadesRaras, sobre cómo estan viviendo la pandemia. Para personas de todos los países. Y disponible en &gt;20 idiomas @FECHER_CL @fenpofChile",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 04:54:47 +0000 2020",
+"name": "Maria Dolores Paez",
+"screen_name": "PaezDolores",
+"text": "@Ecuadorhp Pacientes de #EnfermedadesRaras piden al #MinisteriodeSalud  se busque estrategias de forma urgente para la entrega de #Medicina somos pacientes #Vulnerables necesitamos proteger nuestra vida, no podemos comprar su costo es muy elevado https://t.co/he3LCWjlfL",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 04:55:01 +0000 2020",
+"name": "Maria Dolores Paez",
+"screen_name": "PaezDolores",
+"text": "@Ecuadorhp Pacientes de #EnfermedadesRaras piden al #MinisteriodeSalud  se busque estrategias de forma urgente para la entrega de #Medicina somos pacientes #Vulnerables necesitamos proteger nuestra vida, no podemos comprar su costo es muy elevado https://t.co/he3LCWjlfL",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 04:58:23 +0000 2020",
+"name": "Madhawks",
+"screen_name": "Madhawks_",
+"text": "Choose us to spark conversation about your brand.
+
+For more information - 
+
+Contact - +91- 9372790974
+Website - https://t.co/TMmRA9QbWE
+
+#Madhawks #DigitalMarketingAgency #DigitalMedia #SEO #SMO #PPC #InfluencerMarketing #DigitalMarketingConsultant #DM2020 https://t.co/htrUS4Abb7",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 06:19:36 +0000 2020",
+"name": "Mito_guerrera",
+"screen_name": "Nerea_mine",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 06:21:09 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "🖊Encuesta sobre el impacto de la pandemia en personas q padecemos #EnfermedadesRaras 
+
+🖊 En el hilo de @pelendinez encontraréis el Link para realizarla
+
+🖊 Claro q a personas con #quistestarlov bien está pasando factura el confinamiento y el #Covid19",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 06:21:47 +0000 2020",
+"name": "mari jose",
+"screen_name": "pitxona2",
+"text": "Que todo cambie, para que nada...
+
+     ¿cambie? #EnfermedadesRaras #NadaEsImposible https://t.co/NBjg9n8niB",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 06:21:48 +0000 2020",
+"name": "Arte_d_ari",
+"screen_name": "Artedari",
+"text": "Interesante... #relato #escritura #EnfermedadesRaras #discapacidad",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 06:36:07 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "🖊Encuesta sobre el impacto de la pandemia en personas q padecemos #EnfermedadesRaras 
+
+🖊 En el hilo de @pelendinez encontraréis el Link para realizarla
+
+🖊 Claro q a personas con #quistestarlov bien está pasando factura el confinamiento y el #Covid19 https://t.co/jQrWSuyM0a",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 07:04:46 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "Este abril es #MesFabry ¿Todavía no conoces nuestra web sobre la Enfermedad de #Fabry con información y recursos de apoyo para pacientes y profesionales? 
+#EnfermedadDeFabry #EnfermedadesRaras
+
+👉https://t.co/SK71xnYWQA https://t.co/q6AXqgOebc",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 07:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 07:10:12 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 07:14:50 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "Please help with a RT, so Spanish people with XP can go out after sunset:
+@RareRevolutionM @TeddingtonTrust @Raresupport @rarediseaseday @GlobalGenes @RareUniversity @XPFamilySupport @eurordis @M4RareDiseases @XPSupportUK #XerodermaPigmentosum #XP #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 07:18:04 +0000 2020",
+"name": "Francisco Dominguez",
+"screen_name": "Franciscodr",
+"text": "Please help with a RT, so Spanish people with XP can go out after sunset:
+@RareRevolutionM @TeddingtonTrust @Raresupport @rarediseaseday @GlobalGenes @RareUniversity @XPFamilySupport @eurordis @M4RareDiseases @XPSupportUK #XerodermaPigmentosum #XP #EnfermedadesRaras https://t.co/PlYEkAIF31",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 07:24:23 +0000 2020",
+"name": "Sergio Hinchado",
+"screen_name": "sergiohinchado",
+"text": "Las #enfermedadesraras necesitan tu atención.
+Ahora que somos conscientes de la importancia de la investigación cientifica no dejemos ninguna patologia d lado. Sin presupuesto dedicado y plazos acordados es imposible
+Gracias #aliciafolgueira 
+@AveXisInc 
+
+https://t.co/uu1Nu1zAzH",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 07:36:05 +0000 2020",
+"name": "Rosario",
+"screen_name": "siscarrosariov",
+"text": "Que todo cambie, para que nada...
+
+     ¿cambie? #EnfermedadesRaras #NadaEsImposible https://t.co/NBjg9n8niB",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 07:45:27 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/iBfBn1b0KM Thanks to @RareShareOrg #raredisease #chiarimalformation",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:00:43 +0000 2020",
+"name": "AELMHU",
+"screen_name": "aelmhu",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:19:00 +0000 2020",
+"name": "Chiesi España",
+"screen_name": "Chiesi_es",
+"text": "Recuerda: Cualquier día es bueno para divulgar sobre #EnfermedadesRaras 
+
+Con el objetivo de visibilizar estas patologías nace el #PremioPeriodismoChiesi. 
+ 
+✅ Alfamanosidosis 
+✅ Cistinosis Nefropática
+✅ Neuropatía óptica hereditaria de Leber
+
+🎓Bases: https://t.co/cJHHz3YGIt https://t.co/laiYgs6A8k",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:25:09 +0000 2020",
+"name": "stormysky🦁🔻",
+"screen_name": "precariousmind",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:29:22 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Es mes de la #EnfermedadDeFabry, en el cual se da voz a la enfermedad y a los pacientes que la padecen y se conciencia sobre el impacto de la enfermedad en sus vidas. #enfermedadesraras
+
+Infórmate aquí sobre #fabry y sus signos y síntomas: https://t.co/SK71xnYWQA https://t.co/R57Goh1ms4",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:30:11 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras #Coronavirus
+
+El grupo de trabajo internacional de expertos en #MisteniaGravis publica una serie de recomendaciones para el manejo de esta enfermedad minoritaria en el contexto de la actual pandemia #Covid19
+
+https://t.co/5mlvrLLorH https://t.co/8v5tBBq7eO",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:44:42 +0000 2020",
+"name": "VeronicaLC",
+"screen_name": "LC_Veronica",
+"text": "La #becariaslaCaixa @carla_espinos participó en la 5ª edición del @TEDxUPValencia con una charla sobre #EnfermedadesRaras🗣️ 
+
+La investigadora, está cursando el doctorado en Biociencias Moleculares en el @cnic_cardio gracias a una beca de @FundlaCaixa🎓
+
+https://t.co/Pa6VWaJ1SX",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 08:56:28 +0000 2020",
+"name": "PacienteSinPaz",
+"screen_name": "PacienteSinPaz",
+"text": "🖊Encuesta sobre el impacto de la pandemia en personas q padecemos #EnfermedadesRaras 
+
+🖊 En el hilo de @pelendinez encontraréis el Link para realizarla
+
+🖊 Claro q a personas con #quistestarlov bien está pasando factura el confinamiento y el #Covid19",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 09:01:16 +0000 2020",
+"name": "Rare Disease Day",
+"screen_name": "rarediseaseday",
+"text": "EURORDIS is recruiting for a Communications Junior Manager to work on the exciting #RareDiseaseDay campaign. Post based in Paris - spread the word! https://t.co/mmSUTtAmRW",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 09:03:09 +0000 2020",
+"name": "G. VILLANUEVA",
+"screen_name": "GRAU53",
+"text": "👉Los gastos por #EnfermedadesRaras suponen más del 20% de los ingresos para el 30% de las familias afectadas. 
+👉Solo un 41% del colectivo recibe una prestación por causa de su enfermedad. 
+👉La mitad de esas ayudas es de menos de 500 euros mensuales.
+
+https://t.co/fxSJOHJ8yF https://t.co/TM3GTXz3Uz",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 09:04:47 +0000 2020",
+"name": "Deborah Andio",
+"screen_name": "debbiea001",
+"text": "EURORDIS is recruiting for a Communications Junior Manager to work on the exciting #RareDiseaseDay campaign. Post based in Paris - spread the word! https://t.co/mmSUTtAmRW",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 09:23:44 +0000 2020",
+"name": "Jorge Lumbreras",
+"screen_name": "jlumbreras13",
+"text": "ENHORABUENA!!! a @dgenesmurcia junto con @AEEPompe por su Programa de atención especializada de fisioterapia a domicilio en enfermos de #Pompe, #EnfermedadesRaras @RarasReales @SanofiES https://t.co/RHvlx6Magt",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 09:25:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 09:30:00 +0000 2020",
+"name": "Mayor Tom",
+"screen_name": "PAVALOSE",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 09:43:04 +0000 2020",
+"name": "Dory Rosado",
+"screen_name": "DORYRORO2",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 09:53:46 +0000 2020",
+"name": "DMD Mitch",
+"screen_name": "dmdmitch",
+"text": "EURORDIS is recruiting for a Communications Junior Manager to work on the exciting #RareDiseaseDay campaign. Post based in Paris - spread the word! https://t.co/mmSUTtAmRW https://t.co/GioPewYvFG",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 10:07:10 +0000 2020",
+"name": "genengine",
+"screen_name": "genengineApp",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 10:10:30 +0000 2020",
+"name": "Irene Tato",
+"screen_name": "itato",
+"text": "Se busca gestor de Comunicación en Eurordis. ¿Algún candidato quiere irse a vivir a París? @anisalud  @DircomSpain",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 10:27:51 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 10:44:30 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:11:45 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:14:27 +0000 2020",
+"name": "noecerf",
+"screen_name": "noethebest_",
+"text": "@noethebest_  Segunda vez que leo #Extrañasmariposas y lo hago mío. Momentos duros, incertidumbre, fecha, frases, cantantes, escritores. Y la verdad, se debería dar más voz a la enfermedad #cancerdetiroides, ese que llaman "cáncer bueno" 🤨 que está entre #EnfermedadesRaras 😔😏 https://t.co/XfmiGsKrDk",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:16:39 +0000 2020",
+"name": "LjSoberon ®",
+"screen_name": "LjSoberon",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:25:02 +0000 2020",
+"name": "FTD Stories",
+"screen_name": "FtdStories",
+"text": "📺 Tune in! @GMB tomorrow, 7.15am. To mark #RareDiseaseDay on Sat, @drcionucl's Prof Fox will talk about atypical dementias &amp; the @RareDementia service expansion. @JohnSuchet1 &amp; @nulasuchet will be with him, sharing their views of #raredementia care. Plus 👀 our feed for big news https://t.co/Ivk3ohYJhU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:30:32 +0000 2020",
+"name": "Eva Rueda",
+"screen_name": "eruegar69",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:33:07 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 11:42:14 +0000 2020",
+"name": "self isolated circa 2014",
+"screen_name": "WhyKiwiWhy",
+"text": "EURORDIS is recruiting for a Communications Junior Manager to work on the exciting #RareDiseaseDay campaign. Post based in Paris - spread the word! https://t.co/mmSUTtAmRW",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 11:45:24 +0000 2020",
+"name": "Nines",
+"screen_name": "Nines10673795",
+"text": "Totalmente de acuerdo... Solo los que lo sufrimos a diario podemos saberlo.",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 11:58:17 +0000 2020",
+"name": "kathleen down",
+"screen_name": "DownKathleen",
+"text": "EURORDIS is recruiting for a Communications Junior Manager to work on the exciting #RareDiseaseDay campaign. Post based in Paris - spread the word! https://t.co/mmSUTtAmRW",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 12:07:54 +0000 2020",
+"name": "Lorena Lago",
+"screen_name": "akuiass",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:13:02 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:16:26 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Nuestro Presi 🙌 @DanielMRiquelme  siempre ha estado en primera página, nunca mejor dicho, desde #MolinadeSegura, en la #reivindicación de la #visibilidad y la #investigación de las #enfermedadesraras. Siendo un referente en ésta lucha. https://t.co/mHBt1PLjbp",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:21:32 +0000 2020",
+"name": "Erika Am",
+"screen_name": "akire_alma",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:25:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#Nefrología #Fabry #EnfermedadesRaras
+
+¿Dónde sospechar de #EnfermedadDeFabry? 
+
+La Dra. Marian Goicoechea, del Hospital Universitario Gregorio Marañón de Madrid responde a esta pregunta desde el punto de vista de un nefrólogo.
+
+💻👉https://t.co/TLVOXn4B03 https://t.co/ATebYNxnoe",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:42:12 +0000 2020",
+"name": "José Miguel Martínez Gázquez 🐚",
+"screen_name": "jmmgazquez",
+"text": "Nuestro Presi 🙌 @DanielMRiquelme  siempre ha estado en primera página, nunca mejor dicho, desde #MolinadeSegura, en la #reivindicación de la #visibilidad y la #investigación de las #enfermedadesraras. Siendo un referente en ésta lucha. https://t.co/mHBt1PLjbp",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:44:17 +0000 2020",
+"name": "InheRET",
+"screen_name": "inheretinc",
+"text": "EURORDIS is recruiting for a Communications Junior Manager to work on the exciting #RareDiseaseDay campaign. Post based in Paris - spread the word! https://t.co/mmSUTtAmRW",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 12:50:37 +0000 2020",
+"name": "ricose29",
+"screen_name": "niajo38",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 12:53:57 +0000 2020",
+"name": "METALLIRARI en Español",
+"screen_name": "metallirari_es",
+"text": "Los 7 fármacos más caros del mundo https://t.co/op9VsAdNAH #dinero #enfermedadesraras #farmacéutica #genética #medicina #ranking vía @metallirari_es",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 13:05:49 +0000 2020",
+"name": "Delilah Aristogati",
+"screen_name": "srtamacavity",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 13:08:25 +0000 2020",
+"name": "Sonia Caballero",
+"screen_name": "Sonia_Ca_2002",
+"text": "#Nefrología #Fabry #EnfermedadesRaras
+
+¿Dónde sospechar de #EnfermedadDeFabry? 
+
+La Dra. Marian Goicoechea, del Hospital Universitario Gregorio Marañón de Madrid responde a esta pregunta desde el punto de vista de un nefrólogo.
+
+💻👉https://t.co/TLVOXn4B03 https://t.co/ATebYNxnoe",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 13:24:50 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 13:26:06 +0000 2020",
+"name": "Mario Cárdenas",
+"screen_name": "kubimario",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 13:28:36 +0000 2020",
+"name": "Isa",
+"screen_name": "imds612",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 13:33:41 +0000 2020",
+"name": "Somos ALAPA",
+"screen_name": "AlapaArgentina",
+"text": "💻 CONFERENCIA SOBRE LA ENFERMEDAD DE FABRY
+👉 El Dr. Fernando Perreta brindará una conferencia destinada a pacientes con la #EnfermedadDeFabry y sus familiares. 
+🗓 Sábado 2 de mayo
+⏰ 10 horas
+📲 Zoom ID: 827 9086 7480
+
+#MesFabry #EPOF #EnfermedadesRaras https://t.co/lpSBvj313t",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:00:26 +0000 2020",
+"name": "Raquel Amigo",
+"screen_name": "amigo_raquel",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:05:08 +0000 2020",
+"name": "Natt‼️",
+"screen_name": "nataliahdezz",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:10:49 +0000 2020",
+"name": "Pedro Soriano #QuedateEnCasa 🤜🏻🦠🤛🏻",
+"screen_name": "soriano_p",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:12:04 +0000 2020",
+"name": "Una sufridora más #CroniChat #pacientesquecuentan",
+"screen_name": "1asufridoramas",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:16:10 +0000 2020",
+"name": "PacienteSinPaz",
+"screen_name": "PacienteSinPaz",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:16:57 +0000 2020",
+"name": "Vicente Mené (#VMA)",
+"screen_name": "vicentemene",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:17:50 +0000 2020",
+"name": "Mercedes Gil Cavero",
+"screen_name": "mercedesgilcave",
+"text": "Nuestro Presi 🙌 @DanielMRiquelme  siempre ha estado en primera página, nunca mejor dicho, desde #MolinadeSegura, en la #reivindicación de la #visibilidad y la #investigación de las #enfermedadesraras. Siendo un referente en ésta lucha. https://t.co/mHBt1PLjbp",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:20:03 +0000 2020",
+"name": "@cosmosypsique",
+"screen_name": "cosmosypsique",
+"text": "@PabloIglesias Ley de Dependencia, menores a cargo con necesidades especiales, confinados. Nadie nos menciona #dependientes #TDAH #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:23:13 +0000 2020",
+"name": "ICVlc (#VMA)",
+"screen_name": "IntegralCVlc",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:30:22 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:36:04 +0000 2020",
+"name": "#SoyDisOrganic",
+"screen_name": "soydisorganic",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 14:40:06 +0000 2020",
+"name": "Chiqui",
+"screen_name": "chiquigea",
+"text": "Estupenda y necesaria iniciativa para apoyar la investigación en #enfermedadesraras #pithopkins #sinciencianohayfuturo ¡Únete a la causa! Yo me apunto! Ayúdanos a difundir! Muchas gracias!",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 14:40:52 +0000 2020",
+"name": "ENFERMERA ENFURECIDA",
+"screen_name": "enferpeleona",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 15:16:47 +0000 2020",
+"name": "sebastian Ferrer 💚",
+"screen_name": "sebferrer2102",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 15:56:40 +0000 2020",
+"name": "Rodrigo Piedra",
+"screen_name": "stonerodri",
+"text": "@Ecuadorhp Pacientes de #EnfermedadesRaras piden al #MinisteriodeSalud  se busque estrategias de forma urgente para la entrega de #Medicina somos pacientes #Vulnerables necesitamos proteger nuestra vida, no podemos comprar su costo es muy elevado https://t.co/he3LCWjlfL",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:03:29 +0000 2020",
+"name": "Defectuosa invisible",
+"screen_name": "tumoryugular",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:06:05 +0000 2020",
+"name": "Iris",
+"screen_name": "irislovs",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:06:45 +0000 2020",
+"name": "Iris",
+"screen_name": "irislovs",
+"text": "Te aplaudo de pie @nh487  👏🏼👏🏼👏🏼",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 16:07:00 +0000 2020",
+"name": "Fundación MerckSalud",
+"screen_name": "fundmercksalud",
+"text": "¡Enhorabuena! a la Dra. María Luz Couce Pico y todo el equipo del Hospital Clínico Universitario de Santiago de Compostela, que han sido beneficiarios de la #AyudaMerck2020 en Investigación Clínica en el área de #EnfermedadesRaras
+https://t.co/RXeChMXu56 https://t.co/zmkpjv1kgf",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:13:58 +0000 2020",
+"name": "Iris",
+"screen_name": "irislovs",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:50:55 +0000 2020",
+"name": "Leo📚🖋(🏘)#pacientesquecuentan",
+"screen_name": "leo_veritas",
+"text": "@nh487 Ya sabes que tenemos una master en quedarnos en casa los enfermos crónicos.
+#Enfermedadesraras y #dolorcrónico
+#pacientesquecuentan
+https://t.co/0HyAvBgVA6",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:52:57 +0000 2020",
+"name": "Catalina Covas 📚 🎀 #QuédateEnCasa",
+"screen_name": "CatalinaCovas",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:54:50 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Que todo cambie, para que nada...
+
+     ¿cambie? #EnfermedadesRaras #NadaEsImposible https://t.co/NBjg9n8niB",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:54:56 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 16:57:10 +0000 2020",
+"name": "Marisol Nania",
+"screen_name": "Sol_By_Sol",
+"text": "Informemos, apoyemos y celebremos que por fin se van a poner a investigar un sindrome tan poco conocido y que muchos padecieron y padecen sus consecuencias 👏👏👏
+#Kawasaki  #EnfermedaddeKawasaki #EnfermedadPocoFrecuente #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 17:03:41 +0000 2020",
+"name": "Irisys llc",
+"screen_name": "IRISYS7",
+"text": "IRISYS, LLC is part of the Rare Disease Community in San Diego through Clinical Trial Manufacturing for the NIH. #RareDiseaseDay #Pharma #Irisysllc #SanDiego @Irisysllc https://t.co/BlOfGrBW6U",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:08:29 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:13:27 +0000 2020",
+"name": "Afuertor70",
+"screen_name": "Afuertor702",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:17:46 +0000 2020",
+"name": "MJ Rodrigo",
+"screen_name": "MaitriRodrigo",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:20:47 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:23:39 +0000 2020",
+"name": "Arantxa Sáez #LoVamosViendo",
+"screen_name": "saezatxa",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:27:38 +0000 2020",
+"name": "Monica",
+"screen_name": "Monicayelephant",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:40:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Federación Española de #EnfermedadesRaras quiere identificar la respuesta dada a las familias con hijos con enfermedades minoritarias durante el estado de alarma y ofrecer alternativas para garantizar la continuidad de los servicios interrumpidos.
+https://t.co/pz0Wl6vwtr",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:45:01 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:51:40 +0000 2020",
+"name": "Guerreros Púrpura",
+"screen_name": "guerreropurpura",
+"text": "SEÑORES!!!!!LOS QUE MANDAN!! ESCUCHEN A LOS QUE SABEN porque lo "sufren" en sus propias carnes
+#YoMeQuedoEnCasa #EducacionEspecial #EnfermedadesRaras https://t.co/q6oiZMm5ZB",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 17:55:31 +0000 2020",
+"name": "María José Herraiz",
+"screen_name": "Herraiz_MJ",
+"text": "Si podéis ayudar votando por este proyecto para colaborar en la #investigación de una de las llamadas #EnfermedadesRaras, seguro que @ncaromar os lo agradecerá!!!",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 18:04:20 +0000 2020",
+"name": "Una madre rara",
+"screen_name": "RaraMadre",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 18:04:21 +0000 2020",
+"name": "Agurtzane",
+"screen_name": "AgurtzaneBC2020",
+"text": "Si podéis ayudar votando por este proyecto para colaborar en la #investigación de una de las llamadas #EnfermedadesRaras, seguro que @ncaromar os lo agradecerá!!!",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 18:05:47 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 18:08:07 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/iOX3Ei3oTk Gracias a @RarasReales @asociacionamica @leo_veritas #enfermedadesraras #dolorcrónico",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 18:08:48 +0000 2020",
+"name": "Laura Andrea",
+"screen_name": "TMLaurette",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 18:30:11 +0000 2020",
+"name": "NCATS",
+"screen_name": "ncats_nih_gov",
+"text": "#RareDiseaseDay at @NIH 2020 brought the #RareDiseases community together for a chance to build invaluable connections and share their stories. Read patient stories and learn what NCATS, @ORDR and others are doing to further rare diseases research: https://t.co/smrnQ5zLmj #RDDNIH https://t.co/nfZSh2ojuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:07:10 +0000 2020",
+"name": "María #Vivircondolor",
+"screen_name": "vivircondolor",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:12:36 +0000 2020",
+"name": "Jacob Roth",
+"screen_name": "JacobRoth13",
+"text": "#RareDiseaseDay at @NIH 2020 brought the #RareDiseases community together for a chance to build invaluable connections and share their stories. Read patient stories and learn what NCATS, @ORDR and others are doing to further rare diseases research: https://t.co/smrnQ5zLmj #RDDNIH https://t.co/nfZSh2ojuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:28:54 +0000 2020",
+"name": "CaminamosPorEllasyEllos (Síndrome de Rett 🇨🇱)",
+"screen_name": "caminamos_ee",
+"text": "Encuesta de RareBarometer @eurordis para personas con 
+#EnfermedadesRaras, sobre cómo estan viviendo la pandemia. Para personas de todos los países. Y disponible en &gt;20 idiomas @FECHER_CL @fenpofChile",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 19:32:34 +0000 2020",
+"name": "Javi Ripoll",
+"screen_name": "ripollete",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:35:27 +0000 2020",
+"name": "RAREwithCOVID",
+"screen_name": "RAREwithCOVID",
+"text": "Join or Become a Supporter of RAREwithCOVID!
+
+#RAREwithCOVID #Covid19 #raredisease #utoimmune #rarediseaseawareness #raredisorder #covid19uk #rarediseaseday  #rarediseases #clinicaltrial  #strongertogether #wetacklerare #rareis #canada4rare #fightforourlives #rarediseasecommunity https://t.co/kM71et9sKr",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:45:26 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/tIOyeR7Ya3 Thanks to @Dizz1628 @EuropaBio @VACure1 #raredisease #research",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:48:06 +0000 2020",
+"name": "RAREwithCOVID",
+"screen_name": "RAREwithCOVID",
+"text": "Join or Become a Supporter of RAREwithCOVID!
+
+#RAREwithCOVID #Covid19 #raredisease #utoimmune #rarediseaseawareness #raredisorder #covid19uk #rarediseaseday  #rarediseases #clinicaltrial  #strongertogether #wetacklerare #rareis #canada4rare #fightforourlives #rarediseasecommunity https://t.co/pn2G2XBhtG",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:52:36 +0000 2020",
+"name": "ORDR",
+"screen_name": "ORDR",
+"text": "#RareDiseaseDay at @NIH 2020 brought the #RareDiseases community together for a chance to build invaluable connections and share their stories. Read patient stories and learn what NCATS, @ORDR and others are doing to further rare diseases research: https://t.co/smrnQ5zLmj #RDDNIH https://t.co/nfZSh2ojuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 19:56:55 +0000 2020",
+"name": "Federico Salazar",
+"screen_name": "FSalazarOficial",
+"text": "@Politica_ECpe Si se analizara así a los #reclusos entonces ver el caso de otros mayores de edad con #EnfermedadesRaras o  #EnfermedadesCronicas porque no creo que ellos sean diferentes a la Señora #Noticias #URGENTE #Vizcarra #federicosalazar",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:01:16 +0000 2020",
+"name": "Ariadna Alberola",
+"screen_name": "AlberolaAriadna",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:02:28 +0000 2020",
+"name": "PorSaludHablemos",
+"screen_name": "PorSalud__",
+"text": "Si podéis ayudar votando por este proyecto para colaborar en la #investigación de una de las llamadas #EnfermedadesRaras, seguro que @ncaromar os lo agradecerá!!! https://t.co/k45D9c1j0W",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 20:10:34 +0000 2020",
+"name": "RDMD",
+"screen_name": "rdmd",
+"text": "#RareDiseaseDay at @NIH 2020 brought the #RareDiseases community together for a chance to build invaluable connections and share their stories. Read patient stories and learn what NCATS, @ORDR and others are doing to further rare diseases research: https://t.co/smrnQ5zLmj #RDDNIH https://t.co/nfZSh2ojuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:14:31 +0000 2020",
+"name": "andrea",
+"screen_name": "andypg_98",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:16:50 +0000 2020",
+"name": "Deusto Neuro-e-Motion",
+"screen_name": "deustoNeuroeM",
+"text": "Participa en una encuesta sobre el impacto del COVID-19 en las enfermedades raras  https://t.co/vHHyDdY8Jg
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:16:51 +0000 2020",
+"name": "me quedo en 🏡",
+"screen_name": "IraidaLeon",
+"text": "#EnfermedadesRaras
+#Kawasaki síntomas https://t.co/XtwUVSbJdh",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:17:26 +0000 2020",
+"name": "Rare Diseases Clinical Research Network",
+"screen_name": "rarediseasesnet",
+"text": "#RareDiseaseDay at @NIH 2020 brought the #RareDiseases community together for a chance to build invaluable connections and share their stories. Read patient stories and learn what NCATS, @ORDR and others are doing to further rare diseases research: https://t.co/smrnQ5zLmj #RDDNIH https://t.co/nfZSh2ojuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:18:48 +0000 2020",
+"name": "Montse Carrasco",
+"screen_name": "montsecarrasco",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:31:03 +0000 2020",
+"name": "NeCLO Ciencia y Cultura al Máximo",
+"screen_name": "NeCLO_Cultura",
+"text": "El #COVID__19 deja sin terapias a muchos niños con #EnfermedadesRaras 
+
+https://t.co/sbpXgvfbuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:31:43 +0000 2020",
+"name": "Palomaperezcuadra",
+"screen_name": "PalomaPCuadra",
+"text": "SEÑORES!!!!!LOS QUE MANDAN!! ESCUCHEN A LOS QUE SABEN porque lo "sufren" en sus propias carnes
+#YoMeQuedoEnCasa #EducacionEspecial #EnfermedadesRaras https://t.co/q6oiZMm5ZB",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:35:07 +0000 2020",
+"name": "Samantha Ruano Blanc",
+"screen_name": "ruano_blanc",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:37:25 +0000 2020",
+"name": "RareDiseasePatient♿️😷Ⓥ🐱🌈🚺🎵📖💡☮️🌹🌱♻️🚭",
+"screen_name": "RarePatient",
+"text": "Today is #Undiagnosed #RareDiseaseDay. We were all undiagnosed at one time. Many of us with (a) #RareDisease(s) go undiagnosed &amp; untreated for years before diagnosis. @UDNconnect @rarediseaseday @RareDayUS @RareDiseases @eurordis
+
+💔Please help: https://t.co/wmfwEOEG0V https://t.co/3GyEHo6HZg",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:39:38 +0000 2020",
+"name": "RareDiseasePatient♿️😷Ⓥ🐱🌈🚺🎵📖💡☮️🌹🌱♻️🚭",
+"screen_name": "RarePatient",
+"text": "Today is #Undiagnosed #RareDiseaseDay. We were all undiagnosed at one time. Many of us with (a) #RareDisease(s) go untreated for years before diagnosis. 
+@UDNconnect @rarediseaseday @RareDayUS @RareDiseases @eurordis
+
+💔Please help: https://t.co/wmfwEOEG0V https://t.co/Ekmtkbs6i3",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 20:55:31 +0000 2020",
+"name": "Maberca",
+"screen_name": "maberca1963",
+"text": "SEÑORES!!!!!LOS QUE MANDAN!! ESCUCHEN A LOS QUE SABEN porque lo "sufren" en sus propias carnes
+#YoMeQuedoEnCasa #EducacionEspecial #EnfermedadesRaras https://t.co/q6oiZMm5ZB",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:13:48 +0000 2020",
+"name": "Nomecreonada(EnCasa!)",
+"screen_name": "nomecreonadatv",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:17:52 +0000 2020",
+"name": "social media ninja",
+"screen_name": "mrfredbriones",
+"text": "The latest The Rare disease Daily! https://t.co/j0LBy4Xy0A Thanks to @IRISYS7 @supermanfan19 #scotus #rarediseaseday",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:23:05 +0000 2020",
+"name": "Paula Blanco #quedateencasa",
+"screen_name": "PBlancoFisio",
+"text": "Participa en una encuesta sobre el impacto del COVID-19 en las enfermedades raras  https://t.co/vHHyDdY8Jg
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:23:55 +0000 2020",
+"name": "Susan Berry",
+"screen_name": "BerryS730",
+"text": "#RareDiseaseDay at @NIH 2020 brought the #RareDiseases community together for a chance to build invaluable connections and share their stories. Read patient stories and learn what NCATS, @ORDR and others are doing to further rare diseases research: https://t.co/smrnQ5zLmj #RDDNIH https://t.co/nfZSh2ojuU",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:26:06 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "Mañana a las 18:00 horas @RaraMadre y servidora nos reunimos en #instagram para hablar de #enfermedadesraras y #cuarentena 
+
+¿Te apuntas? 
+https://t.co/xmzQFbJG9O https://t.co/l4wc2MUgDa",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:43:16 +0000 2020",
+"name": "FCDGC",
+"screen_name": "FrontierCDG",
+"text": "Really grateful for @ncats_nih_gov making our #FCDGC consortium possible",
+"ReTweet: "True"},
+{"data": "Wed Apr 29 21:47:13 +0000 2020",
+"name": "Laura",
+"screen_name": "Laupercon",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:47:37 +0000 2020",
+"name": "Ana M",
+"screen_name": "riera_anna",
+"text": "Dicen que ahora aprendemos a valorar lo que teníamos y pasábamos de puntillas por ello.
+
+¿Sabéis qué? 
+          A los pacientes crónicos no nos ha hecho falta una pandemia mundial para aprender a valorar lo realmente importante. Esa es la diferencia. #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Wed Apr 29 21:59:15 +0000 2020",
+"name": "Carolina Toneloto",
+"screen_name": "CToneloto",
+"text": ""Formas de tratamento para a #DoençaDeGaucher ": post novo no blog: https://t.co/SGQcPER3SJ
+#GaucherDisease
+#RareDisease
+#EnfermedadesRaras",
+"ReTweet: "False"},
