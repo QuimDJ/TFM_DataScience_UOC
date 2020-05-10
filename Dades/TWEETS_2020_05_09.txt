@@ -1,0 +1,403 @@
+{"data": "Fri May 08 22:05:59 +0000 2020",
+"name": "LOLITA PONCE",
+"screen_name": "KUKITA07",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNFhjI",
+"ReTweet: "False"},
+{"data": "Fri May 08 22:06:25 +0000 2020",
+"name": "LOLITA PONCE",
+"screen_name": "KUKITA07",
+"text": "#EnfermedadesRaras
+
+¿Sabías que la llamada "piel de mariposa" supone curas diarias de más de dos y tres horas? Su rasgo característico es una extrema fragilidad de la dermis, que provoca la formación de ampollas y heridas a partir del más leve roce. 
+https://t.co/lnh0fTfixg",
+"ReTweet: "False"},
+{"data": "Fri May 08 22:44:05 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Asociación  XFragil_CV junto  @STOP_FMF y @anadejudmj  lanza la campaña #DedicaTuCancion.
+#xfragil #EnfermedadesRaras #StopFMF #Dermatomiositis",
+"ReTweet: "True"},
+{"data": "Sat May 09 00:32:02 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "@STOP_FMF @anadejudmj y @XFragil_CV ponen en marcha la campaña #DedicaTuCancion 
+
+#FMF #FiebreMediterraneaFamiliar
+#Autoinflamatorios #Autoinflammatory
+#Dermatomiositis #XFragil
+#StopFMF #FFpaciente #Covid19
+#EnfermedadesRaras 
+
+https://t.co/tXkuYhhu0L",
+"ReTweet: "False"},
+{"data": "Sat May 09 01:40:38 +0000 2020",
+"name": "Coñote Enmascarado",
+"screen_name": "hartita_estoy",
+"text": "Inadmisible y vergonzoso si es verdad",
+"ReTweet: "True"},
+{"data": "Sat May 09 01:57:32 +0000 2020",
+"name": "MoniN",
+"screen_name": "MoniNinom",
+"text": "#DíaInternacionaldelaTalasemia #8Mayo
+La #Talasemia es una #enfermedad hereditaria poco frecuente, un tipo de #anemia que si es severa pone en riesgo la #vida si NO es tratada.
+
++#Info: https://t.co/T9WcS4YiM0
+
+#Medicina #salud #EnfermedadesRaras #DonarSangreSalvaVidas https://t.co/KarNIkDbqj",
+"ReTweet: "False"},
+{"data": "Sat May 09 06:32:35 +0000 2020",
+"name": "Victor Rodriguez",
+"screen_name": "Victor_A_R_R_",
+"text": "@AsociaAeryoh ya ha aportado su granito de arena y ha completado la encuesta del Rare Barometer Voices sobre el impacto del COVID19 en las personas con #EERR 
+@FEDER_ONG @CAMURATI_ONG @SoniaFdzSerrano @mariolaitziar85",
+"ReTweet: "True"},
+{"data": "Sat May 09 06:37:15 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "@TodosconFanconi #TodosconFanconi @curadba @FEDER_ONG @fcarreras #enfermedadesraras @eerr_es",
+"ReTweet: "True"},
+{"data": "Sat May 09 06:39:09 +0000 2020",
+"name": "Pepi Guerrero",
+"screen_name": "PepiGLupus",
+"text": "La desinformación dificulta el diagnóstico y el tratamiento del lupus, una enfermedad que afecta a unas 75.000 personas en España. @Felupus #EnfermedadesRaras https://t.co/eyNAgncYC4 vía @heraldoes",
+"ReTweet: "False"},
+{"data": "Sat May 09 06:53:54 +0000 2020",
+"name": "MONICA ARRANZ ARROYO",
+"screen_name": "ARRANZ1970ARROY",
+"text": "El proyecto 'Machine Learning para combatir #enfermedadesraras (MLDrugRD)' usa la inteligencia artificial para probar fármacos ya existentes como tratamiento para el #coronavirus.
+https://t.co/3tzr23xRUv",
+"ReTweet: "False"},
+{"data": "Sat May 09 07:15:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Los pacientes con #EnfermedadesRaras no diagnosticadas deben ser reconocidos por las administraciones públicas como una población con necesidades específicas no cubiertas.”
+
+En decálogo sobre necesidades de pacientes con enfermedades minoritarias
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sat May 09 07:31:21 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Quizá esa pulsera tan gastada y a punto de romperse que lleva en la muñeca, tiene más recuerdos que moda. Y por eso sigue ahí. 
+@Defreds 
+#EnfermedadesRaras #NadaEsImposible https://t.co/wA75UoauJA",
+"ReTweet: "False"},
+{"data": "Sat May 09 07:45:28 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/7TQreMOjR2 Thanks to @P4KrabbeR @ZealAccess @ChordomaFDN #raredisease #krabbedisease",
+"ReTweet: "False"},
+{"data": "Sat May 09 07:45:53 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/pW3zuLbS9b Gracias a @JubileoBolivia @genotipia #genética #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:20:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/GE47kBKm3R",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:20:37 +0000 2020",
+"name": "八宝斎 Maestro Happōsai",
+"screen_name": "Churriflanflin",
+"text": "Ya está aquí el vídeo del
+#DiaMundialEERR
+#RareDiseaseDay 
+La #investigación nuestra esperanza
+📹sub. en español
+https://t.co/giiErAyOKI
+#fb https://t.co/vtxVWtoMW5",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:22:54 +0000 2020",
+"name": "Dra. Rosa Viana Oltra",
+"screen_name": "draRosaViana",
+"text": ""Muchas personas con enfermedades raras nos decían durante estos días que ojalá su enfermedad fuera vírica, para que se investigara con tanto empeño como se está investigando para conseguir la cura al coronavirus…"
+#enfermedadesraras #confinamiento
+ https://t.co/gJbAE0WW2M https://t.co/XZWOFnTHWq",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:32:50 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNFhjI",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:32:54 +0000 2020",
+"name": "八宝斎 Maestro Happōsai",
+"screen_name": "Churriflanflin",
+"text": "Solicitamos un abordaje integral y global frente a las #enfermedadesraras ¡Necesitamos tu ayuda! No lo dudes y firma nuestra petición en @change_es https://t.co/ctFv9Fe9gs https://t.co/tbxece7Xec",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:40:12 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "#EnfermedadesRaras
+
+¿Sabías que la llamada "piel de mariposa" supone curas diarias de más de dos y tres horas? Su rasgo característico es una extrema fragilidad de la dermis, que provoca la formación de ampollas y heridas a partir del más leve roce. 
+https://t.co/lnh0fTfixg",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:42:16 +0000 2020",
+"name": "Jose Valentin Aranda",
+"screen_name": "JoseValentinAr4",
+"text": "🎂 Felicidades Federación Española de #EnfermedadesRaras @FEDER_ONG por estas dos décadas de trabajo en pro de los pacientes de enfermedades minoritarias y sus familias.
+
+https://t.co/l8iGDwsOlg",
+"ReTweet: "False"},
+{"data": "Sat May 09 08:43:38 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "¿Sabes qué tipo de #EnfermedadesRaras están más ligadas al desarrollo de medicamentos huérfanos? 
+
+En este orden, según EMA, las oncológicas (41%), seguidas de las de tracto alimentario y metabolismo (19%) y de las hematológicas y del sistema nervioso (8%). https://t.co/URkXd1bX1R",
+"ReTweet: "False"},
+{"data": "Sat May 09 09:07:44 +0000 2020",
+"name": "Cristina sanchez",
+"screen_name": "SanchzCris",
+"text": "❗️ FEDER alerta que se están suspendiendo ayudas a familias con menores con #enfermedadesraras 
+
+🗣️ ¿Nos ayudas a difundir esta situación que están viviendo muchas #familias a día de hoy debido al #COVID19? 
+
+🔹 https://t.co/qfb7Wm5s4W https://t.co/bRYx0Jrsp0",
+"ReTweet: "False"},
+{"data": "Sat May 09 09:14:50 +0000 2020",
+"name": "Rare Diseases Europe",
+"screen_name": "eurordis",
+"text": "Looking forward to seeing you at #ECRD2020",
+"ReTweet: "True"},
+{"data": "Sat May 09 09:29:15 +0000 2020",
+"name": "Silvia Gil",
+"screen_name": "Silviagil100Gil",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNFhjI",
+"ReTweet: "False"},
+{"data": "Sat May 09 10:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "🏃‍♂️Las carreras solidarias son una de las principales formas de visibilizar las #EnfermedadesRaras y recaudar fondos para su investigación. 💻La Carrera por las Enfermedades Poco Frecuentes de Almería se llevará a cabo de forma virtual en 6-9 Mayo.
+https://t.co/OxFF1P9ZTT",
+"ReTweet: "False"},
+{"data": "Sat May 09 10:34:13 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Aún está abierto el plazo para la inscripción en la próxima Conferencia Europea de #EnfermedadesRaras y Medicamentos huérfanos.
+📆 Será ONLINE los días 15 y 16 de mayo
+📢 Fecha límite de inscripción 10 de mayo
+
+https://t.co/uY5J4IhPIU
+#ECRD #RareDisease",
+"ReTweet: "False"},
+{"data": "Sat May 09 10:46:09 +0000 2020",
+"name": "Alba",
+"screen_name": "albaferodriguez",
+"text": "La desinformación dificulta el diagnóstico y el tratamiento del lupus, una enfermedad que afecta a unas 75.000 personas en España. @Felupus #EnfermedadesRaras https://t.co/eyNAgncYC4 vía @heraldoes",
+"ReTweet: "False"},
+{"data": "Sat May 09 10:56:49 +0000 2020",
+"name": "City Sightseeing Running Team",
+"screen_name": "CSRunningTeam",
+"text": "¡Gracias, @Eliciop! ¡Viva el #running solidario!
+
+#ataxiatelangiectasia #enfermedadesraras #CorreFrenaLaAT",
+"ReTweet: "True"},
+{"data": "Sat May 09 11:05:40 +0000 2020",
+"name": "Elicio Peña",
+"screen_name": "Eliciop",
+"text": "¡Gracias, @Eliciop! ¡Viva el #running solidario!
+
+#ataxiatelangiectasia #enfermedadesraras #CorreFrenaLaAT",
+"ReTweet: "True"},
+{"data": "Sat May 09 11:25:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sat May 09 11:38:08 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNFhjI",
+"ReTweet: "False"},
+{"data": "Sat May 09 11:45:00 +0000 2020",
+"name": "Pfizer España",
+"screen_name": "pfizer_spain",
+"text": "El #COVID19 desde la perspectiva de los pacientes de #EnfermedadesRaras
+
+“Es una situación excepcional que requiere de unión para salir adelante. Y en eso, en estar unidos, los pacientes somos expertos”
+
+✍🏻  Juan Carrión, pte. de @FEDER_ONG, en @efesalud https://t.co/oMkCZ4Ra8X https://t.co/T7Ccg82ymQ",
+"ReTweet: "False"},
+{"data": "Sat May 09 12:03:32 +0000 2020",
+"name": "Antonio Souviron",
+"screen_name": "asouvi",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sat May 09 12:19:22 +0000 2020",
+"name": "Ceciliogc",
+"screen_name": "Cecilio_gc",
+"text": "El #COVID19 desde la perspectiva de los pacientes de #EnfermedadesRaras
+
+“Es una situación excepcional que requiere de unión para salir adelante. Y en eso, en estar unidos, los pacientes somos expertos”
+
+✍🏻  Juan Carrión, pte. de @FEDER_ONG, en @efesalud https://t.co/oMkCZ4Ra8X https://t.co/T7Ccg82ymQ",
+"ReTweet: "False"},
+{"data": "Sat May 09 12:58:41 +0000 2020",
+"name": "Marisol Garcia Pulgar",
+"screen_name": "marisolgpulgar",
+"text": "Aprobado un nuevo medicamento para el tratamiento de #amiloidosis hereditaria por transtiretina #AhTTR @AmiloEspana1 #EnfermedadesRaras https://t.co/LE0SNflpH0 vía @GacetaMedicaCom",
+"ReTweet: "False"},
+{"data": "Sat May 09 13:06:13 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sat May 09 13:19:56 +0000 2020",
+"name": "pruden@fitness69",
+"screen_name": "cambaro69",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sat May 09 13:48:49 +0000 2020",
+"name": "Pam Stallings ☀️",
+"screen_name": "chiploverlou",
+"text": "We are the champions my friends and we’ll go on fighting til the end 💪🏽 #staystrong #stayhome  #staywell Each week becomes closer to the beginning of the next chapter. @EveryLifeOrg #hope #faith #beginnings",
+"ReTweet: "True"},
+{"data": "Sat May 09 14:59:35 +0000 2020",
+"name": "YolandaGH",
+"screen_name": "yolandaGH",
+"text": "#Familias de niños con #enfermedadesraras se quedan sin ayudas por los «criterios restrictivos» de las mutuas https://t.co/JGclaGAq90 vía @ABC_Familia",
+"ReTweet: "False"},
+{"data": "Sat May 09 15:05:58 +0000 2020",
+"name": "Kevin Donnelly",
+"screen_name": "ktdonnelly",
+"text": "Many thanks to you and your team Jason!",
+"ReTweet: "True"},
+{"data": "Sat May 09 15:25:02 +0000 2020",
+"name": "Zeal Access",
+"screen_name": "ZealAccess",
+"text": "The latest #RareDiseaseDay! https://t.co/7TQreMOjR2 Thanks to @P4KrabbeR @ZealAccess @ChordomaFDN #raredisease #krabbedisease",
+"ReTweet: "False"},
+{"data": "Sat May 09 15:25:40 +0000 2020",
+"name": "Zeal Access",
+"screen_name": "ZealAccess",
+"text": "Thank you so much @SeqComplete!",
+"ReTweet: "True"},
+{"data": "Sat May 09 15:26:57 +0000 2020",
+"name": "Juan Carlos Garrosa",
+"screen_name": "Garroj69",
+"text": "El #COVID19 desde la perspectiva de los pacientes de #EnfermedadesRaras
+
+“Es una situación excepcional que requiere de unión para salir adelante. Y en eso, en estar unidos, los pacientes somos expertos”
+
+✍🏻  Juan Carrión, pte. de @FEDER_ONG, en @efesalud https://t.co/oMkCZ4Ra8X https://t.co/T7Ccg82ymQ",
+"ReTweet: "False"},
+{"data": "Sat May 09 15:49:48 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNFhjI",
+"ReTweet: "False"},
+{"data": "Sat May 09 16:26:41 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "🏃‍♂️Las carreras solidarias son una de las principales formas de visibilizar las #EnfermedadesRaras y recaudar fondos para su investigación. 💻La Carrera por las Enfermedades Poco Frecuentes de Almería se llevará a cabo de forma virtual en 6-9 Mayo.
+https://t.co/OxFF1P9ZTT",
+"ReTweet: "False"},
+{"data": "Sat May 09 16:40:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Sabías que los peces cebra son usados en investigación de #EnfermedadesRaras? Si se sospecha de una mutación, los científicos la reproducen en este tipo de pez. Si observan los mismos síntomas que en el paciente, se confirma que esta es la responsable.
+https://t.co/Yep28ZPAsG",
+"ReTweet: "False"},
+{"data": "Sat May 09 16:41:44 +0000 2020",
+"name": "Miguel",
+"screen_name": "hsmiguel81",
+"text": "¿Sabías que los peces cebra son usados en investigación de #EnfermedadesRaras? Si se sospecha de una mutación, los científicos la reproducen en este tipo de pez. Si observan los mismos síntomas que en el paciente, se confirma que esta es la responsable.
+https://t.co/Yep28ZPAsG",
+"ReTweet: "False"},
+{"data": "Sat May 09 16:44:47 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "¿Sabías que los peces cebra son usados en investigación de #EnfermedadesRaras? Si se sospecha de una mutación, los científicos la reproducen en este tipo de pez. Si observan los mismos síntomas que en el paciente, se confirma que esta es la responsable.
+https://t.co/Yep28ZPAsG",
+"ReTweet: "False"},
+{"data": "Sat May 09 17:36:46 +0000 2020",
+"name": "Valentin Alcañiz",
+"screen_name": "Valenalca",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sat May 09 17:57:46 +0000 2020",
+"name": "Artrogriposis España",
+"screen_name": "ArtrogriposisEs",
+"text": "Te contamos el paso de la #Artrogriposis por la Virtual MOVE por las #EnfermedadesRaras de @MuevetexlasER 
+¡Gracias a todas las personas que participasteis!
+https://t.co/ZPwOWE470S",
+"ReTweet: "False"},
+{"data": "Sat May 09 18:08:30 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/3dNHcoWPK7 Gracias a @FEBHI_ORG @CentroCREER @MenudosMenudos #enfermedadesraras #kawasaki",
+"ReTweet: "False"},
+{"data": "Sat May 09 18:13:42 +0000 2020",
+"name": "Mercy",
+"screen_name": "mercysola_mercy",
+"text": "@marimarbra Gracias gracias por estar ahí, #noestasola somos muchas las que por culpa de padecer enfermedades crónicas tan dura y tan marginadas como la #fibromialgia #SFC, Y OTRAS #Enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat May 09 18:42:45 +0000 2020",
+"name": "Mª Ángeles García",
+"screen_name": "Mariangas",
+"text": "La desinformación dificulta el diagnóstico y el tratamiento del lupus, una enfermedad que afecta a unas 75.000 personas en España. @Felupus #EnfermedadesRaras https://t.co/eyNAgncYC4 vía @heraldoes",
+"ReTweet: "False"},
+{"data": "Sat May 09 19:45:25 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/uX9i1at8Or Thanks to @AmyRollitt @KnoppBio #raredisease #covid19",
+"ReTweet: "False"},
+{"data": "Sat May 09 19:45:27 +0000 2020",
+"name": "#StayHome",
+"screen_name": "NaattuVarthakal",
+"text": "The latest #RareDiseaseDay! https://t.co/uX9i1at8Or Thanks to @AmyRollitt @KnoppBio #raredisease #covid19",
+"ReTweet: "False"},
+{"data": "Sat May 09 20:30:37 +0000 2020",
+"name": "AEFA Kabuki",
+"screen_name": "AefaKabuki",
+"text": "❗️ FEDER alerta que se están suspendiendo ayudas a familias con menores con #enfermedadesraras 
+
+🗣️ ¿Nos ayudas a difundir esta situación que están viviendo muchas #familias a día de hoy debido al #COVID19? 
+
+🔹 https://t.co/qfb7Wm5s4W https://t.co/bRYx0Jrsp0",
+"ReTweet: "False"},
+{"data": "Sat May 09 21:11:04 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "🏃‍♂️Las carreras solidarias son una de las principales formas de visibilizar las #EnfermedadesRaras y recaudar fondos para su investigación. 💻La Carrera por las Enfermedades Poco Frecuentes de Almería se llevará a cabo de forma virtual en 6-9 Mayo.
+https://t.co/OxFF1P9ZTT",
+"ReTweet: "False"},
+{"data": "Sat May 09 21:52:25 +0000 2020",
+"name": "🌸🌷Rachel🌷🌸",
+"screen_name": "rachel71664085",
+"text": "It’s like looking in the mirror at my son. 💜 #UBA5",
+"ReTweet: "True"},
