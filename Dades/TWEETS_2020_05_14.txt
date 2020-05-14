@@ -1,0 +1,786 @@
+{"data": "Wed May 13 22:27:07 +0000 2020",
+"name": "Claudia",
+"screen_name": "Claudiabergues",
+"text": "He incorporado al blog de #gen_ética en @Naukas_com el café virtual que organizó @BegonyaNafria responsable del proyecto @Share4Rare_es sobre diagnóstico genético en #EnfermedadesRaras y en el que intervinimos @GMarfanyN @GeneticsUB @CIBERER y yo @CNB_CSIC
+https://t.co/VIn2yrKNHP",
+"ReTweet: "False"},
+{"data": "Wed May 13 22:28:33 +0000 2020",
+"name": "Rebelión Aluminio 🔻",
+"screen_name": "RebelinAluminio",
+"text": ""La Federación Española de #EnfermedadesRaras y el Comité Español de Representantes de Personas con #Discapacidad han reclamado al Gobierno un cambio legislativo para que las entidades no suspendan la prestación a las familias incluidas en un ERTE"
+https://t.co/cLAHHVWi1B",
+"ReTweet: "False"},
+{"data": "Wed May 13 22:36:21 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "A Iñaki lo pone nervioso. La propietaria me dijo que ni a domicilio ni en el local sin mascarilla. Si esto fuera así, ningún niño con #autismo, #EnfermedadesRaras #SíndromedeSanfilippo se podría cortar el pelo. No encuentro fundamento en ninguno de los decretos #COVIDー19",
+"ReTweet: "False"},
+{"data": "Wed May 13 22:55:04 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "El Presidente  de la Asociación, Tomás  Coronado, participó  en una Charla Coloquio de Estimulación  Sensorial, organizada por @FEDER_ONG #xfragil #SomosFEDER #EnfermedadesRaras #XFragilCVsequedaencasa #QuedateEnCasa https://t.co/udeNYp4CoF",
+"ReTweet: "False"},
+{"data": "Wed May 13 22:57:03 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@encasadeherrero A Iñaki la mascarilla lo pone nervioso. La propietaria me dijo que ni a domicilio ni en el local sin mascarilla. Si esto fuera así, ningún niño con #autismo, #EnfermedadesRaras #MPSEspaña #SíndromedeSanfilippo se podría cortar el pelo",
+"ReTweet: "False"},
+{"data": "Wed May 13 23:41:22 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@IreneMontero ¿Es legal que peluquería niegue servicio a mi hijo con #discapacidad cognitiva por no dejarse la mascarilla? #peluqueríaCreatival en #Barcelona dice que lo es. Yo veo clara #exclusion y necesidad de aclaración #EnfermedadesRaras #autismo @FEDER_ONG @asociacion_mps https://t.co/8jNwDopy7Z",
+"ReTweet: "False"},
+{"data": "Wed May 13 23:46:16 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@salvadorilla ¿Es legal que peluquería niegue servicio a mi hijo con #discapacidad cognitiva por no dejarse la mascarilla? #peluqueríaCreatival en #Barcelona dice que lo es. Yo veo clara #exclusion y necesidad de aclaración #EnfermedadesRaras #autismo @FEDER_ONG @asociacion_mps https://t.co/P0eqjMtbhz",
+"ReTweet: "False"},
+{"data": "Wed May 13 23:49:51 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@consumogob ¿Es legal que peluquería niegue servicio a mi hijo con #discapacidad cognitiva por no dejarse la mascarilla? #peluqueríaCreatival en #Barcelona dice que lo es. Clara #exclusion y necesidad de aclaración #EnfermedadesRaras @FEDER_ONG @asociacion_mps @StopSanfilippo https://t.co/6BkVXviu9f",
+"ReTweet: "False"},
+{"data": "Wed May 13 23:53:50 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@IgualdadGob ¿Es legal que peluquería niegue servicio a mi hijo con #discapacidad cognitiva por no dejarse la mascarilla? #peluqueríaCreatival en #Barcelona dice que lo es.Veo clara #exclusion y necesidad de aclaración #EnfermedadesRaras @FEDER_ONG @asociacion_mps @StopSanfilippo https://t.co/iFgrpjgP7g",
+"ReTweet: "False"},
+{"data": "Wed May 13 23:59:24 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@RPDiscapacidad ¿Es legal que peluquería niegue servicio a mi hijo con #discapacidad cognitiva por no dejarse la mascarilla? #peluqueríaCreatival en #BCN dice que lo es.Veo clara #exclusion y necesidad de aclaración #EnfermedadesRaras @FEDER_ONG @asociacion_mps @StopSanfilippo https://t.co/dtfvfQs1It",
+"ReTweet: "False"},
+{"data": "Thu May 14 00:06:50 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@DiariDiscapCat Mi hijo tiene #discapacidad cognitiva y no se deja la mascarilla. #peluqueríaCreatival en #Barcelona argumenta que es legalmente obligatoria. Veo clara #exclusion y necesidad de aclaración.  #EnfermedadesRaras @asociacion_mps https://t.co/AJgHNk3u7Z",
+"ReTweet: "False"},
+{"data": "Thu May 14 00:10:06 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "El Presidente  de la Asociación, Tomás  Coronado, participó  en una Charla Coloquio de Estimulación  Sensorial, organizada por @FEDER_ONG #xfragil #SomosFEDER #EnfermedadesRaras #XFragilCVsequedaencasa #QuedateEnCasa https://t.co/udeNYp4CoF",
+"ReTweet: "False"},
+{"data": "Thu May 14 00:49:59 +0000 2020",
+"name": "claudia mariela",
+"screen_name": "claudiamleguiza",
+"text": "Las #EnfermedadesRaras no lo son tanto. Se les llama raras porque cada una afecta a pocas personas, pero en conjunto es muchísima la gente  que las padece. ¿Sabías que afectan al 7% de la población mundial? https://t.co/aEeJOg8MKV",
+"ReTweet: "False"},
+{"data": "Thu May 14 01:25:09 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "@Cermi_Estatal  #peluqueríaCreatival en Barcelona -zona Diagonal Mar- se niega a cortarle el pelo a mi hijo con #discapacidad cognitiva, alegando que es legalmente obligatoria la mascarilla. No encuentro el fundamento legal. #exclusion #COVID19 #EnfermedadesRaras #autismo",
+"ReTweet: "False"},
+{"data": "Thu May 14 05:49:20 +0000 2020",
+"name": "Camm",
+"screen_name": "Camssolange",
+"text": "Las #EnfermedadesRaras no lo son tanto. Se les llama raras porque cada una afecta a pocas personas, pero en conjunto es muchísima la gente  que las padece. ¿Sabías que afectan al 7% de la población mundial? https://t.co/aEeJOg8MKV",
+"ReTweet: "False"},
+{"data": "Thu May 14 06:02:01 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Piden que una cobertura médica entregue la medicación para una nena de 9 años de Malvinas
+#MPS #HURLER #EnfermedadesRaras https://t.co/skgLKKP1B7 vía @QuePasaWeb",
+"ReTweet: "False"},
+{"data": "Thu May 14 06:04:31 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": ""Me salvaste la vida", el mensaje de un chico de 8 a�os a su donante de m�dula #MPS #HURLER #EnfermedadesRaras https://t.co/4TvLSgVk6T",
+"ReTweet: "False"},
+{"data": "Thu May 14 06:10:33 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "Muchas personas con #ehlersdanlos se sienten representadas por la cebra, uno de mis animales favoritos.
+
+Abro hilo 
+
+#366DiasdeEERR #EnfermedadesRaras https://t.co/kHbQSJ7ZyP",
+"ReTweet: "False"},
+{"data": "Thu May 14 06:10:46 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "Recuperamos esta esta entrevista a @mapeav75 sobre el síndrome de #EhlersDanlos  el Día Mundial de las #EnfermedadesRaras 
+
+#FFpaciente @quistestarlov @leo_veritas @silviaginies 
+
+https://t.co/IF7gwGqrlb",
+"ReTweet: "False"},
+{"data": "Thu May 14 07:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/pzXQGiWOmp",
+"ReTweet: "False"},
+{"data": "Thu May 14 07:05:37 +0000 2020",
+"name": "Juana de Arco⚫️",
+"screen_name": "JUANA__D__ARCO",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/pzXQGiWOmp",
+"ReTweet: "False"},
+{"data": "Thu May 14 07:09:04 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Muchas gracias al @GrupoOrpharSEFH por éste minucioso informe (que he leído con mucho interés) y del que podremos sacar mucho partido las personas interesadas en #EnfermedadesRaras y #MedicamentosHuérfanos
+
+#366DiasdeEERR #masvisibles
+
+@joseluis_pa @EdoMarsol @aelmhu @SanofiES",
+"ReTweet: "True"},
+{"data": "Thu May 14 07:09:05 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Podría estar bien ver lo que no está financiado en España por la @AEMPSGOB  y si en Europa por la @EMA_News.
+
+Ver el impacto no sólo económico sino social que les supone a las familias el no acceder a un tratamiento para sus #EnfermedadesRaras
+
+@PatLacruz @JorgeMestreFerr",
+"ReTweet: "False"},
+{"data": "Thu May 14 07:44:37 +0000 2020",
+"name": "Jose Luis Poveda",
+"screen_name": "joseluis_pa",
+"text": "Muchas gracias al @GrupoOrpharSEFH por éste minucioso informe (que he leído con mucho interés) y del que podremos sacar mucho partido las personas interesadas en #EnfermedadesRaras y #MedicamentosHuérfanos
+
+#366DiasdeEERR #masvisibles
+
+@joseluis_pa @EdoMarsol @aelmhu @SanofiES",
+"ReTweet: "True"},
+{"data": "Thu May 14 07:45:04 +0000 2020",
+"name": "Market Access Spain",
+"screen_name": "MarketAccess_Ph",
+"text": "Muchas gracias al @GrupoOrpharSEFH por éste minucioso informe (que he leído con mucho interés) y del que podremos sacar mucho partido las personas interesadas en #EnfermedadesRaras y #MedicamentosHuérfanos
+
+#366DiasdeEERR #masvisibles
+
+@joseluis_pa @EdoMarsol @aelmhu @SanofiES https://t.co/wYd4KXqDHS",
+"ReTweet: "True"},
+{"data": "Thu May 14 07:45:28 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/vlHb22hq6w Thanks to @DFBC_PedCare #raredisease #genomics",
+"ReTweet: "False"},
+{"data": "Thu May 14 07:45:51 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/H1qAc9r70m Gracias a @InstitutoRoche @Elmedicoint @MascotaSalud #enfermedadesraras #covid",
+"ReTweet: "False"},
+{"data": "Thu May 14 07:52:17 +0000 2020",
+"name": "Emilio Suarez Fajardo @ gmail.com",
+"screen_name": "EmilioSuarezFa2",
+"text": ""La Federación Española de #EnfermedadesRaras y el Comité Español de Representantes de Personas con #Discapacidad han reclamado al Gobierno un cambio legislativo para que las entidades no suspendan la prestación a las familias incluidas en un ERTE"
+https://t.co/cLAHHVWi1B",
+"ReTweet: "False"},
+{"data": "Thu May 14 08:06:23 +0000 2020",
+"name": "Fidelitis",
+"screen_name": "fidelitis_es",
+"text": "Hoy a las 13h no te pierdas el programa #enfermedadesraras de @LibertadFm107  estaremos como siempre resolviendo dudas junto a expertos en 
+#aulajuridica ⚖️ https://t.co/c0zdryGDhW",
+"ReTweet: "False"},
+{"data": "Thu May 14 08:17:37 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 08:23:38 +0000 2020",
+"name": "Libertad FM 107.0",
+"screen_name": "LibertadFm107",
+"text": "Hoy a las 13h no te pierdas el programa #enfermedadesraras de @LibertadFm107  estaremos como siempre resolviendo dudas junto a expertos en 
+#aulajuridica ⚖️ https://t.co/c0zdryGDhW",
+"ReTweet: "False"},
+{"data": "Thu May 14 08:58:32 +0000 2020",
+"name": "Miguel A. Guillén",
+"screen_name": "GuillenMelilla",
+"text": "Las #EnfermedadesRaras no lo son tanto. Se les llama raras porque cada una afecta a pocas personas, pero en conjunto es muchísima la gente  que las padece. ¿Sabías que afectan al 7% de la población mundial? https://t.co/aEeJOg8MKV",
+"ReTweet: "False"},
+{"data": "Thu May 14 08:59:07 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy a las 13 h. un nuevo programa de  #EnfermedadesRaras en @LibertadFm107 con el asesoramiento jurídico de @fidelitis_es a la @Funinvdup15Q y la participación del Dr. Pedro Botello, de @pablodeolavide, que hablará del derecho sucesorio
+https://t.co/N1HoQAsceR",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:02:59 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "“#Covid-19 afecta a las vías respiratorias. Para Diego, es el peor ataque que puede tener. Así que no hemos vuelto a salir de casa para nada”
+
+Con #Niemann-Pick, su caso refleja el de otros muchos niños con #EnfermedadesRaras durante este confinamiento.
+
+https://t.co/u180Q7QOc5",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:07:56 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/pzXQGiWOmp",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:13:02 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:13:54 +0000 2020",
+"name": "Isabella 🔻",
+"screen_name": "RodrigIsabella",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:15:21 +0000 2020",
+"name": "cmmmlg",
+"screen_name": "cmmmlg",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:25:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+¿Sabías que la llamada "piel de mariposa" supone curas diarias de más de dos y tres horas? Su rasgo característico es una extrema fragilidad de la dermis, que provoca la formación de ampollas y heridas a partir del más leve roce. 
+https://t.co/lnh0fTfixg",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:27:24 +0000 2020",
+"name": "Libertad FM 107.0",
+"screen_name": "LibertadFm107",
+"text": "Hoy a las 13 h. un nuevo programa de  #EnfermedadesRaras en @LibertadFm107 con el asesoramiento jurídico de @fidelitis_es a la @Funinvdup15Q y la participación del Dr. Pedro Botello, de @pablodeolavide, que hablará del derecho sucesorio
+https://t.co/N1HoQAsceR",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:35:02 +0000 2020",
+"name": "Sobi",
+"screen_name": "Sobi_Iberia",
+"text": "📄@FEDER_ONG ha elaborado el informe #vulnERables para alertar sobre la necesidad de proteger a los más de tres millones de personas con #EnfermedadesRaras de nuestro país frente a la pandemia del #coronavirus.
+
+https://t.co/1jVAIBuJpI",
+"ReTweet: "False"},
+{"data": "Thu May 14 09:58:21 +0000 2020",
+"name": "Somos Pacientes",
+"screen_name": "somos_pacientes",
+"text": "☘ Hoy te animamos a conocer 'Las ER van al cole con Federito', proyecto educativo de la @FEDER_ONG, que ha sensibilizado a más de 5.000 niños de 36 centros educativos españoles. https://t.co/qMTyYcnJgb 
+
+#EnfermedadesRaras #Solidaridad https://t.co/F5oAqb81Je",
+"ReTweet: "False"},
+{"data": "Thu May 14 10:01:53 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 10:19:54 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "📌Curso. Introducción a las #enfermedadesraras : #investigación y #atenciónclínica https://t.co/X58cMQPHZp Inicio: 15/06/2020 Organiza: Escola Valenciana d'Estudis de la Salut https://t.co/LPZHPNXmiH",
+"ReTweet: "False"},
+{"data": "Thu May 14 10:46:26 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/pzXQGiWOmp",
+"ReTweet: "False"},
+{"data": "Thu May 14 10:46:52 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "Las #EnfermedadesRaras no lo son tanto. Se les llama raras porque cada una afecta a pocas personas, pero en conjunto es muchísima la gente  que las padece. ¿Sabías que afectan al 7% de la población mundial? https://t.co/aEeJOg8MKV",
+"ReTweet: "False"},
+{"data": "Thu May 14 10:47:00 +0000 2020",
+"name": "Chiesi España",
+"screen_name": "Chiesi_es",
+"text": "#Periodismo | Con el objetivo de visibilizar las patologías menos frecuentes nace el #PremioPeriodismoChiesi en #EnfermedadesRaras 
+
+🎓Bases: https://t.co/cJHHz3YGIt https://t.co/Qm56QAmY2C",
+"ReTweet: "False"},
+{"data": "Thu May 14 10:56:51 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "El Presidente  de la Asociación, Tomás  Coronado, participó  en una Charla Coloquio de Estimulación  Sensorial, organizada por @FEDER_ONG #xfragil #SomosFEDER #EnfermedadesRaras #XFragilCVsequedaencasa #QuedateEnCasa https://t.co/udeNYp4CoF",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:01:17 +0000 2020",
+"name": "Manzanilla & Miel",
+"screen_name": "ManzanillaMiel5",
+"text": "De interés para pacientes, familias y asociaciones y, en general, cualquier persona interesada en conocer las bases genéticas de las #EnfermedadesRaras 
+@CIBERER @CIBER_ISCIII @NoInvisibles @RarasReales @Fpocofrecuente @FEDER_ONG @ALBA_albinismo @CNB_CSIC @CSIC @SaludISCIII ⬇️ https://t.co/pBlKK3tgAE",
+"ReTweet: "True"},
+{"data": "Thu May 14 11:01:24 +0000 2020",
+"name": "Manzanilla & Miel",
+"screen_name": "ManzanillaMiel5",
+"text": "👉CIBERER participa en la Conferencia Europea de #EnfermedadesRaras https://t.co/p4yAI7LY1t @beatriz_gomezg @MorteBeatriz https://t.co/tvwHaprufB",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:01:32 +0000 2020",
+"name": "Manzanilla & Miel",
+"screen_name": "ManzanillaMiel5",
+"text": "Gracias por seguir investigando en #EnfermedadesMetabólicas #Glut1DS #EnfermedadesMinoritarias @CIBERER @CBMSO_CSIC_UAM #EnfermedadesRaras #Investigación https://t.co/eFt7H3wJlv",
+"ReTweet: "True"},
+{"data": "Thu May 14 11:01:38 +0000 2020",
+"name": "Manzanilla & Miel",
+"screen_name": "ManzanillaMiel5",
+"text": "👉CIBERER participa en la Conferencia Europea de #EnfermedadesRaras https://t.co/1tA92QUZsZ  @beatrizgomez https://t.co/bJL9FNAZT5",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:02:00 +0000 2020",
+"name": "Manzanilla & Miel",
+"screen_name": "ManzanillaMiel5",
+"text": "📌Curso. Introducción a las #enfermedadesraras : #investigación y #atenciónclínica https://t.co/X58cMQPHZp Inicio: 15/06/2020 Organiza: Escola Valenciana d'Estudis de la Salut https://t.co/LPZHPNXmiH",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:18:03 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "📌Curso. Introducción a las #enfermedadesraras : #investigación y #atenciónclínica https://t.co/X58cMQPHZp Inicio: 15/06/2020 Organiza: Escola Valenciana d'Estudis de la Salut https://t.co/LPZHPNXmiH",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:21:01 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:46:54 +0000 2020",
+"name": "SAF España",
+"screen_name": "afosfolipido",
+"text": "¡Listos para participar en el Congreso Europeo de #enfermedadesraras ! 
+#ECRD2020",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:49:49 +0000 2020",
+"name": "Montse Maceiras",
+"screen_name": "MaceirasMontse",
+"text": "#Periodismo | Con el objetivo de visibilizar las patologías menos frecuentes nace el #PremioPeriodismoChiesi en #EnfermedadesRaras 
+
+🎓Bases: https://t.co/cJHHz3YGIt https://t.co/Qm56QAmY2C",
+"ReTweet: "False"},
+{"data": "Thu May 14 11:52:45 +0000 2020",
+"name": "NO NOELIA, NO PARTY",
+"screen_name": "NoeliaAspera",
+"text": "A los crónicos ni las pandemias nos quitan de los quirófanos 💁🏼‍♀️
+#COVIDー19 #HipertensionIntracranealIdiopatica #EnfermedadesRaras https://t.co/LMwRhJtZWb",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:12:17 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:25:54 +0000 2020",
+"name": "🌱Begoña Mena. 🏡#Yomequedoencasa.📚💻🎬🎶🎲🎮🎨🎯",
+"screen_name": "bemebo",
+"text": "Generación esperanza. 
+https://t.co/EOFpyCiejW
+#EnfermedaddeHungtington 
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:29:01 +0000 2020",
+"name": "ALIBER",
+"screen_name": "InforAliber",
+"text": "Este es el enlace para realizar la encuesta: https://t.co/9nIR7r5Rim
+
+La charla es en español y portugués:
+Viernes, 15 de Mayo a las 5pm hora Miami (EST), POR ZOOM:
+
+https://t.co/eN0FZzcYSN
+
+#EnfermedadesRaras #EnfermedadesHuérfanas #EPOF #Latinoamerica #Covid-19
+#yomequedoencasa https://t.co/S4wraNCh3K",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:30:19 +0000 2020",
+"name": "VisionEM",
+"screen_name": "em_vision",
+"text": "#ffpaciente @ffpaciente #EnfermedadesRaras @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:31:36 +0000 2020",
+"name": "Juan Carrion Tudela",
+"screen_name": "JuanCarrionT",
+"text": "Este es el enlace para realizar la encuesta: https://t.co/0VJ95XiPdk
+
+La charla es en español y portugués:
+Viernes, 15 de Mayo a las 5pm hora Miami (EST), POR ZOOM:
+
+https://t.co/UrFUwjP94L
+
+#EnfermedadesRaras #EnfermedadesHuérfanas #EPOF #Latinoamerica #Covid-19
+#Yomequedoencasa https://t.co/Jz8OfZ1Jju",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:38:21 +0000 2020",
+"name": "Rotas Cadenas ⚪️🔴⚪️",
+"screen_name": "frauleinmaria",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:45:03 +0000 2020",
+"name": "Ictiosis España, ASIC",
+"screen_name": "asociacionasic",
+"text": "La @asociacionasic también somos @FEDER_ONG. 💪Solo trabajando juntos conseguiremos algún día hablar de las #EnfermedadesRaras en pasado. 
+¡Ponte en la piel de las #EnfermedadesRaras!",
+"ReTweet: "True"},
+{"data": "Thu May 14 13:51:43 +0000 2020",
+"name": "EVA ROBLES",
+"screen_name": "evaroblesspain",
+"text": "Hoy a las 13 h. un nuevo programa de  #EnfermedadesRaras en @LibertadFm107 con el asesoramiento jurídico de @fidelitis_es a la @Funinvdup15Q y la participación del Dr. Pedro Botello, de @pablodeolavide, que hablará del derecho sucesorio
+https://t.co/N1HoQAsceR",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:56:43 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/pzXQGiWOmp",
+"ReTweet: "False"},
+{"data": "Thu May 14 13:59:44 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": ".@Infoaliber, @eurordis y la @rarediseasesint organizan una charla sobre la última encuesta del Rare Barometer Voices sobre #COVID19 y #enfermedadesraras en Iberoamérica.
+
+🔸Podrás acceder el 15 de mayo a las 5pm hora Miami (EST) a través de este enlace: https://t.co/KvXx4SYp0v https://t.co/cqrDLvTzJw",
+"ReTweet: "False"},
+{"data": "Thu May 14 14:06:57 +0000 2020",
+"name": "Raúl González",
+"screen_name": "Raulsexologo",
+"text": ".@Infoaliber, @eurordis y la @rarediseasesint organizan una charla sobre la última encuesta del Rare Barometer Voices sobre #COVID19 y #enfermedadesraras en Iberoamérica.
+
+🔸Podrás acceder el 15 de mayo a las 5pm hora Miami (EST) a través de este enlace: https://t.co/KvXx4SYp0v https://t.co/cqrDLvTzJw",
+"ReTweet: "False"},
+{"data": "Thu May 14 14:15:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las unidades específicas para #EnfermedadesRaras fundamentales para que éstas sean diagnosticadas. La SextaTV lo ejemplificó en el caso de Nil, con una mutación genética cuyo diagnóstico permite conocer la necesidad de un trasplante de médula.
+https://t.co/7PkMvcdR8x https://t.co/9i6Qf5x21J",
+"ReTweet: "False"},
+{"data": "Thu May 14 15:17:10 +0000 2020",
+"name": "Janette Ojeda",
+"screen_name": "JanetteO_Inaki",
+"text": "No le cortan el pelo a mi hijo porque no se deja la mascarilla. ¿Se le puede enviar una sansión a esta peluquería por actuar en contra de los derechos de los niños con necesidades especiales mintiendo sobre la ley?   #EnfermedadesRaras #autismo",
+"ReTweet: "False"},
+{"data": "Thu May 14 15:36:56 +0000 2020",
+"name": "Noelia",
+"screen_name": "Noelia68507129",
+"text": "¡Listos para participar en el Congreso Europeo de #enfermedadesraras ! 
+#ECRD2020",
+"ReTweet: "False"},
+{"data": "Thu May 14 15:39:18 +0000 2020",
+"name": "LuisNuñez",
+"screen_name": "LuisNue88367349",
+"text": "¡Listos para participar en el Congreso Europeo de #enfermedadesraras ! 
+#ECRD2020",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:10:57 +0000 2020",
+"name": "OIFE",
+"screen_name": "OIFE_OI",
+"text": ""Medical needs don't define the limit of all you can achieve in life." Rebecca T. Skarberg from Osteogenesis Imperfecta Federation Europe (OIFE) on living with a rare condition and defying expectations. Couldn't agree more. #RareDiseaseDay @eurordis",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:12:32 +0000 2020",
+"name": "Carola Schmidt",
+"screen_name": "_CarolaSchmidt",
+"text": "Thank goodness for books like this from @_CarolaSchmidt and fundraising like the #TwoPointSixChallenge to save UK charities tomorrow. @caitrionambalfe will be running for Childhood Cancer - Thanks to all for raising money and awareness for #Cancer. 
+#charity #fundraising https://t.co/w3Is4QXGKH",
+"ReTweet: "True"},
+{"data": "Thu May 14 16:15:12 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ""Estuvimos 3 años de un sitio a otro sin saber qué tenía nuestra hija"
+La incertidumbre es una de las cosas más difícil de llevar ante una enfermedad. En el caso de las #EnfermedadesRaras esta incertidumbre es siempre especialmente intensa y prolongada. 
+
+https://t.co/7kNi1pRGMP https://t.co/itnvGLhnyf",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:23:04 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:27:18 +0000 2020",
+"name": "Susana Perez",
+"screen_name": "SusyPerezOk",
+"text": "#RetoDifusión2020
+¿Conoces el Síndrome de #Rett?
+
+Ayúdanos a crear conocimiento y únete a la cadena solidaria, compartiendo esta publicación....
+
+ #Mayo #5de13 #14de39
+#SíndromeRett
+#Muéveteporlosquenopueden #12meses #13causas #EnfermedadesRaras #Difusión #ESPERANZA https://t.co/77y4QCLKfm",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:30:21 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": ".@Infoaliber, @eurordis y la @rarediseasesint organizan una charla sobre la última encuesta del Rare Barometer Voices sobre #COVID19 y #enfermedadesraras en Iberoamérica.
+
+🔸Podrás acceder el 15 de mayo a las 5pm hora Miami (EST) a través de este enlace: https://t.co/KvXx4SYp0v https://t.co/cqrDLvTzJw",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:35:10 +0000 2020",
+"name": "Go Shout Love",
+"screen_name": "GoShoutLove",
+"text": "@GoShoutLove is R hero! They help kids w rare medical conditions &amp; cover related #COVID19 costs. Lets show appreciation for their great work &amp; give EM a shout out of love 💖Tweet UR gratitude @Lux214Media  
+#rarediseaseday #raredisease #covid19 @MissLoriBarber @DonnaRTanner https://t.co/DY1cDDvJgj",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:43:58 +0000 2020",
+"name": "🌱Begoña Mena. 🏡#Yomequedoencasa.📚💻🎬🎶🎲🎮🎨🎯",
+"screen_name": "bemebo",
+"text": "Enfermedad de Huntington. ¡Emocionante!
+https://t.co/pYZ7ciw4qN
+#Generaciónesperanza
+#Enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Thu May 14 16:51:50 +0000 2020",
+"name": "Fundación Columbus",
+"screen_name": "FundaColumbus",
+"text": "😊❤🏥 El 14 de mayo de 2019, en Varsovia, el profesor #KrystofBankiewicz y su equipo realizaron una compleja operación de #terapiagénica, pionera en el mundo, que logró darle una segunda vida Irai. ¡Felicidades, pequeña!
+🎂☝🏼Un año de avances. 👨🏻‍🔬👩🏽‍🔬 ¡Seguimos! #enfermedadesraras https://t.co/0uV8merLeE",
+"ReTweet: "False"},
+{"data": "Thu May 14 17:05:50 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 17:22:48 +0000 2020",
+"name": "Ana González Megía",
+"screen_name": "kenanuk",
+"text": "😊❤🏥 El 14 de mayo de 2019, en Varsovia, el profesor #KrystofBankiewicz y su equipo realizaron una compleja operación de #terapiagénica, pionera en el mundo, que logró darle una segunda vida Irai. ¡Felicidades, pequeña!
+🎂☝🏼Un año de avances. 👨🏻‍🔬👩🏽‍🔬 ¡Seguimos! #enfermedadesraras https://t.co/0uV8merLeE",
+"ReTweet: "False"},
+{"data": "Thu May 14 17:24:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀Gracias a tu participación conseguiremos mejorar nuestro trabajo para el colectivo de personas con #EnfermedadesRaras 
+
+❓¿Participas en la última encuesta del Rare Barometer Voices para contar tu experiencia sobre el impacto del #COVID19 
+
+Accede aquí: https://t.co/DAQwSmu5bN https://t.co/ATt5hfvMct",
+"ReTweet: "False"},
+{"data": "Thu May 14 17:24:03 +0000 2020",
+"name": "Paloma",
+"screen_name": "palomaproldan",
+"text": "😊❤🏥 El 14 de mayo de 2019, en Varsovia, el profesor #KrystofBankiewicz y su equipo realizaron una compleja operación de #terapiagénica, pionera en el mundo, que logró darle una segunda vida Irai. ¡Felicidades, pequeña!
+🎂☝🏼Un año de avances. 👨🏻‍🔬👩🏽‍🔬 ¡Seguimos! #enfermedadesraras https://t.co/0uV8merLeE",
+"ReTweet: "False"},
+{"data": "Thu May 14 17:31:04 +0000 2020",
+"name": "Delfines",
+"screen_name": "GenesyFamilia",
+"text": "Hoy en el Simposio de Enfermedades neurológicas raras 🧬 🧠 Gracias AANS UNAM @FacMedicinaUNAM @facmed_unam #RareDiseaseDay #rare #RareDisease #craneosinostosis https://t.co/VOFdcQLAiT",
+"ReTweet: "False"},
+{"data": "Thu May 14 17:54:19 +0000 2020",
+"name": "Reme",
+"screen_name": "kaluapiscis",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 18:08:13 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/rMYURO4h7X Gracias a @ManzanillaMiel5 @ELA_ANDALUCIA @begisare #enfermedadesraras #plasma",
+"ReTweet: "False"},
+{"data": "Thu May 14 18:31:06 +0000 2020",
+"name": "Gin Jones",
+"screen_name": "GiniaJo",
+"text": ""Medical needs don't define the limit of all you can achieve in life." Rebecca T. Skarberg from Osteogenesis Imperfecta Federation Europe (OIFE) on living with a rare condition and defying expectations. Couldn't agree more. #RareDiseaseDay @eurordis",
+"ReTweet: "False"},
+{"data": "Thu May 14 18:35:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "25% de las aprobaciones anuales de nuevos fármacos de la Agencia Europea de Medicamentos (EMA) son ya para #EnfermedadesRaras. El reglamento europeo sobre #MedicamentosHuérfanos ha sido clave en un despegue de la investigación.
+https://t.co/pXF0fGfds2",
+"ReTweet: "False"},
+{"data": "Thu May 14 18:44:49 +0000 2020",
+"name": "Sombradoble",
+"screen_name": "sombradoble",
+"text": "📌Curso. Introducción a las #enfermedadesraras : #investigación y #atenciónclínica https://t.co/X58cMQPHZp Inicio: 15/06/2020 Organiza: Escola Valenciana d'Estudis de la Salut https://t.co/LPZHPNXmiH",
+"ReTweet: "False"},
+{"data": "Thu May 14 18:45:23 +0000 2020",
+"name": "MAZARRON NEWS.com",
+"screen_name": "mazarronnews",
+"text": "The latest ELCHE newsroom! https://t.co/yeSJT6Iv4M Thanks to @informate_infor @FamilyElx @vegabajadigital #elche #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Thu May 14 19:25:02 +0000 2020",
+"name": "AEGH",
+"screen_name": "AEGHgenetica",
+"text": "Nuestra presidenta @encarna_guillen  ha participado en el mayor evento de #EnfermedadesRaras dirigido por pacientes: #ECRD2020. En esta sesión se ha abordado la atención integral de pacientes con #ER desde la perspectiva social y de derechos humanos.
+
+https://t.co/7VcZACVMAW",
+"ReTweet: "False"},
+{"data": "Thu May 14 19:30:22 +0000 2020",
+"name": "Jose Blas García",
+"screen_name": "jblasgarcia",
+"text": "CC/ @CEFIREambitINC @lena_pla @mabelvillaescus @Aforesm  Gracias a todos los que habéis hecho posible este maravilloso diálogo. https://t.co/YrhoLMfJOs",
+"ReTweet: "True"},
+{"data": "Thu May 14 19:43:01 +0000 2020",
+"name": "Gabriela Landaburo #YoEstoyenCasa",
+"screen_name": "GLandaburo",
+"text": "La @asociacionasic también somos @FEDER_ONG. 💪Solo trabajando juntos conseguiremos algún día hablar de las #EnfermedadesRaras en pasado. 
+¡Ponte en la piel de las #EnfermedadesRaras!",
+"ReTweet: "True"},
+{"data": "Thu May 14 19:45:25 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/QtCQ8GtJ7p Thanks to @EwenLife @GlobalGenes #raredisease #maladierare",
+"ReTweet: "False"},
+{"data": "Thu May 14 19:50:15 +0000 2020",
+"name": "Periódico Vaguada",
+"screen_name": "GRUPOVAGUADA",
+"text": "Hoy a las 13 h. un nuevo programa de  #EnfermedadesRaras en @LibertadFm107 con el asesoramiento jurídico de @fidelitis_es a la @Funinvdup15Q y la participación del Dr. Pedro Botello, de @pablodeolavide, que hablará del derecho sucesorio
+https://t.co/N1HoQAsceR",
+"ReTweet: "False"},
+{"data": "Thu May 14 19:51:06 +0000 2020",
+"name": "Periódico Vaguada",
+"screen_name": "GRUPOVAGUADA",
+"text": "Hoy a las 13h no te pierdas el programa #enfermedadesraras de @LibertadFm107  estaremos como siempre resolviendo dudas junto a expertos en 
+#aulajuridica ⚖️ https://t.co/c0zdryGDhW",
+"ReTweet: "False"},
+{"data": "Thu May 14 19:55:45 +0000 2020",
+"name": "Play Noticias Oficial",
+"screen_name": "PlayNoticiasOfi",
+"text": "Confirman primer caso de niño con la enfermedad de Kawasaki en Colombia https://t.co/G3ijAuqPHB @Humbert21419454 @INSColombia #EnfermedadesRaras https://t.co/iegW1eAh2h",
+"ReTweet: "False"},
+{"data": "Thu May 14 19:58:55 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:09:13 +0000 2020",
+"name": "Ale.",
+"screen_name": "BluesyHeart",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:10:38 +0000 2020",
+"name": "yolanda badas gonzalez",
+"screen_name": "yotauro61",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:12:20 +0000 2020",
+"name": "Noemi",
+"screen_name": "versosentinta",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:16:42 +0000 2020",
+"name": "Displasia cleidocraneal España",
+"screen_name": "aefdcc",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:22:00 +0000 2020",
+"name": "Fundación Isabel Gemio",
+"screen_name": "FundIsabelGemio",
+"text": "Preocupa el efecto de la pandemia en la investigación de #EnfermedadesRaras. 
+
+@FundIsabelGemio recuerda que millones de personas “están siempre en emergencia y siguen teniendo su única esperanza en la ciencia”.
+
+https://t.co/wpZkPZJJa6 https://t.co/wzBnSK42yg",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:22:42 +0000 2020",
+"name": "RAREwithCOVID",
+"screen_name": "RAREwithCOVID",
+"text": "#RAREwithCOVID #globalgenes #covid_19 #Covid19 #raredisease #rarediseaseawareness #raredisorder #coronavirus #nord #rarediseaseday #genetics #chronicillness #rarediseases #strongertogether #wetacklerare #rareis #canada4rare #fightforourlives #rarediseasecommunity #rarediseaseweek https://t.co/FklA11lTzN",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:24:49 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:46:35 +0000 2020",
+"name": "Noemí",
+"screen_name": "Tio_Sudeck",
+"text": "Artículo de hace un año en el periódico 20 minutos. Soy una PERSONA con una enfermedad, la enfermedad es rara yo no. Noemí, con una enfermedad rara: "Pensé que hay que seguir viviendo, aunque sea con dolor" https://t.co/QLddXn7q0F vía @20m #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:47:39 +0000 2020",
+"name": "Noemí",
+"screen_name": "Tio_Sudeck",
+"text": "#EnfermedadesRaras
+
+ “Se puede seguir viviendo con Distrofia Simpático Refleja. En silla de ruedas, con muletas o como sea.”
+
+Noemí Navarro es @Tio_Sudeck en las redes. Conoce en esta entrevista #ffpaciente su historia y porqué decidió crear su blog.
+https://t.co/M0eSctGCxy",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:47:41 +0000 2020",
+"name": "Noemí",
+"screen_name": "Tio_Sudeck",
+"text": "#EnfermedadesRaras
+
+ “Se puede seguir viviendo con Distrofia Simpático Refleja. En silla de ruedas, con muletas o como sea.”
+
+Noemí Navarro es @Tio_Sudeck en las redes. Conoce en esta entrevista #ffpaciente su historia y porqué decidió crear su blog.
+https://t.co/M0eSctGCxy",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:48:13 +0000 2020",
+"name": "Corali",
+"screen_name": "Corali73219148",
+"text": "#EnfermedadesRaras
+
+ “Se puede seguir viviendo con Distrofia Simpático Refleja. En silla de ruedas, con muletas o como sea.”
+
+Noemí Navarro es @Tio_Sudeck en las redes. Conoce en esta entrevista #ffpaciente su historia y porqué decidió crear su blog.
+https://t.co/M0eSctGCxy",
+"ReTweet: "False"},
+{"data": "Thu May 14 20:48:18 +0000 2020",
+"name": "Corali",
+"screen_name": "Corali73219148",
+"text": "#EnfermedadesRaras
+
+ “Se puede seguir viviendo con Distrofia Simpático Refleja. En silla de ruedas, con muletas o como sea.”
+
+Noemí Navarro es @Tio_Sudeck en las redes. Conoce en esta entrevista #ffpaciente su historia y porqué decidió crear su blog.
+https://t.co/M0eSctGCxy",
+"ReTweet: "False"},
+{"data": "Thu May 14 21:06:41 +0000 2020",
+"name": "Dory Rosado",
+"screen_name": "DORYRORO2",
+"text": "#EnfermedadesRaras
+
+ “Se puede seguir viviendo con Distrofia Simpático Refleja. En silla de ruedas, con muletas o como sea.”
+
+Noemí Navarro es @Tio_Sudeck en las redes. Conoce en esta entrevista #ffpaciente su historia y porqué decidió crear su blog.
+https://t.co/M0eSctGCxy",
+"ReTweet: "False"},
+{"data": "Thu May 14 21:11:00 +0000 2020",
+"name": "AEFA Kabuki",
+"screen_name": "AefaKabuki",
+"text": "🍀Gracias a tu participación conseguiremos mejorar nuestro trabajo para el colectivo de personas con #EnfermedadesRaras 
+
+❓¿Participas en la última encuesta del Rare Barometer Voices para contar tu experiencia sobre el impacto del #COVID19 
+
+Accede aquí: https://t.co/DAQwSmu5bN https://t.co/ATt5hfvMct",
+"ReTweet: "False"},
+{"data": "Thu May 14 21:11:11 +0000 2020",
+"name": "AEFA Kabuki",
+"screen_name": "AefaKabuki",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 21:32:27 +0000 2020",
+"name": "Larica",
+"screen_name": "pilarmorescri",
+"text": "Nuestra presidenta @encarna_guillen  ha participado en el mayor evento de #EnfermedadesRaras dirigido por pacientes: #ECRD2020. En esta sesión se ha abordado la atención integral de pacientes con #ER desde la perspectiva social y de derechos humanos.
+
+https://t.co/7VcZACVMAW",
+"ReTweet: "False"},
