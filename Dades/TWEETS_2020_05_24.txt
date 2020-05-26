@@ -1,0 +1,398 @@
+{"data": "Sat May 23 22:21:57 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "Como tantos padres con niños con #EnfermedadesRaras, María y Txema han tenido que hacer "encaje de bolillos" durante este confinamiento. Lucas, su hijo, padece síndrome degenerativo Hunter.
+Noticias Navarra explica su experiencia, que ha sido la de tantos
+https://t.co/pD6aHW5885",
+"ReTweet: "False"},
+{"data": "Sat May 23 22:55:39 +0000 2020",
+"name": "#ConfinadoScout ⚜",
+"screen_name": "scoutCdSol108",
+"text": "¡Scout Ciudad del Sol 108-Lorca News está disponible! https://t.co/QrnltTt91R Gracias a @ordesa1953 @morigerante @dgenesmurcia #xfrágil #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat May 23 23:29:38 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᒪᗩ ᗰúᔕIᑕᗩ ᔕᗩᑎᗩ Eᒪ ᑕOᖇᗩᘔóᑎ.💫🤍
+
+.
+.
+.
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post… https://t.co/oRigGrwoB6",
+"ReTweet: "False"},
+{"data": "Sun May 24 00:17:31 +0000 2020",
+"name": "Silvia Mabel Varas",
+"screen_name": "svaras2016",
+"text": "Como tantos padres con niños con #EnfermedadesRaras, María y Txema han tenido que hacer "encaje de bolillos" durante este confinamiento. Lucas, su hijo, padece síndrome degenerativo Hunter.
+Noticias Navarra explica su experiencia, que ha sido la de tantos
+https://t.co/pD6aHW5885",
+"ReTweet: "False"},
+{"data": "Sun May 24 00:20:47 +0000 2020",
+"name": "Silvia Mabel Varas",
+"screen_name": "svaras2016",
+"text": ""Son necesarias muchas medidas para el abordaje y la investigación de las #EnfermedadesRaras, pero si he de señalar una en concreto es urgente que se ponga en marcha el Plan Nacional de Medicina Genómica."
+
+Pablo Lapunzina, director científico del CIBERER
+https://t.co/ZLSaXTKq4O",
+"ReTweet: "False"},
+{"data": "Sun May 24 01:29:17 +0000 2020",
+"name": "nes",
+"screen_name": "muvaffakiyetli",
+"text": "Rare Disease Day is among us! Learn more about Perthes Disease #showyourrare #rarediseaseday #perthesdisease https://t.co/hLxVG5DqXV",
+"ReTweet: "False"},
+{"data": "Sun May 24 06:38:29 +0000 2020",
+"name": "Gabrielle Marie",
+"screen_name": "GabrielleMarieD",
+"text": "¿Qué es una crisis de vértigo causada por el síndrome de Ménière?
+Te lo contamos... ⬇️
+#EnfermedadesRaras #raraNoInvisible #vértigo https://t.co/Tk9HMBSUTn",
+"ReTweet: "False"},
+{"data": "Sun May 24 07:46:12 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/y3C003N1cq Thanks to @CrellinErin @imi_massaccesi #raredisease #maipiuinvisibili",
+"ReTweet: "False"},
+{"data": "Sun May 24 08:30:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ""Estuvimos 3 años de un sitio a otro sin saber qué tenía nuestra hija"
+La incertidumbre es una de las cosas más difícil de llevar ante una enfermedad. En el caso de las #EnfermedadesRaras esta incertidumbre es siempre especialmente intensa y prolongada. 
+
+https://t.co/7kNi1pRGMP https://t.co/HtAvzxP6ti",
+"ReTweet: "False"},
+{"data": "Sun May 24 08:44:39 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "¿Conoces la Ataxia de Friedreich?
+
+Es un trastorno genético degenerativo que afecta al sistema nervioso y limita el movimiento. #Breakthroughs se acerca a los avances en biomarcadores para controlar su progresión
+
+👉🏻https://t.co/nGDUe1rYqJ (en 🇬🇧) #EnfermedadesRaras @NoInvisibles https://t.co/ARDfuqYR8U",
+"ReTweet: "False"},
+{"data": "Sun May 24 09:00:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "❗️ 9 de cada 10 personas con #enfermedadesraras han sufrido la paralización en la atención debido al #COVID19 
+
+🔹 Este dato lo sabemos gracias a tu colaboración en el Rare Barometer Voices de @eurordis
+
+🔸 Conoce más aquí: https://t.co/8rGSgUKdcJ https://t.co/3b13eH37e6",
+"ReTweet: "False"},
+{"data": "Sun May 24 09:12:27 +0000 2020",
+"name": "Elba",
+"screen_name": "Elba_99",
+"text": "Mi vida y la de los pacientes crónicos es una fase cero constante. 
+
+No nos olviden. #EnfermedadesRaras #NadaEsImposible #SinCienciaNoHayFuturo https://t.co/5XiRwQZLNG",
+"ReTweet: "False"},
+{"data": "Sun May 24 09:13:44 +0000 2020",
+"name": "Manu Pompe",
+"screen_name": "Aguazulpompe",
+"text": "Queda mucho camino por recorrer, pero vale la pena reconocer también lo conseguido en los últimos años en visibilidad y sensibilización social de las #EnfermedadesRaras.
+
+Los autobuses de Córdoba recordaron el Día Mundial de las MPS #MPSDAY2020 👏👏👏
+https://t.co/MXfrvQHLuO",
+"ReTweet: "True"},
+{"data": "Sun May 24 09:31:33 +0000 2020",
+"name": "Agencia 6 News",
+"screen_name": "agencia6news",
+"text": "Un bebé de Mutxamel (Alicante) necesita la ayuda de todos para salvar su vida
+
+#Salud #enfermedadesraras #EEUU #USA #Mutxamel #Alicante #Dios #infancia #solidaridad #ayuda #hospital #seguridadsocial #terapia #SindromeDeDonohue @eerr_es @ASolidariaERN 
+
+https://t.co/07S73nj1QA",
+"ReTweet: "False"},
+{"data": "Sun May 24 09:38:47 +0000 2020",
+"name": "Amanecer",
+"screen_name": "Mia_Amanecer",
+"text": "Un bebé de Mutxamel (Alicante) necesita la ayuda de todos para salvar su vida
+
+#Salud #enfermedadesraras #EEUU #USA #Mutxamel #Alicante #Dios #infancia #solidaridad #ayuda #hospital #seguridadsocial #terapia #SindromeDeDonohue @eerr_es @ASolidariaERN 
+
+https://t.co/07S73nj1QA",
+"ReTweet: "False"},
+{"data": "Sun May 24 09:48:40 +0000 2020",
+"name": "Agencia 6",
+"screen_name": "_Agencia6",
+"text": "Un bebé de Mutxamel (Alicante) necesita la ayuda de todos para salvar su vida
+
+#Salud #enfermedadesraras #EEUU #USA #Mutxamel #Alicante #Dios #infancia #solidaridad #ayuda #hospital #seguridadsocial #terapia #SindromeDeDonohue @eerr_es @ASolidariaERN 
+
+https://t.co/07S73nj1QA",
+"ReTweet: "False"},
+{"data": "Sun May 24 09:59:32 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "La vida se resume en pequeños ápices de felicidad. Lástima que haya gente que no sepa valorarlo. #EnfermedadesRaras https://t.co/qWdTknyKO3",
+"ReTweet: "False"},
+{"data": "Sun May 24 10:02:19 +0000 2020",
+"name": "Joan Rifà",
+"screen_name": "jrifav",
+"text": "#viladecavalls  es un pueblo cercano y con muchos nexos comunes con #ullastrell 
+Desde aquí agrademos el donativo de 604,80 € a la FUNDACIÓ MSD, por el importe recaudado en la recogida regalos-cabalgata de Reyes 2020
+▶️ https://t.co/XiKgznNqjl
+#ivetunacuramsd  #enfermedadesraras https://t.co/59w7QcoU3K",
+"ReTweet: "False"},
+{"data": "Sun May 24 10:23:58 +0000 2020",
+"name": "YONEMALINICA",
+"screen_name": "yonemalinica1",
+"text": "❗️ 9 de cada 10 personas con #enfermedadesraras han sufrido la paralización en la atención debido al #COVID19 
+
+🔹 Este dato lo sabemos gracias a tu colaboración en el Rare Barometer Voices de @eurordis
+
+🔸 Conoce más aquí: https://t.co/8rGSgUKdcJ https://t.co/3b13eH37e6",
+"ReTweet: "False"},
+{"data": "Sun May 24 10:33:27 +0000 2020",
+"name": "cmmmlg",
+"screen_name": "cmmmlg",
+"text": "¿Conoces la Ataxia de Friedreich?
+
+Es un trastorno genético degenerativo que afecta al sistema nervioso y limita el movimiento. #Breakthroughs se acerca a los avances en biomarcadores para controlar su progresión
+
+👉🏻https://t.co/nGDUe1rYqJ (en 🇬🇧) #EnfermedadesRaras @NoInvisibles https://t.co/ARDfuqYR8U",
+"ReTweet: "False"},
+{"data": "Sun May 24 10:47:17 +0000 2020",
+"name": "Sombradoble",
+"screen_name": "sombradoble",
+"text": "¿Conoces la Ataxia de Friedreich?
+
+Es un trastorno genético degenerativo que afecta al sistema nervioso y limita el movimiento. #Breakthroughs se acerca a los avances en biomarcadores para controlar su progresión
+
+👉🏻https://t.co/nGDUe1rYqJ (en 🇬🇧) #EnfermedadesRaras @NoInvisibles https://t.co/ARDfuqYR8U",
+"ReTweet: "False"},
+{"data": "Sun May 24 11:30:10 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las unidades específicas para #EnfermedadesRaras fundamentales para que éstas sean diagnosticadas. La SextaTV lo ejemplificó en el caso de Nil, con una mutación genética cuyo diagnóstico permite conocer la necesidad de un trasplante de médula.
+https://t.co/7PkMvcdR8x https://t.co/SQuQG5rnL5",
+"ReTweet: "False"},
+{"data": "Sun May 24 12:20:28 +0000 2020",
+"name": "Carmen Grajal",
+"screen_name": "cgm0301",
+"text": "Cómo han pasado el confinamiento muchos pacientes de #enfermedadesraras...
+
+https://t.co/ETvPUPkPOg",
+"ReTweet: "False"},
+{"data": "Sun May 24 12:27:43 +0000 2020",
+"name": "Pilar Pérez Peña",
+"screen_name": "pilarpe23800441",
+"text": ""Estuvimos 3 años de un sitio a otro sin saber qué tenía nuestra hija"
+La incertidumbre es una de las cosas más difícil de llevar ante una enfermedad. En el caso de las #EnfermedadesRaras esta incertidumbre es siempre especialmente intensa y prolongada. 
+
+https://t.co/7kNi1pRGMP https://t.co/HtAvzxP6ti",
+"ReTweet: "False"},
+{"data": "Sun May 24 12:42:00 +0000 2020",
+"name": "Sergio BarreraFalcon",
+"screen_name": "SBarrerafalcon",
+"text": "❗️ 9 de cada 10 personas con #enfermedadesraras han sufrido la paralización en la atención debido al #COVID19 
+
+🔹 Este dato lo sabemos gracias a tu colaboración en el Rare Barometer Voices de @eurordis
+
+🔸 Conoce más aquí: https://t.co/8rGSgUKdcJ https://t.co/3b13eH37e6",
+"ReTweet: "False"},
+{"data": "Sun May 24 12:46:28 +0000 2020",
+"name": "FMF ESPAÑA",
+"screen_name": "FMFSPAIN",
+"text": "Las #EnfermedadesRaras no lo son tanto. Se les llama raras porque cada una afecta a pocas personas, pero en conjunto es muchísima la gente  que las padece. ¿Sabías que afectan al 7% de la población mundial? https://t.co/WyeXnRHSds",
+"ReTweet: "False"},
+{"data": "Sun May 24 12:46:56 +0000 2020",
+"name": "SouthGenetics Chile",
+"screen_name": "SouthGenetics",
+"text": "Las #EnfermedadesRaras no lo son tanto. Se les llama raras porque cada una afecta a pocas personas, pero en conjunto es muchísima la gente  que las padece. ¿Sabías que afectan al 7% de la población mundial? https://t.co/WyeXnRHSds",
+"ReTweet: "False"},
+{"data": "Sun May 24 12:56:55 +0000 2020",
+"name": "Ariadna",
+"screen_name": "Ariadnatgn",
+"text": ""Estuvimos 3 años de un sitio a otro sin saber qué tenía nuestra hija"
+La incertidumbre es una de las cosas más difícil de llevar ante una enfermedad. En el caso de las #EnfermedadesRaras esta incertidumbre es siempre especialmente intensa y prolongada. 
+
+https://t.co/7kNi1pRGMP https://t.co/HtAvzxP6ti",
+"ReTweet: "False"},
+{"data": "Sun May 24 13:12:24 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": ""RARAS NO ES LA PERSONA, RARA ES LA ENFERMEDAD"
+Vídeo de @FEDER_ONG en el que asociaciones, familias, deportistas, centros educativos y actores del País Vasco se unen para dar voz a más de tres millones de personas que conviven con #enfermedadesraras
+
+https://t.co/iZzSQRbxI9",
+"ReTweet: "False"},
+{"data": "Sun May 24 13:12:31 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "La Federación Española de #EnfermedadesRaras @FEDER_ONG anuncia ayudas para reanudar la actividad de centros terapéuticos y de atención temprana de #fisioterapia, #logopedia, #TerapiaOcupacional o #Enfermería de pacientes con enfermedades minoritarias.
+https://t.co/JqF9G6h0Fl",
+"ReTweet: "False"},
+{"data": "Sun May 24 13:12:48 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Dentro de muy poco se cumplirá un año desde que @FEDER_ONG nos brindó la oportunidad de participar en el vídeo de su XX aniversario y comenzar con las grabaciones. Gracias por habernos ayudado siempre tanto. AERyOH siempre estará a tu lado y muy agradecido #somosfeder 🍀💜 https://t.co/XlGo8Ocz7o",
+"ReTweet: "False"},
+{"data": "Sun May 24 13:50:07 +0000 2020",
+"name": "Dra.Beatríz Alvarado",
+"screen_name": "71mdf",
+"text": "¿Conoces la Ataxia de Friedreich?
+
+Es un trastorno genético degenerativo que afecta al sistema nervioso y limita el movimiento. #Breakthroughs se acerca a los avances en biomarcadores para controlar su progresión
+
+👉🏻https://t.co/nGDUe1rYqJ (en 🇬🇧) #EnfermedadesRaras @NoInvisibles https://t.co/ARDfuqYR8U",
+"ReTweet: "False"},
+{"data": "Sun May 24 13:52:05 +0000 2020",
+"name": "Dra.Beatríz Alvarado",
+"screen_name": "71mdf",
+"text": "A diferencia de otros tratamientos, la #TerapiaGénica actúa sobre la causa, detiene la evolución y redefine las posibilidades de los pacientes
+
+Ignacio pascual, jefe de Neuropediatría de La Paz, en @IMMedicoHosp sobre el abordaje de las #EnfermedadesRaras
+
+https://t.co/odnHh4b3m3 https://t.co/cUhyzcBalI",
+"ReTweet: "False"},
+{"data": "Sun May 24 13:59:28 +0000 2020",
+"name": "José L Galiano Saez",
+"screen_name": "JosLGalianoSae1",
+"text": "A diferencia de otros tratamientos, la #TerapiaGénica actúa sobre la causa, detiene la evolución y redefine las posibilidades de los pacientes
+
+Ignacio pascual, jefe de Neuropediatría de La Paz, en @IMMedicoHosp sobre el abordaje de las #EnfermedadesRaras
+
+https://t.co/odnHh4b3m3 https://t.co/cUhyzcBalI",
+"ReTweet: "False"},
+{"data": "Sun May 24 14:01:11 +0000 2020",
+"name": "José L Galiano Saez",
+"screen_name": "JosLGalianoSae1",
+"text": "¿Conoces la Ataxia de Friedreich?
+
+Es un trastorno genético degenerativo que afecta al sistema nervioso y limita el movimiento. #Breakthroughs se acerca a los avances en biomarcadores para controlar su progresión
+
+👉🏻https://t.co/nGDUe1rYqJ (en 🇬🇧) #EnfermedadesRaras @NoInvisibles https://t.co/ARDfuqYR8U",
+"ReTweet: "False"},
+{"data": "Sun May 24 14:20:03 +0000 2020",
+"name": "Guerreros Púrpura",
+"screen_name": "guerreropurpura",
+"text": "Hoy, 24 de mayo, es el #DiaNacionalDeLaEpilepsia 
+#soyguerreropurpura
+#enfermedadesraras https://t.co/7NNrcBZiZ7",
+"ReTweet: "False"},
+{"data": "Sun May 24 14:45:08 +0000 2020",
+"name": "rosa",
+"screen_name": "rosadomenech51",
+"text": ""Estuvimos 3 años de un sitio a otro sin saber qué tenía nuestra hija"
+La incertidumbre es una de las cosas más difícil de llevar ante una enfermedad. En el caso de las #EnfermedadesRaras esta incertidumbre es siempre especialmente intensa y prolongada. 
+
+https://t.co/7kNi1pRGMP https://t.co/HtAvzxP6ti",
+"ReTweet: "False"},
+{"data": "Sun May 24 14:53:21 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᔕOᒪO ᕼᗩY ᑫᑌE ᐯEᖇ. 🧿🙏🏻
+.
+.
+.
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post #myownstyle… https://t.co/ME6tuyGpMK",
+"ReTweet: "False"},
+{"data": "Sun May 24 15:14:01 +0000 2020",
+"name": "rodcarluis",
+"screen_name": "rodcarluis",
+"text": ""RARAS NO ES LA PERSONA, RARA ES LA ENFERMEDAD"
+Vídeo de @FEDER_ONG en el que asociaciones, familias, deportistas, centros educativos y actores del País Vasco se unen para dar voz a más de tres millones de personas que conviven con #enfermedadesraras
+
+https://t.co/iZzSQRbxI9",
+"ReTweet: "False"},
+{"data": "Sun May 24 15:40:11 +0000 2020",
+"name": "Antoni Montserrat Moliner",
+"screen_name": "ToniMontserratM",
+"text": "«La investigación es esa esperanza que necesitan las personas con #EnfermedadesRaras, aquellas que todavía no se conocen bien y a las que es difícil acceder a un diagnóstico»
+
+Patricia Arias, responsable de Investigación y Conocimiento de @FEDER_ONG
+https://t.co/LdFWX3dZQT https://t.co/L0nCEvwOIg",
+"ReTweet: "False"},
+{"data": "Sun May 24 16:07:39 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "❗️ 9 de cada 10 personas con #enfermedadesraras han sufrido la paralización en la atención debido al #COVID19 
+
+🔹 Este dato lo sabemos gracias a tu colaboración en el Rare Barometer Voices de @eurordis
+
+🔸 Conoce más aquí: https://t.co/8rGSgUKdcJ https://t.co/3b13eH37e6",
+"ReTweet: "False"},
+{"data": "Sun May 24 16:36:09 +0000 2020",
+"name": "Exitosa Noticias",
+"screen_name": "exitosape",
+"text": "🔵🔴 Según la Organización Mundial de la Salud (#OMS), existen alrededor de 7,000 #EnfermedadesRaras que afectan aproximadamente al 7% de la población mundial.
+https://t.co/j0OnvUj9eB",
+"ReTweet: "False"},
+{"data": "Sun May 24 17:22:31 +0000 2020",
+"name": "Alicia",
+"screen_name": "aliciagsxr1976",
+"text": "#viladecavalls  es un pueblo cercano y con muchos nexos comunes con #ullastrell 
+Desde aquí agrademos el donativo de 604,80 € a la FUNDACIÓ MSD, por el importe recaudado en la recogida regalos-cabalgata de Reyes 2020
+▶️ https://t.co/XiKgznNqjl
+#ivetunacuramsd  #enfermedadesraras https://t.co/59w7QcoU3K",
+"ReTweet: "False"},
+{"data": "Sun May 24 17:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+El pasado 15 de Mayo fue Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia. @MPSpapas 
+https://t.co/UKqpzJMOux https://t.co/Hdx1c7kv9M",
+"ReTweet: "False"},
+{"data": "Sun May 24 17:36:25 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Más del 70 por ciento de las #enfermedadesraras son d origen genético, de forma q gran parte de su diagnóstico depende d esta especialidad. "Hoy por hoy, los datos demuestran q la mitad d las familias con enfermedades raras ha sufrido un retraso en su diagnóstico d más de 4 años.",
+"ReTweet: "False"},
+{"data": "Sun May 24 17:37:19 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "#EnfermedadesRaras
+
+El pasado 15 de Mayo fue Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia. @MPSpapas 
+https://t.co/UKqpzJMOux https://t.co/Hdx1c7kv9M",
+"ReTweet: "False"},
+{"data": "Sun May 24 18:08:09 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/siSsVEOqjx Gracias a @FEBHI_ORG @pfizer_spain #enfermedadesraras #oms",
+"ReTweet: "False"},
+{"data": "Sun May 24 18:56:52 +0000 2020",
+"name": "juan miguel",
+"screen_name": "juanmiguelmb07",
+"text": "Dentro de muy poco se cumplirá un año desde que @FEDER_ONG nos brindó la oportunidad de participar en el vídeo de su XX aniversario y comenzar con las grabaciones. Gracias por habernos ayudado siempre tanto. AERyOH siempre estará a tu lado y muy agradecido #somosfeder 🍀💜 https://t.co/XlGo8Ocz7o",
+"ReTweet: "False"},
+{"data": "Sun May 24 19:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Desescalada y sus fases no llegan igual a todo el mundo. 
+
+Organizaciones denuncian que el confinamiento sigue para las personas con #EnfermedadesRaras quienes, a pesar de poder ya salir a la calle y recibir terapias, no lo hacen por miedo al contagio.
+https://t.co/Z1UAwXMStU",
+"ReTweet: "False"},
+{"data": "Sun May 24 19:13:07 +0000 2020",
+"name": "Jero",
+"screen_name": "jero_ut",
+"text": "Desescalada y sus fases no llegan igual a todo el mundo. 
+
+Organizaciones denuncian que el confinamiento sigue para las personas con #EnfermedadesRaras quienes, a pesar de poder ya salir a la calle y recibir terapias, no lo hacen por miedo al contagio.
+https://t.co/Z1UAwXMStU",
+"ReTweet: "False"},
+{"data": "Sun May 24 19:22:29 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "Desescalada y sus fases no llegan igual a todo el mundo. 
+
+Organizaciones denuncian que el confinamiento sigue para las personas con #EnfermedadesRaras quienes, a pesar de poder ya salir a la calle y recibir terapias, no lo hacen por miedo al contagio.
+https://t.co/Z1UAwXMStU",
+"ReTweet: "False"},
+{"data": "Sun May 24 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/TNRKQhZjrN Thanks to @MPSpapas @Foreva_Strong_ @CUREUsher #raredisease #medicalresearch",
+"ReTweet: "False"},
+{"data": "Sun May 24 19:46:38 +0000 2020",
+"name": "Lurdes Planas",
+"screen_name": "lulu_planas",
+"text": ""Son necesarias muchas medidas para el abordaje y la investigación de las #EnfermedadesRaras, pero si he de señalar una en concreto es urgente que se ponga en marcha el Plan Nacional de Medicina Genómica."
+
+Pablo Lapunzina, director científico del CIBERER
+https://t.co/ZLSaXTKq4O",
+"ReTweet: "False"},
