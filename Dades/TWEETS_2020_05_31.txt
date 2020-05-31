@@ -1,0 +1,496 @@
+{"data": "Sat May 30 22:00:38 +0000 2020",
+"name": "La Última Enfermera",
+"screen_name": "ultimaenfermera",
+"text": "🃏 "Ponte el pijama de enfermera e intenta sobrevivir a un turno interminable. ¿Conseguirás acabar tu turno?" ¿Conoces #Laultimaenfermera? Es una novedosa iniciativa de dos enfermeros que han ideado un juego de cartas que apoya además la investigación de las #enfermedadesraras. https://t.co/gRi7A3jsr1",
+"ReTweet: "True"},
+{"data": "Sat May 30 22:01:35 +0000 2020",
+"name": "La Última Enfermera",
+"screen_name": "ultimaenfermera",
+"text": "Habéis visto esto???
+
+#LaUltimaEnfermera juego de cartas 👏🏻👏🏻👏🏻👏🏻 https://t.co/W2CG4jfIVl",
+"ReTweet: "True"},
+{"data": "Sat May 30 22:03:21 +0000 2020",
+"name": "Ana",
+"screen_name": "Molletillo",
+"text": "#EnfermedadesRaras: 
+- 70 % pacientes o cuidadores han abandonado o reducido su trabajo.  
+- 80 % no tiene tiempo para tareas diarias 
+- 3 veces más afectados por infelicidad o depresión 
+- &gt;66% de cuidadores pasan más de dos horas diarias dedicadas a la enfermedad (y mucho más)",
+"ReTweet: "True"},
+{"data": "Sat May 30 22:22:28 +0000 2020",
+"name": "Conociendo a Wally",
+"screen_name": "ConociendoaWall",
+"text": "7 de cada 10 pacientes con enfermedades poco frecuentes y sus cuidadores han debido abandonar o reducir su actividad profesional a causa de ésta.
+
+Más datos sobre el impacto de las #EnfermedadesRaras en la vida diaria en esta infografía EURODIS
+https://t.co/DPa5nLQ6o5 https://t.co/WQqCA1gmTi",
+"ReTweet: "False"},
+{"data": "Sat May 30 22:24:45 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "#EnfermedadesRaras: 
+- 70 % pacientes o cuidadores han abandonado o reducido su trabajo.  
+- 80 % no tiene tiempo para tareas diarias 
+- 3 veces más afectados por infelicidad o depresión 
+- &gt;66% de cuidadores pasan más de dos horas diarias dedicadas a la enfermedad (y mucho más) https://t.co/yR61QxK3IV",
+"ReTweet: "True"},
+{"data": "Sat May 30 22:42:30 +0000 2020",
+"name": "Noe.",
+"screen_name": "no3liam",
+"text": "¿En qué fase decís que los enfermos crónicos dejamos de serlo? #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sat May 30 22:53:09 +0000 2020",
+"name": "María Ramírez Sánchez",
+"screen_name": "lovenursingmery",
+"text": "🎴Yo ya tengo mi pack⤵️ @ultimaenfermera #LaUltimaEnfermera⁉️
+💯Proyecto de @soriano_p
+ y @adriansarriac 🔝
+
+🔬Consigue tu juego solidario y ayuda en la investigación a las #EnfermedadesRaras en @verkami 🔗https://t.co/4YuI86rLPW https://t.co/PVzvxsW6hz https://t.co/sK5N6L0AVd",
+"ReTweet: "False"},
+{"data": "Sat May 30 23:07:57 +0000 2020",
+"name": "Elwis Durán",
+"screen_name": "narude03",
+"text": ".@FEDER_ONG pide el reconocimiento urgente de Genética Clínica como especialidad de Medicina.
+
+El 70% de las #EnfermedadesRaras son de origen genético. FEDER considera que el número y la formación de profesionales dedicados a este área son insuficientes.
+https://t.co/TH1cpFB1jm",
+"ReTweet: "False"},
+{"data": "Sun May 31 00:12:44 +0000 2020",
+"name": "Elwis Durán",
+"screen_name": "narude03",
+"text": "7 de cada 10 pacientes con enfermedades poco frecuentes y sus cuidadores han debido abandonar o reducir su actividad profesional a causa de ésta.
+
+Más datos sobre el impacto de las #EnfermedadesRaras en la vida diaria en esta infografía EURODIS
+https://t.co/DPa5nLQ6o5 https://t.co/WQqCA1gmTi",
+"ReTweet: "False"},
+{"data": "Sun May 31 03:57:54 +0000 2020",
+"name": "Melisa Quigley",
+"screen_name": "MQuigley1963",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Sun May 31 05:44:35 +0000 2020",
+"name": "Fernando Gomez",
+"screen_name": "dekno69",
+"text": ".@FEDER_ONG pide el reconocimiento urgente de Genética Clínica como especialidad de Medicina.
+
+El 70% de las #EnfermedadesRaras son de origen genético. FEDER considera que el número y la formación de profesionales dedicados a este área son insuficientes.
+https://t.co/TH1cpFB1jm",
+"ReTweet: "False"},
+{"data": "Sun May 31 06:24:29 +0000 2020",
+"name": "María Sáenz Jalón",
+"screen_name": "JalonSaenz",
+"text": "🃏 "Ponte el pijama de enfermera e intenta sobrevivir a un turno interminable. ¿Conseguirás acabar tu turno?" ¿Conoces #Laultimaenfermera? Es una novedosa iniciativa de dos enfermeros que han ideado un juego de cartas que apoya además la investigación de las #enfermedadesraras.",
+"ReTweet: "True"},
+{"data": "Sun May 31 06:46:14 +0000 2020",
+"name": "Alfredo Corell",
+"screen_name": "alfredocorell",
+"text": "Yo ya he reservado mi pack de #laultimaenfermera. Además de ser un proyecto creativo de una profesión necesaria y maltratada #enfermería se contribuye a la investigación en #enfermedadesraras. ¿te apuntas? https://t.co/4NPdyR6UIs https://t.co/0tL0SrNFmb",
+"ReTweet: "False"},
+{"data": "Sun May 31 06:55:07 +0000 2020",
+"name": "Fulgencio Castro",
+"screen_name": "FulgencioCastro",
+"text": "Yo ya he reservado mi pack de #laultimaenfermera. Además de ser un proyecto creativo de una profesión necesaria y maltratada #enfermería se contribuye a la investigación en #enfermedadesraras. ¿te apuntas? https://t.co/4NPdyR6UIs https://t.co/0tL0SrNFmb",
+"ReTweet: "False"},
+{"data": "Sun May 31 06:56:46 +0000 2020",
+"name": "Maria :)",
+"screen_name": "nursingEFyC",
+"text": "Yo ya he reservado mi pack de #laultimaenfermera. Además de ser un proyecto creativo de una profesión necesaria y maltratada #enfermería se contribuye a la investigación en #enfermedadesraras. ¿te apuntas? https://t.co/4NPdyR6UIs https://t.co/0tL0SrNFmb",
+"ReTweet: "False"},
+{"data": "Sun May 31 06:59:17 +0000 2020",
+"name": "melantropía",
+"screen_name": "melantropia",
+"text": "Yo ya he reservado mi pack de #laultimaenfermera. Además de ser un proyecto creativo de una profesión necesaria y maltratada #enfermería se contribuye a la investigación en #enfermedadesraras. ¿te apuntas? https://t.co/4NPdyR6UIs https://t.co/0tL0SrNFmb",
+"ReTweet: "False"},
+{"data": "Sun May 31 07:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“El 85% de problemas de los pacientes con #EnfermedadesRaras tiene más que ver con la coordinación entre profesionales y pacientes que con cualquier tipo de técnica diagnóstica”
+
+Jesús Ignacio Meco, presidente del Instituto de Enfermedades Poco Frecuentes
+https://t.co/TYpqIloskJ https://t.co/GdB5WKABcD",
+"ReTweet: "False"},
+{"data": "Sun May 31 07:12:10 +0000 2020",
+"name": "Mª Jesús Gil Araújo",
+"screen_name": "chus40y",
+"text": "“El 85% de problemas de los pacientes con #EnfermedadesRaras tiene más que ver con la coordinación entre profesionales y pacientes que con cualquier tipo de técnica diagnóstica”
+
+Jesús Ignacio Meco, presidente del Instituto de Enfermedades Poco Frecuentes
+https://t.co/TYpqIloskJ https://t.co/GdB5WKABcD",
+"ReTweet: "False"},
+{"data": "Sun May 31 07:36:51 +0000 2020",
+"name": "Pauka Vidal Torres 🌈🕊",
+"screen_name": "trusketa1717",
+"text": "¿En qué fase decís que los enfermos crónicos dejamos de serlo? #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun May 31 07:45:27 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/xs4BOwgjns Thanks to @Primary_Immune @GlobalGenes @paulinemacco #raredisease #immunology",
+"ReTweet: "False"},
+{"data": "Sun May 31 07:55:27 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "“El 85% de problemas de los pacientes con #EnfermedadesRaras tiene más que ver con la coordinación entre profesionales y pacientes que con cualquier tipo de técnica diagnóstica”
+
+Jesús Ignacio Meco, presidente del Instituto de Enfermedades Poco Frecuentes
+https://t.co/TYpqIloskJ https://t.co/GdB5WKABcD",
+"ReTweet: "False"},
+{"data": "Sun May 31 08:00:08 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "Hallan una nueva forma de transportar eficazmente fármacos al cerebro. Podría ofrecer un nuevo tratamiento para  #Niemannpick tipo A 
+#lisosomales #EnfermedadesRaras https://t.co/qBuGFyAhQo a través de @COPE",
+"ReTweet: "False"},
+{"data": "Sun May 31 08:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "✋ 90% personas con #EnfermedadesRaras han visto paralizada su atención por crisis #COVID19
+
+👎 60% considera esta interrupción perjudicial para su salud o la salud de la persona que cuidan.
+
+Según resultados de encuesta multipaís EURODIS vía @FEDER_ONG 
+https://t.co/oYDyLk89RO https://t.co/TYzvKoOyPe",
+"ReTweet: "False"},
+{"data": "Sun May 31 08:30:31 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "¿En qué fase decís que los enfermos crónicos dejamos de serlo? #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun May 31 08:33:57 +0000 2020",
+"name": "Rafa_Vila",
+"screen_name": "RafaVila74",
+"text": "Yo ya he reservado mi pack de #laultimaenfermera. Además de ser un proyecto creativo de una profesión necesaria y maltratada #enfermería se contribuye a la investigación en #enfermedadesraras. ¿te apuntas? https://t.co/4NPdyR6UIs https://t.co/0tL0SrNFmb",
+"ReTweet: "False"},
+{"data": "Sun May 31 08:40:24 +0000 2020",
+"name": "Marisol Garcia Pulgar",
+"screen_name": "marisolgpulgar",
+"text": "✋ 90% personas con #EnfermedadesRaras han visto paralizada su atención por crisis #COVID19
+
+👎 60% considera esta interrupción perjudicial para su salud o la salud de la persona que cuidan.
+
+Según resultados de encuesta multipaís EURODIS vía @FEDER_ONG 
+https://t.co/oYDyLk89RO https://t.co/TYzvKoOyPe",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:04:04 +0000 2020",
+"name": "Manuel Armayones Ruiz",
+"screen_name": "armayones",
+"text": "❗️ El 94% de familias con #enfermedadesraras en #España han visto interrumpida la atención de su patología con motivo de la pandemia 
+
+🔹 Conoce más aquí: https://t.co/1XRLlAdSYx https://t.co/ycRzEKTEtI",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:05:14 +0000 2020",
+"name": "Daniel Pellicer Roig",
+"screen_name": "Dani_Pellicer",
+"text": "7 de cada 10 pacientes con enfermedades poco frecuentes y sus cuidadores han debido abandonar o reducir su actividad profesional a causa de ésta.
+
+Más datos sobre el impacto de las #EnfermedadesRaras en la vida diaria en esta infografía EURODIS
+https://t.co/DPa5nLQ6o5 https://t.co/WQqCA1gmTi",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:05:21 +0000 2020",
+"name": "Xemio",
+"screen_name": "Xemio_org",
+"text": "❗️ El 94% de familias con #enfermedadesraras en #España han visto interrumpida la atención de su patología con motivo de la pandemia 
+
+🔹 Conoce más aquí: https://t.co/1XRLlAdSYx https://t.co/ycRzEKTEtI",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:19:14 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:21:35 +0000 2020",
+"name": "Rosario",
+"screen_name": "siscarrosariov",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:22:08 +0000 2020",
+"name": "Rafael Vázquez Manrique",
+"screen_name": "monkeyplatillos",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 09:27:00 +0000 2020",
+"name": "Pilar Argente Navarro",
+"screen_name": "argente_pilar",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 10:00:48 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Mi antiguo profesor de historia del colegio me mandó este email (fue antes del confinamiento, obvio). 
+
+“Poesía” antes de la clase de historia. Nada mal, ¿no? #DeQuéDolorSonTusOjos #EnfermedadesRaras https://t.co/482qeDCUmV",
+"ReTweet: "False"},
+{"data": "Sun May 31 10:02:13 +0000 2020",
+"name": "Rafael Vázquez Manrique",
+"screen_name": "monkeyplatillos",
+"text": "Mi antiguo profesor de historia del colegio me mandó este email (fue antes del confinamiento, obvio). 
+
+“Poesía” antes de la clase de historia. Nada mal, ¿no? #DeQuéDolorSonTusOjos #EnfermedadesRaras https://t.co/482qeDCUmV",
+"ReTweet: "False"},
+{"data": "Sun May 31 10:39:29 +0000 2020",
+"name": "Sandra Espiñeira",
+"screen_name": "SandraEspineira",
+"text": "✋ 90% personas con #EnfermedadesRaras han visto paralizada su atención por crisis #COVID19
+
+👎 60% considera esta interrupción perjudicial para su salud o la salud de la persona que cuidan.
+
+Según resultados de encuesta multipaís EURODIS vía @FEDER_ONG 
+https://t.co/oYDyLk89RO https://t.co/TYzvKoOyPe",
+"ReTweet: "False"},
+{"data": "Sun May 31 11:51:01 +0000 2020",
+"name": "La Última Enfermera",
+"screen_name": "ultimaenfermera",
+"text": "@enfermeriayvacu Muchas gracias por compartir‼️
+
+Antes del 3 de julio tenemos que conseguir el objetivo de @verkami si no el proyecto no verá la luz.
+
+Juntos apoyaremos a la investigación en las #enfermedadesraras 🥰
+
+#LaUltimaEnfermera https://t.co/idz2pG6npV",
+"ReTweet: "False"},
+{"data": "Sun May 31 11:54:55 +0000 2020",
+"name": "Juan Alejo Depeche Mode 🇪🇸🏃‍♂️🇪🇸",
+"screen_name": "pollitoalejo25",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Sun May 31 12:03:59 +0000 2020",
+"name": "@PinoEpsi 🏁",
+"screen_name": "PinoEpsi",
+"text": "@LEONBENAVENTE ya veis, ahí la tenéis con su enfermedad crónica y rara, sintiendo vuestra música, que es también un poco nuestra, gracias y abrazos,esperamos veros otra vez pronto #lacarreradeJara #disqueratosiscongenita #enfermedadesraras https://t.co/wniTAbr2Yq",
+"ReTweet: "False"},
+{"data": "Sun May 31 12:30:59 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 12:38:15 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Estos son los secundarios. Imaginaros los diagnósticos primarios. #EnfermedadesRaras #NadaEsImposible https://t.co/DrV1U3BUPL",
+"ReTweet: "False"},
+{"data": "Sun May 31 13:05:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/Kd5Ql7dlwX",
+"ReTweet: "False"},
+{"data": "Sun May 31 13:21:47 +0000 2020",
+"name": "Juan Carr",
+"screen_name": "HambreCero",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/Kd5Ql7dlwX",
+"ReTweet: "False"},
+{"data": "Sun May 31 13:58:19 +0000 2020",
+"name": "lia alexandrescu",
+"screen_name": "liinlove1",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/Kd5Ql7dlwX",
+"ReTweet: "False"},
+{"data": "Sun May 31 14:16:48 +0000 2020",
+"name": "marro75",
+"screen_name": "pmarro75",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 14:40:33 +0000 2020",
+"name": "Ana",
+"screen_name": "anamolando",
+"text": "❗️El 94% de familias con #enfermedadesraras en #España han visto interrumpida la atención de su patología por la pandemia 
+
+🔹Especialmente en terapias, pruebas diagnósticas, consultas con especialistas e intervenciones quirúrgicas.
+
+🔸Conoce más aquí: https://t.co/1XRLlAdSYx https://t.co/GCSxWsx2Gv",
+"ReTweet: "False"},
+{"data": "Sun May 31 14:47:35 +0000 2020",
+"name": "Raquel Amigo",
+"screen_name": "amigo_raquel",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 14:52:48 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "#enfermedadesraras #raredisease #anemiadefanconi #paraparesiaespastica",
+"ReTweet: "True"},
+{"data": "Sun May 31 15:01:38 +0000 2020",
+"name": "Fundación Querer",
+"screen_name": "FundacionQuerer",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Sun May 31 15:19:49 +0000 2020",
+"name": "GelaLeonCervera",
+"screen_name": "piagela",
+"text": "#EnfermedadesRaras  #Spinraza para Andrea. https://t.co/G0nTb2NaL7",
+"ReTweet: "False"},
+{"data": "Sun May 31 15:19:59 +0000 2020",
+"name": "GelaLeonCervera",
+"screen_name": "piagela",
+"text": "Andy puede tener una mejor calidad de vida , seguimos en busca de su medicamento #spinraza ,por amor a Dios suplicamos ayuda .
+
+@ectorjaime @biogen  @BeatrizGMuller @lopezobrador_  @Tu_IMSS @SSalud_mx @El_Universal_Mx  #AME   #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun May 31 16:12:01 +0000 2020",
+"name": "Ernesto",
+"screen_name": "princesamia2016",
+"text": "💻50% pacientes con #EnfermedadesRaras o familiares han participado en consultas en línea / telemedicina durante crisis #Covid19. 
+☝️ 20% lo hicieron por 1ª vez. 
+👍️90% consideró la experiencia bastante o muy útil.
+
+Según datos de la encuesta multipaís de EURODIS https://t.co/K8MLNltbSI",
+"ReTweet: "False"},
+{"data": "Sun May 31 16:55:03 +0000 2020",
+"name": "Moritz García",
+"screen_name": "garcia_moritz",
+"text": "@ASEMMadrid 
+@Federacion_ASEM 
+
+#Ayuda 
+#Solidaridad
+#Difunde
+#enfermedadesraras
+#enfermedadesneuromusculares",
+"ReTweet: "True"},
+{"data": "Sun May 31 17:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Primeros resultados de encuesta EURODIS sobre impacto crisis #Covid19 en pacientes con #EnfermedadesRaras y familiares
+
+👉+50% vieron cirugía/trasplantes programados cancelados o postpuestos
+👉80% en el caso de sus citas para terapias de rehabilitación 
+
+https://t.co/oYDyLk89RO https://t.co/lGMdXASSzW",
+"ReTweet: "False"},
+{"data": "Sun May 31 17:44:29 +0000 2020",
+"name": "Isa",
+"screen_name": "imds612",
+"text": "¿En qué fase decís que los enfermos crónicos dejamos de serlo? #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun May 31 17:51:23 +0000 2020",
+"name": "AERyOH",
+"screen_name": "AsociaAeryoh",
+"text": ""@FEDER_ONG para nosotros ha sido y es una herramienta necesaria, imprescindible" 
+Por ello @AsociaAeryoh siempre estará a vuestra disposición y a la de todos los que formamos esta gran familia. Solo unidos podremos seguir avanzando. #AERyOHESFEDER #somosFEDER 🍀💜 https://t.co/a8sDAmR66f",
+"ReTweet: "False"},
+{"data": "Sun May 31 17:56:12 +0000 2020",
+"name": "Victor Rodriguez",
+"screen_name": "Victor_A_R_R_",
+"text": ""@FEDER_ONG para nosotros ha sido y es una herramienta necesaria, imprescindible" 
+Por ello @AsociaAeryoh siempre estará a vuestra disposición y a la de todos los que formamos esta gran familia. Solo unidos podremos seguir avanzando. #AERyOHESFEDER #somosFEDER 🍀💜 https://t.co/a8sDAmR66f",
+"ReTweet: "False"},
+{"data": "Sun May 31 18:08:09 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/QLAMFSwCwx Gracias a @eerr_es @RarasReales @AsmdSpain #enfermedadesraras #díamundialsintabaco",
+"ReTweet: "False"},
+{"data": "Sun May 31 18:18:11 +0000 2020",
+"name": "@dolor-in",
+"screen_name": "dolor_in",
+"text": "A todas las asociaciones de niños os presentamos está encuesta, para valorar la intensidad del #dolorcrónico en los niños, durante el confinamiento #COVID19
+@NoInvisibles
+@SEPEAP
+#FMF 
+#Autoinflamatorios 
+#Dermatomiositis #XFragil
+#EnfermedadesRaras 
+⏬⏬
+https://t.co/HlW8SeQkcL",
+"ReTweet: "False"},
+{"data": "Sun May 31 18:28:26 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "A todas las asociaciones de niños os presentamos está encuesta, para valorar la intensidad del #dolorcrónico en los niños, durante el confinamiento #COVID19
+@NoInvisibles
+@SEPEAP
+#FMF 
+#Autoinflamatorios 
+#Dermatomiositis #XFragil
+#EnfermedadesRaras 
+⏬⏬
+https://t.co/HlW8SeQkcL",
+"ReTweet: "False"},
+{"data": "Sun May 31 19:12:40 +0000 2020",
+"name": "Felipe Aliaga",
+"screen_name": "faliagav",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 19:19:51 +0000 2020",
+"name": "Enferm Menkes Chile",
+"screen_name": "MenkesChile",
+"text": ""@FEDER_ONG para nosotros ha sido y es una herramienta necesaria, imprescindible" 
+Por ello @AsociaAeryoh siempre estará a vuestra disposición y a la de todos los que formamos esta gran familia. Solo unidos podremos seguir avanzando. #AERyOHESFEDER #somosFEDER 🍀💜 https://t.co/a8sDAmR66f",
+"ReTweet: "False"},
+{"data": "Sun May 31 19:22:33 +0000 2020",
+"name": "FENPOF CHILE 🇨🇱",
+"screen_name": "fenpofChile",
+"text": ""@FEDER_ONG para nosotros ha sido y es una herramienta necesaria, imprescindible" 
+Por ello @AsociaAeryoh siempre estará a vuestra disposición y a la de todos los que formamos esta gran familia. Solo unidos podremos seguir avanzando. #AERyOHESFEDER #somosFEDER 🍀💜 https://t.co/a8sDAmR66f",
+"ReTweet: "False"},
+{"data": "Sun May 31 19:27:10 +0000 2020",
+"name": "Ainhoa Notario Fernández",
+"screen_name": "AinhoaNotarioF",
+"text": "Gracias @FEDER_ONG por siempre estar a nuestro lado. 🍀💜 #somosFEDER #AERYOHESFEDER",
+"ReTweet: "True"},
+{"data": "Sun May 31 19:35:59 +0000 2020",
+"name": "Pilar Pérez Peña",
+"screen_name": "pilarpe23800441",
+"text": "“El 85% de problemas de los pacientes con #EnfermedadesRaras tiene más que ver con la coordinación entre profesionales y pacientes que con cualquier tipo de técnica diagnóstica”
+
+Jesús Ignacio Meco, presidente del Instituto de Enfermedades Poco Frecuentes
+https://t.co/TYpqIloskJ https://t.co/GdB5WKABcD",
+"ReTweet: "False"},
+{"data": "Sun May 31 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/W4A8AzVRl4 Thanks to @VivekSubbiah #raredisease #lifechanging",
+"ReTweet: "False"},
+{"data": "Sun May 31 20:09:54 +0000 2020",
+"name": "Mark Vermattian",
+"screen_name": "MarkVermattian",
+"text": "Las #EnfermedadesRaras son aquellas enfermedades cuya prevalencia es baja (aprox 5 casos x cada 10.000 personas) Según la @opsoms existen entre 5.000 y 8.000 enfermedades raras diferentes que afectan a entre 27 y 36 millones de personas:
+https://t.co/8sGZAaSEMk https://t.co/VmdyfhPFng",
+"ReTweet: "False"},
+{"data": "Sun May 31 20:46:35 +0000 2020",
+"name": "BIOBANCO LA FE",
+"screen_name": "BiobancoLaFe",
+"text": "¿Acabo de salir en noticias de México? Evidentemente. #EnfermedadesRaras #NadaEsImposible https://t.co/2i3BY5oYFy",
+"ReTweet: "False"},
+{"data": "Sun May 31 20:49:00 +0000 2020",
+"name": "Adrián Sarria #QuédateEnCasa 🦠",
+"screen_name": "adriansarriac",
+"text": "🤯😱Se ha agotado por segunda vez el PACK #LaUltimaEnfermera PERSONALIZADO Y MOLÓN (con caricatura y chapa)
+
+Pero hemos abierto 3️⃣0️⃣ más 🤩
+
+Corred que vuelan y recordad que ayudáis a la investigación en #EnfermedadesRaras
+
+Entra en @verkami ⤵️
+https://t.co/tLZuQqfacr",
+"ReTweet: "True"},
+{"data": "Sun May 31 21:17:01 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "🤯😱Se ha agotado por segunda vez el PACK #LaUltimaEnfermera PERSONALIZADO Y MOLÓN (con caricatura y chapa)
+
+Pero hemos abierto 3️⃣0️⃣ más 🤩
+
+Corred que vuelan y recordad que ayudáis a la investigación en #EnfermedadesRaras
+
+Entra en @verkami ⤵️
+https://t.co/tLZuQqfacr",
+"ReTweet: "True"},
