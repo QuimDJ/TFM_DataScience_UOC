@@ -1,0 +1,502 @@
+{"data": "Sat Apr 25 22:30:30 +0000 2020",
+"name": "MoniQUÉ",
+"screen_name": "nikacanika",
+"text": "El es Hugo y ha estado 1500 días sin saber su diagnóstico. A día de hoy ya lo tenemos, pero queremos seguir apoyando y dar visibilidad a las personas que aún no lo han conseguido.
+#notenemosdiagnosticoperosinecesidades
+#dgenes
+#EnfermedadesRaras 
+#sindromegillespie https://t.co/ewFkqstJwI",
+"ReTweet: "False"},
+{"data": "Sat Apr 25 22:39:34 +0000 2020",
+"name": "Emparlamestra",
+"screen_name": "EmparReig",
+"text": "Alba, 9 años.",
+"ReTweet: "True"},
+{"data": "Sat Apr 25 22:51:24 +0000 2020",
+"name": "SheilAMSheiShei",
+"screen_name": "SheilAMSheiShe1",
+"text": "https://t.co/zqHoxAWEGA
+https://t.co/48mRe1engv
+#enfermedades  #EnfermedadesRaras enfermedades que se viven en carne y hueso y se palpa el desaliento en ellas...pero que nos devuelven una fortaleza mayor en nuestra etapa existencial.
+https://t.co/uIr13IY0Nv",
+"ReTweet: "False"},
+{"data": "Sat Apr 25 22:56:44 +0000 2020",
+"name": "Néstor Javier Jiméne",
+"screen_name": "nstor_jimne",
+"text": "Dos grandes divulgadores especializados en #EnfermedadesRaras! Para no perdérselo! 
+
+@carlesgodall @FEDER_ONG @corrales_noelia @NoInvisibles @RarasReales @eerr_es @dolor_in @NMDSantPau @fswest @curadba @helenads_85 @DrLitos  @Salud_21 @AEF_AT @pjbarrecheguren @ApuntesCiencia",
+"ReTweet: "True"},
+{"data": "Sat Apr 25 23:36:45 +0000 2020",
+"name": "mismamente",
+"screen_name": "mismamente2",
+"text": "Dos grandes divulgadores especializados en #EnfermedadesRaras! Para no perdérselo! 
+
+@carlesgodall @FEDER_ONG @corrales_noelia @NoInvisibles @RarasReales @eerr_es @dolor_in @NMDSantPau @fswest @curadba @helenads_85 @DrLitos  @Salud_21 @AEF_AT @pjbarrecheguren @ApuntesCiencia",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 02:42:59 +0000 2020",
+"name": "germán",
+"screen_name": "gamolinas2505",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 02:45:54 +0000 2020",
+"name": "FranciscoCastellanos 🇺🇳",
+"screen_name": "castellanosfj",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 03:06:39 +0000 2020",
+"name": "Iris Gray",
+"screen_name": "IvyGray84575698",
+"text": "Rare Diseases and Cheerful Inspiration? No! It's not an oxymoron.
+Introducing: Shambhavi, lawyer with a swag and Arooba, a meticulous professional. Get to know them better. Join Racefor7.  We are sure, you would love them!!!
+
+#RaceFor7 #RareDiseaseDay #RayOfHope #ICare4Rare https://t.co/T2b5vXGUMz",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 03:32:55 +0000 2020",
+"name": "Arelis Hernandez",
+"screen_name": "Arelishdz",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 06:04:28 +0000 2020",
+"name": "Gemma Marfany Nadal",
+"screen_name": "GMarfanyN",
+"text": "RT @Africa99446563: RT @CIBERER: 👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético … https://t.co/sw2wikbqIN",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 06:18:08 +0000 2020",
+"name": "Reis Vidal",
+"screen_name": "ReisVidal3",
+"text": "Alba, 9 años.",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 06:31:47 +0000 2020",
+"name": "jota86",
+"screen_name": "jotaMg666",
+"text": "#EsclerosisTuberosa
+#enfermedadesraras
+#28deFebrero
+
+https://t.co/Yexv7QIxxG",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 06:38:12 +0000 2020",
+"name": "yu🐑",
+"screen_name": "delphiniumpearl",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 06:52:53 +0000 2020",
+"name": "Paula Rio",
+"screen_name": "PauFerrol",
+"text": "👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético https://t.co/D9RdmrmjQb @UniBarcelona  @CNB_CSIC @Share4Rare https://t.co/K2b4oYOmL0",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 06:54:27 +0000 2020",
+"name": "Rob Camp",
+"screen_name": "ROB_CAMP",
+"text": "Esta mañana presente en Conferencia Internacional Virtual de Cistinosis 2020, médicos expertos compartiendo información y consejos para pacientes con Cistinosis, 
+ thanks Cystinosis Ireland !
+#cistinosis #EnfermedadesRaras 
+#VirtualCystinosis2020 https://t.co/GbEp2GxlSz",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 07:00:55 +0000 2020",
+"name": "Alba Gonzalez Roig",
+"screen_name": "alba_gonza_ro",
+"text": "RT @Africa99446563: RT @CIBERER: 👉#Webinar. El próximo martes 5 de mayo a las 17h los investigadores del CIBER de #EnfermedadesRaras @GMarfanyN y @LluisMontoliu nos adentrarán en el mundo del diagnóstico de las enfermedades de origen #genético … https://t.co/sw2wikbqIN",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 07:33:29 +0000 2020",
+"name": "Fundació MSD",
+"screen_name": "curamsd",
+"text": "Hemos recibido  500€ de donativo de @buff_es y material para sortejar el 4/10 en la carrera aplazada. 
+
+Lo agradecemos muchísimo en los tiempos que corren! 
+
+❤️ https://t.co/frLHX0ZJ7G
+
+Foto: Febrer’2020
+#donatiuenconfinament #yomequedoencasa #enfermedadesraras #ivetunacuramsd https://t.co/uAtRoTlJqJ",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 07:36:09 +0000 2020",
+"name": "Elisabet Perés Font",
+"screen_name": "ElisabetPeres",
+"text": "Hemos recibido  500€ de donativo de @buff_es y material para sortejar el 4/10 en la carrera aplazada. 
+
+Lo agradecemos muchísimo en los tiempos que corren! 
+
+❤️ https://t.co/frLHX0ZJ7G
+
+Foto: Febrer’2020
+#donatiuenconfinament #yomequedoencasa #enfermedadesraras #ivetunacuramsd https://t.co/uAtRoTlJqJ",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 07:44:44 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": ""Gracias, me salvaste la vida": el mensaje de un chico de ocho años a su donante de médula https://t.co/3MoJd8PTDo vía @LANACION
+#MPS #HURLER #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 07:45:28 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/7dgE6SjU9J Thanks to @tallulahrose97 @FabryAustralia @GlobalGenes #raredisease #rstats",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 08:15:51 +0000 2020",
+"name": "Jèssica Trujillo",
+"screen_name": "jttarrago",
+"text": "VIRTUAL MOVE by Muévete por los que no pueden, una iniciativa solidaria que pretende dar apoyo y fomentar la investigación de Enfermedades Minoritarias
+
+¿Te sumas al reto? 💪
+
+#enfermedadesraras 
+
+https://t.co/p94zJPe9mV",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 08:16:49 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Cuando el paciente paga por la investigación de su enfermedad | Ciencias
+#MPS #enfermedadesraras https://t.co/iAugxRzOpO vía @notiulti.com",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 08:20:48 +0000 2020",
+"name": "Jèssica Trujillo",
+"screen_name": "jttarrago",
+"text": "VIRTUAL MOVE by Muévete por los que no pueden
+
+1⃣ Desafío
+3⃣ Días
+Más de 3⃣ mill. de afectados
+7⃣0⃣0⃣0⃣ Enfermedades raras
+
+Esta lucha no puede parar ni en tiempos de #Covid_19 ¿Te sumas al reto? 💪
+
+Toda la ℹ️ 👉 https://t.co/z75KO8856u
+
+#enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 08:27:12 +0000 2020",
+"name": "Xènia Aranda",
+"screen_name": "XeniaAranda",
+"text": "La asociación XP sale en prensa! Comparte/RT para que podamos ayudar a otros que tienen la misma enfermedad que nuestro hijo Pol.
+Mil gracias 😍😘 @aedv_es #XerodermaPigmentosum #EnfermedadesRaras
+https://t.co/JF5FbP5yll … @TeddingtonTrust @RareRevolutionM @FEDER_ONG @eurordis https://t.co/LBHTkVaKNt",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:03:19 +0000 2020",
+"name": "Xènia Aranda",
+"screen_name": "XeniaAranda",
+"text": "La asociación XP en prensa! Comparte/RT para que podamos ayudar a otros que tienen la misma enfermedad que nuestro hijo Pol. Gracias @aedv_es @XerodermaEspana #EnfermedadesRaras https://t.co/OVscKp4L6m @TeddingtonTrust @RareRevolutionM @FEDER_ONG @eurordis #XerodermaPigmentosum https://t.co/xr9Oqt7HFm",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:10:09 +0000 2020",
+"name": "EnfermedadesRaras.es",
+"screen_name": "eerr_es",
+"text": "Gracias a la publicación @DiarioSUR in English por el reportaje de hoy sobre nuestra asociación de familias, nuestros retos y la ataxia telangiectasia. .
+Thank you very much! 😊
+@FEDER_ONG @FEDAES @CentroCREER 
+#ataxiatelangiectasia #enfermedadesraras #raredisease #Málaga https://t.co/xJYFTHvagi",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:10:36 +0000 2020",
+"name": "EnfermedadesRaras.es",
+"screen_name": "eerr_es",
+"text": "💥RETO SUPERADO por Gerard, nuestro chico de #Girona 👏🏻👏🏻💪🏼 🔥🔥Te unes al reto #26steps4AT❓ Reto internacional por la #investigación de la #ataxiatelangiectasia ante la crisis del #Covid19. https://t.co/ZQ9uDh7KBH #twopointsixchallenge @ActionforAT #enfermedadesraras https://t.co/x0j8volMTl",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:21:54 +0000 2020",
+"name": "Somosdisc@",
+"screen_name": "somosdisca",
+"text": "La enfermedad de Pick es una forma rara de demencia similar a la enfermedad de Alzheimer que afecta a algunas zonas del cerebro
+#enfermedadesraras #enfremedadpick #pick 
+
+https://t.co/dGCfR3cOl0",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:24:03 +0000 2020",
+"name": "Somosdisc@",
+"screen_name": "somosdisca",
+"text": "La enfermedad de Pick es una forma rara de demencia similar a la enfermedad de Alzheimer que afecta a algunas zonas del cerebro
+#enfermedadesraras #enfremedadpick #pick #demencia #Discapacidad #Alzheimer #yosipuedo
+https://t.co/dGCfR3cOl0",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:28:29 +0000 2020",
+"name": "Star Wars Catalunya",
+"screen_name": "SWCatalunya",
+"text": "😰Este maldita pandemia esta afectando a los hábitos y cuidados de muchas gente y también a todo nuestro colectivo. Pero fuerza y ánimo para todos porque #todopasa. 💪🙂
+#Quédateencasa #enfermedadesraras @diariolaopinion 
+https://t.co/iQY7NTmElo",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:32:50 +0000 2020",
+"name": "Antonio Souviron",
+"screen_name": "asouvi",
+"text": "Los investigadores del CIBERER continúan trabajando durante estos días en sus proyectos en #enfermedadesraras
+Nos lo cuentan en:
+#YoInvestigoenEnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 09:41:00 +0000 2020",
+"name": "hypatia",
+"screen_name": "hypatia350",
+"text": "Los investigadores del CIBERER continúan trabajando durante estos días en sus proyectos en #enfermedadesraras
+Nos lo cuentan en:
+#YoInvestigoenEnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 10:02:20 +0000 2020",
+"name": "Carlos Arce",
+"screen_name": "carce1953",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 10:09:10 +0000 2020",
+"name": "best_djs_tanzania",
+"screen_name": "bestdjstanzania",
+"text": "Yesterday I had an opportunity to participate at the #RareDiseaseDay Commemorations in Dar es Salaam. It was a life changing experience to learn what children with rare diseases and families are going through.Thanks to @AliKimara and @humangeneticstz . 
+ #RareDiseaseDayTz2020 https://t.co/kKLj9dEmUc",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 10:10:09 +0000 2020",
+"name": "Joan Rifà",
+"screen_name": "jrifav",
+"text": "Hemos recibido  500€ de donativo de @buff_es y material para sortejar el 4/10 en la carrera aplazada. 
+
+Lo agradecemos muchísimo en los tiempos que corren! 
+
+❤️ https://t.co/frLHX0ZJ7G
+
+Foto: Febrer’2020
+#donatiuenconfinament #yomequedoencasa #enfermedadesraras #ivetunacuramsd https://t.co/uAtRoTlJqJ",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 10:39:49 +0000 2020",
+"name": "Rosa Martín 💚#QuedateEnCasa #NoEstamosDeVacas",
+"screen_name": "RosaMartinal",
+"text": "El es Hugo y ha estado 1500 días sin saber su diagnóstico. A día de hoy ya lo tenemos, pero queremos seguir apoyando y dar visibilidad a las personas que aún no lo han conseguido.
+#notenemosdiagnosticoperosinecesidades
+#dgenes
+#EnfermedadesRaras 
+#sindromegillespie https://t.co/ewFkqstJwI",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 10:59:13 +0000 2020",
+"name": "Fanny Lu Aicrag",
+"screen_name": "Facer93",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 11:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ""Las #EnfermedadesRaras no siempre requieren de soluciones complejas"
+
+El grupo de investigación de José María Bastida logró diagnósticos de EERR con tecnología de secuenciación de alto rendimiento que hasta hace pocos años no estaba disponible.
+https://t.co/6l3e8ZzYk7",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 11:37:40 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": ""Las #EnfermedadesRaras no siempre requieren de soluciones complejas"
+
+El grupo de investigación de José María Bastida logró diagnósticos de EERR con tecnología de secuenciación de alto rendimiento que hasta hace pocos años no estaba disponible.
+https://t.co/6l3e8ZzYk7",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 12:02:29 +0000 2020",
+"name": "Mercedes Gil Cavero",
+"screen_name": "mercedesgilcave",
+"text": "Una lucha contra el tiempo. 
+Lucha y superación ❤
+https://t.co/h4bc2hjuCm
+#Enfermedadesraras.
+Documental. 
+https://t.co/MfUd1HWznQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 13:00:32 +0000 2020",
+"name": "Jorge Andrés Hincapi",
+"screen_name": "jorge_hincapi",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 13:49:58 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "💥😂Nuestro presidente @sanzvillen y familia! Reto superado con humor!! 👏🏻💪🏼 
+Te unes al RETO internacional #26steps4AT por la #investigación de la #ataxiatelangiectasia? Haz hoy un reto con el número 2️⃣6️⃣ (deportivo o no). @actionforat https://t.co/ZQ9uDh7KBH #enfermedadesraras https://t.co/8y8v1ciQDJ",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:42:10 +0000 2020",
+"name": "Vasculitis y Enfermedades Huerfanas Colombia",
+"screen_name": "vasculitis_col",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:51:03 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "Thank you @ORDIndia @curesmaindia for making difference in life of patients with rare diseases. We together will win the battle. #BattleAgainstSMA #RareDiseaseDay #LifeForAll",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 14:51:10 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "On #RareDiseaseDay, my son suffering from #SMA request to sponsor, every day is miserable,a cold cough can also infect his body to extreme conditions which can take his life, drug #spinraza can't access due to my financial condition. Plz save my kid @kapoorkkunal https://t.co/myXzBtKTSS",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:51:13 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "Thak you @singer_shaan for your support for #RareDiseaseDay @ORDIndia @curesmaindia. #LifeForAll  #BattleAgainstSMA",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 14:51:26 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "This #RareDiseaseDay We #SidHearts sincerely urge you @sidharth_shukla. We say this to you as you are the most humble celeb ever. Please take on this #RareChallenge for @curesmaindia 
+#BattleAgainstSMA",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 14:52:27 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "CureSMAIndia Kochi team participated in #racefor7 2day. Thanks to @ORDIndia 4 organizing it. #RareDiseaseDay #BattleAgainstSMA #HealthForAll #EveryLifeIsPrecious #SupportCureSMAIndia https://t.co/vB45UQNdCb",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:52:30 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "CureSMAIndia team Chennai participated in #racefor7 2day. Thanks to @ORDIndia 4 organizing it. #RareDiseaseDay #BattleAgainstSMA #HealthForAll #EveryLifeIsPrecious #SupportCureSMAIndia @MoHFW_INDIA @narendramodi @PMOIndia @drharshvardhan https://t.co/FJ83Cir31q",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:52:42 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "#RareDiseaseDay Aarav says you are his favourite @iamrealasim. Plz help this little fan of yours to get a treatment and live a normal life. #Spinraza #Zolgensma #risdiplam.
+Plz take this challenge and support our #BattleAgainstSMA https://t.co/zE0vuHB8DB",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:53:05 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "#SMA robs all pleasures n give children unbearable sufferings.@ActorSureshGopi @MoHFW_INDIA @PMOIndia @Roche @Novartis @biogen Help us win our #BattleAgainstSMA @curesmaindia on #RareDiseaseDay n save our chidren #EveryLifeIsPrecious. My Joyal speaks 4 myJewel 2u #Sureshgopi https://t.co/DSI9OG6o2C",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:53:27 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "I challenge Dr SHASHI THAROOR M.P @ShashiTharoor,
+Please help my cousin Jewel to Run like me and play with me 
+#RareDisease #RareDiseaseDay #rarediseaseday2020 #BattleAgainstSMA
+#curesmaindia https://t.co/oi2YPJVeeC",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:53:58 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "#SMA is a #RareDisease which takes all the strength.
+My son wish to play with her friend but he can't.
+I challenge @PMOIndia @SrBachchan @AnushkaSharma to save my son from this draconian disease. He is sinking Day By Day.
+
+#BattleAgainstSMA
+#rarediseaseday2020 
+#RareDiseaseDay https://t.co/bSK3J4EOfg",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:54:12 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "#RareDiseaseDay Aarav from Mumbai is battling with Rare Disease #SMA and he challenges @sidharth_shukla to help him bring its medicine to India and free him from this bondage. Are you ready to accept this challenge #SidharthShukla? Kindly support us in our #BattleAgainstSMA https://t.co/CvsPBuH2Lu",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:55:42 +0000 2020",
+"name": "Swapnil",
+"screen_name": "Swapnil27949091",
+"text": "Thank you Pune for everything..... 1st city for 2020, puneites have been a strong pillar of support. Nagpur,Bengaluru, we are coming to you on 23rd February #Racefor7 #rarediseaseday #awareness #teamwork #Nagpur #Bengaluru https://t.co/zNfacJFy9i",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:57:16 +0000 2020",
+"name": "manopriya",
+"screen_name": "manopri07646295",
+"text": "#SMA robs all pleasures n give children unbearable sufferings.@ActorSureshGopi @MoHFW_INDIA @PMOIndia @Roche @Novartis @biogen Help us win our #BattleAgainstSMA @curesmaindia on #RareDiseaseDay n save our chidren #EveryLifeIsPrecious. My Joyal speaks 4 myJewel 2u #Sureshgopi https://t.co/DSI9OG6o2C",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 14:58:01 +0000 2020",
+"name": "Sailor Moon Pensionada por Invalidez",
+"screen_name": "Poison_finger",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 15:00:42 +0000 2020",
+"name": "Mile Guasca",
+"screen_name": "Guaskiita",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 15:04:40 +0000 2020",
+"name": "Ciro Montenegro",
+"screen_name": "Ciro7Montenegro",
+"text": "En este presente están convergiendo varias crisis, entre ellas el retroceso de años de tratamiento de personas con #EnfermedadesRaras...  Después de más de 36 días sin salir, sin fisioterapia, sin tratamiento controlado, etc. No sé como voy a funcionar de nuevo.",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 15:54:37 +0000 2020",
+"name": "Oscar Mendez Rodríguez",
+"screen_name": "OscarMendezRod3",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 16:03:30 +0000 2020",
+"name": "Miguel Valderrama M",
+"screen_name": "miguelvalderr11",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 17:14:49 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Amigos y seguidores
+Ntro Presi 🙌 @DanielMRiquelme #MolinadeSegura os🖐
+Las personas con #Enfermedadesraras un colectivo vulnerable al #Covid_19 acostumbrado 💪 contra la frustración y la soledad. 
+Estamos en #situacióndealarma  guardar distancia de seguridad. 
+Cuidaros mucho ❤ https://t.co/80UMAzYG2d",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 17:53:53 +0000 2020",
+"name": "Mercedes Gil Cavero",
+"screen_name": "mercedesgilcave",
+"text": "Nuestro Presidente 🙌 @DanielMRiquelme un referente en la lucha y #reivindicación por la #Investigación y #visibilidad de las #Enfermedadesraras desde hace once años en @EERRMolina en #MolinadeSegura",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 18:08:11 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/4Icb8WANZJ Gracias a @jttarrago @EERRMolina @RarasReales #enfermedadesraras #mps",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 18:14:56 +0000 2020",
+"name": "Fundación Taiyari",
+"screen_name": "fundataiyariac",
+"text": "@JulietaMRabago @dulcemariamld @Mx_Diputados @LauraDDHH @DipCiudadanoMX @owen_care @LuceroLC08 @Lidice_rg @kdartigues @discamotriz @DiscapacidadNos @DiscapacidadMex No todas las discapacidades implican el uso de sillas y/o se notan a simple vista, es importante el que la información y trato sea integral, inclusiva, con respeto y que contemple TODOS los tipos de discapacidad, así como #enfermedadesraras
+Veamos al #SerHumano primero
+#YoIncluyo",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 18:29:45 +0000 2020",
+"name": "Ale.",
+"screen_name": "BluesyHeart",
+"text": "@JulietaMRabago @dulcemariamld @Mx_Diputados @LauraDDHH @DipCiudadanoMX @owen_care @LuceroLC08 @Lidice_rg @kdartigues @discamotriz @DiscapacidadNos @DiscapacidadMex No todas las discapacidades implican el uso de sillas y/o se notan a simple vista, es importante el que la información y trato sea integral, inclusiva, con respeto y que contemple TODOS los tipos de discapacidad, así como #enfermedadesraras
+Veamos al #SerHumano primero
+#YoIncluyo",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 18:35:56 +0000 2020",
+"name": "Chubby's Tale (book about chemo & cancer)",
+"screen_name": "FollowingChubby",
+"text": "Thank goodness for books like this from @_CarolaSchmidt and fundraising like the #TwoPointSixChallenge to save UK charities tomorrow. @caitrionambalfe will be running for Childhood Cancer - Thanks to all for raising money and awareness for #Cancer. 
+#charity #fundraising https://t.co/w3Is4QXGKH",
+"ReTweet: "True"},
+{"data": "Sun Apr 26 19:08:21 +0000 2020",
+"name": "RAUL",
+"screen_name": "RAUL429",
+"text": "Los pacientes con enfermedades huérfanas estamos luchando al 200% en la pandemia. No podemos interrumpir tratamientos, controles, terapias, cirugías, exámenes.#vasculitis #churgstrauss #EnfermedadesRaras https://t.co/1PaZvAMK1J",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 19:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Qué hacer con #EnfermedadesLisosomales ante la pandemia? Recomendaciones @vallhebron para pacientes de #EnfermedadesRaras como #EnfermedadDeGaucher, #EnfermedadDePompe o #EnfermedadDeFabry  
+@AEEPompe @asociacion_mps @MPSpapas @AEEFEGaucher
+https://t.co/ZovppL4nZW",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 19:22:20 +0000 2020",
+"name": "asile205",
+"screen_name": "asile205",
+"text": "¿Qué hacer con #EnfermedadesLisosomales ante la pandemia? Recomendaciones @vallhebron para pacientes de #EnfermedadesRaras como #EnfermedadDeGaucher, #EnfermedadDePompe o #EnfermedadDeFabry  
+@AEEPompe @asociacion_mps @MPSpapas @AEEFEGaucher
+https://t.co/ZovppL4nZW",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 19:35:56 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": ""Las #EnfermedadesRaras no siempre requieren de soluciones complejas"
+
+El grupo de investigación de José María Bastida logró diagnósticos de EERR con tecnología de secuenciación de alto rendimiento que hasta hace pocos años no estaba disponible.
+https://t.co/6l3e8ZzYk7",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 19:40:43 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "¿Qué hacer con #EnfermedadesLisosomales ante la pandemia? Recomendaciones @vallhebron para pacientes de #EnfermedadesRaras como #EnfermedadDeGaucher, #EnfermedadDePompe o #EnfermedadDeFabry  
+@AEEPompe @asociacion_mps @MPSpapas @AEEFEGaucher
+https://t.co/ZovppL4nZW",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 19:45:26 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/MolaLnOicD Thanks to @Sicklecell_RM @cdhintl @RareShareOrg #raredisease #genetherapy",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 20:03:44 +0000 2020",
+"name": "La valentía de Martina",
+"screen_name": "valentia_de",
+"text": "algo prácticamente imposible antes del confinamiento. Luego ha querido volver al carro y nos hemos ido. Ha sido cortito y algo diferente que ya es mucho #rarasperonoinvisibles #enfermedadesraras #enfermedadesrarasperonoinvisibles #lavalentiademartina #2q332_2q34 #inclusionreal",
+"ReTweet: "False"},
+{"data": "Sun Apr 26 21:46:42 +0000 2020",
+"name": "Ana Laura Sales",
+"screen_name": "analaura3028",
+"text": "@JulietaMRabago @dulcemariamld @Mx_Diputados @LauraDDHH @DipCiudadanoMX @owen_care @LuceroLC08 @Lidice_rg @kdartigues @discamotriz @DiscapacidadNos @DiscapacidadMex No todas las discapacidades implican el uso de sillas y/o se notan a simple vista, es importante el que la información y trato sea integral, inclusiva, con respeto y que contemple TODOS los tipos de discapacidad, así como #enfermedadesraras
+Veamos al #SerHumano primero
+#YoIncluyo",
+"ReTweet: "False"},

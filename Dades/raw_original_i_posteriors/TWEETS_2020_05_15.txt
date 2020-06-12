@@ -1,0 +1,809 @@
+{"data": "Thu May 14 22:12:07 +0000 2020",
+"name": "Kathy Velasco Casado",
+"screen_name": "KathyCasado",
+"text": "¡Listos para participar en el Congreso Europeo de #enfermedadesraras ! 
+#ECRD2020",
+"ReTweet: "False"},
+{"data": "Thu May 14 22:33:08 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 22:42:36 +0000 2020",
+"name": "Tere",
+"screen_name": "tessie_infinity",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Thu May 14 23:43:12 +0000 2020",
+"name": "حۡــٰٱ̍ڣــڟ 🇸🇦",
+"screen_name": "HHafez9998",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Thu May 14 23:45:43 +0000 2020",
+"name": "𝑀𝑜𝑜𝑛𝑙𝑖𝑔ℎ𝑡",
+"screen_name": "vx11c",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Thu May 14 23:46:14 +0000 2020",
+"name": "أرِندا",
+"screen_name": "ARENDA___",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Fri May 15 00:08:13 +0000 2020",
+"name": "سمراء 💚",
+"screen_name": "tarafh_1212",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Fri May 15 00:14:13 +0000 2020",
+"name": "ISCO",
+"screen_name": "0isco0",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Fri May 15 01:32:44 +0000 2020",
+"name": "أملـــ",
+"screen_name": "6AmalAlsubaie6",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Fri May 15 01:33:17 +0000 2020",
+"name": "huda_99",
+"screen_name": "hodhodah2010",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Fri May 15 01:58:41 +0000 2020",
+"name": "Angela Parish",
+"screen_name": "AngelaParish9",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Fri May 15 04:28:06 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᔕEGᑌIᗰOᔕ ᗪE ᑭIE. ☁️
+
+.
+.
+.
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post… https://t.co/rh63miNpn4",
+"ReTweet: "False"},
+{"data": "Fri May 15 05:59:23 +0000 2020",
+"name": "Pedro Soriano #QuedateEnCasa 🤜🏻🦠🤛🏻",
+"screen_name": "soriano_p",
+"text": ""Aves Enjauladas". Rozalén 
+De dos adolescentes, Pilar y rafa, para sus abuelos
+
+@STOP_FMF @anadejudmj @XFrágil_CV     
+#FMF #FiebreMediterraneaFamiliar
+#Autoinflamatorios #Autoinflamamtory
+#StopFMF #FFpaciente #Covid19
+#EnfermedadesRaras #DedicaTuCancion
+https://t.co/6mLVbtKMmU",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:44:11 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "#ffpaciente @ffpaciente #EnfermedadesRaras @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:44:40 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": ""Aves Enjauladas". Rozalén 
+De dos adolescentes, Pilar y rafa, para sus abuelos
+
+@STOP_FMF @anadejudmj @XFrágil_CV     
+#FMF #FiebreMediterraneaFamiliar
+#Autoinflamatorios #Autoinflamamtory
+#StopFMF #FFpaciente #Covid19
+#EnfermedadesRaras #DedicaTuCancion
+https://t.co/6mLVbtKMmU",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:44:51 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Alianza Iberoamericana de #EERR @InforAliber proclama #YoMeQuedoEnCasa #StayHome, en un video sobre la importancia y necesidad de estar en casa para frenar la propagación de la #Covid19 
+Difunde la voz múltiple de las #EnfermedadesRaras‼️
+#QuedateEnCasa
+https://t.co/5KNA5tetxN",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:46:35 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:47:17 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Este es el enlace para realizar la encuesta: https://t.co/9nIR7r5Rim
+
+La charla es en español y portugués:
+Viernes, 15 de Mayo a las 5pm hora Miami (EST), POR ZOOM:
+
+https://t.co/eN0FZzcYSN
+
+#EnfermedadesRaras #EnfermedadesHuérfanas #EPOF #Latinoamerica #Covid-19
+#yomequedoencasa https://t.co/S4wraNCh3K",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:47:46 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:50:01 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 06:54:42 +0000 2020",
+"name": "Jeffrey S Rafuse🌳",
+"screen_name": "jsrafuse_art",
+"text": "@JossStone 🌸✨
+I’m sharing the lovely supportive efforts of the Joss Stone Foundation again, she’s been working at global outreach for years now &amp; equality including within her TotalWorldTour having traveled to every country on this beautiful planet 🙏💞
+https://t.co/1F6cdSWdFX",
+"ReTweet: "True"},
+{"data": "Fri May 15 06:55:24 +0000 2020",
+"name": "Jeffrey S Rafuse🌳",
+"screen_name": "jsrafuse_art",
+"text": "@JossStone 🌸✨
+I’m sharing the lovely supportive efforts of the Joss Stone Foundation again, she’s been working at global outreach for years now &amp; equality including within her TotalWorldTour having traveled to every country on this beautiful planet 🙏💞
+https://t.co/1F6cdSWdFX",
+"ReTweet: "True"},
+{"data": "Fri May 15 06:58:34 +0000 2020",
+"name": "Arantxa Sáez Sánchez",
+"screen_name": "saezatxa",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:09:39 +0000 2020",
+"name": "Viralgen",
+"screen_name": "ViralgenVC",
+"text": "😊❤🏥 El 14 de mayo de 2019, en Varsovia, el profesor #KrystofBankiewicz y su equipo realizaron una compleja operación de #terapiagénica, pionera en el mundo, que logró darle una segunda vida Irai. ¡Felicidades, pequeña!
+🎂☝🏼Un año de avances. 👨🏻‍🔬👩🏽‍🔬 ¡Seguimos! #enfermedadesraras https://t.co/0uV8merLeE",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:14:51 +0000 2020",
+"name": "Jose Luis Poveda",
+"screen_name": "joseluis_pa",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:16:21 +0000 2020",
+"name": "Pedro Soriano #QuedateEnCasa 🤜🏻🦠🤛🏻",
+"screen_name": "soriano_p",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:19:58 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Nuestra presidenta @encarna_guillen  ha participado en el mayor evento de #EnfermedadesRaras dirigido por pacientes: #ECRD2020. En esta sesión se ha abordado la atención integral de pacientes con #ER desde la perspectiva social y de derechos humanos.
+
+https://t.co/7VcZACVMAW",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:23:41 +0000 2020",
+"name": "S a d N a c h i ñ o 🏡 #QuedateEnCasa👍👍",
+"screen_name": "NachodeFerrol",
+"text": "Nuestra presidenta @encarna_guillen  ha participado en el mayor evento de #EnfermedadesRaras dirigido por pacientes: #ECRD2020. En esta sesión se ha abordado la atención integral de pacientes con #ER desde la perspectiva social y de derechos humanos.
+
+https://t.co/7VcZACVMAW",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:26:20 +0000 2020",
+"name": "Maribel Martinez",
+"screen_name": "Akier06",
+"text": "Nuestra presidenta @encarna_guillen  ha participado en el mayor evento de #EnfermedadesRaras dirigido por pacientes: #ECRD2020. En esta sesión se ha abordado la atención integral de pacientes con #ER desde la perspectiva social y de derechos humanos.
+
+https://t.co/7VcZACVMAW",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:29:42 +0000 2020",
+"name": "Arantza Romero",
+"screen_name": "ela_10_10",
+"text": "😊❤🏥 El 14 de mayo de 2019, en Varsovia, el profesor #KrystofBankiewicz y su equipo realizaron una compleja operación de #terapiagénica, pionera en el mundo, que logró darle una segunda vida Irai. ¡Felicidades, pequeña!
+🎂☝🏼Un año de avances. 👨🏻‍🔬👩🏽‍🔬 ¡Seguimos! #enfermedadesraras https://t.co/0uV8merLeE",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:38:49 +0000 2020",
+"name": "RDI",
+"screen_name": "rarediseasesint",
+"text": ".@Infoaliber, @eurordis y la @rarediseasesint organizan una charla sobre la última encuesta del Rare Barometer Voices sobre #COVID19 y #enfermedadesraras en Iberoamérica.
+
+🔸Podrás acceder el 15 de mayo a las 5pm hora Miami (EST) a través de este enlace: https://t.co/KvXx4SYp0v https://t.co/cqrDLvTzJw",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:40:52 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Feliz día de las #MPS a todos.
+#MPSDAY2020
+Escuchad, por favor, lo que María Aneiros, mamá de Óscar (#Alfamanosidosis) tiene que contaros y que demanda a la administración con toda la razón.
+#medicamentohuerfano 
+#enfermedadesraras
+#ffpaciente 
+https://t.co/C3XsBefO6E",
+"ReTweet: "False"},
+{"data": "Fri May 15 07:45:26 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/KcER0dZDtb Thanks to @imi_massaccesi @MyoDiscovery @vascuk #raredisease #brazil",
+"ReTweet: "False"},
+{"data": "Fri May 15 08:07:54 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "Feliz día de las #MPS a todos.
+#MPSDAY2020
+Escuchad, por favor, lo que María Aneiros, mamá de Óscar (#Alfamanosidosis) tiene que contaros y que demanda a la administración con toda la razón.
+#medicamentohuerfano 
+#enfermedadesraras
+#ffpaciente 
+https://t.co/C3XsBefO6E",
+"ReTweet: "False"},
+{"data": "Fri May 15 08:32:07 +0000 2020",
+"name": "Asociación Porfiria",
+"screen_name": "porfiria_org",
+"text": "Joaquín Montoto, presidente de la AEP, nos recuerda los inicios de la asociación.
+#LaPorfiriaExiste #Porfiria #JuntosSomosMás #EnfermedadesRaras
+https://t.co/eOwn0cZbzn",
+"ReTweet: "False"},
+{"data": "Fri May 15 08:39:31 +0000 2020",
+"name": "Juan Carlos Alós",
+"screen_name": "JuanCarlosAlos",
+"text": "Feliz día de las #MPS a todos.
+#MPSDAY2020
+Escuchad, por favor, lo que María Aneiros, mamá de Óscar (#Alfamanosidosis) tiene que contaros y que demanda a la administración con toda la razón.
+#medicamentohuerfano 
+#enfermedadesraras
+#ffpaciente 
+https://t.co/C3XsBefO6E",
+"ReTweet: "False"},
+{"data": "Fri May 15 08:40:12 +0000 2020",
+"name": "Asociación Porfiria",
+"screen_name": "porfiria_org",
+"text": "Joaquín Montoto, presidente de la AEP, nos recuerda los inicios de la asociación.
+#LaPorfiriaExiste #Porfiria #JuntosSomosMás #EnfermedadesRaras
+https://t.co/eOwn0cZbzn",
+"ReTweet: "False"},
+{"data": "Fri May 15 08:43:53 +0000 2020",
+"name": "Asociación Porfiria",
+"screen_name": "porfiria_org",
+"text": "Joaquín Montoto, presidente de la AEP, nos recuerda los inicios de la asociación.
+#LaPorfiriaExiste #Porfiria #JuntosSomosMás #EnfermedadesRaras
+https://t.co/eOwn0cZbzn https://t.co/vYBbUAAtZN",
+"ReTweet: "False"},
+{"data": "Fri May 15 09:10:50 +0000 2020",
+"name": "Plus Fisioterapia",
+"screen_name": "FisioterapiPlus",
+"text": "Lesiones de ligamento cruzado anterior. Predictores y estrategias preventivas.
+
+#masfisioterapia #fisioterapia #estiramientos  #terapia #terapeutafisico #predictores #fisio #fisioterapeuta #fisioterapiaenmoviento #enfermedadesraras #futbol #ligamentocruzadoanterior https://t.co/kjZbRdHdTt",
+"ReTweet: "False"},
+{"data": "Fri May 15 09:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "💻🏃‍♂️🏃‍♀️💻 A falta de carreras solidarias presenciales buenas son las virtuales...
+
+@La_SER recoge cómo funciona la original carrera virtual Poco Frecuente que recauda fondos para ayudar a familias con #EnfermedadesRaras. 
+#CarreraPocoFrecuente
+https://t.co/82dpKqSBf2",
+"ReTweet: "False"},
+{"data": "Fri May 15 09:38:18 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Gracias  al @Cermi_Estatal @CERMICV y a todas las Federaciones  que lo componen el camino es menos difícil para las personas  que tenemos discapacidad. #xfragil #ASPAYMCV #PREDIF #SomosFEDER #PlenaInclusion #COVID19  #XFragilCVsequedaencasa",
+"ReTweet: "True"},
+{"data": "Fri May 15 09:40:03 +0000 2020",
+"name": "É-Saúde",
+"screen_name": "esaude_sergas",
+"text": "Día Mundial de la #EsclerosisTuberosa
+@Orphanet es el portal de información de referencia en #EnfermedadesRaras y medicamentos huérfanos, dirigido a todos los públicos 👉https://t.co/Zz9Gshrlul https://t.co/p3RfIOL6GR",
+"ReTweet: "False"},
+{"data": "Fri May 15 10:05:23 +0000 2020",
+"name": "CIBERER_Biobank",
+"screen_name": "CibererBiobank",
+"text": "Familias de niños con #EnfermedadesRaras se quedan sin ayudas por los «criterios restrictivos» de las mutuas. @FEDER_ONG alerta de que familias de menores con estas patologías están dejando de recibir la prestación económica percibida por su cuidado.
+https://t.co/ogCCkHs3pS",
+"ReTweet: "False"},
+{"data": "Fri May 15 10:14:14 +0000 2020",
+"name": "PABLO",
+"screen_name": "escafint",
+"text": "Día Mundial de la #EsclerosisTuberosa
+@Orphanet es el portal de información de referencia en #EnfermedadesRaras y medicamentos huérfanos, dirigido a todos los públicos 👉https://t.co/Zz9Gshrlul https://t.co/p3RfIOL6GR",
+"ReTweet: "False"},
+{"data": "Fri May 15 10:39:27 +0000 2020",
+"name": "Mari Trini Giner🕵🏻‍♀️🎬📝📸",
+"screen_name": "MariTriniGiner",
+"text": "Hoy 15 de mayo es el día de las personas con síndrome de Ehlers Danlos. Todo el mes se dedica a visibilizar y concienciar sobre esta enfermedad poco frecuente. Con motivo de ello, he conversado con Fernanda, enfermera de @FECHER_CL https://t.co/IEHArCThjW #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:00:33 +0000 2020",
+"name": "COFAS (Cooperativa Farmacéutica Asturiana)",
+"screen_name": "iCOFAS",
+"text": "Hoy se celebra el #DíaInternacionaldelaEsclerosisTuberosa con el objetivo de sensibilizar a la sociedad acerca de esta enfermedad poco frecuente, que afecta a más de 4000 personas en España #DíaInternacionaldelaEsclerosisTuberosa  #EnfermedadesRaras https://t.co/qBX3XJISYg",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:02:16 +0000 2020",
+"name": "Joaquín Montoto",
+"screen_name": "joaquinmontoto",
+"text": "Joaquín Montoto, presidente de la AEP, nos recuerda los inicios de la asociación.
+#LaPorfiriaExiste #Porfiria #JuntosSomosMás #EnfermedadesRaras
+https://t.co/eOwn0cZbzn https://t.co/vYBbUAAtZN",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:09:20 +0000 2020",
+"name": "David Javierre",
+"screen_name": "djavierreh",
+"text": "💻🏃‍♂️🏃‍♀️💻 A falta de carreras solidarias presenciales buenas son las virtuales...
+
+@La_SER recoge cómo funciona la original carrera virtual Poco Frecuente que recauda fondos para ayudar a familias con #EnfermedadesRaras. 
+#CarreraPocoFrecuente
+https://t.co/82dpKqSBf2",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:09:21 +0000 2020",
+"name": "💜Gloria Capri💜",
+"screen_name": "geishablue",
+"text": "Mañana día 16 de mayo es Día Mundial del Angioedema Hereditario, en este artículo te explican todo lo que necitas saber sobre esta enfermedad
+#pacientesquecuentan
+#DolorCrónico
+#EnfermedadesRaras
+https://t.co/bG7z6BnA62",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:11:00 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Feliz día de las #MPS a todos.
+#MPSDAY2020
+Escuchad, por favor, lo que María Aneiros, mamá de Óscar (#Alfamanosidosis) tiene que contaros y que demanda a la administración con toda la razón.
+#medicamentohuerfano 
+#enfermedadesraras
+#ffpaciente 
+https://t.co/C3XsBefO6E",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:14:36 +0000 2020",
+"name": "💜Gloria Capri💜",
+"screen_name": "geishablue",
+"text": "Mañana día 16 de mayo es Día Mundial del Angioedema Hereditario, en este artículo te explican todo lo que necitas saber sobre esta enfermedad y te propone grabar un pequeño vídeo de apoyo
+#SomosImpredecibles
+#pacientesquecuentan
+#EnfermedadesRaras
+https://t.co/bG7z6BnA62",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:15:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Hoy 15 de Mayo se celebra el Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #MPSDAY #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia.@MPSpapas 
+https://t.co/UKqpzJMOux https://t.co/b9Ppgxa7xa",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:17:30 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "#EnfermedadesRaras
+
+Hoy 15 de Mayo se celebra el Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #MPSDAY #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia.@MPSpapas 
+https://t.co/UKqpzJMOux https://t.co/b9Ppgxa7xa",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:21:24 +0000 2020",
+"name": "AnpeEpilepsia",
+"screen_name": "AnpeEpilepsia",
+"text": "📌 Ayer en el programa #EnfermedadesRaras hablamos de #Epilepsia para #SalirdelaSombra @fidelitis_es https://t.co/9fX9PW4nla",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:22:57 +0000 2020",
+"name": "عمر باكيلي🔬💉",
+"screen_name": "bokuol",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:23:19 +0000 2020",
+"name": "Ysabel Madrid",
+"screen_name": "PorlaEpilepsia",
+"text": "Ayer tuvimos el honor de participar en el programa de #EnfermedadesRaras con @Fidelity_ES para hablar de #Epilepsia y #SalirdelaSombra",
+"ReTweet: "True"},
+{"data": "Fri May 15 11:32:51 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "Las #MPS son 7⃣ #EnfermedadesRaras:
+🔹Genéticas
+🔹Progresivas
+🔹Multisistémicas
+
+Conocer sus múltiples síntomas es clave para diagnosticarlas a tiempo y mejorar la calidad de vida de l@s pacientes. 
+
+#ChaseTheSigns #MPSAwareness #MPSDay #DíaMundialMPS #SanofiEsEnfermedadesRaras https://t.co/Ecx50Ffw6D",
+"ReTweet: "False"},
+{"data": "Fri May 15 11:36:38 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "#EnfermedadesRaras
+
+Hoy 15 de Mayo se celebra el Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #MPSDAY #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia.@MPSpapas 
+https://t.co/UKqpzJMOux https://t.co/b9Ppgxa7xa",
+"ReTweet: "False"},
+{"data": "Fri May 15 12:10:48 +0000 2020",
+"name": "CERMI CV",
+"screen_name": "CERMICV",
+"text": "Gracias  al @Cermi_Estatal @CERMICV y a todas las Federaciones  que lo componen el camino es menos difícil para las personas  que tenemos discapacidad. #xfragil #ASPAYMCV #PREDIF #SomosFEDER #PlenaInclusion #COVID19  #XFragilCVsequedaencasa",
+"ReTweet: "True"},
+{"data": "Fri May 15 12:13:38 +0000 2020",
+"name": "Luis Cayo",
+"screen_name": "luiscayoperez",
+"text": "Gracias  al @Cermi_Estatal @CERMICV y a todas las Federaciones  que lo componen el camino es menos difícil para las personas  que tenemos discapacidad. #xfragil #ASPAYMCV #PREDIF #SomosFEDER #PlenaInclusion #COVID19  #XFragilCVsequedaencasa",
+"ReTweet: "True"},
+{"data": "Fri May 15 12:20:50 +0000 2020",
+"name": "FDerechoDiscapacidad",
+"screen_name": "FundacionDerDis",
+"text": "Gracias  al @Cermi_Estatal @CERMICV y a todas las Federaciones  que lo componen el camino es menos difícil para las personas  que tenemos discapacidad. #xfragil #ASPAYMCV #PREDIF #SomosFEDER #PlenaInclusion #COVID19  #XFragilCVsequedaencasa",
+"ReTweet: "True"},
+{"data": "Fri May 15 12:34:34 +0000 2020",
+"name": "Jorge Lumbreras",
+"screen_name": "jlumbreras13",
+"text": "Conocer los síntomas son claves para un diagnóstico temprano!!",
+"ReTweet: "True"},
+{"data": "Fri May 15 12:50:27 +0000 2020",
+"name": "Salvatore Lamanna",
+"screen_name": "SalvatoreLama15",
+"text": "Concludo così la mia #RareDiseaseDay 🦋ascoltando il magnifico Michel Petrucciani che suona Round Midnight. Buona musica a tutti 😘https://t.co/fXJiUkwV5V https://t.co/mBAzCp8UZJ",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:00:17 +0000 2020",
+"name": "Elena Palladino",
+"screen_name": "ElenaPalladino5",
+"text": "780mila italiani combattono insieme alle loro famiglie contro le #malattierare. Aderisco alla campagna di @uniamofimronlus per migliorare la loro qualità di vita. #giornatadellemalattierare #RareDiseaseDay https://t.co/gwLrPZNucC",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:05:26 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Mi #FFpaciente va para @asociacion_mps hoy 15 de mayo se celebra el día mundial de las #mucopolisacaridosis  
+
+¡Todo mi apoyo! #mpsawareness #MPSAwarenessDay 
+
+¡Además, estrenan logo en ma asociación! #enfermedadesraras https://t.co/6yjDxn2CPd",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:05:55 +0000 2020",
+"name": "Unnefar",
+"screen_name": "Unnefar",
+"text": "Hoy se celebra el #DíaInternacionaldelaEsclerosisTuberosa con el objetivo de sensibilizar a la sociedad acerca de esta enfermedad poco frecuente, que afecta a más de 4000 personas en España #DíaInternacionaldelaEsclerosisTuberosa  #EnfermedadesRaras https://t.co/qBX3XJISYg",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:07:57 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "Mi #FFpaciente va para @asociacion_mps hoy 15 de mayo se celebra el día mundial de las #mucopolisacaridosis  
+
+¡Todo mi apoyo! #mpsawareness #MPSAwarenessDay 
+
+¡Además, estrenan logo en ma asociación! #enfermedadesraras https://t.co/6yjDxn2CPd",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:08:39 +0000 2020",
+"name": "MPS España",
+"screen_name": "asociacion_mps",
+"text": "Mi #FFpaciente va para @asociacion_mps hoy 15 de mayo se celebra el día mundial de las #mucopolisacaridosis  
+
+¡Todo mi apoyo! #mpsawareness #MPSAwarenessDay 
+
+¡Además, estrenan logo en ma asociación! #enfermedadesraras https://t.co/6yjDxn2CPd",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:24:49 +0000 2020",
+"name": "María #Vivircondolor",
+"screen_name": "vivircondolor",
+"text": "Mi #FFpaciente va para @asociacion_mps hoy 15 de mayo se celebra el día mundial de las #mucopolisacaridosis  
+
+¡Todo mi apoyo! #mpsawareness #MPSAwarenessDay 
+
+¡Además, estrenan logo en ma asociación! #enfermedadesraras https://t.co/6yjDxn2CPd",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:35:36 +0000 2020",
+"name": "Andrés González",
+"screen_name": "DrGlezGarcia",
+"text": "Existe un profundo desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina
+
+Concluye un estudio @incliva_iis @GVAclinic que propone modificar el plan de estudios para mejorar esa carencia.
+https://t.co/QHHQgBfquv",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:44:25 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "Diagnosticar las #MPS suele resultar complejo y tardío debido a la dificultad para identificar sus síntomas. 
+
+⚠Sin un tratamiento adecuado en el tiempo, los problemas de salud aumentan. 
+
+#ChaseTheSigns #MPSAwareness #MPSDay #DíaMundialMPS #SanofiEsEnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Fri May 15 13:48:32 +0000 2020",
+"name": "Luis Pardo",
+"screen_name": "luispardoc",
+"text": "Enfermedad de Huntington. ¡Emocionante!
+https://t.co/pYZ7ciw4qN
+#Generaciónesperanza
+#Enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:49:28 +0000 2020",
+"name": "Jose Ramon Padin",
+"screen_name": "JoseRPadin",
+"text": "#BuenosDias y a por el viernes.
+Hoy toca #FFpaciente y #366DiasDeEERR #masvisibles 
+
+El primero va para @GrupoOrpharSEFH por su dedicación a las #EnfermedadesRaras y los #medicamentoshuerfanos para animarlos a seguir así. 
+
+@ffpaciente @soriano_p @NoInvisibles",
+"ReTweet: "False"},
+{"data": "Fri May 15 13:55:05 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "😘😘",
+"ReTweet: "True"},
+{"data": "Fri May 15 13:56:21 +0000 2020",
+"name": "Pablo Mendez",
+"screen_name": "pablo_pamenva",
+"text": "Muchas gracias al @GrupoOrpharSEFH por éste minucioso informe (que he leído con mucho interés) y del que podremos sacar mucho partido las personas interesadas en #EnfermedadesRaras y #MedicamentosHuérfanos
+
+#366DiasdeEERR #masvisibles
+
+@joseluis_pa @EdoMarsol @aelmhu @SanofiES",
+"ReTweet: "True"},
+{"data": "Fri May 15 14:03:11 +0000 2020",
+"name": "Fundación Taiyari",
+"screen_name": "fundataiyariac",
+"text": "@RicardoDGPS @yocuidomexico @Mar_Garfias @malamadremx @kdartigues @nadgasman @monicagarzag @mmaccise @HLGatell @AGUSMARTE @AlfonsoJOGV @AnaPecova @inclusionmex @discapacidadcom @EspecialHoy @SR_Disability @DiscapacidadMex @RedCuidadosMx @ONUMujeresMX @RicardoDGPS insistimos, requerimos visualizar al SER HUMANO con #inclusion , cuidadores, familiares, personas con #discapacidad , #EnfermedadesRaras, enfermedades crónico degenerativas.
+La #salud, su cuidado y protección es de todos y para todos.
+#YoIncluyo",
+"ReTweet: "False"},
+{"data": "Fri May 15 14:07:29 +0000 2020",
+"name": "Dis-capacidad.com",
+"screen_name": "discapacidadcom",
+"text": "@RicardoDGPS @yocuidomexico @Mar_Garfias @malamadremx @kdartigues @nadgasman @monicagarzag @mmaccise @HLGatell @AGUSMARTE @AlfonsoJOGV @AnaPecova @inclusionmex @discapacidadcom @EspecialHoy @SR_Disability @DiscapacidadMex @RedCuidadosMx @ONUMujeresMX @RicardoDGPS insistimos, requerimos visualizar al SER HUMANO con #inclusion , cuidadores, familiares, personas con #discapacidad , #EnfermedadesRaras, enfermedades crónico degenerativas.
+La #salud, su cuidado y protección es de todos y para todos.
+#YoIncluyo",
+"ReTweet: "False"},
+{"data": "Fri May 15 14:09:20 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "💻🏃‍♂️🏃‍♀️💻 A falta de carreras solidarias presenciales buenas son las virtuales...
+
+@La_SER recoge cómo funciona la original carrera virtual Poco Frecuente que recauda fondos para ayudar a familias con #EnfermedadesRaras. 
+#CarreraPocoFrecuente
+https://t.co/82dpKqSBf2",
+"ReTweet: "False"},
+{"data": "Fri May 15 14:30:00 +0000 2020",
+"name": "Genotipia",
+"screen_name": "genotipia",
+"text": "CRISPR como herramienta para rastrear dianas terapéuticas.
+
+#INVESTIGACIÓN #CRISPR #ediciongenoma #enfermedadesraras #distrofiamuscular https://t.co/q6jXwH7co2",
+"ReTweet: "False"},
+{"data": "Fri May 15 15:10:08 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Hoy hay en desarrollo más terapias para personas con #EnfermedadesRaras que nunca. Pero, al ritmo actual, llevará décadas cubrir todas las necesidades todavía insatisfechas. ¿Cómo podemos mejorar colectivamente el actual sistema antes de 2030?
+
+https://t.co/gfLI3yMVx4 https://t.co/UIrKlobVuJ",
+"ReTweet: "False"},
+{"data": "Fri May 15 15:17:59 +0000 2020",
+"name": "Y de verdad tienes 3 💚💙",
+"screen_name": "deverdadtienes3",
+"text": "Mi #FFpaciente va para @asociacion_mps hoy 15 de mayo se celebra el día mundial de las #mucopolisacaridosis  
+
+¡Todo mi apoyo! #mpsawareness #MPSAwarenessDay 
+
+¡Además, estrenan logo en ma asociación! #enfermedadesraras https://t.co/6yjDxn2CPd",
+"ReTweet: "False"},
+{"data": "Fri May 15 15:30:08 +0000 2020",
+"name": "Xima García",
+"screen_name": "ximagg",
+"text": "CRISPR como herramienta para rastrear dianas terapéuticas.
+
+#INVESTIGACIÓN #CRISPR #ediciongenoma #enfermedadesraras #distrofiamuscular https://t.co/q6jXwH7co2",
+"ReTweet: "False"},
+{"data": "Fri May 15 15:33:05 +0000 2020",
+"name": "ASENKAWA ( Asociación Enfermedad de Kawasaki )",
+"screen_name": "asenkawa",
+"text": "#unidossomosmasfuertes en la lucha @porcorazonessanos Gracias @FEDER_ONG  #somosfeder",
+"ReTweet: "True"},
+{"data": "Fri May 15 15:50:53 +0000 2020",
+"name": "Carlos Darío Ramírez",
+"screen_name": "cdrm_89",
+"text": "CRISPR como herramienta para rastrear dianas terapéuticas.
+
+#INVESTIGACIÓN #CRISPR #ediciongenoma #enfermedadesraras #distrofiamuscular https://t.co/q6jXwH7co2",
+"ReTweet: "False"},
+{"data": "Fri May 15 15:59:02 +0000 2020",
+"name": "Toy Planet",
+"screen_name": "ToyPlanetSL",
+"text": "Hoy queremos darle protagonismo a Yara, la muñeca Yara, viene vestida para la ocasión con una mascarilla con el arcoiris dibujado y la frase 'Todo va a salir bien' https://t.co/ceKU8Od4LV #toyplanet #nupancitos #muñecosolidario #berjuan #asociaciónNUPA #enfermedadesraras  #muñeco https://t.co/hRL6vPxx9u",
+"ReTweet: "False"},
+{"data": "Fri May 15 17:06:35 +0000 2020",
+"name": "Mª Luz Nieto",
+"screen_name": "MLuzNieto1",
+"text": "#EnfermedadesRaras
+
+Hoy 15 de Mayo se celebra el Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #MPSDAY #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia.@MPSpapas 
+https://t.co/UKqpzJMOux https://t.co/b9Ppgxa7xa",
+"ReTweet: "False"},
+{"data": "Fri May 15 17:06:44 +0000 2020",
+"name": "Mª Luz Nieto",
+"screen_name": "MLuzNieto1",
+"text": "Las #MPS son 7⃣ #EnfermedadesRaras:
+🔹Genéticas
+🔹Progresivas
+🔹Multisistémicas
+
+Conocer sus múltiples síntomas es clave para diagnosticarlas a tiempo y mejorar la calidad de vida de l@s pacientes. 
+
+#ChaseTheSigns #MPSAwareness #MPSDay #DíaMundialMPS #SanofiEsEnfermedadesRaras https://t.co/Ecx50Ffw6D",
+"ReTweet: "False"},
+{"data": "Fri May 15 17:10:43 +0000 2020",
+"name": "Jorge Lumbreras",
+"screen_name": "jlumbreras13",
+"text": "Diagnosticar las #MPS suele resultar complejo y tardío debido a la dificultad para identificar sus síntomas. 
+
+⚠Sin un tratamiento adecuado en el tiempo, los problemas de salud aumentan. 
+
+#ChaseTheSigns #MPSAwareness #MPSDay #DíaMundialMPS #SanofiEsEnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Fri May 15 17:14:04 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 15 de mayo es el Día Internacional de la #EsclerosisTuberosa #TSCAwarenessDay #EnfermedadesRaras
+https://t.co/8zqk9bD1b7 https://t.co/0yt7uF1YIp",
+"ReTweet: "False"},
+{"data": "Fri May 15 17:14:38 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "👏🏾👏🏾👏🏾👏🏾👏🏾 noticíes que t'alegren el dia!
+#malaltiesminoritaries #enfermedadesraras #RareDiseases",
+"ReTweet: "True"},
+{"data": "Fri May 15 17:21:33 +0000 2020",
+"name": "Ale",
+"screen_name": "alemartin_s",
+"text": "Hoy 15 de mayo es el Día Internacional de la #EsclerosisTuberosa #TSCAwarenessDay #EnfermedadesRaras
+https://t.co/8zqk9bD1b7 https://t.co/0yt7uF1YIp",
+"ReTweet: "False"},
+{"data": "Fri May 15 17:53:04 +0000 2020",
+"name": "CERMI Estatal",
+"screen_name": "Cermi_Estatal",
+"text": "Gracias  al @Cermi_Estatal @CERMICV y a todas las Federaciones  que lo componen el camino es menos difícil para las personas  que tenemos discapacidad. #xfragil #ASPAYMCV #PREDIF #SomosFEDER #PlenaInclusion #COVID19  #XFragilCVsequedaencasa",
+"ReTweet: "True"},
+{"data": "Fri May 15 17:53:32 +0000 2020",
+"name": "Asociación Porfiria",
+"screen_name": "porfiria_org",
+"text": "Fide Mirón, vicepresidenta de la AEP, envia un saludo a los pacientes y recuerda la importancia de estar unidos.
+#LaPorfiriaExiste #Porfiria #JuntosSomosMásfuertes #EnfermedadesRaras #somosAEP
+https://t.co/qhxNxbHO67 https://t.co/i9cRCvm28b",
+"ReTweet: "False"},
+{"data": "Fri May 15 18:08:33 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/AWa7vQQ6hG Gracias a @PlayNoticiasOfi #enfermedadesraras #medicamentoshuérfanos",
+"ReTweet: "False"},
+{"data": "Fri May 15 18:13:16 +0000 2020",
+"name": "Ana Paty Peralta",
+"screen_name": "anapatyp",
+"text": "#EnfermedadesRaras
+Hoy 15 de Mayo se celebra el Día Mundial de las Mucopolisacaridosis o MPS.
+
+Estoy impulsando que todos los que padezcan algunas de las enfermedades raras cuenten con medicamento para su tratamiento.
+
+Conoce más 👇🏼
+https://t.co/QazNCxQ1bS https://t.co/w8vlCj1oEB",
+"ReTweet: "False"},
+{"data": "Fri May 15 18:21:51 +0000 2020",
+"name": "RareGuru | Rare Disease App",
+"screen_name": "RareGuruApp",
+"text": "As we all transition from complete isolation to stepping back out into the wild, remember to set your own pace and be your bad self 🥊 📱🧬 
+#raredisease #rareguru #imsorare #rarediseases #showyourstripes #zebrastrong #rarediseaseday #tilemat #letterfolk #covid19 @letterfolk https://t.co/3fhvVQLvxf",
+"ReTweet: "False"},
+{"data": "Fri May 15 18:35:43 +0000 2020",
+"name": "Geovani de Jesús",
+"screen_name": "GeoTcas",
+"text": "#EnfermedadesRaras
+Hoy 15 de Mayo se celebra el Día Mundial de las Mucopolisacaridosis o MPS.
+
+Estoy impulsando que todos los que padezcan algunas de las enfermedades raras cuenten con medicamento para su tratamiento.
+
+Conoce más 👇🏼
+https://t.co/QazNCxQ1bS https://t.co/w8vlCj1oEB",
+"ReTweet: "False"},
+{"data": "Fri May 15 18:45:32 +0000 2020",
+"name": "Northstar Montessori",
+"screen_name": "SalinePreschool",
+"text": "#Continence issues can be common in #children with rare diseases.  Our disposable pads, made exclusively for children, can help get kids out of nappies which also helps increase self esteem.  Contact us for more details  #RareDiseaseDay Dry Like Me https://t.co/9EFUHyQXSM https://t.co/saZzb01Wlh",
+"ReTweet: "False"},
+{"data": "Fri May 15 19:05:45 +0000 2020",
+"name": "Fide",
+"screen_name": "fidemiron",
+"text": "Mi mensaje por el día de los pacientes con #porfiria
+Porque la Porfiria Existe
+#LaporfiriaExiste",
+"ReTweet: "True"},
+{"data": "Fri May 15 19:11:43 +0000 2020",
+"name": "Asociación de pacientes con EM y ED | APEMEDE",
+"screen_name": "apemedec",
+"text": "Conoce estos beneficios y más en nuestro sitio web.
+#quédateencasa #esclerosismúltiple #neuromieliteóptica #APEMEDE #NoEstoySolo #enfermedadesraras #enfermedadesdesmielinizantes
+ https://t.co/RcN9RZNyey",
+"ReTweet: "False"},
+{"data": "Fri May 15 19:39:35 +0000 2020",
+"name": "Arte_d_ari",
+"screen_name": "Artedari",
+"text": "A ver... #buenasnoches... Este finde, #lecturasrecomendadas... #EnfermedadesRaras #showyourare #Amazon #unetealacausa #viernes #15Mayo",
+"ReTweet: "True"},
+{"data": "Fri May 15 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/hO0g8IfWlb Thanks to @drstephbest @gitaramdharry #raredisease #antibody",
+"ReTweet: "False"},
+{"data": "Fri May 15 19:46:41 +0000 2020",
+"name": "mar minano",
+"screen_name": "MinanoMar",
+"text": "Nos sumamos a los mensajes de ánimo de La Asociación de #EnfermedadesRaras D´Genes, pronto volveremos a vernos 👉 #YoMeQuedoEnCasa https://t.co/28RmGRtdBP",
+"ReTweet: "True"},
+{"data": "Fri May 15 19:47:39 +0000 2020",
+"name": "mar minano",
+"screen_name": "MinanoMar",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Fri May 15 19:49:27 +0000 2020",
+"name": "mar minano",
+"screen_name": "MinanoMar",
+"text": "🍀Gracias a tu participación conseguiremos mejorar nuestro trabajo para el colectivo de personas con #EnfermedadesRaras 
+
+❓¿Participas en la última encuesta del Rare Barometer Voices para contar tu experiencia sobre el impacto del #COVID19 
+
+Accede aquí: https://t.co/DAQwSmu5bN https://t.co/ATt5hfvMct",
+"ReTweet: "False"},
+{"data": "Fri May 15 21:13:40 +0000 2020",
+"name": "AEFA Kabuki",
+"screen_name": "AefaKabuki",
+"text": "Hoy es el #diainternacionaldelasfamilias. Y las familias, diversas y diferentes entre si, tienen una gran importancia en las #EnfermedadesRaras. Gracias, familias #kabuki.",
+"ReTweet: "False"},
+{"data": "Fri May 15 21:18:18 +0000 2020",
+"name": "Pilar Pérez Peña",
+"screen_name": "pilarpe23800441",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNnGsa",
+"ReTweet: "False"},
+{"data": "Fri May 15 21:32:14 +0000 2020",
+"name": "Lorna Hevia",
+"screen_name": "lornahevia",
+"text": "La contaminación en Caracas está afectando la salud de nuestro hijo. Su aparato respiratorio es su debilidad. Ya no hallamos como protegerlo de tanto humo que hay a diario 🙁 #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri May 15 21:37:11 +0000 2020",
+"name": "Kelley biddle",
+"screen_name": "Kelleybiddle1",
+"text": "Lymphatic malformation awareness day. If anyone has questions about LM please ask.",
+"ReTweet: "True"},
+{"data": "Fri May 15 21:37:26 +0000 2020",
+"name": "Kelley biddle",
+"screen_name": "Kelleybiddle1",
+"text": "Lymphatic malformation awareness day. If anyone has questions about LM please ask",
+"ReTweet: "True"},
+{"data": "Fri May 15 21:37:57 +0000 2020",
+"name": "La Saeta Noticias",
+"screen_name": "lasaetanoticias",
+"text": "#Saetazos | @lornahevia: La contaminación en Caracas está afectando la salud de nuestro hijo. Su aparato respiratorio es su debilidad. Ya no hallamos como protegerlo de tanto humo que hay a diario 🙁 #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri May 15 21:42:13 +0000 2020",
+"name": "Jubilados Pensionado",
+"screen_name": "cestaticketJP",
+"text": "#Saetazos | @lornahevia: La contaminación en Caracas está afectando la salud de nuestro hijo. Su aparato respiratorio es su debilidad. Ya no hallamos como protegerlo de tanto humo que hay a diario 🙁 #EnfermedadesRaras",
+"ReTweet: "False"},

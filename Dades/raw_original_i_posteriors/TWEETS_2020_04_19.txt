@@ -1,0 +1,725 @@
+{"data": "Sat Apr 18 22:48:14 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sat Apr 18 23:06:59 +0000 2020",
+"name": "Belén Rodriguez",
+"screen_name": "Bln85",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 00:04:01 +0000 2020",
+"name": "♥️Lady Ostom♥️",
+"screen_name": "alexainer",
+"text": "Exacto ♥️",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 00:09:08 +0000 2020",
+"name": "♥️Lady Ostom♥️",
+"screen_name": "alexainer",
+"text": "#ostomy #ostomia #crohn #colitisulcerosa #ostomybag #dormir #Covid_19 #YouTube #enfermedadesraras 
+👇🏽👇🏽👇🏽👇🏽👇🏽",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 00:57:19 +0000 2020",
+"name": "Meet An OstoMate",
+"screen_name": "MeetAnOstoMate",
+"text": "#ostomy #ostomia #crohn #colitisulcerosa #ostomybag #dormir #Covid_19 #YouTube #enfermedadesraras 
+👇🏽👇🏽👇🏽👇🏽👇🏽 https://t.co/FLiRgwvqag",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 02:29:58 +0000 2020",
+"name": "Wendy Arriaza",
+"screen_name": "Arriazawendy",
+"text": "La #genética es nuestro lenguaje de programación y en #EnfermedadesRaras la clave para la gran mayoría de diagnósticos. 
+Aprende más sobre el tema de la mano del Dr. @LluisMontoliu, reconocido experto a nivel internacional.
+https://t.co/Yi2GANZ4aE
+Más info en: info@share4rare.org https://t.co/bLmD0kQm1S",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 05:26:24 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "SergeSeret",
+"text": "[ Le saviez-vous ❓ ] 
+Les leucodystrophies "indéterminées" sont les maladies pour lesquelles les gènes en cause ne sont pas identifiés. Elles représentent encore 20% des cas. Elles correspondent aux types de leucodystrophies les plus rares. #RareDiseaseDay #JIMR2020
+📸 Inserm https://t.co/RRWp3k3uJ4",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 05:26:29 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "SergeSeret",
+"text": "[ Le saviez-vous ❓ ] 
+Les #leucodystrophies sont des maladies rares. L'ALD, la leucodystrophie la plus fréquente, concerne 1 naissance sur 17 000. Il existe aujourd'hui, une trentaine de leucodystrophies identifiées. #RareDiseaseDay #JIMR2020 https://t.co/P1spMikzCv",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 05:26:33 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "SergeSeret",
+"text": "Aujourd'hui, c'est la Journée Internationale des maladies rares. Une maladie est dite rare lorsqu’elle touche moins d’une personne sur 2 000. 
+Les #leucodystrophies en font partie. Ne les oublions pas ! 
+Pour comprendre ce que sont les leucodystrophies 👇#RareDiseaseDay #JIMR2020 https://t.co/3Y8FxH1xEY",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 05:26:39 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "SergeSeret",
+"text": "Aujourd’hui, #ELA organise une rencontre inédite dans un #laboratoire de #recherche à @icm_institute à #Paris. 
+Restez connectés ! 📲 #RareDiseaseDay #JIMR
+📸 ICM https://t.co/suMZ7aaJ8C",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 05:26:42 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "SergeSeret",
+"text": "Conclusion par Guy Alba, Président d’ELA : lancement d’un essai clinique majeur pour 2020. #RareDiseaseDay #JIMR2020 https://t.co/ayjCVELwMv",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 06:04:30 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Gracias a Pedro García por informar y dar visibilidad del #SíndromeWolfHirschhorn o #4pmenos en @gndiario_es 
+
+#WolfHirschhorn #SoySWH #EnfermedadesRaras #EERR #investigación #FSWH #visibilidad  #EPF #DíaInternacionalDelSíndromeWolfHirschhorn 
+
+https://t.co/HMKPVrAFLG",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 06:24:53 +0000 2020",
+"name": "ACLAC: Asociación Canaria del Laboratorio Clínico",
+"screen_name": "aclabclin",
+"text": "La #genética es nuestro lenguaje de programación y en #EnfermedadesRaras la clave para la gran mayoría de diagnósticos. 
+Aprende más sobre el tema de la mano del Dr. @LluisMontoliu, reconocido experto a nivel internacional.
+https://t.co/Yi2GANZ4aE
+Más info en: info@share4rare.org https://t.co/bLmD0kQm1S",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:15:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "El cierre de los centros educativos durante el estado de alarma deja sin su abordaje terapéutico a muchos niños con #EnfermedadesRaras, alerta @FEDER_ONG 
+Terapias de audición y lenguaje o estimulación son el único tratamiento a día de hoy en muchos casos
+https://t.co/CBwVgXdDrb https://t.co/c4inrYh3C2",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:15:55 +0000 2020",
+"name": "Pilar Argente Navarro",
+"screen_name": "argente_pilar",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:20:36 +0000 2020",
+"name": "Reme",
+"screen_name": "kaluapiscis",
+"text": "Gracias a Pedro García por informar y dar visibilidad del #SíndromeWolfHirschhorn o #4pmenos en @gndiario_es 
+
+#WolfHirschhorn #SoySWH #EnfermedadesRaras #EERR #investigación #FSWH #visibilidad  #EPF #DíaInternacionalDelSíndromeWolfHirschhorn 
+
+https://t.co/HMKPVrAFLG",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:20:41 +0000 2020",
+"name": "Chef Eduardo Sánchez",
+"screen_name": "ChefCocineroEdu",
+"text": "#MasterClass 
+#EnfermedadesRaras
+#CocineroEdu https://t.co/f0Zo5q1kul",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:22:53 +0000 2020",
+"name": "Chef Eduardo Sánchez",
+"screen_name": "ChefCocineroEdu",
+"text": "#MasterClass 
+#EnfermedadesRaras 
+#CocineroEdu https://t.co/aT8sdvdvju",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:29:49 +0000 2020",
+"name": "Home Delivery Ashecova",
+"screen_name": "RepartoA",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:31:09 +0000 2020",
+"name": "Pepe Álvarez 🇪🇺",
+"screen_name": "Gomecello",
+"text": "El cierre de los centros educativos durante el estado de alarma deja sin su abordaje terapéutico a muchos niños con #EnfermedadesRaras, alerta @FEDER_ONG 
+Terapias de audición y lenguaje o estimulación son el único tratamiento a día de hoy en muchos casos
+https://t.co/CBwVgXdDrb https://t.co/c4inrYh3C2",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:45:27 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/YhugoGJnvn Thanks to @RACC_UK @TheGeneLab #raredisease #neurodegenerative",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 07:45:50 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/oYWdht3Rdj Gracias a @IFSASALUD #enfermedadcronica #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 08:10:27 +0000 2020",
+"name": "Gee",
+"screen_name": "GBronxCicc",
+"text": "My son has been diagnosed with a rare disease! 
+Please share Hunter’s story!! 
+
+#rarediseaseday2020 #RareDiseaseDay #rare #huntersstory #huntereaston #nord #witteveen #witteveenkolksyndrome #rarediseaseawareness  https://t.co/Ma0RMB9GvC",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 08:22:22 +0000 2020",
+"name": "Amparo Sánchez",
+"screen_name": "masapa1982",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 08:45:54 +0000 2020",
+"name": "Madre Dora E Rendon",
+"screen_name": "DoraMadre",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 08:53:12 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "El cierre de los centros educativos durante el estado de alarma deja sin su abordaje terapéutico a muchos niños con #EnfermedadesRaras, alerta @FEDER_ONG 
+Terapias de audición y lenguaje o estimulación son el único tratamiento a día de hoy en muchos casos
+https://t.co/CBwVgXdDrb https://t.co/c4inrYh3C2",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 09:09:30 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 09:10:57 +0000 2020",
+"name": "Antonio Morete",
+"screen_name": "Infliximan",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s https://t.co/oyvsXKnv0Y",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 09:11:15 +0000 2020",
+"name": "Estrella Domenech",
+"screen_name": "edomenechpas",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 09:23:18 +0000 2020",
+"name": "zeta_manu",
+"screen_name": "zeta_manu",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 09:47:18 +0000 2020",
+"name": "Ana Vega - Radio",
+"screen_name": "rincondeanavega",
+"text": "Colabora con @ACTAYS votando su proyecto en el siguiente enlace https://t.co/q7YzoxLVsp No necesita registro. Colabora!!! #RaroSeríaRendirse #EnfermedadesRaras #YoMeMuevoContraTaySachsySandhoff",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 09:47:52 +0000 2020",
+"name": "Guillermo Marrero #QuédateEnCasa 🏡",
+"screen_name": "guillemr",
+"text": "Colabora con @ACTAYS",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 10:21:57 +0000 2020",
+"name": "BR",
+"screen_name": "betsymrojasm",
+"text": "El cierre de los centros educativos durante el estado de alarma deja sin su abordaje terapéutico a muchos niños con #EnfermedadesRaras, alerta @FEDER_ONG 
+Terapias de audición y lenguaje o estimulación son el único tratamiento a día de hoy en muchos casos
+https://t.co/CBwVgXdDrb https://t.co/c4inrYh3C2",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:24:20 +0000 2020",
+"name": "ADIMTE",
+"screen_name": "Adimte_MT",
+"text": "👋Buenos días compañerxs👋!! 
+Hoy es el día INTERNACIONAL DE LA HERNIA DIAFRAGMÁTICA CONGÉNITA. 
+
+Os invito que conozcáis a esta mamá, Almudena @alualmudena y a África.👇👇 
+
+https://t.co/c0CblD7QDs
+
+Dadle difusión🙏🏻 #musicoterapia #diainternacionalhdc #enfermedadesraras #feder https://t.co/aMDCiiM1rr",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:26:37 +0000 2020",
+"name": "ADIMTE",
+"screen_name": "Adimte_MT",
+"text": "👋Buenos días compañerxs👋!! 
+Hoy es el día INTERNACIONAL DE LA HERNIA DIAFRAGMÁTICA CONGÉNITA. 
+
+Os invito que conozcáis a esta mamá, Almudena y a África.👇👇 
+
+https://t.co/c0CblD7QDs
+
+Dadle difusión🙏🏻 #musicoterapia #diainternacionalhdc #enfermedadesraras #feder https://t.co/9WUV9mIpO4",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:30:56 +0000 2020",
+"name": "Mito_guerrera",
+"screen_name": "Nerea_mine",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:32:37 +0000 2020",
+"name": "Benjamín Cristian🔻🏳️‍🌈",
+"screen_name": "benjamin_bka",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:34:32 +0000 2020",
+"name": "Esther 🌙",
+"screen_name": "_sthrr_",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:34:59 +0000 2020",
+"name": "Esther 🌙",
+"screen_name": "_sthrr_",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 10:35:06 +0000 2020",
+"name": "almudena",
+"screen_name": "contrerina81",
+"text": "👋Buenos días compañerxs👋!! 
+Hoy es el día INTERNACIONAL DE LA HERNIA DIAFRAGMÁTICA CONGÉNITA. 
+
+Os invito que conozcáis a esta mamá, Almudena y a África.👇👇 
+
+https://t.co/c0CblD7QDs
+
+Dadle difusión🙏🏻 #musicoterapia #diainternacionalhdc #enfermedadesraras #feder https://t.co/9WUV9mIpO4",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 10:41:50 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 19 de abril es el Día Internacional de la Hernia Diafragmática Congénita @LavidaconHDC #EnfermedadesRaras
+https://t.co/P0Mqg58xyr https://t.co/xJDGbmm7qf",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:03:26 +0000 2020",
+"name": "Tina Girbés",
+"screen_name": "tinagirbes",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:17:02 +0000 2020",
+"name": "Natt‼️",
+"screen_name": "nataliahdezz",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 11:17:57 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Grande 🙌 nuestro Presi @DanielMRiquelme recogiendo el Premio Dtor Frco Guirado 2018 d manos de la Alcaldesa @EstherClavero del @AytMolinaSegura  #MolinadeSegura  👏Desde @EERRMolina Aso #EnfermedadesRaras damos las gracias por éste reconocimiento 💪
+https://t.co/WKOihkPbtv https://t.co/dGqX7G1d3k",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:20:34 +0000 2020",
+"name": "SMEthod",
+"screen_name": "SMEthod_H2020",
+"text": "Tomorrow is #RareDiseaseDay 
+Since 2007, the 🇪🇺 has invested more than €1.4 billion in over 200 collaborative &amp; interdisciplinary #raredisease projects through successive Framework Programmes for R&amp;I.
+Find out more 👉https://t.co/TbzIpAYLAy
+#EUHealthResearch https://t.co/GkQH08NcyS",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:33:02 +0000 2020",
+"name": "Mercedes Gil Cavero",
+"screen_name": "mercedesgilcave",
+"text": "Grande 🙌 nuestro Presi @DanielMRiquelme recogiendo el Premio Dtor Frco Guirado 2018 d manos de la Alcaldesa @EstherClavero del @AytMolinaSegura  #MolinadeSegura  👏Desde @EERRMolina Aso #EnfermedadesRaras damos las gracias por éste reconocimiento 💪
+https://t.co/WKOihkPbtv https://t.co/dGqX7G1d3k",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:40:13 +0000 2020",
+"name": "Asociación STOP FMF",
+"screen_name": "STOP_FMF",
+"text": "Reparto de mascarillas gratuitas en Cataluña y Comunidad Valenciana para colectivos de riesgo en las farmacias
+
+#FMF #FiebreMediterraneaFamiliar
+#Autoinflamatorios #Autoinflammatory
+#StopFMF #FFpaciente #Covid19
+#EnfermedadesRaras 
+
+https://t.co/KbYKK8cYOR",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:45:08 +0000 2020",
+"name": "Dra A. García-Cazorla",
+"screen_name": "AGarciaCazorla",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:52:23 +0000 2020",
+"name": "Mercè Olivé Riu",
+"screen_name": "Merceolive",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:53:59 +0000 2020",
+"name": "Ash Winter",
+"screen_name": "ash_adventure",
+"text": "Check out the @fightforsightUK #podcast talking all things #keratoconus https://t.co/bFTjQh8N2T",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 11:54:56 +0000 2020",
+"name": "Antonio López Vidal",
+"screen_name": "morenoXlazocata",
+"text": "En primera persona. 
+La #AtaxiadeFriedreich y el confinamiento. 
+#Enfermedadesraras
+https://t.co/FZID7R6Q7I",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:56:38 +0000 2020",
+"name": "Begonya Nafría",
+"screen_name": "BegonyaNafria",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 11:57:58 +0000 2020",
+"name": "The Journal of Inherited Metabolic Disease",
+"screen_name": "JIMD_Editors",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:03:21 +0000 2020",
+"name": "Fran Tena",
+"screen_name": "Fran_Tena",
+"text": "El cierre de los centros educativos durante el estado de alarma deja sin su abordaje terapéutico a muchos niños con #EnfermedadesRaras, alerta @FEDER_ONG 
+Terapias de audición y lenguaje o estimulación son el único tratamiento a día de hoy en muchos casos
+https://t.co/CBwVgXdDrb https://t.co/c4inrYh3C2",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:18:45 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "#EnfermedadesRaras #Covid19
+
+Recomendaciones para familias con hijos con diversidad funcional durante #ConfinamientoEERR 
+
+Encuentra en la imagen varios consejos elaborados por el Servicio de Educación @CentroCREER https://t.co/ebmTcybkpp",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:19:33 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "Otro ejemplo (cada vez + frecuente) de #MovimientoAsociativo #EnfermedadesRaras tomando la iniciativa.
+
+@GA1Familia #AsociaciónDePacientes con Aciduria glutárica I y 2 pone en marcha un proyecto para crear un Registro Nacional de Acidemias Orgánicas.💪
+
+https://t.co/waaiWPHsXp https://t.co/fCr7JgGcxL",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:30:07 +0000 2020",
+"name": "Ángel Aledo-Serrano",
+"screen_name": "AAledo",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:30:08 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras #Coronavirus
+
+El grupo de trabajo internacional de expertos en #MisteniaGravis publica una serie de recomendaciones para el manejo de esta enfermedad minoritaria en el contexto de la actual pandemia #Covid19
+
+https://t.co/5mlvrLLorH https://t.co/TYuPjad5ti",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:33:11 +0000 2020",
+"name": "Laura Blanco García",
+"screen_name": "blancogarciala1",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 12:56:47 +0000 2020",
+"name": "Carmen Luna",
+"screen_name": "CARMENLUNAMT",
+"text": "👋Buenos días compañerxs👋!! 
+Hoy es el día INTERNACIONAL DE LA HERNIA DIAFRAGMÁTICA CONGÉNITA. 
+
+Os invito que conozcáis a esta mamá, Almudena y a África.👇👇 
+
+https://t.co/c0CblD7QDs
+
+Dadle difusión🙏🏻 #musicoterapia #diainternacionalhdc #enfermedadesraras #feder https://t.co/9WUV9mIpO4",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 13:36:11 +0000 2020",
+"name": "Fernando Suárez-Obando MD.",
+"screen_name": "FerSuarezMD",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 13:46:00 +0000 2020",
+"name": "Diego Alvarez",
+"screen_name": "AlvarezPerez_",
+"text": "A leitura diária da Bíblia é importante para o crescimento espiritual. Sua mãe insistia para você comer corretamente, porque sabia da importância do alimento para seu crescimento físico. Da mesma forma, se você não ler a Bíblia, nunca sairá da infância espiritual.
+#DM2020",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 13:48:20 +0000 2020",
+"name": "Luis Requena",
+"screen_name": "LuisRequenaICU",
+"text": "A todos los que os quejáis de estar encerrados que sepáis que algunos cuando no hay confinamiento viven así pegados a un hospital o encerrados en casa... #nuncaloentendereis #empatia unos días de hospital aislad@s a algun@s no le vendría mal para entender la vida de much@s",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 13:51:00 +0000 2020",
+"name": "Lucía Galán Dávila",
+"screen_name": "lucia_galan",
+"text": "#EnfermedadesRaras #Coronavirus
+
+El grupo de trabajo internacional de expertos en #MisteniaGravis publica una serie de recomendaciones para el manejo de esta enfermedad minoritaria en el contexto de la actual pandemia #Covid19
+
+https://t.co/5mlvrLLorH https://t.co/TYuPjad5ti",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 13:54:27 +0000 2020",
+"name": "Celia Oreja-Guevara",
+"screen_name": "C_OrejaGuevara",
+"text": "#EnfermedadesRaras #Coronavirus
+
+El grupo de trabajo internacional de expertos en #MisteniaGravis publica una serie de recomendaciones para el manejo de esta enfermedad minoritaria en el contexto de la actual pandemia #Covid19
+
+https://t.co/5mlvrLLorH https://t.co/TYuPjad5ti",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 13:57:28 +0000 2020",
+"name": "❤RositaParedes❤",
+"screen_name": "yurispice",
+"text": "Hoy 19 de abril es el Día Internacional de la Hernia Diafragmática Congénita @LavidaconHDC #EnfermedadesRaras
+https://t.co/P0Mqg58xyr https://t.co/xJDGbmm7qf",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 13:57:46 +0000 2020",
+"name": "❤RositaParedes❤",
+"screen_name": "yurispice",
+"text": "👋Buenos días compañerxs👋!! 
+Hoy es el día INTERNACIONAL DE LA HERNIA DIAFRAGMÁTICA CONGÉNITA. 
+
+Os invito que conozcáis a esta mamá, Almudena y a África.👇👇 
+
+https://t.co/c0CblD7QDs
+
+Dadle difusión🙏🏻 #musicoterapia #diainternacionalhdc #enfermedadesraras #feder https://t.co/9WUV9mIpO4",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 14:05:58 +0000 2020",
+"name": "Marcelo Bascur",
+"screen_name": "caezonbascur",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 14:26:45 +0000 2020",
+"name": "wolfhirschhorn.org",
+"screen_name": "wolf_hirschhorn",
+"text": "The latest The Wolf-Hirschhorn Syndrome Weekly! https://t.co/6PaDFaMcqB Thanks to @Fswh4pmenos @FEGEREC #enfermedadesraras #wolfhirschhorn",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 14:36:36 +0000 2020",
+"name": "Ictiosis España, ASIC",
+"screen_name": "asociacionasic",
+"text": "💻Curso online "Sensaciones y bienestar emocional"
+🗓Del 15 de mayo al 15 de junio
+👨‍👩‍👧‍👦Dirigido a familiares y cuidadores no profesionales de personas con #EnfermedadesRaras
+Organizado por @CentroCREER @Imserso 
+✍️Inscripciones en https://t.co/pNOF7wlXOL #AutocuidadosCREER https://t.co/ItE5KxAyTh",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 14:49:16 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#366DiasDeEERR #masvisibles",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 14:59:43 +0000 2020",
+"name": "Rosa M. Coco 🌾",
+"screen_name": "roscoma1966",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 15:03:14 +0000 2020",
+"name": "Gabriela Repetto 🧬",
+"screen_name": "gmrepetto",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 16:00:01 +0000 2020",
+"name": "SAMFyC",
+"screen_name": "SAMFyC",
+"text": "👥Un grupo interdisciplinar de investigadores: 
+@unisevilla @UVA_es y @SAMFyC ha decidido recabar información a través de un cuestionario sobre la situación en la que se encuentran las asociaciones de personas afectadas por las #enfermedadesraras
+
+👉 https://t.co/fJEtJBWhVb https://t.co/N4mizHlPd7",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 16:10:42 +0000 2020",
+"name": "Jordi Carmona",
+"screen_name": "jordicarmona",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 16:15:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+El tiempo de acceso a los #MedicamentosHuérfanos aumentó el pasado año, pasando de 12 meses en 2018 a 15 en 2019. @aelmhu propone la implementación de un modelo de financiación “sostenible pero, sobre todo, más rápido y ágil.”
+
+https://t.co/Bw9cazZriA",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 16:18:26 +0000 2020",
+"name": "Ángel Aledo-Serrano",
+"screen_name": "AAledo",
+"text": "Muy buena (y necesaria) revisión para todos los que nos dedicamos a la asistencia de enfermedades #minoritarias.
+
+Importante:
+➡️ Fenotipado preciso
+➡️ Reanálisis estudio genético
+➡️ Colaboración entre grupos
+➡️ Nuevas tecnologías (ARN etc)
+
+Gracias por compartirla @AGarciaCazorla",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 16:19:51 +0000 2020",
+"name": "Epilepsia Ruber",
+"screen_name": "EpilepsiaHRI",
+"text": "Muy buena (y necesaria) revisión para todos los que nos dedicamos a la asistencia de enfermedades #minoritarias.
+
+Importante:
+➡️ Fenotipado preciso
+➡️ Reanálisis estudio genético
+➡️ Colaboración entre grupos
+➡️ Nuevas tecnologías (ARN etc)
+
+Gracias por compartirla @AGarciaCazorla",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 16:21:46 +0000 2020",
+"name": "Antonio López Vidal",
+"screen_name": "morenoXlazocata",
+"text": "Grande 🙌 nuestro Presi @DanielMRiquelme recogiendo el Premio Dtor Frco Guirado 2018 d manos de la Alcaldesa @EstherClavero del @AytMolinaSegura  #MolinadeSegura  👏Desde @EERRMolina Aso #EnfermedadesRaras damos las gracias por éste reconocimiento 💪
+https://t.co/WKOihkPbtv https://t.co/dGqX7G1d3k",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 16:28:59 +0000 2020",
+"name": "David Reyes",
+"screen_name": "dreylei",
+"text": "Muy buena (y necesaria) revisión para todos los que nos dedicamos a la asistencia de enfermedades #minoritarias.
+
+Importante:
+➡️ Fenotipado preciso
+➡️ Reanálisis estudio genético
+➡️ Colaboración entre grupos
+➡️ Nuevas tecnologías (ARN etc)
+
+Gracias por compartirla @AGarciaCazorla",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 16:35:07 +0000 2020",
+"name": "Dra A. García-Cazorla",
+"screen_name": "AGarciaCazorla",
+"text": "Muy buena (y necesaria) revisión para todos los que nos dedicamos a la asistencia de enfermedades #minoritarias.
+
+Importante:
+➡️ Fenotipado preciso
+➡️ Reanálisis estudio genético
+➡️ Colaboración entre grupos
+➡️ Nuevas tecnologías (ARN etc)
+
+Gracias por compartirla @AGarciaCazorla",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 16:57:39 +0000 2020",
+"name": "Ignacio Carrera",
+"screen_name": "CarreraNacho",
+"text": "Muy buena (y necesaria) revisión para todos los que nos dedicamos a la asistencia de enfermedades #minoritarias.
+
+Importante:
+➡️ Fenotipado preciso
+➡️ Reanálisis estudio genético
+➡️ Colaboración entre grupos
+➡️ Nuevas tecnologías (ARN etc)
+
+Gracias por compartirla @AGarciaCazorla",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 17:00:56 +0000 2020",
+"name": "Paola Acevedo",
+"screen_name": "paoC31",
+"text": "Muy buena (y necesaria) revisión para todos los que nos dedicamos a la asistencia de enfermedades #minoritarias.
+
+Importante:
+➡️ Fenotipado preciso
+➡️ Reanálisis estudio genético
+➡️ Colaboración entre grupos
+➡️ Nuevas tecnologías (ARN etc)
+
+Gracias por compartirla @AGarciaCazorla",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 17:30:08 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Cómo están viviendo estas semanas de estado de alarma los pacientes con #EnfermedadesRaras?
+
+@ORMurcia habló con Juan Carrión, presidente  @FEDER_ONG @dgenesmurcia sobre el día a día de las personas confinadas con algún tipo de enfermedad minoritaria
+https://t.co/9bWCnuWjjW",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 17:36:17 +0000 2020",
+"name": "romayza rodriguez",
+"screen_name": "rodriguezb5",
+"text": "¿Cómo están viviendo estas semanas de estado de alarma los pacientes con #EnfermedadesRaras?
+
+@ORMurcia habló con Juan Carrión, presidente  @FEDER_ONG @dgenesmurcia sobre el día a día de las personas confinadas con algún tipo de enfermedad minoritaria
+https://t.co/9bWCnuWjjW",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 18:45:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Es mes de la #EnfermedadDeFabry, en el cual se da voz a la enfermedad y a los pacientes que la padecen y se conciencia sobre el impacto de la enfermedad en sus vidas. #enfermedadesraras
+
+Infórmate aquí sobre #fabry y sus signos y síntomas: 
+👉https://t.co/SK71xnYWQA https://t.co/D613Sid35O",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 18:48:35 +0000 2020",
+"name": "Sonia Caballero",
+"screen_name": "Sonia_Ca_2002",
+"text": "Es mes de la #EnfermedadDeFabry, en el cual se da voz a la enfermedad y a los pacientes que la padecen y se conciencia sobre el impacto de la enfermedad en sus vidas. #enfermedadesraras
+
+Infórmate aquí sobre #fabry y sus signos y síntomas: 
+👉https://t.co/SK71xnYWQA https://t.co/D613Sid35O",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 18:49:08 +0000 2020",
+"name": "Valentin Anton Dominguez",
+"screen_name": "ValentinAntonD1",
+"text": "Porque #otropaisesposible Muy buen documental sobre las #ENFERMEDADESRARAS que ayer sábado emitió la 2 de TVE. 
+@GobiernoDeEspan Nuestro apoyo bajo el LEMA 📣"MÁS DINERO PARA INVESTIGACIÓN Y NI UN EURO PARA RELIGIÓN"👀 https://t.co/0WZz9f94ZK",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 19:25:58 +0000 2020",
+"name": "Displasia cleidocraneal España",
+"screen_name": "aefdcc",
+"text": "¡¡¡Gracias a vosotros!!!",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/OH7UhOCaZ5 Thanks to @PacBio @MyositisSupport @BeyondYourPast #raredisease #genetherapy",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 20:36:19 +0000 2020",
+"name": "JAM",
+"screen_name": "judarmstrong",
+"text": "Revisión muy ilustrativa sobre cómo las #enfermedadesraras están cambiando nuestra práctica clínica y en especial en #neuropediatria. Muy importante el "ultrafenotipado" o definición exhaustiva de síntomas. Pueden parecerse pero cada enfermedad es única.
+
+https://t.co/Fi8WLS9Pw8 https://t.co/voJOnJy6fQ",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 21:00:47 +0000 2020",
+"name": "MUDI MABIRIANI",
+"screen_name": "MudiMabiriani",
+"text": "Watoto kama @AliKimara na #MalcolmTheBeliever wanahitaji elimu bora pasipo na shule. Muda umefika kuangalia upya sera zetu ili tusiwabague watoto wanaoishi na magonjwa adimu. #RareDiseaseDay",
+"ReTweet: "False"},
+{"data": "Sun Apr 19 21:41:54 +0000 2020",
+"name": "Lluis Montoliu",
+"screen_name": "LluisMontoliu",
+"text": "Transparencia en experimentación animal es tb aceptar una entrevista con un equipo de @tv3cat del programa @nopotserTV3 dirigido por @jordibaste y mostrarles nuestros ratones avatar con #CRISPR con los que investigamos en el @CNB_CSIC sobre #enfermedadesraras @CIBERER @COSCEorg",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 21:42:16 +0000 2020",
+"name": "𝗘𝗔𝗥𝗔_𝗘𝗦",
+"screen_name": "EARA_ES",
+"text": "Transparencia en experimentación animal es tb aceptar una entrevista con un equipo de @tv3cat del programa @nopotserTV3 dirigido por @jordibaste y mostrarles nuestros ratones avatar con #CRISPR con los que investigamos en el @CNB_CSIC sobre #enfermedadesraras @CIBERER @COSCEorg https://t.co/AydqYRPgvJ",
+"ReTweet: "True"},
+{"data": "Sun Apr 19 21:53:53 +0000 2020",
+"name": "iván rodríguez gnlz",
+"screen_name": "virgilio_ftv",
+"text": "Transparencia en experimentación animal es tb aceptar una entrevista con un equipo de @tv3cat del programa @nopotserTV3 dirigido por @jordibaste y mostrarles nuestros ratones avatar con #CRISPR con los que investigamos en el @CNB_CSIC sobre #enfermedadesraras @CIBERER @COSCEorg https://t.co/AydqYRPgvJ",
+"ReTweet: "True"},

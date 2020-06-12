@@ -1,0 +1,403 @@
+{"data": "Wed May 20 22:11:59 +0000 2020",
+"name": "DGo",
+"screen_name": "DPepeC",
+"text": "Mi vida y la de los pacientes crónicos es una fase cero constante. 
+
+No nos olviden. #EnfermedadesRaras #NadaEsImposible #SinCienciaNoHayFuturo https://t.co/5XiRwQZLNG",
+"ReTweet: "False"},
+{"data": "Wed May 20 22:29:03 +0000 2020",
+"name": "Paloma Husillos",
+"screen_name": "PalomaHusillos",
+"text": "Muchas personas viven pensando que pasar de "Fases" les devolverá su vida anterior y esa "normalidad" (con la que quieren decir rutina) en la que vivían. Para otros, es recuperar tu calidad de vida y que el tiempo no avance.",
+"ReTweet: "True"},
+{"data": "Wed May 20 22:41:31 +0000 2020",
+"name": "M Angeles",
+"screen_name": "MAngele26735459",
+"text": "Mi vida y la de los pacientes crónicos es una fase cero constante. 
+
+No nos olviden. #EnfermedadesRaras #NadaEsImposible #SinCienciaNoHayFuturo https://t.co/5XiRwQZLNG",
+"ReTweet: "False"},
+{"data": "Wed May 20 22:54:25 +0000 2020",
+"name": "Asanol (Asoc. LHON)",
+"screen_name": "Asanol",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Wed May 20 23:03:26 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Wed May 20 23:24:22 +0000 2020",
+"name": "Reyes Herrera",
+"screen_name": "ReyesHerrera63",
+"text": "@Asanol",
+"ReTweet: "True"},
+{"data": "Wed May 20 23:24:26 +0000 2020",
+"name": "Reyes Herrera",
+"screen_name": "ReyesHerrera63",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Wed May 20 23:27:51 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "@todoscomfanconi",
+"ReTweet: "True"},
+{"data": "Wed May 20 23:31:38 +0000 2020",
+"name": "Brad Crittenden",
+"screen_name": "bcrittenden",
+"text": "#PompeDisease was 1 of 5 rare diseases featured in this awareness campaign for #RareDiseaseDay. Check out this great #RareDisease video!",
+"ReTweet: "True"},
+{"data": "Wed May 20 23:32:26 +0000 2020",
+"name": "adriana",
+"screen_name": "ailiin24",
+"text": "📌 DÍA INTERNACIONAL DE LA ENFERMEDAD DE BEHCET
+👉 Les compartimos datos sobre esta patología.
+📲 Más info en la página de Facebook: Síndrome de Behcet Argentina 
+#Behcet #EPOF #EnfermedadesRaras https://t.co/fx7W9TiygC",
+"ReTweet: "False"},
+{"data": "Wed May 20 23:52:32 +0000 2020",
+"name": "María del Pilar",
+"screen_name": "psa33",
+"text": "Mi vida y la de los pacientes crónicos es una fase cero constante. 
+
+No nos olviden. #EnfermedadesRaras #NadaEsImposible #SinCienciaNoHayFuturo https://t.co/5XiRwQZLNG",
+"ReTweet: "False"},
+{"data": "Wed May 20 23:56:59 +0000 2020",
+"name": "Acción Tay-Sachs",
+"screen_name": "ACTAYS",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 02:38:35 +0000 2020",
+"name": "INÉS Y ESCLEROSIS MÚLTIPLE",
+"screen_name": "FERNAND34952098",
+"text": "Mi vida y la de los pacientes crónicos es una fase cero constante. 
+
+No nos olviden. #EnfermedadesRaras #NadaEsImposible #SinCienciaNoHayFuturo https://t.co/5XiRwQZLNG",
+"ReTweet: "False"},
+{"data": "Thu May 21 04:05:08 +0000 2020",
+"name": "Silvia Mabel Varas",
+"screen_name": "svaras2016",
+"text": "#EnfermedadesRaras
+
+El 15 de Mayo fue Día Mundial de las mucopolisacaridosis o MPS. Conoce más en #MPSDAY #Persiguelasseñales sobre esta enfermedad poco frecuente que en algunos casos causa pérdida de habla, retraso mental y demencia.
+
+https://t.co/UKqpzJMOux https://t.co/jVELSkWzto",
+"ReTweet: "False"},
+{"data": "Thu May 21 04:51:52 +0000 2020",
+"name": "Lucas John",
+"screen_name": "lucasjohnculp",
+"text": "Meet our #ResearchChampion Sarah Steel, who will be appearing on @mightyradiofm with our Comms Manager Greg Woodley this Friday at 10am talking all things research &amp; discussing her daughter Isla’s extremely rare condition #NKH #RareDiseaseDay #Research https://t.co/IodXi5czW0",
+"ReTweet: "False"},
+{"data": "Thu May 21 04:53:55 +0000 2020",
+"name": "Lucas John",
+"screen_name": "lucasjohnculp",
+"text": "On #RareDiseaseDay it's fantastic timing to receive new funding from @GOSHCharity @SparksCharity and @JosephsGoal to take forward our work on Non-Ketotic Hyperglycinemia #NKH - working with a great group of people across @UCLchildhealth @UCL_IfWH @UCLTRO and beyond",
+"ReTweet: "True"},
+{"data": "Thu May 21 05:37:35 +0000 2020",
+"name": "M. Isabel Martín Herranz",
+"screen_name": "isabel_martin2",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 06:03:38 +0000 2020",
+"name": "winy🌱🌞🦋🌻",
+"screen_name": "winsol67",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 06:24:42 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "20 de mayo, Día Mundial de la Enfermedad de #behçet #RetoBehçet #EnfermedadesRaras https://t.co/n2pk6E7Myh",
+"ReTweet: "True"},
+{"data": "Thu May 21 06:30:50 +0000 2020",
+"name": "Regan Mliwa",
+"screen_name": "MliwaRegan",
+"text": "Yesterday I had an opportunity to participate at the #RareDiseaseDay Commemorations in Dar es Salaam. It was a life changing experience to learn what children with rare diseases and families are going through.Thanks to @AliKimara and @humangeneticstz . 
+ #RareDiseaseDayTz2020 https://t.co/kKLj9dEmUc",
+"ReTweet: "False"},
+{"data": "Thu May 21 06:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "El Instituto de Salud Carlos III @SaludISCIII y la Asociación de Medicina de la Industria Farmacéutica @asociacionamife analizaron el impacto de la secuenciación genómica para diagnosticar y tratar de forma más temprana las #EnfermedadesRaras
+
+https://t.co/1IvG49xP1a https://t.co/o8CyQ12khe",
+"ReTweet: "False"},
+{"data": "Thu May 21 07:02:49 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "El Instituto de Salud Carlos III @SaludISCIII y la Asociación de Medicina de la Industria Farmacéutica @asociacionamife analizaron el impacto de la secuenciación genómica para diagnosticar y tratar de forma más temprana las #EnfermedadesRaras
+
+https://t.co/1IvG49xP1a https://t.co/o8CyQ12khe",
+"ReTweet: "False"},
+{"data": "Thu May 21 07:15:17 +0000 2020",
+"name": "elena vigon acebal",
+"screen_name": "evigona",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 07:45:27 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/NRmM8ffxNM Thanks to @aHUSAllianceAct @lkedwards11 @Primary_Immune #raredisease #shua",
+"ReTweet: "False"},
+{"data": "Thu May 21 07:46:38 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "El Instituto de Salud Carlos III @SaludISCIII y la Asociación de Medicina de la Industria Farmacéutica @asociacionamife analizaron el impacto de la secuenciación genómica para diagnosticar y tratar de forma más temprana las #EnfermedadesRaras
+
+https://t.co/1IvG49xP1a https://t.co/o8CyQ12khe",
+"ReTweet: "False"},
+{"data": "Thu May 21 07:54:35 +0000 2020",
+"name": "pilargomis",
+"screen_name": "pilargomis1",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 07:56:49 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "💻Curso "El sentido del humor y el autocuidado. Humor como estrategia de cuidado en el día a día" del @CentroCREER @Imserso
+🗓15 de junio-15 de julio
+👨‍👩‍👧‍👦Dirigido a familias y cuidadores no profesionales de personas con #EnfermedadesRaras #AutocuidadosCREER✍️https://t.co/iEBeKvaHbq https://t.co/O2Qo9Y14VF",
+"ReTweet: "False"},
+{"data": "Thu May 21 08:04:01 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy a las 13 h en el programa de #EnfermedadesRaras en @LibertadFm107, entrevistarán a la Dra. Violeta Durán Laforet, socia de @FJIprecarios, que hablará sobre Ictus y a la Dra. Rosa Casado Mejía, de la @unisevilla, que hablará sobre Igualdad y Buen trato
+https://t.co/N1HoQAsceR",
+"ReTweet: "False"},
+{"data": "Thu May 21 08:09:31 +0000 2020",
+"name": "Libertad FM 107.0",
+"screen_name": "LibertadFm107",
+"text": "Hoy a las 13 h en el programa de #EnfermedadesRaras en @LibertadFm107, entrevistarán a la Dra. Violeta Durán Laforet, socia de @FJIprecarios, que hablará sobre Ictus y a la Dra. Rosa Casado Mejía, de la @unisevilla, que hablará sobre Igualdad y Buen trato
+https://t.co/N1HoQAsceR",
+"ReTweet: "False"},
+{"data": "Thu May 21 08:12:29 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 08:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Familias de niños con #EnfermedadesRaras se quedan sin ayudas por los «criterios restrictivos» de las mutuas. @FEDER_ONG alerta de que familias de menores con estas patologías están dejando de recibir la prestación económica percibida por su cuidado.
+https://t.co/ogCCkHs3pS",
+"ReTweet: "False"},
+{"data": "Thu May 21 08:37:53 +0000 2020",
+"name": "Mónica Villarán Pérez",
+"screen_name": "monica_villaran",
+"text": "Familias de niños con #EnfermedadesRaras se quedan sin ayudas por los «criterios restrictivos» de las mutuas. @FEDER_ONG alerta de que familias de menores con estas patologías están dejando de recibir la prestación económica percibida por su cuidado.
+https://t.co/ogCCkHs3pS",
+"ReTweet: "False"},
+{"data": "Thu May 21 09:11:50 +0000 2020",
+"name": "Dr M.L.Fanarraga",
+"screen_name": "DrMFanarraga",
+"text": "Es dramática la nula esperanza que se puede ofrecer a pacientes con neurodegeneración: nada para curar, retrasar o enlentecer su patología 👉apoya la investigación en  #EnfermedadesRaras y neurodegenerativas, las previsiones futuras de su incidencia son muy pesimistas",
+"ReTweet: "True"},
+{"data": "Thu May 21 09:14:10 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "😊💪Estamos muy contentos de informaros que AHEDYSIA abre nuevamente sus puertas para seguir con nuestras actividades de atención a nuestros peques!!💪💪😍
+#EERR #EnfermedadesRaras
+👇
+https://t.co/Mhee6eF3cz https://t.co/cvvZl0meM9",
+"ReTweet: "False"},
+{"data": "Thu May 21 09:15:03 +0000 2020",
+"name": "Webconsultas Healthcare (desde casa 🏠)",
+"screen_name": "webconsultas",
+"text": "El @BiologiaUB, el #IBUB de @UniBarcelona, @CIBERER, #IRSJD del @SJDbarcelona_es y @INSERM descubren una nueva #enfermedadrara, el síndrome TRAF7 se caracteriza por rasgos faciales específicos, defectos cardíacos y retraso del desarrollo #enfermedadesraras https://t.co/MezuvWT7F7",
+"ReTweet: "False"},
+{"data": "Thu May 21 09:21:47 +0000 2020",
+"name": "Jacobo Santamarta",
+"screen_name": "jacobosantamar1",
+"text": "Mi vida y la de los pacientes crónicos es una fase cero constante. 
+
+No nos olviden. #EnfermedadesRaras #NadaEsImposible #SinCienciaNoHayFuturo https://t.co/5XiRwQZLNG",
+"ReTweet: "False"},
+{"data": "Thu May 21 09:23:43 +0000 2020",
+"name": "May M L",
+"screen_name": "May94879508",
+"text": "Tengo ESCLERODERMIA,  hace 30 años, ahora tengo problemas neurológicos 😔",
+"ReTweet: "True"},
+{"data": "Thu May 21 09:59:54 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "Familias de niños con #EnfermedadesRaras se quedan sin ayudas por los «criterios restrictivos» de las mutuas. @FEDER_ONG alerta de que familias de menores con estas patologías están dejando de recibir la prestación económica percibida por su cuidado.
+https://t.co/ogCCkHs3pS",
+"ReTweet: "False"},
+{"data": "Thu May 21 10:17:54 +0000 2020",
+"name": "gullible",
+"screen_name": "doloresarenales",
+"text": "😊💪Estamos muy contentos de informaros que AHEDYSIA abre nuevamente sus puertas para seguir con nuestras actividades de atención a nuestros peques!!💪💪😍
+#EERR #EnfermedadesRaras
+👇
+https://t.co/Mhee6eF3cz https://t.co/cvvZl0meM9",
+"ReTweet: "False"},
+{"data": "Thu May 21 10:35:30 +0000 2020",
+"name": "c.rafa.",
+"screen_name": "cristobaltorre6",
+"text": "Happening Now: I.D.'s Illegal. @drjmsalas @DrLynnList @droitanglais @drroykim @drsxr #getoutofhell with the #BCCRSS #TruthHitsYouInTheHeart #RareDiseaseDay #VisibleWomen #TRUTHNEWS #LetIDGo #MotherLanguageDay https://t.co/x8G5FIQHnR",
+"ReTweet: "False"},
+{"data": "Thu May 21 10:49:31 +0000 2020",
+"name": "Real Academia de Medicina y Cirugía de Valladolid",
+"screen_name": "RealCirugia",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 11:25:13 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 11:40:50 +0000 2020",
+"name": "info@aepmi.org",
+"screen_name": "AEPMI",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 11:43:10 +0000 2020",
+"name": "Marina Martínez",
+"screen_name": "MarinaM23085538",
+"text": "😊❤🏥 El 14 de mayo de 2019, en Varsovia, el profesor #KrystofBankiewicz y su equipo realizaron una compleja operación de #terapiagénica, pionera en el mundo, que logró darle una segunda vida Irai. ¡Felicidades, pequeña!
+🎂☝🏼Un año de avances. 👨🏻‍🔬👩🏽‍🔬 ¡Seguimos! #enfermedadesraras https://t.co/0uV8merLeE",
+"ReTweet: "False"},
+{"data": "Thu May 21 12:00:10 +0000 2020",
+"name": "@PepitaMonteroParra",
+"screen_name": "PepitaMontero",
+"text": "@JuanPLombardi Los acorralados somos los ciudadanos...
+- invisibilizados 
+- sin poder trabajar 
+- en franco deterioro patrimonial, moral, psicológico 
+- sin acceso a servicios esenciales eficientes
+- sin dinero
+- sin transporte 
+- medicinas suficientes para #enfermedadesraras 
+- sin descanso",
+"ReTweet: "False"},
+{"data": "Thu May 21 12:28:10 +0000 2020",
+"name": "Morgana Huxley",
+"screen_name": "MorganaHuxley",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 13:07:50 +0000 2020",
+"name": "Yoni Maisel",
+"screen_name": "Primary_Immune",
+"text": "#PompeDisease was 1 of 5 rare diseases featured in this awareness campaign for #RareDiseaseDay. Check out this great #RareDisease video! https://t.co/ZVJqcPE5rn",
+"ReTweet: "True"},
+{"data": "Thu May 21 13:25:26 +0000 2020",
+"name": "AMURET",
+"screen_name": "EnferTrabajoMur",
+"text": "Ya era hora ⁦@LopezMirasF⁩ ! únicos en España! Seguimos exigiendo ayudas a menores con #EnfermedadesRaras, cancer con discapacidad y familias sin recursos ! pensionistas dejarán de 'copagar' de más por sus fármacos desde junio ⁦@jperezparra⁩  https://t.co/XMHBbS2Tgx",
+"ReTweet: "False"},
+{"data": "Thu May 21 14:02:00 +0000 2020",
+"name": "Farmaindustria",
+"screen_name": "Farmaindustria",
+"text": "🦠 Hay 220 #EnsayosClínicos de nuevos medicamentos para tratar las #EnfermedadesRaras
+
+Apostar por la innovación en este tipo de áreas es fundamental para los #pacientes
+
+Seguimos trabajando 👉https://t.co/vYpAohvh67 #WeWontRest @FEDER_ONG @somos_pacientes https://t.co/QyKezn09B5",
+"ReTweet: "False"},
+{"data": "Thu May 21 14:14:45 +0000 2020",
+"name": "Jairo FSIE",
+"screen_name": "JairoFSIE",
+"text": "También se  tratará intervención  logopédica en el SÍNDROME X FRÁGIL @FEDER_ONG #xfragil #EnfermedadesRaras #logopedia",
+"ReTweet: "True"},
+{"data": "Thu May 21 14:19:00 +0000 2020",
+"name": "Pfizer España",
+"screen_name": "pfizer_spain",
+"text": "A diferencia de otros tratamientos, la #TerapiaGénica actúa sobre la causa, detiene la evolución y redefine las posibilidades de los pacientes
+
+Ignacio pascual, jefe de Neuropediatría de La Paz, en @IMMedicoHosp sobre el abordaje de las #EnfermedadesRaras
+
+https://t.co/odnHh4b3m3 https://t.co/cUhyzcBalI",
+"ReTweet: "False"},
+{"data": "Thu May 21 14:24:11 +0000 2020",
+"name": "J. Carlos Tallón",
+"screen_name": "CTallon89",
+"text": "Al menos un 45 % de las #EnfermedadesRaras tienen un origen neurológico. Algunos estudios cifran este porcentaje en hasta el 80%, Además, en aquellas enfermedades raras que no tienen este origen, más del 50 % presentan manifestaciones neurológicas. https://t.co/8LdnpcukEO",
+"ReTweet: "False"},
+{"data": "Thu May 21 14:41:15 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "20 de mayo, Día Europeo del Síndrome de Williams #diaeuropeodelsindromedewilliams Asociación Síndrome Williams de España #sindromedewilliams #laWselleva #EnfermedadesRaras 
+https://t.co/5UK060VMWY",
+"ReTweet: "False"},
+{"data": "Thu May 21 14:41:17 +0000 2020",
+"name": "elena_mystyle",
+"screen_name": "Elena_mystyle",
+"text": "Ahora que el uso de mascarillas es obligatorio, no nos podemos olvidar de aquellas personas que no pueden llevarlas por diversas causas y a las que no debemos excluir
+
+#todossomosiguales #juntossaldremos #respeto #mascarillas #enfermedadesraras #asociaci… https://t.co/rPEr6ssXnn https://t.co/K0u30LSI2t",
+"ReTweet: "False"},
+{"data": "Thu May 21 15:20:32 +0000 2020",
+"name": "Abraham 🇪🇸 (TW me censuró en @Abraham1996_ESP)",
+"screen_name": "AbrahamBiologia",
+"text": "La #mariposa también es símbolo de los afectados por la enfermedad rara, "piel de mariposa", aprovecho para que se invierta en investigación en la lucha contra las #enfermedadesraras: https://t.co/xXNAAkoq3c #priegodecordoba",
+"ReTweet: "True"},
+{"data": "Thu May 21 15:26:38 +0000 2020",
+"name": "elena_mystyle",
+"screen_name": "Elena_mystyle",
+"text": "Ahora que el uso de mascarillas es obligatorio, no nos podemos olvidar de aquellas personas que no pueden llevarlas por diversas causas y a las que no debemos excluir
+
+#todossomosiguales #juntossaldremos #respeto #mascarillas #enfermedadesraras #asociacionprotgd #blogmadresf… https://t.co/XoQ2sx4BCL",
+"ReTweet: "False"},
+{"data": "Thu May 21 15:40:32 +0000 2020",
+"name": "isabellaparra",
+"screen_name": "isabellabebe19",
+"text": "#HeroesDeLaSalud #DonarSalvaVidas #21May #SomosUnoSomosTodos #gofundme #donation #enfermedadesraras #salud #ayudaasalvarvidas #salvaunavida 
+I'd really appreciate it if you could share or donate to this GoFundMe,
+
+*Please help me fight leukodystrophy.*
+
+https://t.co/L8wrQ4xLXe",
+"ReTweet: "False"},
+{"data": "Thu May 21 18:43:09 +0000 2020",
+"name": "Asociación STOP FMF",
+"screen_name": "STOP_FMF",
+"text": "Nuevo taller para pacientes y familiares de Autoinflamatorios.
+
+#FMF #FiebreMediterraneaFamiliar #StopFMF
+#Autoinflamatorios #Autoinflammatory
+#EnfermedadesRaras #ffpaciente 
+
+https://t.co/bfVO0KeekA",
+"ReTweet: "False"},
+{"data": "Thu May 21 18:53:35 +0000 2020",
+"name": "Ana Sanchis",
+"screen_name": "Anasangan",
+"text": "Es dramática la nula esperanza que se puede ofrecer a pacientes con neurodegeneración: nada para curar, retrasar o enlentecer su patología 👉apoya la investigación en  #EnfermedadesRaras y neurodegenerativas, las previsiones futuras de su incidencia son muy pesimistas",
+"ReTweet: "True"},
+{"data": "Thu May 21 19:45:23 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/riO9MqrRxu Thanks to @teaminspire #raredisease #technology",
+"ReTweet: "False"},
+{"data": "Thu May 21 19:54:57 +0000 2020",
+"name": "Carlos Guzman Quilo",
+"screen_name": "GuzmanQCarlos",
+"text": "Familias de niños con #EnfermedadesRaras se quedan sin ayudas por los «criterios restrictivos» de las mutuas. @FEDER_ONG alerta de que familias de menores con estas patologías están dejando de recibir la prestación económica percibida por su cuidado.
+https://t.co/ogCCkHs3pS",
+"ReTweet: "False"},
+{"data": "Thu May 21 20:16:26 +0000 2020",
+"name": "Stephanie Fischer",
+"screen_name": "RarePOV",
+"text": "#PompeDisease was 1 of 5 rare diseases featured in this awareness campaign for #RareDiseaseDay. Check out this great #RareDisease video!",
+"ReTweet: "True"},
+{"data": "Thu May 21 21:01:10 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/RUERTS9tYE",
+"ReTweet: "False"},
+{"data": "Thu May 21 21:09:29 +0000 2020",
+"name": "Begonya Nafría",
+"screen_name": "BegonyaNafria",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/RUERTS9tYE",
+"ReTweet: "False"},

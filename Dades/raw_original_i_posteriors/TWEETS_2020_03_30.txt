@@ -1,0 +1,918 @@
+{"data": "Sun Mar 29 22:11:35 +0000 2020",
+"name": "ViviEMdo confinada",
+"screen_name": "viviEMdo",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 22:24:53 +0000 2020",
+"name": "Dheys Rios Acosta",
+"screen_name": "DheysRios",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 22:48:17 +0000 2020",
+"name": "Celia Marín",
+"screen_name": "CMRancel",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 23:42:38 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᕼᗩY ᑫᑌE ᔕEᑎTIᖇ ᗰáᔕ.
+ᑭEᑎᔕᗩᗰIEᑎTOᔕ ᑭOᔕITIᐯOᔕ. 💫🧿
+
+...
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion… https://t.co/Jte6hQma4X",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 00:17:16 +0000 2020",
+"name": "Criando 24/7 #YoMeQuedoEnCasa",
+"screen_name": "Criando247",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 01:33:45 +0000 2020",
+"name": "Maybel Sofia",
+"screen_name": "maybel65",
+"text": "La @UAM_Madrid y @Roche_spain crean una cátedra para fomentar el conocimiento y la investigación de las enfermedades pulmonares intersticiales difusas, entre las que se encuentran la fibrosis pulmonar idiopática #FPI #EnfermedadesRaras https://t.co/Qo1DIVDM4o",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 01:36:14 +0000 2020",
+"name": "UNA MIRADA ESPECIAL",
+"screen_name": "miradaespecial_",
+"text": "Nuesta experiencia durante el confinamiento conviviendo con una niña con #discapacidad
+
+#SYNGAP1 #madresfera #enfermedadesraras #encefalopatía #inclusion #capacidadesdiferentes #autismo #TEA #diversidad #discapacidadintelectual 
+
+https://t.co/IENK4dzyRe https://t.co/GnTftjcd8u",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 01:48:33 +0000 2020",
+"name": "Maryen Acevedo Z",
+"screen_name": "MaryenAcevedo",
+"text": "Do you know the different types of #HereditaryAngioedema? These are the most common types. We’re raising awareness of #HAE and you can learn more about why the protein C1-INH is so important at https://t.co/7eSGi13fuf #RareDiseaseDay",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 03:17:56 +0000 2020",
+"name": "Fenrici",
+"screen_name": "FenriciCares",
+"text": "A happy Amazon customer review on our Imagination backpack! Check it out on Fenrici’s Amazon today! $26.99 and free shipping! 
+•
+•
+•
+•
+•
+#pediatrics #pediatric #followus #raredisease #rarediseaseday #kidheroes… https://t.co/YCsQKsFoJS",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 04:28:34 +0000 2020",
+"name": "QUEERWIRE🌈",
+"screen_name": "QueerWire",
+"text": "Earlier this month we hosted a #RareDiseaseDay event at the EU Parliament, collaborating with @eurordis, MEPs and rare disease experts to win the fight against #RareDiseases. It was great to see so much support for #NewbornScreening for #SMA. https://t.co/s33XzQkBPw",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 04:30:23 +0000 2020",
+"name": "QUEERWIRE🌈",
+"screen_name": "QueerWire",
+"text": "We have arrived at the EU Parliament for our #RareDiseaseDay event! We look forward to celebrating achievements of people with #RareDiseases, and discussing ways to speed up diagnosis through coordinated EU action. https://t.co/AOjhqd3qL9",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 06:05:34 +0000 2020",
+"name": "Guerreros Púrpura",
+"screen_name": "guerreropurpura",
+"text": "Pues como que uno se levanta el lunes y le alegra el día ver que ¡Ya tenemos 200 seguidores! Muchas gracias a todos y a por otroa tantos más. @guerreropurpura #YoMeQuedoEnCasa #EnfermedadesRaras #Niñosenfermos #Epilepsy #Epilepsia #niñoshospitalizados #enfermedadesneurologicas https://t.co/YweSJFrVyt",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 06:27:07 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 06:36:09 +0000 2020",
+"name": "Regli",
+"screen_name": "Regli_Garesp",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 06:38:57 +0000 2020",
+"name": "Rob Marrod",
+"screen_name": "Asterfall",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 06:39:35 +0000 2020",
+"name": "Roberto Martín",
+"screen_name": "PsicoMarRod",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 07:01:42 +0000 2020",
+"name": "chema.martell",
+"screen_name": "ChemaMartell",
+"text": "Muchas gracias @LluisMontoliu por este video tan interesante!",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 07:08:45 +0000 2020",
+"name": "Pac81(en 🏡)",
+"screen_name": "Pac8110",
+"text": "¿Me ayudáis a compartir? #EnCuarentena #MeQuedoEnCasa",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 07:31:11 +0000 2020",
+"name": "Lluis Montoliu",
+"screen_name": "LluisMontoliu",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 07:36:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Queremos dar las gracias a Johnson&amp;Johnson por su compromiso con las #enfermedadesraras y su apoyo a nuestra campaña por el Día Mundial. https://t.co/KGp2RUkDGG",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 07:39:03 +0000 2020",
+"name": "Migue Alemany",
+"screen_name": "MigueAlemany",
+"text": "Queremos dar las gracias a Johnson&amp;Johnson por su compromiso con las #enfermedadesraras y su apoyo a nuestra campaña por el Día Mundial. https://t.co/KGp2RUkDGG",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 07:45:25 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/9Fp985ExjF Thanks to @ssermone #raredisease #technology",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 07:45:52 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/fzUjZKPUu5 Gracias a @JuanCar50803656 #enfermedadesraras #genética",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 07:46:08 +0000 2020",
+"name": "Jane Kinghorn",
+"screen_name": "jane_kinghorn",
+"text": "An extraordinary story told by Kelly Vance @LAMAction, about a patient with a rare lung disease whose life was transformed by a repurposed drug - traditionally used as an immunosuppressant for kidney transplants. @findacure_fdn #DrugRepurposingforRareDiseases2020 #RareDiseaseDay https://t.co/bcYqjWXEvf",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:02:02 +0000 2020",
+"name": "RegnumChristi España",
+"screen_name": "RC_Espana",
+"text": "😉Santiago, papá de Juan de la Cruz, con síndrome de Wolf-Hirschhorn: lo importante es saber que “Dios va a estar con nosotros, no que Dios me va a quitar un problema” https://t.co/w2f8vuHX6r #RCenSalida #enfermedadesraras https://t.co/M4fIXGeFme",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:18:37 +0000 2020",
+"name": "Monica",
+"screen_name": "Monicayelephant",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:20:28 +0000 2020",
+"name": "XPOMET©",
+"screen_name": "XPOMET",
+"text": "Interview zum #rarediseaseday beim #ETIM20 mit Prof. Schäfer @UKGM_Presse „#KI hilft enorm dabei, seltene Erkrankungen zu erkennen...” @UniklinikEssen https://t.co/qngVUF5U7V",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:30:17 +0000 2020",
+"name": "Manuel Vera",
+"screen_name": "manuelvera07",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:35:04 +0000 2020",
+"name": "Mito_guerrera",
+"screen_name": "Nerea_mine",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:38:42 +0000 2020",
+"name": "CSPontdInca",
+"screen_name": "CSPontdInca",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:49:03 +0000 2020",
+"name": "AECIC",
+"screen_name": "AECIC_org",
+"text": "March is Rare Disease Month at Pharm-Olam. Download our ebook to learn more about rare disease research and the pathway to success. https://t.co/3Z5gaMXlFy #rarediseaseday #rarediseasemonth https://t.co/dtB4QOveAR",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 08:57:22 +0000 2020",
+"name": "AECIC",
+"screen_name": "AECIC_org",
+"text": "If you want to learn more about rare disease research and the pathway to success, download our e-book: Formula for Success in Rare Disease https://t.co/b2WJZu8c8s #rarediseaseday #rarediseasemonth https://t.co/ysVTki3UWN",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:00:05 +0000 2020",
+"name": "AECIC",
+"screen_name": "AECIC_org",
+"text": "Rare disease is unlike any other therapeutic area. Often, the waters are uncharted. Choose a CRO that can help you go the distance. https://t.co/YbjD15wDtr #rarediseaseday #rarediseasemonth https://t.co/uinen7IMRD",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:26:45 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "¿Me ayudáis a compartir? #EnCuarentena #MeQuedoEnCasa",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 09:27:59 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:30:22 +0000 2020",
+"name": "Mª Paz Teresita Giambastiani",
+"screen_name": "mptg1971",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:31:21 +0000 2020",
+"name": "mirian soler feito",
+"screen_name": "SolerFeito",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:39:43 +0000 2020",
+"name": "Somos Pacientes",
+"screen_name": "somos_pacientes",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:49:15 +0000 2020",
+"name": "Daniel de Vicente",
+"screen_name": "DanieldVicente",
+"text": "¿Me ayudáis a compartir? #EnCuarentena #MeQuedoEnCasa",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 09:50:39 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "¿Me ayudáis a compartir? #EnCuarentena #MeQuedoEnCasa",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 09:58:22 +0000 2020",
+"name": "Tremendita 🐿 QUÉDATE EN LA MADRIGUERA",
+"screen_name": "latialina",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 09:59:54 +0000 2020",
+"name": "Ràdio a les escoles",
+"screen_name": "radioescoles",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 10:07:31 +0000 2020",
+"name": "joan carles march",
+"screen_name": "joancmarch",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 10:34:28 +0000 2020",
+"name": "MELON PREPPER",
+"screen_name": "nutricion4you",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 10:56:30 +0000 2020",
+"name": "سَــماء",
+"screen_name": "dvi_aa",
+"text": "#اليوم_العالمي_للأمراض_النادرة |  من أسوء الأمراض النادرة ( انحلال الجلد الفقاعي ) أو كما يُسمى بجلد الفراشة ! #RareDiseaseDay  #EpidermolysisBullosa #EB https://t.co/pS5BFT6pxU",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 11:10:35 +0000 2020",
+"name": "Poveda",
+"screen_name": "Poveda_J",
+"text": "@Juliaenlaonda 
+@ertzaintzaEJGV #enfermedadesraras @DownEspana @Autismo_Espana #brutalidadpolicial 
+#Gava #Catalunya",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 11:11:27 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "@dgenesmurcia se queda en casa pero sigue trabajando por las #EnfermedadesRaras. Seguimos a disposición de quien nos necesite. Puedes contactar a través del correo o teléfono👇
+✉️ info@dgenes.es
+📞 696 14 17 08
+📞 675 94 39 45 https://t.co/qqsfXPnuQX",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 11:15:19 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "¡El defensor del paciente juega un papel clave en la concienciación sobre las #EnfermedadesRaras! 
+
+Apúntate a nuestro webinar (en inglés) y descubre cómo #Melanoma Patient Network Europe empodera y forma a sus defensores https://t.co/6zegNQoaK0 #Share4RareAdvocacy https://t.co/3yKPNZPFmJ",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 11:18:51 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 11:19:15 +0000 2020",
+"name": "RCSI TERG",
+"screen_name": "TissueEngDublin",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 11:25:43 +0000 2020",
+"name": "Aamir Hameed",
+"screen_name": "DrAamirHameed",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ https://t.co/LxwNerdwqL",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 11:27:33 +0000 2020",
+"name": "Liam Burke",
+"screen_name": "Liam_P_Burke",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ https://t.co/LxwNerdwqL",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 11:43:19 +0000 2020",
+"name": "Letaief",
+"screen_name": "hmidato",
+"text": "Do you know the different types of #HereditaryAngioedema? These are the most common types. We’re raising awareness of #HAE and you can learn more about why the protein C1-INH is so important at https://t.co/7eSGi13fuf #RareDiseaseDay",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 11:53:30 +0000 2020",
+"name": "Naadiya Carrim",
+"screen_name": "NaadiyaCarrim",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ https://t.co/LxwNerdwqL",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 11:57:07 +0000 2020",
+"name": "Eva Ma. Ponce💙💙",
+"screen_name": "evamaponce",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 11:59:49 +0000 2020",
+"name": "MSc in Regenerative Medicine",
+"screen_name": "Reg_Med_NUIG",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ https://t.co/LxwNerdwqL",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 12:18:56 +0000 2020",
+"name": "Click mujer",
+"screen_name": "ClickMujer",
+"text": "Menciona a esa persona que extrañas 🤗
+¡Recordad tenemos que ser fuertes y luchar todos UNIDOS! 💪🏻
+✨
+✨
+✨
+✨
+#coronavirus #fuerza #libertad #union #fuerte #opcion #juntospodemos #enfermedadesraras #virus #trabajar… https://t.co/JyBDXzQSGE",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 12:56:27 +0000 2020",
+"name": "Natalia Bailon",
+"screen_name": "NataliaCBM",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 13:06:53 +0000 2020",
+"name": "Fergal O'Brien",
+"screen_name": "fjobrien",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 13:07:08 +0000 2020",
+"name": "Maria Pilar Serrano",
+"screen_name": "MPilarSerSan",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 13:19:25 +0000 2020",
+"name": "AMMA ( #QuedatACasa 🏘️ )",
+"screen_name": "Amma_Andorra",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 13:27:14 +0000 2020",
+"name": "Naciba Zetchi",
+"screen_name": "NacibaZ",
+"text": "En estos días tan raros que nos están tocando vivir no debemos olvidarnos de la cotidianeidad y de que a pesar del #Covid19 siguen habiendo familias llevando lo mejor que pueden sus #EnfermedadesRaras
+
+Por ellas, por su bienestar, porque son población de riesgo
+#Yomequedoencas",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 13:31:38 +0000 2020",
+"name": "MarcwithaC",
+"screen_name": "MarcwithaC7",
+"text": "“Pulmonary fibrosis has the ability to make you burn a ton of calories, and people will lose weight because they cannot get adequate nutrition."
+Noah Greenspan, DPT, talks about 5 things you can change to help you live better with #IPF. 
+#RareDiseaseDay https://t.co/W08LSyDfez https://t.co/z4CQZzFVuA",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 13:59:31 +0000 2020",
+"name": "Openibo John",
+"screen_name": "RoyalEagle87",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 14:21:06 +0000 2020",
+"name": "Olga Piskareva",
+"screen_name": "0lgaPiskareva",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 14:30:24 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/g4A7Xc9l2i",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 14:32:44 +0000 2020",
+"name": "Y de verdad tienes 3 💚💙",
+"screen_name": "deverdadtienes3",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/g4A7Xc9l2i",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 15:00:48 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "Buena lectura para entretenerse en la cuarentena. 
+#enfermedadesraras
+https://t.co/EaqjaCcmNd",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 15:13:46 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Buena lectura para entretenerse en la cuarentena. 
+#enfermedadesraras
+https://t.co/EaqjaCcmNd",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 15:30:22 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Federación Española de #EnfermedadesRaras @FEDER_ONG insta al Gobierno a que los ERTEs no suspendan las prestaciones por hijos con enfermedades graves.
+https://t.co/efD766ARlJ",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:01:13 +0000 2020",
+"name": "CIBERER",
+"screen_name": "CIBERER",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:06:41 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "Miles de familias están afrontando la dificultad de confinar a sus hijos en casa durante tantos días. Este reto es especialmente difícil en el caso de niños con #EnfermedadesRaras. 
+
+@FEDER_ONG recoge una serie de recursos para amenizar a los más peques.
+
+https://t.co/FbrJMmX9tZ https://t.co/9s2ebkJcgs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:10:05 +0000 2020",
+"name": "CERMI CV",
+"screen_name": "CERMICV",
+"text": "¡El último El Diario de CERMI! https://t.co/N2Vh9YLWrb Gracias a @abrecascarones #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:11:06 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Las personas con #enfermedadesraras son muy vulnerables. Por responsabilidad #yomequedoencasa #covid19ESP 
+https://t.co/1fqnbzstVs",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:30:26 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Padres con niños con #EnfermedadesRaras advierten sobre la importancia de respetar el confinamiento para proteger a los más vulnerables. 
+
+“Somos muchos los padres que a día de hoy hemos tomado medidas extremas en casa y realmente es sumamente difícil”.
+https://t.co/YQGWWhsHhj",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:34:12 +0000 2020",
+"name": "fasolmi",
+"screen_name": "fasolmi2",
+"text": "Padres con niños con #EnfermedadesRaras advierten sobre la importancia de respetar el confinamiento para proteger a los más vulnerables. 
+
+“Somos muchos los padres que a día de hoy hemos tomado medidas extremas en casa y realmente es sumamente difícil”.
+https://t.co/YQGWWhsHhj",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:39:46 +0000 2020",
+"name": "Noelia.",
+"screen_name": "Noehierro",
+"text": "¿Me ayudáis a compartir? #EnCuarentena #MeQuedoEnCasa",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 16:54:51 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:56:35 +0000 2020",
+"name": "Arantxa Sáez #QuedateEnCasa",
+"screen_name": "saezatxa",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:58:36 +0000 2020",
+"name": "Duchenne Parent Project España",
+"screen_name": "DPPSpain",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 16:59:58 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:03:15 +0000 2020",
+"name": "Mary Carmen Porres #QuédateEnCasa",
+"screen_name": "LaPorres",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:03:49 +0000 2020",
+"name": "Fundación Taiyari",
+"screen_name": "fundataiyariac",
+"text": "Y así muchas #madresoltera con hijos con #discapacidad  o #EnfermedadesRaras o crónicas degenerativas.
+¿Qué estamos haciendo como sociedad?
+Si conoces un caso y puedes apoyar al ir al mercado por los productos de ambos cambiarás dos destinos: el suyo y el tuyo, en #inclusion",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 17:11:22 +0000 2020",
+"name": "Pil Uca",
+"screen_name": "pil_uca",
+"text": "Pues como que uno se levanta el lunes y le alegra el día ver que ¡Ya tenemos 200 seguidores! Muchas gracias a todos y a por otroa tantos más. @guerreropurpura #YoMeQuedoEnCasa #EnfermedadesRaras #Niñosenfermos #Epilepsy #Epilepsia #niñoshospitalizados #enfermedadesneurologicas https://t.co/YweSJFrVyt",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:11:41 +0000 2020",
+"name": "Fundación Taiyari",
+"screen_name": "fundataiyariac",
+"text": "Este caso es de #Espana pero en #Mexico también hay familias que viven con #EnfermedadesRaras y requerimos tu apoyo.
+#cuidateycuidame
+#QuedateEnCasaYa 
+@DiscapacidadNos @enfermedadrara @JauneLu",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 17:12:29 +0000 2020",
+"name": "Pilar Lucas Plaza.",
+"screen_name": "plucasplaza",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:15:48 +0000 2020",
+"name": "la disCAPACIDAD nos une",
+"screen_name": "DiscapacidadNos",
+"text": "Este caso es de #Espana pero en #Mexico también hay familias que viven con #EnfermedadesRaras y requerimos tu apoyo.
+#cuidateycuidame
+#QuedateEnCasaYa 
+@DiscapacidadNos @enfermedadrara @JauneLu",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 17:16:29 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:31:30 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:36:03 +0000 2020",
+"name": "Y de verdad tienes 3 💚💙",
+"screen_name": "deverdadtienes3",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 17:42:33 +0000 2020",
+"name": "Arantxa Sáez #QuedateEnCasa",
+"screen_name": "saezatxa",
+"text": "Mañana aprendemos con @maria5sentidos  😍",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 17:43:49 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "😍 El camino es más fácil si estás acompañado. Y estos mensajes de nuestros súper corredores solidarios que se acuerdan de nosotros y nuestros chicos nos animan a sobrellevar la cuarentena. ¡¡Muchas gracias, Valentín!! 💪🏼💪🏼👏🏻👏🏻
+
+#ataxiatelangiectasia #enfermedadesraras #covid19 https://t.co/OO6anOvO0o",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:05:02 +0000 2020",
+"name": "LES EMsfc FM Sjögren",
+"screen_name": "DomandoAlLobo",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:08:10 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/y3D1SUkcnP Gracias a @PhelanMcDermid @aesjogren #enfermedadesraras #phelanmcdermidespaña",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:11:29 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Mañana aprendemos con @maria5sentidos  😍",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 18:21:38 +0000 2020",
+"name": "Victor H. Butrón",
+"screen_name": "ButronENG",
+"text": "Padres con niños con #EnfermedadesRaras advierten sobre la importancia de respetar el confinamiento para proteger a los más vulnerables. 
+
+“Somos muchos los padres que a día de hoy hemos tomado medidas extremas en casa y realmente es sumamente difícil”.
+https://t.co/YQGWWhsHhj",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:24:05 +0000 2020",
+"name": "Isabella Song",
+"screen_name": "IzzabellaSong",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:37:16 +0000 2020",
+"name": "AMMA ( #QuedatACasa 🏘️ )",
+"screen_name": "Amma_Andorra",
+"text": "Padres con niños con #EnfermedadesRaras advierten sobre la importancia de respetar el confinamiento para proteger a los más vulnerables. 
+
+“Somos muchos los padres que a día de hoy hemos tomado medidas extremas en casa y realmente es sumamente difícil”.
+https://t.co/YQGWWhsHhj",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:45:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:50:44 +0000 2020",
+"name": "Lore_",
+"screen_name": "_lore_l",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 18:51:47 +0000 2020",
+"name": "Pilar Menéndez ( Maripi)",
+"screen_name": "mpmpcl",
+"text": "👏👏👏👏👏👏👏👏yo tb pude y puedo somos👏👏👏❤💪💪💪💖💖💖💖mi doctor sin yo decirle  nada me lo ha dicho , me ha llamado  y esas han sido unas de sus palabras  , que gran médico,  que humano , cuantas risas me sacaba , que Dios lo bendiga 🙏💖💪",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 19:06:15 +0000 2020",
+"name": "Fecoer",
+"screen_name": "Fecoer",
+"text": "Nos unimos y apoyamos las voces de los pacientes con #enfermedadesraras en Colombia para ser incluidos en los planes de contingencia por el #coronavirus. https://t.co/iOuJagU5dz",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:08:24 +0000 2020",
+"name": "Fabio Ramírez",
+"screen_name": "FabioRamDel",
+"text": "Nos unimos y apoyamos las voces de los pacientes con #enfermedadesraras en Colombia para ser incluidos en los planes de contingencia por el #coronavirus. https://t.co/iOuJagU5dz",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:15:30 +0000 2020",
+"name": "Carola Schmidt",
+"screen_name": "_CarolaSchmidt",
+"text": "I'm thinking of all these children who are receiving a new diagnosis right now, in the middle of #CoronavirusPandemic. Sending #love to these families. ♡♡♡♡♡
+
+#leukemia #cancer #childhoodcancer #Covid_19 #COVID19 #chemotherapy #chemo #lymphoma #osteosarcoma #neuroblastoma #c",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 19:15:55 +0000 2020",
+"name": "Christian Müller",
+"screen_name": "Christian_CCRS",
+"text": "I'm thinking of all these children who are receiving a new diagnosis right now, in the middle of #CoronavirusPandemic. Sending #love to these families. ♡♡♡♡♡
+
+#leukemia #cancer #childhoodcancer #Covid_19 #COVID19 #chemotherapy #chemo #lymphoma #osteosarcoma #neuroblastoma #c",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 19:33:31 +0000 2020",
+"name": "Teresa Pérez #QuedateEnCasa",
+"screen_name": "DUEdevocacion",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:39:57 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:41:51 +0000 2020",
+"name": "María Lepe Perez",
+"screen_name": "mlepe45",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:42:34 +0000 2020",
+"name": "Síndrome de Ondine España.CCHS",
+"screen_name": "ondine_spain",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/Y4Ma7WdJZt Thanks to @GlobalGenes @Labiotech_eu @MellissaReaves #raredisease #biotech",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:49:05 +0000 2020",
+"name": "Vanesa",
+"screen_name": "vane_exposito",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 19:49:44 +0000 2020",
+"name": "Jacobo Caruncho",
+"screen_name": "jacobocp",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 20:25:20 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "“Yo estuve mucho tiempo en casa y no me pasó nada. Si yo pude, tu puedes”
+
+Pacientes con #EnfermedadesRaras como África (11), ya han conocido lo que significa no poder salir a la calle durante muchos días. Sigamos su ejemplo de sacrificio y entereza.   
+https://t.co/E4Yip5dNP8",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 20:41:27 +0000 2020",
+"name": "Ana Martín Portugués",
+"screen_name": "Annimarpor",
+"text": "Mañana hago un #webinar sobre redes sociales...¿Te apuntas? 
+
+ℹ️ “Redes Sociales y #enfermedadesraras en Tiempo de Coronavirus: Familias, Asociaciones y Pacientes.”
+🗓 31 de Marzo
+⏰ 17:00 horas 
+
+Haz clic para apuntarte:
+https://t.co/vHNqiPfb8n https://t.co/XiUVoxRGTq",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 20:50:03 +0000 2020",
+"name": "Empática",
+"screen_name": "bolinfa",
+"text": "La Federación Española de #EnfermedadesRaras @FEDER_ONG insta al Gobierno a que los ERTEs no suspendan las prestaciones por hijos con enfermedades graves.
+https://t.co/efD766ARlJ",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 21:08:11 +0000 2020",
+"name": "Marialú Caperlucita",
+"screen_name": "JauneLu",
+"text": "Este caso es de #Espana pero en #Mexico también hay familias que viven con #EnfermedadesRaras y requerimos tu apoyo.
+#cuidateycuidame
+#QuedateEnCasaYa 
+@DiscapacidadNos @enfermedadrara @JauneLu",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 21:31:10 +0000 2020",
+"name": "Margarita Garfias",
+"screen_name": "Mar_Garfias",
+"text": "Y así muchas #madresoltera con hijos con #discapacidad  o #EnfermedadesRaras o crónicas degenerativas.
+¿Qué estamos haciendo como sociedad?
+Si conoces un caso y puedes apoyar al ir al mercado por los productos de ambos cambiarás dos destinos: el suyo y el tuyo, en #inclusion",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 21:34:05 +0000 2020",
+"name": "Paulina",
+"screen_name": "paulina073",
+"text": "Y así muchas #madresoltera con hijos con #discapacidad  o #EnfermedadesRaras o crónicas degenerativas.
+¿Qué estamos haciendo como sociedad?
+Si conoces un caso y puedes apoyar al ir al mercado por los productos de ambos cambiarás dos destinos: el suyo y el tuyo, en #inclusion",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 21:35:04 +0000 2020",
+"name": "Mark Allenby",
+"screen_name": "MCAllenby",
+"text": "Application deadline extended until April 14th!
+
+Exciting opportunity for a postdoctoral researcher to join our team at @RCSI_Irl developing a model of craniosynostosis to identify novel therapeutic targets w/ @fjobrien @Gyveth &amp; @cranioIE 
+
+Apply through: https://t.co/vhCwsSXqGJ",
+"ReTweet: "True"},
+{"data": "Mon Mar 30 21:41:47 +0000 2020",
+"name": "Yolanda ramos",
+"screen_name": "Yolrs02",
+"text": "🟢 Hoy, 29 de febrero, es el #DíaMundialEnfermedadesRaras, un día para recordar la importancia de la #investigación para las 300 millones de personas que conviven con ellas y para sus #familias. #EnfermedadesRaras #Visibilización #Información #CrecerContigoNuestraEsperanza https://t.co/kFRpSKp6yw",
+"ReTweet: "False"},
+{"data": "Mon Mar 30 21:52:18 +0000 2020",
+"name": "jhimmy corbelli more",
+"screen_name": "noajyosef",
+"text": "🟢 Hoy, 29 de febrero, es el #DíaMundialEnfermedadesRaras, un día para recordar la importancia de la #investigación para las 300 millones de personas que conviven con ellas y para sus #familias. #EnfermedadesRaras #Visibilización #Información #CrecerContigoNuestraEsperanza https://t.co/kFRpSKp6yw",
+"ReTweet: "False"},

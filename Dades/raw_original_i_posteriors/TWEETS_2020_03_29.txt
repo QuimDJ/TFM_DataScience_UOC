@@ -1,0 +1,703 @@
+{"data": "Sat Mar 28 23:55:59 +0000 2020",
+"name": "consularisservice",
+"screen_name": "consularis2",
+"text": "El virus corre contigo,  si te detienes el virus ❌ se detiene, ayúdanos a detener ❌ la propagación de virus, por favor quédate en casa 🏡 #covıd19 #coronavirus #coronavirusrd #enfermedadesraras #nosalgas #quedáteencasa https://t.co/TwrjlgysDO",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 00:10:04 +0000 2020",
+"name": "Milagritos",
+"screen_name": "Milagri70457706",
+"text": "@CopacePeru @GloriaMonteneg @ToniAlvaL @Minsa_Peru @EsSaludPeru Así es, seguimos esperando la atención preferente de pacientes con #EnfermedadesRaras tal como lo manda la ley y su Reglamento",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 07:11:39 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᑌᑎTIᒪ TOᗰOᖇᖇOᗯ. 💫✌🏻
+
+...
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post… https://t.co/ZvXP2I1lte",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 07:15:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Nada mejor para entender la importancia de iniciativas como #ProgramaIMPULSO @fundacionmutua que los testimonios de los pacientes y familias que ven mejorada su calidad de vida gracias a ellas. 
+https://t.co/SadfYVA3lu",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 07:22:57 +0000 2020",
+"name": "Rubab Uzma",
+"screen_name": "rubabuzma77",
+"text": "Do you know the different types of #HereditaryAngioedema? These are the most common types. We’re raising awareness of #HAE and you can learn more about why the protein C1-INH is so important at https://t.co/7eSGi13fuf #RareDiseaseDay",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 07:45:29 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/NAOO4tYVY9 Thanks to @APainPrincess #raredisease #biotech",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 09:30:06 +0000 2020",
+"name": "Sobi",
+"screen_name": "Sobi_Iberia",
+"text": "¡Buenas noticias! La Universidad de Navarra ha introducido en el grado de Enfermería la asignatura optativa "Abordaje integral de personas afectadas por #EnfermedadesRaras" para que los alumnos conozcan las necesidades sociosanitarias de los pacientes. 
+
+https://t.co/jZxUC5bfKH",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 09:37:36 +0000 2020",
+"name": "Juan Sdrc",
+"screen_name": "JSdrc",
+"text": "¡Buenas noticias! La Universidad de Navarra ha introducido en el grado de Enfermería la asignatura optativa "Abordaje integral de personas afectadas por #EnfermedadesRaras" para que los alumnos conozcan las necesidades sociosanitarias de los pacientes. 
+
+https://t.co/jZxUC5bfKH",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 09:58:25 +0000 2020",
+"name": "Lluis Montoliu",
+"screen_name": "LluisMontoliu",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 09:58:59 +0000 2020",
+"name": "Rafael Vázquez Manrique",
+"screen_name": "monkeyplatillos",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:00:11 +0000 2020",
+"name": "Diana Pastoriza",
+"screen_name": "diana_pastoriza",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:00:12 +0000 2020",
+"name": "Miguelón Pastor-Peris #QuédateEnCasa",
+"screen_name": "pastorperis",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:03:02 +0000 2020",
+"name": "Hablando de Ciencia",
+"screen_name": "HdCiencia",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:03:07 +0000 2020",
+"name": "Xerión",
+"screen_name": "benitoagra",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:04:03 +0000 2020",
+"name": "Begonya Nafría",
+"screen_name": "BegonyaNafria",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:08:13 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Puedes leer éste y muchos más testimonios sobre #EnfermedadesRaras en 
+
+https://t.co/XznUoxBeVH",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:12:43 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "En estos días tan raros que nos están tocando vivir no debemos olvidarnos de la cotidianeidad y de que a pesar del #Covid19 siguen habiendo familias llevando lo mejor que pueden sus #EnfermedadesRaras
+
+Por ellas, por su bienestar, porque son población de riesgo
+#Yomequedoencas",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:13:39 +0000 2020",
+"name": "Alberto Calvo",
+"screen_name": "acalvoalv",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:20:30 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:23:08 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:25:17 +0000 2020",
+"name": "Poveda",
+"screen_name": "Poveda_J",
+"text": "@AdisgaA Me niego a esa medida.... la encuentro una barbaridad, que es eso de ir "señalado"
+Un poco de sentido común, solo hace falta fijarse un poco... y sobre todo dejar ser #justicierosdebalcon
+#QuedateEnCasa #joemquedoacasa 
+@DownEspana @Autismo_Espana #enfermedadesraras 
+#caviga",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:30:25 +0000 2020",
+"name": "Asoc. Darwin Eventur",
+"screen_name": "DarwinEventur",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:31:32 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:33:01 +0000 2020",
+"name": "La Incondicional ❣️",
+"screen_name": "anamarianat",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:33:42 +0000 2020",
+"name": "José Domingo (en 🏠)",
+"screen_name": "jdomingogil",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:37:55 +0000 2020",
+"name": "Norma Radaelli",
+"screen_name": "NormaRadaelli",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:49:17 +0000 2020",
+"name": "María José Mas",
+"screen_name": "MasTwitts",
+"text": "La de Huntignton fue la primera enfermedad de la que se consiguió aislar el gen causante, (1983), ¿quizá sea también la primera en obtener una terapia genética curativa?
+#enfermedadesraras #genética",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 10:53:44 +0000 2020",
+"name": "Jesús Naranjo",
+"screen_name": "sperman22",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 10:56:00 +0000 2020",
+"name": "Dra A. García-Cazorla",
+"screen_name": "AGarciaCazorla",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:11:44 +0000 2020",
+"name": "Healthcare Startups",
+"screen_name": "healthcare_de",
+"text": "Interview zum #rarediseaseday beim #ETIM20 mit Prof. Schäfer @UKGM_Presse „#KI hilft enorm dabei, seltene Erkrankungen zu erkennen...” @UniklinikEssen https://t.co/qngVUF5U7V",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:14:55 +0000 2020",
+"name": "Tintin Castro",
+"screen_name": "guaucastro",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:27:51 +0000 2020",
+"name": "Sara Gomez Arancibia",
+"screen_name": "SaraGomezAranci",
+"text": "La de Huntignton fue la primera enfermedad de la que se consiguió aislar el gen causante, (1983), ¿quizá sea también la primera en obtener una terapia genética curativa?
+#enfermedadesraras #genética",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 11:34:13 +0000 2020",
+"name": "OH Aragón-San Rafael",
+"screen_name": "OHSanJuandeDios",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:39:53 +0000 2020",
+"name": "Mayor Tom",
+"screen_name": "PAVALOSE",
+"text": "#enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 11:41:35 +0000 2020",
+"name": "Leprarosarina",
+"screen_name": "Leprarosarina1",
+"text": "RT: ¡Tenemos nueva home page en @Share4Rare_es! 
+Incluye una sección interactiva dónde explicamos cómo investigamos en #EnfermedadesRaras con pacientes y familias.  ¿Te sumas a nuestra iniciativa? 
+¡Contamos contigo!
+Registro: https://t.co/FigPrvEsOB
+#Investigación #QuedateEnCasa https://t.co/GFMFreGCvp",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:45:04 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:45:45 +0000 2020",
+"name": "Nancy Rojas",
+"screen_name": "nancye004",
+"text": "#Buenosdías ¡Hoy celebramos el Día Mundial de las #enfermedadesraras ! ¿Nos ayudas a convertir #somosFEDER en TT? https://t.co/RVtd38tlgR",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:47:09 +0000 2020",
+"name": "Mayor Tom",
+"screen_name": "PAVALOSE",
+"text": "#Rarasnoinvisibles #enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 11:49:27 +0000 2020",
+"name": "UKGM Gießen Marburg",
+"screen_name": "UKGM_Presse",
+"text": "Interview zum #rarediseaseday beim #ETIM20 mit Prof. Schäfer @UKGM_Presse „#KI hilft enorm dabei, seltene Erkrankungen zu erkennen...” @UniklinikEssen https://t.co/qngVUF5U7V",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 11:56:12 +0000 2020",
+"name": "Silvia",
+"screen_name": "BioGeoSilvia",
+"text": "Para repasar las mutaciones en el ADN",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 11:56:17 +0000 2020",
+"name": "Anna Juan",
+"screen_name": "annajuanroch",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 12:08:05 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "En estos días que todo son malas noticias se abre un rayo de esperanza.",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 12:14:45 +0000 2020",
+"name": "Natalia Urzua",
+"screen_name": "nurzua",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 12:32:56 +0000 2020",
+"name": "Carlos Hernández (en casa 🏢)",
+"screen_name": "CarlosHdezy",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 12:55:39 +0000 2020",
+"name": "LuisMa Escudero",
+"screen_name": "lmescu",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Que el #coronavirus no pare la necesaria visibilidad y concienciación sobre #EnfermedadesRaras
+
+La Asociación Internacional de Familiares y Afectados de Lipodistrofias @AELIP_ lanza su campaña en redes con motivo del #DíaMundialDeLasLipodistrofias.
+
+https://t.co/Px0lo56c7I https://t.co/EFWQwEkB1B",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:05:51 +0000 2020",
+"name": "yolanda badas gonzalez",
+"screen_name": "yotauro61",
+"text": "Que el #coronavirus no pare la necesaria visibilidad y concienciación sobre #EnfermedadesRaras
+
+La Asociación Internacional de Familiares y Afectados de Lipodistrofias @AELIP_ lanza su campaña en redes con motivo del #DíaMundialDeLasLipodistrofias.
+
+https://t.co/Px0lo56c7I https://t.co/EFWQwEkB1B",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:07:56 +0000 2020",
+"name": "María A  Uscátegui",
+"screen_name": "mariaandrea_u",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:09:28 +0000 2020",
+"name": "Xima García",
+"screen_name": "ximagg",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:28:02 +0000 2020",
+"name": "Ale Garcia",
+"screen_name": "ale_nano81",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:29:47 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "En estos días tan raros que nos están tocando vivir no debemos olvidarnos de la cotidianeidad y de que a pesar del #Covid19 siguen habiendo familias llevando lo mejor que pueden sus #EnfermedadesRaras
+
+Por ellas, por su bienestar, porque son población de riesgo
+#Yomequedoencas",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:31:18 +0000 2020",
+"name": "Claudia",
+"screen_name": "Claudiabergues",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:34:10 +0000 2020",
+"name": "Maria Martinez",
+"screen_name": "Mar_mamen",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:42:11 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "Que el #coronavirus no pare la necesaria visibilidad y concienciación sobre #EnfermedadesRaras
+
+La Asociación Internacional de Familiares y Afectados de Lipodistrofias @AELIP_ lanza su campaña en redes con motivo del #DíaMundialDeLasLipodistrofias.
+
+https://t.co/Px0lo56c7I https://t.co/EFWQwEkB1B",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:42:45 +0000 2020",
+"name": "MIRnerva Mcgonagall",
+"screen_name": "MiRnerv",
+"text": "🎯 Enfermedad de Gaucher. Lo justo... y un poquito más, por si acaso. #2MIR21 #esfingolipidosis #enfermedadesraras #pedi #pediatría #raviperlas https://t.co/Dlwtx39Xlx",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 13:58:06 +0000 2020",
+"name": "Diana García ⚽️",
+"screen_name": "DianaGC_09",
+"text": "En el marco del Día Mundial de las #EnfermedadesRaras conoce más de #Pompe. Es necesario visibilizar las necesidades de salud de pacientes aún cuando sean una minoría a nivel mundial. https://t.co/BCS3U7Kynn",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:00:41 +0000 2020",
+"name": "CHI",
+"screen_name": "congenitalhi",
+"text": "A wild #CHIbra appears - exactly 1 month after #RareDiseaseDay! The #zebra is the symbol of the rare disease community, and we celebrate our stripes every day! #hyperinsulinism #raredisease https://t.co/YBXLOz8a7E",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:01:49 +0000 2020",
+"name": "Betzabel Torrealba",
+"screen_name": "BetzaTEAsesora",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:04:05 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "@carmenporter_ @JaviPerezCampos @carmens43158112 Carmen no saben que hacer ni que inventar para quitaros de en medio.
+
+Pero tenéis un batallón de seguidores.
+
+Y para personas como yo con #enfermedadesraras q estamos acostumbrados a #MeQuedoEnCasa sois una alegría con @mileniolive y @navedelmisterio 
+
+Un beso y cuidaros los 3",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:04:31 +0000 2020",
+"name": "My Life With...",
+"screen_name": "FgnLife",
+"text": "We have been working hard to provide a #mentalhealth support page on the website. That page is now live and will be updated on a regular basis with more videos, links and #selfcare advice to help during this stressful time #KidneyDisease #rarediseaseday 
+https://t.co/nUiq5Tgo5H",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:14:18 +0000 2020",
+"name": "Enric Güell",
+"screen_name": "eguellp",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:18:17 +0000 2020",
+"name": "Pilar Fernandez",
+"screen_name": "PFLLera",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:30:31 +0000 2020",
+"name": "Silvia🔬",
+"screen_name": "silviamod_96",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:42:38 +0000 2020",
+"name": "David Solanes Foz",
+"screen_name": "solanes_david",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:48:36 +0000 2020",
+"name": "Rober Castro",
+"screen_name": "RoberCastro11",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 14:50:07 +0000 2020",
+"name": "Demócrito de Abdera",
+"screen_name": "DemocritoII",
+"text": "La de Huntignton fue la primera enfermedad de la que se consiguió aislar el gen causante, (1983), ¿quizá sea también la primera en obtener una terapia genética curativa?
+#enfermedadesraras #genética https://t.co/3DWBmFjBUC",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 15:10:14 +0000 2020",
+"name": "Helena Ortiz (en casa)",
+"screen_name": "HelenaOrtizGil",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 16:22:38 +0000 2020",
+"name": "Dario Alberto Mercado Polanco",
+"screen_name": "jhonnygage",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 16:35:49 +0000 2020",
+"name": "Gonzalo Bermejo",
+"screen_name": "gbermejomodino",
+"text": "Nuesta experiencia durante el confinamiento conviviendo con una niña con #discapacidad
+
+#SYNGAP1 #madresfera #enfermedadesraras #encefalopatía #inclusion #capacidadesdiferentes #autismo #TEA #diversidad #discapacidadintelectual 
+
+https://t.co/IENK4dzyRe https://t.co/GnTftjcd8u",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 16:47:56 +0000 2020",
+"name": "tribuplan",
+"screen_name": "tribuplan",
+"text": "Nuesta experiencia durante el confinamiento conviviendo con una niña con #discapacidad
+
+#SYNGAP1 #madresfera #enfermedadesraras #encefalopatía #inclusion #capacidadesdiferentes #autismo #TEA #diversidad #discapacidadintelectual 
+
+https://t.co/IENK4dzyRe https://t.co/GnTftjcd8u",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 17:35:24 +0000 2020",
+"name": "MirjamBauer",
+"screen_name": "MirjamBauer",
+"text": "Interview zum #rarediseaseday beim #ETIM20 mit Prof. Schäfer @UKGM_Presse „#KI hilft enorm dabei, seltene Erkrankungen zu erkennen...” @UniklinikEssen https://t.co/qngVUF5U7V",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 17:36:12 +0000 2020",
+"name": "maja",
+"screen_name": "janciedot21",
+"text": "#RareDiseaseDay offers us the opportunity to together care for our brothers and sisters who are ill, to integrate research, medical care, and social assistance so that they might enjoy equal opportunities and lead a full life.",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 17:38:30 +0000 2020",
+"name": "ℂℍ𝕌𝕊 𝕄𝔸ℝ𝕋𝕀́ℕ𝔼ℤ",
+"screen_name": "Woonsine",
+"text": "Nuesta experiencia durante el confinamiento conviviendo con una niña con #discapacidad
+
+#SYNGAP1 #madresfera #enfermedadesraras #encefalopatía #inclusion #capacidadesdiferentes #autismo #TEA #diversidad #discapacidadintelectual 
+
+https://t.co/IENK4dzyRe https://t.co/GnTftjcd8u",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 17:48:07 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 18:08:07 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/Or37enRE1A Gracias a @fshd_spain @Alfa1Espana @gbermejomodino #enfermedadesraras #discapacidad",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 18:09:11 +0000 2020",
+"name": "FSHD España",
+"screen_name": "fshd_spain",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/Or37enRE1A Gracias a @fshd_spain @Alfa1Espana @gbermejomodino #enfermedadesraras #discapacidad",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 18:30:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ""Ni en cine, comedias, series de televisión o estadísticas. Esta sociedad no puede ignorar a los jóvenes enfermos; existen y son muchos"
+
+Isabel Gemio sobre las #EnfermedadesRaras entre los jóvenes.
+https://t.co/hUI8xCcUmh",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 18:30:59 +0000 2020",
+"name": "Maria",
+"screen_name": "Luvere08",
+"text": ""Ni en cine, comedias, series de televisión o estadísticas. Esta sociedad no puede ignorar a los jóvenes enfermos; existen y son muchos"
+
+Isabel Gemio sobre las #EnfermedadesRaras entre los jóvenes.
+https://t.co/hUI8xCcUmh",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 18:39:37 +0000 2020",
+"name": "Juany Cogo",
+"screen_name": "JuanyCogo",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 19:45:27 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/LlLKjyMkU0 Thanks to @Poppy_Makes #raredisease #scleroderma",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 19:45:34 +0000 2020",
+"name": "Isabel",
+"screen_name": "IsabelClementeT",
+"text": "#YoMeQuedoEnCasaSWH coloreando
+
+#WolfHirschhorn #4pmenos #SoySWH #EnfermedadesRaras #EERR #desdemiventana #YoMeQuedoEnCasa https://t.co/LJR9nrA2L0",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 19:59:10 +0000 2020",
+"name": "Aina Bellver",
+"screen_name": "ainabellver9",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 20:26:24 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "Que el #coronavirus no pare la necesaria visibilidad y concienciación sobre #EnfermedadesRaras
+
+La Asociación Internacional de Familiares y Afectados de Lipodistrofias @AELIP_ lanza su campaña en redes con motivo del #DíaMundialDeLasLipodistrofias.
+
+https://t.co/Px0lo56c7I https://t.co/EFWQwEkB1B",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 20:29:38 +0000 2020",
+"name": "cari",
+"screen_name": "carimn",
+"text": "En estos días tan raros que nos están tocando vivir no debemos olvidarnos de la cotidianeidad y de que a pesar del #Covid19 siguen habiendo familias llevando lo mejor que pueden sus #EnfermedadesRaras
+
+Por ellas, por su bienestar, porque son población de riesgo
+#Yomequedoencas",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 20:30:58 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "El 20% de los casos de #EnfermedadesRaras corresponden a enfermedades neuromusculares hereditarias. En España, más de 60.000 personas padecen una enfermedad neuromuscular.  @Federacion_ASEM @seneurologia
+
+https://t.co/UoYorakD5j https://t.co/jErm7OVYYm",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 20:43:58 +0000 2020",
+"name": "Isa",
+"screen_name": "imds612",
+"text": "En estos días tan raros que nos están tocando vivir no debemos olvidarnos de la cotidianeidad y de que a pesar del #Covid19 siguen habiendo familias llevando lo mejor que pueden sus #EnfermedadesRaras
+
+Por ellas, por su bienestar, porque son población de riesgo
+#Yomequedoencas",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 20:44:02 +0000 2020",
+"name": "Bobbleheadgirl",
+"screen_name": "ZoeElli17670675",
+"text": "#RareDiseaseDay #EhlersDanlosSyndrome @CooperativeEds @Ehlers_and_me @Ehlersdanlos @EhlersDanlosPro @ehlersdanlosuk @nyitedscenter @NHSuk @NHSEnglandLDN @NHSMillion @rarediseaseday @helpareporter",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:38:13 +0000 2020",
+"name": "Mañicornio🦄",
+"screen_name": "MarManyi",
+"text": "Nuevo vídeo divulgativo con TENTE para explicar qué son las mutaciones en el ADN y sus consecuencias en las proteínas y #enfermedadesraras 
+En mi canal de #YouTube dentro de la nueva playlist #BIOTENTE 
+@CNB_CSIC @CSIC @CSICdivulga @CIBERER @SEBBMDivulga 
+https://t.co/UvdXiQdepo",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:42:06 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:44:08 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "¿Me ayudáis a compartir? #EnCuarentena #MeQuedoEnCasa",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 21:44:08 +0000 2020",
+"name": "Noemi",
+"screen_name": "versosentinta",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:44:20 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:50:29 +0000 2020",
+"name": "Ana Requena",
+"screen_name": "nikrequena",
+"text": "Muchas gracias por tu aportación Maria💚!!! Mucho ánimo 💪💪💪",
+"ReTweet: "True"},
+{"data": "Sun Mar 29 21:51:13 +0000 2020",
+"name": "CS Coll y UBS Molinar",
+"screen_name": "CSCollR",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:51:31 +0000 2020",
+"name": "Ana Martín Portugués",
+"screen_name": "Annimarpor",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},
+{"data": "Sun Mar 29 21:56:48 +0000 2020",
+"name": "Chris Schofield",
+"screen_name": "chrischofiel1",
+"text": "Si eres cuidador/a, paciente, familiar o tienes algún vínculo con las #enfermedadesraras, el 31/03 a las 17:00 horas hago un #webinar sobre #RedesSociales para aprender a utilizarlas y mejorar nuestro día a día.
+
+Si quieres apuntarte, haz clic aquí: https://t.co/vHNqiPfb8n",
+"ReTweet: "False"},

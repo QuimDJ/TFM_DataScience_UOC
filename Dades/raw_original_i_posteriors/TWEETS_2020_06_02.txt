@@ -1,0 +1,965 @@
+{"data": "Mon Jun 01 22:07:32 +0000 2020",
+"name": "Lady Dark",
+"screen_name": "AryaStark5",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Mon Jun 01 23:37:25 +0000 2020",
+"name": "Wendy Arriaza",
+"screen_name": "Arriazawendy",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 00:42:19 +0000 2020",
+"name": "Lorenzo Bertomeu",
+"screen_name": "ManuduManuel",
+"text": "#DíaMundialDeLaMiasteniaGravis#efeméride #salud #Health  #enfermedad #EnfermedadesRaras https://t.co/Rllidq7iGn",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 00:42:27 +0000 2020",
+"name": "Delia Nortes",
+"screen_name": "DelaSinFin",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 01:20:29 +0000 2020",
+"name": "Melisa Quigley",
+"screen_name": "MQuigley1963",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 02:48:39 +0000 2020",
+"name": "Silvia Mabel Varas",
+"screen_name": "svaras2016",
+"text": "En muchas ocasiones, la mala noticia del diagnóstico de una enfermedad se compensa con el acompañamiento de otra buena noticia: la existencia de un tratamiento que ayudará a superarla o tratarla. No es el caso de una inmensa mayoría de #EnfermedadesRaras.
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 03:01:15 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᗩ ᑭᗩᖇTIᖇ ᗪE ᕼOY ᗰE ᑕOᗰᑭᖇOᗰETO ᖴIᖇᗰEᗰEᑎTE ᗩ EᗰITIᖇ ᔕOᗷᖇE ᗰI ᐯIᗪᗩ ... 💫🧿💰💴💵💶💳💲
+
+.
+.
+.
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple… https://t.co/M4HWk9mFa9",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 03:42:16 +0000 2020",
+"name": "FENPOF CHILE 🇨🇱",
+"screen_name": "fenpofChile",
+"text": "¿Aún no habéis visto este maravilloso vídeo de @FEDER_ONG ? No os le podéis perder, en él se habla sobre temas muy interesantes en los que muchos famosos nos respaldan. Sigamos celebrando muchos aniversarios más juntos. #somosFEDER #AERYOHESFEDER 🍀💜",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 03:42:48 +0000 2020",
+"name": "Asami Santa Fe",
+"screen_name": "asamisantafe",
+"text": "#miastenia #miasteniasantafe #DiaMundialDeLuchaContraLaMiasteniaGravis #EnfermedadesRaras #enfermedadespocofrecuentes https://t.co/4uvHowBkHi",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 04:01:12 +0000 2020",
+"name": "Abraham BZ",
+"screen_name": "brahamBriones",
+"text": "✋ 90% personas con #EnfermedadesRaras han visto paralizada su atención por crisis #COVID19
+
+👎 60% considera esta interrupción perjudicial para su salud o la salud de la persona que cuidan.
+
+Según resultados de encuesta multipaís EURODIS vía @FEDER_ONG 
+https://t.co/oYDyLk89RO https://t.co/TYzvKoOyPe",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 06:29:42 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "Todos somos mutantes. Quizás existiría más concienciación social sobre las #EnfermedadesRaras si supiéramos que gran parte de éstas ocurre cuando una de las 40 mutaciones no presentes en nuestros padres (que todos tenemos) “confunde” una función genética.
+https://t.co/Rv52U7Nrar",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 07:05:03 +0000 2020",
+"name": "Nutricia España",
+"screen_name": "Nutricia_es",
+"text": "#EnfermedadesRaras #EERR @Farmainsdustria @FEDER_ONG @somos_pacientes
+
+https://t.co/wojnHVdIKX",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 07:05:13 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "En muchas ocasiones, la mala noticia del diagnóstico de una enfermedad se compensa con el acompañamiento de otra buena noticia: la existencia de un tratamiento que ayudará a superarla o tratarla. No es el caso de una inmensa mayoría de #EnfermedadesRaras.
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:05:21 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "Todos somos mutantes. Quizás existiría más concienciación social sobre las #EnfermedadesRaras si supiéramos que gran parte de éstas ocurre cuando una de las 40 mutaciones no presentes en nuestros padres (que todos tenemos) “confunde” una función genética.
+https://t.co/Rv52U7Nrar",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 07:05:28 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:05:40 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "👉 90% personas con #EnfermedadesRaras han visto interrumpida su atención por crisis #COVID19.
+
+👉 Para el 30% estas interrupciones podrían ser potencialmente mortales definitivamente (10%) o probablemente (20%)
+
+Según datos de encuesta multipaís EURODIS
+https://t.co/oYDyLk89RO https://t.co/Z4AKpXQojR",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:06:40 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "✋ 90% personas con #EnfermedadesRaras han visto paralizada su atención por crisis #COVID19
+
+👎 60% considera esta interrupción perjudicial para su salud o la salud de la persona que cuidan.
+
+Según resultados de encuesta multipaís EURODIS vía @FEDER_ONG 
+https://t.co/oYDyLk89RO https://t.co/TYzvKoOyPe",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:06:58 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "7 de cada 10 pacientes con enfermedades poco frecuentes y sus cuidadores han debido abandonar o reducir su actividad profesional a causa de ésta.
+
+Más datos sobre el impacto de las #EnfermedadesRaras en la vida diaria en esta infografía EURODIS
+https://t.co/DPa5nLQ6o5 https://t.co/WQqCA1gmTi",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:07:49 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "#EnfermedadesRaras #Pompe
+
+¿Sabías que la #EnfermedadDePompe puede provocar problemas de salud diversos, pero que su síntoma más frecuente es la debilidad muscular? 
+
+Más sobre sus causas, diagnóstico y gestión en 
+👉https://t.co/PxP7IG8dZ7 https://t.co/wNBFv0w2OK",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:45:27 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/D5d3aVdb12 Thanks to @APainPrincess #raredisease #chronicillness",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:48:38 +0000 2020",
+"name": "ADEFHIC",
+"screen_name": "adefhic",
+"text": "Buenos días! #FelizMartes
+Sin duda muchos tenemos un barómetro y estos días lo notamos bastante!!🤯💪🏻💙💚
+
+#ADEFHIC #CadaGotaSuma   #JuntosPorUnaCura #EnfermedadesRaras #HipertensiónIntracranealIdiopática  #HII… https://t.co/TBGDR2hDYv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:49:13 +0000 2020",
+"name": "Duchenne Somriures",
+"screen_name": "SomriuresValent",
+"text": "Primeros resultados de encuesta EURODIS sobre impacto crisis #Covid19 en pacientes con #EnfermedadesRaras y familiares
+
+👉+50% vieron cirugía/trasplantes programados cancelados o postpuestos
+👉80% en el caso de sus citas para terapias de rehabilitación 
+
+https://t.co/oYDyLk89RO https://t.co/lGMdXASSzW",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:49:21 +0000 2020",
+"name": "Duchenne Somriures",
+"screen_name": "SomriuresValent",
+"text": "✋ 90% personas con #EnfermedadesRaras han visto paralizada su atención por crisis #COVID19
+
+👎 60% considera esta interrupción perjudicial para su salud o la salud de la persona que cuidan.
+
+Según resultados de encuesta multipaís EURODIS vía @FEDER_ONG 
+https://t.co/oYDyLk89RO https://t.co/TYzvKoOyPe",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 07:53:28 +0000 2020",
+"name": "Bailan2",
+"screen_name": "remgali1",
+"text": "#AtencionNoRecortes",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 07:59:37 +0000 2020",
+"name": "Duchenne Somriures",
+"screen_name": "SomriuresValent",
+"text": "“El 85% de problemas de los pacientes con #EnfermedadesRaras tiene más que ver con la coordinación entre profesionales y pacientes que con cualquier tipo de técnica diagnóstica”
+
+Jesús Ignacio Meco, presidente del Instituto de Enfermedades Poco Frecuentes
+https://t.co/TYpqIloskJ https://t.co/GdB5WKABcD",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:01:04 +0000 2020",
+"name": "Tú cuentas mucho",
+"screen_name": "tucuentasmucho",
+"text": "La gran mayoría de las #EnfermedadesRaras tienen una base genética, y suelen presentarse en la infancia. El diagnóstico genético es una herramienta fundamental para prevenirlas y mejorar la calidad de vida de quienes las sufren. Para saber más: https://t.co/4huNxDg7iN https://t.co/cekjS8L4nx",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:01:36 +0000 2020",
+"name": "Esti 🌿",
+"screen_name": "JardindeMendel",
+"text": "En mi pueblo #Urnieta todas queremos a Markel y su familia. @eitbeus ha hecho este reportaje para que conozcamos cómo es el #confinamiento para una familia que convive con un niño con #discapacidad severa 💪 #EnfermedadesRaras https://t.co/OJbThqrXe7",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:02:58 +0000 2020",
+"name": "Síndrome de Rett",
+"screen_name": "asociacionrett",
+"text": "En muchas ocasiones, la mala noticia del diagnóstico de una enfermedad se compensa con el acompañamiento de otra buena noticia: la existencia de un tratamiento que ayudará a superarla o tratarla. No es el caso de una inmensa mayoría de #EnfermedadesRaras.
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:09:22 +0000 2020",
+"name": "eitb.eus",
+"screen_name": "eitbeus",
+"text": "En mi pueblo #Urnieta todas queremos a Markel y su familia. @eitbeus ha hecho este reportaje para que conozcamos cómo es el #confinamiento para una familia que convive con un niño con #discapacidad severa 💪 #EnfermedadesRaras https://t.co/OJbThqrXe7",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:09:32 +0000 2020",
+"name": "ETB",
+"screen_name": "euskaltelebista",
+"text": "En mi pueblo #Urnieta todas queremos a Markel y su familia. @eitbeus ha hecho este reportaje para que conozcamos cómo es el #confinamiento para una familia que convive con un niño con #discapacidad severa 💪 #EnfermedadesRaras https://t.co/OJbThqrXe7",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:10:22 +0000 2020",
+"name": "Ainhoa Gómez",
+"screen_name": "AinhoaGomez07",
+"text": "En mi pueblo #Urnieta todas queremos a Markel y su familia. @eitbeus ha hecho este reportaje para que conozcamos cómo es el #confinamiento para una familia que convive con un niño con #discapacidad severa 💪 #EnfermedadesRaras https://t.co/OJbThqrXe7",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:18:31 +0000 2020",
+"name": "Psyteco",
+"screen_name": "Psyteco_",
+"text": "En muchas ocasiones, la mala noticia del diagnóstico de una enfermedad se compensa con el acompañamiento de otra buena noticia: la existencia de un tratamiento que ayudará a superarla o tratarla. No es el caso de una inmensa mayoría de #EnfermedadesRaras.
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:25:39 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 2 de junio es el Día Nacional contra la Miastenia Gravis
+@AMESMIASTENIA lanza la campaña #MiasteniaDíaADía en la que diferentes personas comentan cómo superan su día a día en relación a la enfermedad
+Súmate al reto #MiasteniaDíaADía #EnfermedadesRaras
+https://t.co/bJ0xDa3A1t",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:26:02 +0000 2020",
+"name": "pilargomis",
+"screen_name": "pilargomis1",
+"text": "En muchas ocasiones, la mala noticia del diagnóstico de una enfermedad se compensa con el acompañamiento de otra buena noticia: la existencia de un tratamiento que ayudará a superarla o tratarla. No es el caso de una inmensa mayoría de #EnfermedadesRaras.
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:26:22 +0000 2020",
+"name": "pilargomis",
+"screen_name": "pilargomis1",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:29:18 +0000 2020",
+"name": "Lola Fenech",
+"screen_name": "lolafenech",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:35:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las #EnfermedadesRaras tienen muchos aspectos en común a pesar de la diversidad y heterogeneidad que muestran en su conjunto: 
+
+👉80% son de origen genético 
+👉75% de pacientes de ER tienen algún grado de discapacidad
+👉40% requieren hospitalización
+https://t.co/Uasg3FdIXm https://t.co/skOfRAnxKQ",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:35:35 +0000 2020",
+"name": "pilargomis",
+"screen_name": "pilargomis1",
+"text": "👉 90% personas con #EnfermedadesRaras han visto interrumpida su atención por crisis #COVID19.
+
+👉 Para el 30% estas interrupciones podrían ser potencialmente mortales definitivamente (10%) o probablemente (20%)
+
+Según datos de encuesta multipaís EURODIS
+https://t.co/oYDyLk89RO https://t.co/Z4AKpXQojR",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:44:52 +0000 2020",
+"name": "Larraitz",
+"screen_name": "Larrait40",
+"text": "En mi pueblo #Urnieta todas queremos a Markel y su familia. @eitbeus ha hecho este reportaje para que conozcamos cómo es el #confinamiento para una familia que convive con un niño con #discapacidad severa 💪 #EnfermedadesRaras https://t.co/OJbThqrXe7",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:46:20 +0000 2020",
+"name": "AMES",
+"screen_name": "AMESMIASTENIA",
+"text": "Hoy 2 de junio es el Día Nacional contra la Miastenia Gravis
+@AMESMIASTENIA lanza la campaña #MiasteniaDíaADía en la que diferentes personas comentan cómo superan su día a día en relación a la enfermedad
+Súmate al reto #MiasteniaDíaADía #EnfermedadesRaras
+https://t.co/bJ0xDa3A1t",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:47:03 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "#videoconferenciasAHUCE Planificación semanal de actividades online del 1 al 5 de junio a través de Zoom organizadas por @AHUCE 
+#osteogénesisimperfecta #EnfermedadesRaras
+https://t.co/emEilLvaVO https://t.co/Dtk8pl8nF2",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 08:47:16 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Hoy 2 de junio es el Día Nacional contra la Miastenia Gravis
+@AMESMIASTENIA lanza la campaña #MiasteniaDíaADía en la que diferentes personas comentan cómo superan su día a día en relación a la enfermedad
+Súmate al reto #MiasteniaDíaADía #EnfermedadesRaras
+https://t.co/bJ0xDa3A1t",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:25:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:29:07 +0000 2020",
+"name": "Boys don't cry",
+"screen_name": "DexterMorganbcn",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:31:25 +0000 2020",
+"name": "Gιҽɳɳαԋ ☣︎ △⃒⃘",
+"screen_name": "GiennahCygnus",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:33:27 +0000 2020",
+"name": "D.D.V.R.",
+"screen_name": "Dulcerengel",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:33:50 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "Durante estado de alarma #coronavirus y según @FEDER_ONG ...
+
+❌33% personas con #EnfermedadesRaras han visto canceladas sus pruebas de diagnóstico 
+❌32% el acceso a tratamiento  
+❌31% sus intervenciones quirúrgicas o trasplantes
+
+https://t.co/6h4xQzLSrH",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:36:10 +0000 2020",
+"name": "Rosa Garcia 🎗🎗 NO ES NO",
+"screen_name": "MRosagarciag",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 09:48:08 +0000 2020",
+"name": "María #Vivircondolor",
+"screen_name": "dolor_mas",
+"text": "Hoy 2 de junio es el Día Nacional contra la Miastenia Gravis
+@AMESMIASTENIA lanza la campaña #MiasteniaDíaADía en la que diferentes personas comentan cómo superan su día a día en relación a la enfermedad
+Súmate al reto #MiasteniaDíaADía #EnfermedadesRaras
+https://t.co/bJ0xDa3A1t",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:11:18 +0000 2020",
+"name": "Teresa Caballero #Distancia social",
+"screen_name": "MaiteCabaMol",
+"text": "Hoy 2 de junio es el Día Nacional contra la Miastenia Gravis
+@AMESMIASTENIA lanza la campaña #MiasteniaDíaADía en la que diferentes personas comentan cómo superan su día a día en relación a la enfermedad
+Súmate al reto #MiasteniaDíaADía #EnfermedadesRaras
+https://t.co/bJ0xDa3A1t",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:17:17 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:18:22 +0000 2020",
+"name": "Rafael Vázquez Manrique",
+"screen_name": "monkeyplatillos",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:18:34 +0000 2020",
+"name": "Acción Tay-Sachs",
+"screen_name": "ACTAYS",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:29:38 +0000 2020",
+"name": "Amaia Usarralde 🎗",
+"screen_name": "76amaia",
+"text": "En mi pueblo #Urnieta todas queremos a Markel y su familia. @eitbeus ha hecho este reportaje para que conozcamos cómo es el #confinamiento para una familia que convive con un niño con #discapacidad severa 💪 #EnfermedadesRaras https://t.co/OJbThqrXe7",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:47:19 +0000 2020",
+"name": "IISGaliciaSur",
+"screen_name": "IISGaliciaSur",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 10:51:51 +0000 2020",
+"name": "Wolf-Hirschhorn",
+"screen_name": "AESWH",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 11:29:23 +0000 2020",
+"name": "Di.",
+"screen_name": "Dina_R_",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 11:40:17 +0000 2020",
+"name": "Eleonor 🐊",
+"screen_name": "Eleonor_HG",
+"text": "En muchas ocasiones, la mala noticia del diagnóstico de una enfermedad se compensa con el acompañamiento de otra buena noticia: la existencia de un tratamiento que ayudará a superarla o tratarla. No es el caso de una inmensa mayoría de #EnfermedadesRaras.
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 12:03:20 +0000 2020",
+"name": "María J. Peña Glez.",
+"screen_name": "mariajosepg6",
+"text": "Esa enfermedad tan desconocida y a la vez tan https://t.co/rmsxB3552e por ti hermana @tati_tulipan #DíaInternacionalDeLaMiasteniaGravis #EnfermedadesRaras https://t.co/WVQ6wAc4EA",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 12:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "👨‍🏫💻 Ponencia online: Qué podemos esperar en tratamientos para la #EnfermedadDePompe
+
+📅 El próximo lunes 8 de junio 18h.
+Con la colaboración de @SanofiES 
+
+#EnfermedadesRaras #Pompe
+https://t.co/aMtQj6Snyb",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 12:06:22 +0000 2020",
+"name": "Juan Carr",
+"screen_name": "HambreCero",
+"text": "👨‍🏫💻 Ponencia online: Qué podemos esperar en tratamientos para la #EnfermedadDePompe
+
+📅 El próximo lunes 8 de junio 18h.
+Con la colaboración de @SanofiES 
+
+#EnfermedadesRaras #Pompe
+https://t.co/aMtQj6Snyb",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 12:17:27 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 12:20:42 +0000 2020",
+"name": "Montse Cabrejas",
+"screen_name": "tecla2013",
+"text": "Las #EnfermedadesRaras tienen muchos aspectos en común a pesar de la diversidad y heterogeneidad que muestran en su conjunto: 
+
+👉80% son de origen genético 
+👉75% de pacientes de ER tienen algún grado de discapacidad
+👉40% requieren hospitalización
+https://t.co/Uasg3FdIXm https://t.co/skOfRAnxKQ",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 12:29:41 +0000 2020",
+"name": "﴿ نـُون",
+"screen_name": "nena_non",
+"text": "@Benghazisemo https://t.co/Yijpuw2g4D",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 12:53:31 +0000 2020",
+"name": "Regli",
+"screen_name": "Regli_Garesp",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 12:53:44 +0000 2020",
+"name": "Roberto Martín",
+"screen_name": "PsicoMarRod",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 12:53:50 +0000 2020",
+"name": "8.+2+12",
+"screen_name": "carmen81533233",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:02:38 +0000 2020",
+"name": "Patricia Morello",
+"screen_name": "Aidin_Morello",
+"text": "#miastenia #miasteniasantafe #DiaMundialDeLuchaContraLaMiasteniaGravis #EnfermedadesRaras #enfermedadespocofrecuentes https://t.co/4uvHowBkHi",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:05:10 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Como tantos padres con niños con #EnfermedadesRaras, María y Txema han tenido que hacer "encaje de bolillos" durante este confinamiento. Lucas, su hijo, padece síndrome degenerativo Hunter.
+Noticias Navarra explica su experiencia, que ha sido la de tantos
+https://t.co/pD6aHW5885",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:10:25 +0000 2020",
+"name": "Pilar Pérez Peña",
+"screen_name": "pilarpe23800441",
+"text": "👨‍🏫💻 Ponencia online: Qué podemos esperar en tratamientos para la #EnfermedadDePompe
+
+📅 El próximo lunes 8 de junio 18h.
+Con la colaboración de @SanofiES 
+
+#EnfermedadesRaras #Pompe
+https://t.co/aMtQj6Snyb",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 13:15:13 +0000 2020",
+"name": "AERyOH",
+"screen_name": "AsociaAeryoh",
+"text": "A continuación os facilitamos el enlace en el que encontraréis más información y cómo participar:
+https://t.co/lpYSoKcM5u
+
+@mposada53 @NoInvisibles @RarasReales @CAMURATI_ONG @ffpaciente @JuanCarrionT @eerr_es @pelendinez 
+
+#retrasodiagnóstico #enfermedadesraras #colabora",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:16:04 +0000 2020",
+"name": "Ainhoa Notario Fernández",
+"screen_name": "AinhoaNotarioF",
+"text": "A continuación os facilitamos el enlace en el que encontraréis más información y cómo participar:
+https://t.co/lpYSoKcM5u
+
+@mposada53 @NoInvisibles @RarasReales @CAMURATI_ONG @ffpaciente @JuanCarrionT @eerr_es @pelendinez 
+
+#retrasodiagnóstico #enfermedadesraras #colabora",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:20:19 +0000 2020",
+"name": "Andrea Cortes",
+"screen_name": "andreaacm_01",
+"text": "Durante estado de alarma #coronavirus y según @FEDER_ONG ...
+
+❌33% personas con #EnfermedadesRaras han visto canceladas sus pruebas de diagnóstico 
+❌32% el acceso a tratamiento  
+❌31% sus intervenciones quirúrgicas o trasplantes
+
+https://t.co/6h4xQzLSrH",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:20:24 +0000 2020",
+"name": "Andrea Cortes",
+"screen_name": "andreaacm_01",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:25:57 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:33:00 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "Como tantos padres con niños con #EnfermedadesRaras, María y Txema han tenido que hacer "encaje de bolillos" durante este confinamiento. Lucas, su hijo, padece síndrome degenerativo Hunter.
+Noticias Navarra explica su experiencia, que ha sido la de tantos
+https://t.co/pD6aHW5885",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 13:58:14 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": "“Debemos unirnos para erradicar las enfermedades hereditarias. Los avances en técnicas genómicas son una gran oportunidad"
+
+Mark Caulfield, responsable del Proyecto 100.000 Genomas de secuenciación del genoma completo en #EnfermedadesRaras.
+
+https://t.co/qhtoyMLTl3 https://t.co/ltso4OMEwv",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 14:01:10 +0000 2020",
+"name": "lia alexandrescu",
+"screen_name": "liinlove1",
+"text": "👨‍🏫💻 Ponencia online: Qué podemos esperar en tratamientos para la #EnfermedadDePompe
+
+📅 El próximo lunes 8 de junio 18h.
+Con la colaboración de @SanofiES 
+
+#EnfermedadesRaras #Pompe
+https://t.co/aMtQj6Snyb",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 15:23:48 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "A continuación os facilitamos el enlace en el que encontraréis más información y cómo participar:
+https://t.co/lpYSoKcM5u
+
+@mposada53 @NoInvisibles @RarasReales @CAMURATI_ONG @ffpaciente @JuanCarrionT @eerr_es @pelendinez 
+
+#retrasodiagnóstico #enfermedadesraras #colabora",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 15:54:04 +0000 2020",
+"name": "COF Sevilla",
+"screen_name": "COF_Sevilla",
+"text": "📽 ¿No conoces el vídeo ‘Playa y montaña’ de nuestra @FundacionMehuer para sensibilizar sobre la realidad de las #enfermedadesraras? Aquí tienes una nueva oportunidad 👇🏼👇🏼👇🏼",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 16:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las #EnfermedadesRaras se caractericen por su diversidad y heterogeneidad, pero ¿sabías que comparten muchos aspectos en común? 
+
+🔴 85% son crónicas
+🔴 65% son graves e invalidantes
+🔴 Casi un 50% afectan al pronóstico vital del paciente.
+https://t.co/Uasg3FdIXm",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 16:17:52 +0000 2020",
+"name": "MariajoHerrero",
+"screen_name": "HerreroMariajo",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 16:18:27 +0000 2020",
+"name": "@salujj",
+"screen_name": "salujj1",
+"text": "📽 ¿No conoces el vídeo ‘Playa y montaña’ de nuestra @FundacionMehuer para sensibilizar sobre la realidad de las #enfermedadesraras? Aquí tienes una nueva oportunidad 👇🏼👇🏼👇🏼",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 16:24:34 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "Las #EnfermedadesRaras se caractericen por su diversidad y heterogeneidad, pero ¿sabías que comparten muchos aspectos en común? 
+
+🔴 85% son crónicas
+🔴 65% son graves e invalidantes
+🔴 Casi un 50% afectan al pronóstico vital del paciente.
+https://t.co/Uasg3FdIXm",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 16:25:03 +0000 2020",
+"name": "Church of the Inscrutable Algorithm [CIA]",
+"screen_name": "MarkovChurch",
+"text": "@Pontifex #rarediseaseday offers us the gospel in his love without knowing what an immense dignity.
+#YourOwnWords",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 16:35:56 +0000 2020",
+"name": "Victoria Cuerda",
+"screen_name": "cuerdav",
+"text": "Las #EnfermedadesRaras se caractericen por su diversidad y heterogeneidad, pero ¿sabías que comparten muchos aspectos en común? 
+
+🔴 85% son crónicas
+🔴 65% son graves e invalidantes
+🔴 Casi un 50% afectan al pronóstico vital del paciente.
+https://t.co/Uasg3FdIXm",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 16:38:01 +0000 2020",
+"name": "Bernardo Foronda",
+"screen_name": "bernardoforonda",
+"text": "📽 ¿No conoces el vídeo ‘Playa y montaña’ de nuestra @FundacionMehuer para sensibilizar sobre la realidad de las #enfermedadesraras? Aquí tienes una nueva oportunidad 👇🏼👇🏼👇🏼",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 16:51:19 +0000 2020",
+"name": "Miguel Portal",
+"screen_name": "MiguelPortal1",
+"text": "Hoy 2 de junio es el Día Nacional contra la Miastenia Gravis
+@AMESMIASTENIA lanza la campaña #MiasteniaDíaADía en la que diferentes personas comentan cómo superan su día a día en relación a la enfermedad
+Súmate al reto #MiasteniaDíaADía #EnfermedadesRaras
+https://t.co/bJ0xDa3A1t",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:10:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Estrategia Nacional de #EnfermedadesRaras se publicó en 2009. Desde entonces, 10 comunidades autónomas han seguido líneas de acción, aunque todavía +20% de las familias deben desplazarse a otra comunidad para recibir un diagnóstico y tratamiento.
+
+https://t.co/nCPmJ4dlJg https://t.co/VkutfGmwdb",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:19:24 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Mi antiguo profesor de historia del colegio me mandó este email (fue antes del confinamiento, obvio). 
+
+“Poesía” antes de la clase de historia. Nada mal, ¿no? #DeQuéDolorSonTusOjos #EnfermedadesRaras https://t.co/482qeDCUmV",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:30:00 +0000 2020",
+"name": "Genotipia",
+"screen_name": "genotipia",
+"text": "Describen una nueva enfermedad rara caracterizada por rasgos faciales propios, defectos cardíacos y retraso del desarrollo.
+La nueva enfermedad, denominada síndrome TRAF7, ha sido identificada en 45 pacientes.
+#INVESTIGACIÓN #enfermedadesraras #EERR 
+https://t.co/RM0avHigRU",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:30:11 +0000 2020",
+"name": "SCN2A Europe",
+"screen_name": "scn2aeurope",
+"text": "Interesante iniciativa! Bravo! Seguro que ayuda a la larga en el diagnóstico de las mutaciones en gen #SCN2A 💪",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 17:35:58 +0000 2020",
+"name": "Lourdes Juan Moltó/#PorComerAnimales",
+"screen_name": "LourdesJuanMolt",
+"text": "❗️ El 94% de familias con #enfermedadesraras en #España han visto interrumpida la atención de su patología con motivo de la pandemia 
+
+🔹 Conoce más aquí: https://t.co/1XRLlAdSYx https://t.co/ycRzEKTEtI",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:38:11 +0000 2020",
+"name": "Seguimos Viviendo",
+"screen_name": "Sindromecolza",
+"text": "@navedelmisterio #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras https://t.co/UPuFBC6Czx",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:41:05 +0000 2020",
+"name": "Seguimos Viviendo",
+"screen_name": "Sindromecolza",
+"text": "@Tesa71879586 @navedelmisterio #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:41:33 +0000 2020",
+"name": "Seguimos Viviendo",
+"screen_name": "Sindromecolza",
+"text": "@MarM62034832 @navedelmisterio #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:42:40 +0000 2020",
+"name": "Seguimos Viviendo",
+"screen_name": "Sindromecolza",
+"text": "@DarkSha71327073 #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:47:25 +0000 2020",
+"name": "White Shadow 🇪🇸🇪🇸🇪🇸👻👽🛸🐕🐈🐎🐂🐄🐐🐑🐔🐖",
+"screen_name": "DarkSha71327073",
+"text": "@DarkSha71327073 #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 17:48:17 +0000 2020",
+"name": "Seguimos Viviendo",
+"screen_name": "Sindromecolza",
+"text": "#COVID19 🔙30.000 muertes 
+#TragediaSanitariaSpainSAT 5.000muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+39 años después,desconociendo que somos #EnfermedadesRaras   
+Aun esperamos nuestro luto⚫️
+Abro hilo",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 18:02:26 +0000 2020",
+"name": "LOLA,HORUS",
+"screen_name": "lolinmadrid",
+"text": "#COVID19 🔙30.000 muertes 
+#TragediaSanitariaSpainSAT 5.000muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+39 años después,desconociendo que somos #EnfermedadesRaras   
+Aun esperamos nuestro luto⚫️
+Abro hilo",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 18:02:32 +0000 2020",
+"name": "LOLA,HORUS",
+"screen_name": "lolinmadrid",
+"text": "@navedelmisterio #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras https://t.co/UPuFBC6Czx",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 18:05:35 +0000 2020",
+"name": "asGLUTdiece",
+"screen_name": "asglutdiece",
+"text": "“En el caso de las #EnfermedadesRaras son las familias o #AsociacionesDePacientes las que muchas veces asumen la tarea de abrir el camino de la investigación”
+
+@el_pais sobre cuando es el paciente el que paga la investigación de su dolencia
+https://t.co/4wY6Gq6NKC",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 18:09:01 +0000 2020",
+"name": "La valentía de Martina",
+"screen_name": "valentia_de",
+"text": "viene. Por lo menos tenemos una terapia. Espero que pronto lleguen todas las demás💙#enfermedadesraras #rarasperonoinvisibles #enfermedadesrarasperonoinvisibles #noverbal #hipoterapia #lavalentiademartina #todossomosmartina #discapacidad",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 18:09:40 +0000 2020",
+"name": "Seguimos Viviendo",
+"screen_name": "Sindromecolza",
+"text": "El resultado de seguir con preguntas sin respuesta:
+Por qué fuimos mas  mujeres ?
+Por que no se informa sobre el padecimiento del Sindrome Tóxico?
+Por qé no cuentan los miles de euros que  devolvimos las victimas del SAT?
+@EFEnoticias @eurordis @europapress @cuatro @La1_tve 
+Hilo",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 18:11:46 +0000 2020",
+"name": "Manuel Sicilia",
+"screen_name": "siliaro",
+"text": "El resultado de seguir con preguntas sin respuesta:
+Por qué fuimos mas  mujeres ?
+Por que no se informa sobre el padecimiento del Sindrome Tóxico?
+Por qé no cuentan los miles de euros que  devolvimos las victimas del SAT?
+@EFEnoticias @eurordis @europapress @cuatro @La1_tve 
+Hilo https://t.co/nOSLHKxX5b",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 18:27:16 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "En el #EstudioENSERio realizado por el @CentroCREER  @Imserso y @FEDER_ONG se observa que la principal causa del retraso o demora en el diagnóstico es, en un 72,8% de los casos, el desconocimiento de la enfermedad.  #EnfermedadesRaras #Investigacionsocial
+https://t.co/SH7hDTpn2Y https://t.co/5brx76rcIt",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 18:39:15 +0000 2020",
+"name": "جهاز علاج ضعف الانتصاب و تكبير القضيب وتاخير القذف",
+"screen_name": "DMahmoudshalaby",
+"text": "جهاز تكبير القضيب
+ تطويل القضيب الناجحة
+غير مؤلم
+أكثر فعالية
+وخالي من اي اعراض
+جهاز تطويل و تضخيم القضيب
+00201011753632
+00966566201554 
+https://t.co/amPa6Fxb0t     
+#enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 18:44:08 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "@incliva_iis con la colaboración de @CIBERER y el apoyo de @FEDAES, avanza en el diagnóstico temprano de la #AtaxiadeFriedreich. #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 18:58:30 +0000 2020",
+"name": "LOLA,HORUS",
+"screen_name": "lolinmadrid",
+"text": "El resultado de seguir con preguntas sin respuesta:
+Por qué fuimos mas  mujeres ?
+Por que no se informa sobre el padecimiento del Sindrome Tóxico?
+Por qé no cuentan los miles de euros que  devolvimos las victimas del SAT?
+@EFEnoticias @eurordis @europapress @cuatro @La1_tve 
+Hilo",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 19:04:25 +0000 2020",
+"name": "Fundación Mehuer",
+"screen_name": "FundacionMehuer",
+"text": "📽 ¿No conoces el vídeo ‘Playa y montaña’ de nuestra @FundacionMehuer para sensibilizar sobre la realidad de las #enfermedadesraras? Aquí tienes una nueva oportunidad 👇🏼👇🏼👇🏼",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 19:10:50 +0000 2020",
+"name": "Fundación Taiyari",
+"screen_name": "fundataiyariac",
+"text": "#Miastenia 
+Una de las #EnfermedadesRaras que en ocasiones estigmatiza a quienes la padecen, sin comprender que su cuerpo físico no responde de la forma ni con la energía que ellos quisieran.
+Por ello, te invitamos a conocer sin juzgar
+#YoIncluyo
+#MiasteniaGravis https://t.co/xZsPXKlFge",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 19:14:19 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "👨‍🏫💻 Ponencia online: Qué podemos esperar en tratamientos para la #EnfermedadDePompe
+
+📅 El próximo lunes 8 de junio 18h.
+Con la colaboración de @SanofiES 
+
+#EnfermedadesRaras #Pompe
+https://t.co/aMtQj6Snyb",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 19:45:26 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/PYMWsyzHqA Thanks to @GlobalGenes @RareDiseases @ESC_Journals #raredisease #rdcadap",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 19:50:41 +0000 2020",
+"name": "Maía",
+"screen_name": "arriramaria",
+"text": "La inversión en #investigacion nos hará más fuertes contra cualquier #coronavirus 
+#comunidaddemadrid  #Empleo 
+#desarrollo
+#Covid_19 
+#EnfermedadesRaras 
+#2Junio",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 20:05:27 +0000 2020",
+"name": "Latiendaroja",
+"screen_name": "Latiendaroja1",
+"text": "@MarM62034832 @navedelmisterio #COVID19 casi 30.000 muertes 
+#TragediaSanitariaSpainSAT  5.000 muertes
+20.000 victimas #malviviendo,olvidadas,desconocidas y  humilladas en series como esta #ancladoscapitulo8
+Mucho dolor desde 1981, hoy, 39 años después siguen desconociendo que somos #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 20:11:19 +0000 2020",
+"name": "Marcos Beltrà",
+"screen_name": "Malobe2112",
+"text": "Esa enfermedad tan desconocida y a la vez tan https://t.co/rmsxB3552e por ti hermana @tati_tulipan #DíaInternacionalDeLaMiasteniaGravis #EnfermedadesRaras https://t.co/WVQ6wAc4EA",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 20:14:27 +0000 2020",
+"name": "Quina",
+"screen_name": "Quinadelart",
+"text": "Esa enfermedad tan desconocida y a la vez tan https://t.co/rmsxB3552e por ti hermana @tati_tulipan #DíaInternacionalDeLaMiasteniaGravis #EnfermedadesRaras https://t.co/WVQ6wAc4EA",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 20:35:07 +0000 2020",
+"name": "Montse Cabrejas",
+"screen_name": "tecla2013",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 20:51:25 +0000 2020",
+"name": "Caterina Aragon",
+"screen_name": "Cat_aragon",
+"text": "🍀¡TE NECESITAMOS! Estamos investigando junto al Instituto de Enfermedades Raras del @SaludISCIII y al @CentroCREER el retraso diagnóstico en #enfermedadesraras en #España
+ 
+❗️ Tu voz es fundamental, por eso, te animamos a participar. 
+
+🔹Descubre cómo:  https://t.co/Q8WvP5jAyR https://t.co/eK04M7BR1D",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 21:03:56 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "Ahora todos "resistimos", pero hace ya años que “Resistiré” se convirtió en himno y petición para la Asociación Grupo de #EnfermedadesRaras de Navarra @GernaInfo, que las 300 familias que la componen la cantan en su comida del Día Mundial de las EERR. 
+https://t.co/GBwfTbXSaJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 21:18:07 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "@incliva_iis con la colaboración de @CIBERER y el apoyo de @FEDAES, avanza en el diagnóstico temprano de la #AtaxiadeFriedreich. #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Tue Jun 02 21:18:53 +0000 2020",
+"name": "Anais",
+"screen_name": "anaisvoluntaria",
+"text": "Infórmate sobre la enfermedad del Sarcoma de Ewing a través de nuestra web: https://t.co/Vh1Z893Kqc
+
+#ciencia #investigacion #enfermedadesraras #visibilidad https://t.co/vuTr9g3gtz",
+"ReTweet: "False"},
+{"data": "Tue Jun 02 21:45:27 +0000 2020",
+"name": "germán",
+"screen_name": "gamolinas2505",
+"text": "9 meses esperando la EPS me suministre terapias de rehabilitación cardiaca. PQRD 20-0085843 @Supersalud @SectorSalud @odpdh @Pacientesco @Moviporlasalud @colsaludable @colombiaccesibl @Citytv @SCiosc @RegionIntegrada @DVeeduria @NoticiasRCN #EnfermedadesRaras @PaiisUniandes",
+"ReTweet: "False"},

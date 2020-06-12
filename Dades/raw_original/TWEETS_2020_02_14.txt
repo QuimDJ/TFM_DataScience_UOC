@@ -1,0 +1,1920 @@
+{"data": "Thu Feb 13 23:05:42 +0000 2020",
+"name": "Reme",
+"screen_name": "kaluapiscis",
+"text": "RT @Tio_Sudeck: Y en mitad del #cronichat se publica una nueva entrada en mi blog 
+29/2/2020 Día #DiaMundialEnfermedadesRaras #VisibilidadS…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:09:46 +0000 2020",
+"name": "Pilar Terceño",
+"screen_name": "donterceo",
+"text": "RT @UCAMIraras: #Cronichat desde la Unidad de #enfermedadesraras del #HUVR tenéis nuestro apoyo, conocimiento y nuestra intención de mejora…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:11:54 +0000 2020",
+"name": "Liz Javier",
+"screen_name": "lizjavier_",
+"text": "Este año el 29 de febrero se conmemorará el #DiaMundialDeLasEnfermedadesRaras ese día, por ser un año bisiesto. #RareDiseaseDay #raredisease #EnfermedadesRaras #México #Oaxaca #EnfermedadesPocoFrecuentes",
+"ReTweet: "True"},
+{"data": "Thu Feb 13 23:24:27 +0000 2020",
+"name": "Elwis Durán",
+"screen_name": "narude03",
+"text": "R1 @FFAMEX @ClauOlivera11 @narude03 @tuly_briones @ABPAR2013 @MundoDonante @AmiloEspana1 @InfoAliber @Amyloidosis_ARC",
+"ReTweet: "True"},
+{"data": "Thu Feb 13 23:27:24 +0000 2020",
+"name": "Angeles González Rom",
+"screen_name": "angelesg_rom",
+"text": "RT @jacobocp: 🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:28:32 +0000 2020",
+"name": "Lorenzo Bertomeu",
+"screen_name": "ManuduManuel",
+"text": "RT @FEDER_ONG: R2. Todo #Cronichat coincide: #Diagnóstico y #Tratamiento continúan siendo los principales problemas de las personas con #En…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:29:09 +0000 2020",
+"name": "Lorenzo Bertomeu",
+"screen_name": "ManuduManuel",
+"text": "RT @lovenursingmery: @silviaginies @ivmaroto_nacho @Cronichats @Tio_Sudeck @charo_79 @Alicia82mad @ffpaciente @NoInvisibles @FEDER_ONG @eto…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:29:59 +0000 2020",
+"name": "Lorenzo Bertomeu",
+"screen_name": "ManuduManuel",
+"text": "RT @FEDER_ONG: @charo_79 @deverdadtienes3 @lovenursingmery @Alicia82mad @ffpaciente @NoInvisibles @etornosinza @EvaAnyon @quistestarlov @Cr…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:30:07 +0000 2020",
+"name": "Lorenzo Bertomeu",
+"screen_name": "ManuduManuel",
+"text": "RT @FEDER_ONG: P4 ¿Qué opinas del estado de la investigación clínica sobre Enfermedades Raras? 
+¿Tienes información sobre ella? 
+¿Sabes dón…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:31:45 +0000 2020",
+"name": "Afanti",
+"screen_name": "afantiT1",
+"text": "RT @richardcanabate: Gracias a todos los participantes del #CroniChat @Cronichats de esta noche sobre #EnfermedadesRaras https://t.co/dOtWK…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:31:59 +0000 2020",
+"name": "Josefina Salazar",
+"screen_name": "PrensaJosefina",
+"text": "RT @diputadospan: Conferencia de prensa #EnfermedadesRaras https://t.co/uf5Ucz1Jg5",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:32:38 +0000 2020",
+"name": "Yira Diaz Toro",
+"screen_name": "YiraYiradt",
+"text": "RT @afidro_colombia: Seguimos poniéndonos la camiseta por las #EnfermedadesRaras Este grupo trabaja para mejorar la situación de los pacien…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:32:58 +0000 2020",
+"name": "Afanti",
+"screen_name": "afantiT1",
+"text": "RT @FEDER_ONG: R2. Todo #Cronichat coincide: #Diagnóstico y #Tratamiento continúan siendo los principales problemas de las personas con #En…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:49:36 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "@CAMURATI_ONG @Cronichats @FEDER_ONG @pelendinez ¡Muchas gracias por la recomendación! Toda ayuda es poca para las personas afectadas por #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:51:17 +0000 2020",
+"name": "María Yolanda García",
+"screen_name": "MaraYolandaGar6",
+"text": "RT @FEDER_ONG: R3. Las #EnfermedadesRaras son, en su mayoría, crónicas y degenerativas. Todo ello, requiere una atención
+especializada que…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:52:02 +0000 2020",
+"name": "DIEGO FORERO",
+"screen_name": "FOREROD",
+"text": "RT @afidro_colombia: Seguimos poniéndonos la camiseta por las #EnfermedadesRaras Este grupo trabaja para mejorar la situación de los pacien…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:53:49 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "RT @FEDER_ONG: ¿Eres un medio de comunicación o formas parte de nuestro tejido asociativo? Acompáñanos en nuestra rueda de prensa  que cele…",
+"ReTweet: "False"},
+{"data": "Thu Feb 13 23:56:59 +0000 2020",
+"name": "Yolanda Mármol",
+"screen_name": "yolandaelle",
+"text": "RT @jacobocp: 🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 00:01:21 +0000 2020",
+"name": "Magdalena Mejía",
+"screen_name": "MaG3541",
+"text": "Para que se entienda mejor!
+💛
+#fibromialgia #fibromialgiapositiva #fibromialgia #fybromyalgia #enfermedadesraras #saludfisica #enfermedadinvisible #dominicanaenislandia #neurociencia #neuropsicologia #neurologista… https://t.co/EOOZiaYVqK",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:18:20 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "RT @nh487: La familia que escoges. La familia que las #EnfermedadesRaras me han dado. #NadaEsImposible #DeQueDolorSonTusOjos https://t.co/f…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:20:35 +0000 2020",
+"name": "José Antonio Garcia Delgado",
+"screen_name": "jose_a57",
+"text": "RT @jacobocp: 🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:21:38 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @jacobocp: 🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:22:34 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "RT @pelendinez: #366DiasDeEERR #masvisibles #FebreroRaro2020",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 08:22:36 +0000 2020",
+"name": "Ayuda a Domicilio",
+"screen_name": "Serdomas",
+"text": "Ayuda a Domicilio @ffpaciente: '¡Estamos encantad@s de toda esta participación en el #cronichat sobre #EnfermedadesRaras!
+
+Seguro que estamos aprendiendo muchísimo, juntos!!
+
+Nos vemos el 27 de febrero #SaveTheDate 🖊
+
+… https://t.co/VjDbLf6mxo, see more https://t.co/NuMMdqdIGt",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:22:59 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "RT @FEDER_ONG: P4 ¿Qué opinas del estado de la investigación clínica sobre Enfermedades Raras? 
+¿Tienes información sobre ella? 
+¿Sabes dón…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:23:38 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @mapeav75: y mi tercer #ffpaciente del día para @maria5sentidos y @anajosebb, por todo el trabajo que hacen por las #EnfermedadesRaras y…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:26:09 +0000 2020",
+"name": "Laura Racionero",
+"screen_name": "RacioneroLaura",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:26:19 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "RT @FFAMEX: La falta de políticas públicas para las enfermedades raras es la principal causa del desconocimiento en los profesionales de la…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:27:59 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. ¡¡Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️ Me sumo a la campaña de @quistestarlov para conseguir...
+
+➕VISIBILiDAD
+➕ INVESTIGACIÓN 
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR 
+#EnfermedadesRaras https://t.co/Z2I06kdTl4",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:28:15 +0000 2020",
+"name": "Una sufridora más",
+"screen_name": "1asufridoramas",
+"text": "#FFpaciente
+#FebreroRaro2020
+
+Más #investigación e #inversión en #EnfermedadesRaras
+
+#GirasolesTQ
+#QuistesTarlov",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 08:29:44 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "RT @silviaginies: R2. #CroniChat 
+
+Pediría:
+🎤 Formación para el personal sanitario.
+🎤 Formación e información para los pacientes y familiar…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 08:31:34 +0000 2020",
+"name": "ROSA MARÍA HERNÁNDEZ LÓPEZ",
+"screen_name": "ROUSEAMAR",
+"text": "RT @pelendinez: #cronichats @Cronichats 
+R2 Al SNS le pido que ponga en marcha la estrategia nacional de #EnfermedadesRaras, que dedique re…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:32:24 +0000 2020",
+"name": "ROSA MARÍA HERNÁNDEZ LÓPEZ",
+"screen_name": "ROUSEAMAR",
+"text": "RT @charo_79: @AntonioCanoEnf @lovenursingmery @Alicia82mad @ffpaciente @NoInvisibles @FEDER_ONG @etornosinza @EvaAnyon @quistestarlov @Cro…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:34:29 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Dónde sospechar de #EnfermedadDeFabry?  El Dr. Luis Tamargo, del Hospital Serranía de Ronda (Málaga) responde a esta pregunta desde el punto de vista de un cardiólogo.
+
+#Cardiología #Fabry #EnfermedadesRaras
+
+💻👉https://t.co/BuvY2pVkve https://t.co/NbPMKnyWmt",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:35:09 +0000 2020",
+"name": "Jose Díaz",
+"screen_name": "odjosefa",
+"text": "RT @asociacionamife: Concluyó con un rotundo éxito la jornada sobre #EnfermedadesRaras y el impacto en la investigación #genética y tratami…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:36:28 +0000 2020",
+"name": "ROSA MARÍA HERNÁNDEZ LÓPEZ",
+"screen_name": "ROUSEAMAR",
+"text": "RT @FEDER_ONG: R3. Si queréis saber más sobre el estado de situación de las #EnfermedadesRaras y su impacto desde la investigación social,…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:37:56 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @mapeav75: y mi tercer #ffpaciente del día para @maria5sentidos y @anajosebb, por todo el trabajo que hacen por las #EnfermedadesRaras y…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:38:20 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @silviaginies: R2. #CroniChat 
+Qué atención? Si lo primero que se nos dice a #quistestarlov es q no da síntomas. A partir de ahí comienz…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 08:38:51 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @DUEdevocacion: En este  #FebreroRaro2020 me sumo 👍🏻 por la #Investigación en las #EnfermedadesRaras 
+➕Fundamental el trabajo multidisci…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:38:58 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @pelendinez: Conoces el Servicio de Atención Psicológica de @FEDER_ONG 
+
+#366DiasdeEERR #masvisibles 
+#FebreroRaro2020 
+
+El  servicio de…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:42:10 +0000 2020",
+"name": "Nacho Fdez Muñoz",
+"screen_name": "Nachofm",
+"text": "RT @FDescubre: ☕️🧪El Centro Paleo Magina recibe un #Caféconciencia sobre #salud
+
+☕️👩‍🔬El investigador Francisco José Esteban aborda las #En…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:42:18 +0000 2020",
+"name": "🍀Orgullo Indito🍀13",
+"screen_name": "OrgulloIndito",
+"text": "RT @nh487: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. ¡¡Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:42:57 +0000 2020",
+"name": "🍀Orgullo Indito🍀13",
+"screen_name": "OrgulloIndito",
+"text": "RT @FFAMEX: La falta de políticas públicas para las enfermedades raras es la principal causa del desconocimiento en los profesionales de la…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:44:14 +0000 2020",
+"name": "🍀Orgullo Indito🍀13",
+"screen_name": "OrgulloIndito",
+"text": "RT @nh487: La familia que escoges. La familia que las #EnfermedadesRaras me han dado. #NadaEsImposible #DeQueDolorSonTusOjos https://t.co/f…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:46:40 +0000 2020",
+"name": "jessie",
+"screen_name": "jessieholaya",
+"text": "RT @RarasReales: Hoy, primer día del III Congreso Nacional de #EnfermedadesRaras en Universidad Pontificia de #Salamanca @upsa. Investigaci…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:47:21 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "Nuestro #FFpaciente y #GRACIAS para escolares, niños y personas afectadas por una #ER, docentes, médicos, investigadores y más profesionales que han puesto en marcha el proyecto colaborativo #wikiER13 para visibilizar las #enfermedadesraras y apoyar la #investrigación https://t.co/gdhhsvDRy6",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:51:39 +0000 2020",
+"name": "Arantxa Sáez Sánchez",
+"screen_name": "saezatxa",
+"text": "RT @RarasReales: Hoy, primer día del III Congreso Nacional de #EnfermedadesRaras en Universidad Pontificia de #Salamanca @upsa. Investigaci…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:53:24 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @maria5sentidos: #enfermedadesraras | Mi #ffpaciente es para @angelmanasa la asociación española del síndrome de Angelman. Mañana se cel…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:55:10 +0000 2020",
+"name": "EGV",
+"screen_name": "GoyanesElena",
+"text": "RT @Alfa1Espana: "'Raras' son más de 300 millones de personas con 6.000 enfermedades distintas. Parece que lo ''raro' no es tan 'raro'..."…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:55:15 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "RT @RarasReales: ¿Dónde sospechar de #EnfermedadDeFabry?  El Dr. Luis Tamargo, del Hospital Serranía de Ronda (Málaga) responde a esta preg…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 08:56:20 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "@anajosebb @DUEdevocacion @quistestarlov @Cronichats @maria5sentidos @NoInvisibles @Tio_Sudeck @CAMURATI_ONG @HectorNafria @silviaginies @soriano_p @pelendinez ¡GRACIAS Ana por todo tu trabajo para dar visibilidad a #quistestarlov y las #EnfermedadesRaras! Eres imprescindible #FFPaciente ❤️",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:00:08 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "RT @FEDER_ONG: R3. Las #EnfermedadesRaras son, en su mayoría, crónicas y degenerativas. Todo ello, requiere una atención
+especializada que…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:00:27 +0000 2020",
+"name": "Yurena #Febreroraro2020",
+"screen_name": "Yurena86",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:00:31 +0000 2020",
+"name": "Melania Bentué",
+"screen_name": "melzbentue",
+"text": "Desde @anisalud Aragón, nuestro compañero Adrián Matute, con las #enfermedadesraras para conocer el proyecto #wikiER13 ¡Gracias a @mercadodel13 por invitarnos!",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:03:49 +0000 2020",
+"name": "Carina Escobar Manero",
+"screen_name": "CarinaEscManero",
+"text": "RT @FEDER_ONG: R3. Si queréis saber más sobre el estado de situación de las #EnfermedadesRaras y su impacto desde la investigación social,…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:05:43 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @danzando_mp: Ayer jueves 13,  se habló en #Cronichat de la importancia q tiene el diagnóstico para el paciente
+
+Le da seguridad, confia…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:05:46 +0000 2020",
+"name": "Eva del Ruste",
+"screen_name": "EvadelRuste",
+"text": "RT @suromig: Hoy se presenta en #Zaragoza #wikiER13 en el espacio recreo, la enciclopedia creativa de las #EnfermedadesRaras Siento no pode…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:06:58 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @maria5sentidos: #enfermedadesraras | Mi #ffpaciente es para @angelmanasa la asociación española del síndrome de Angelman. Mañana se cel…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:07:13 +0000 2020",
+"name": "Aepef",
+"screen_name": "Aepef",
+"text": "RT @FEDER_ONG: R4. La #investigación, única opción. El colectivo de #EnfermedadesRaras es uno de los promotores principales de la investiga…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:07:17 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @danzando_mp: En #Cronichat de ayer jueves 13, Marga nos contaba la necesidad de recursos, de información y formación sobre muchas de la…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:08:13 +0000 2020",
+"name": "Aepef",
+"screen_name": "Aepef",
+"text": "RT @Federacion_ASEM: 📣 Se acerca el Día Internacional de las Enfermedades Raras!! ✋🏼#29febrero🤚🏾⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Con el lema “somos más d…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:08:49 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @ffpaciente: @anajosebb @DUEdevocacion @quistestarlov @Cronichats @maria5sentidos @NoInvisibles @Tio_Sudeck @CAMURATI_ONG @HectorNafria…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:10:19 +0000 2020",
+"name": "Aepef",
+"screen_name": "Aepef",
+"text": "Con motivo de la celebración del Día de las Enfermedades Raras, Chus, nuestra vicepresidenta, ha organizado para el día 29 de febrero, en Zaragoza, un programa de actividades que no te puedes perder. Te esperamos!! #EnfermedadesRaras #29febrero https://t.co/2F8xoQmFLS",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:11:37 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "Me sumo!! Mi #FFpaciente  para @quistestarlov 
+#hazlasvisibles #raraeslaenfermedad #enfermedadesraras #RareDisease",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:16:44 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @digitalnursing: R2 El sistema no está preparado para este tipo de enfermedades. Se invierte más en todas aquellas patologías más comune…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:18:23 +0000 2020",
+"name": "Teresa Pérez",
+"screen_name": "DUEdevocacion",
+"text": "RT @nh487: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. ¡¡Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:18:47 +0000 2020",
+"name": "Aepef",
+"screen_name": "Aepef",
+"text": "El próximo 28-02-20 haremos una visita accesible al Museo Geominero de Madrid para todos los asociados que estén interesados. ¡No te quedes en casa! #EnfermedadesRaras https://t.co/iBX7vA9d49",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:21:50 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "RT @FECHER_CL: 29 de Febrero día mundial de las #EnfermedadesRaras https://t.co/boWseoCOAC",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:22:05 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @atonitazz: Daros las gracias es quedarse corto..... Este #Cronichat ha sido especial para  #quistestarlov  @quistestarlov y muy muy int…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:22:33 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @silviaginies: Suelto el 🎤 literalmente para @Cronichats 
+
+❌q me dispongo a coger el 📣📣📢📢 para hablar de #EnfermedadesRaras 
+
+🕘 21:00 co…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:22:51 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @FECHER_CL: 29 de Febrero día mundial de las #EnfermedadesRaras https://t.co/boWseoCOAC",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:23:25 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "RT @FEDER_ONG: ¡Buenas noches, #Cronichat! #SomosFEDER, 368 organizaciones de pacientes unidas que desde hace justo 20 años trabajamos para…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:23:25 +0000 2020",
+"name": "Gloria Pino Ramírez",
+"screen_name": "gloriapino",
+"text": "RT @FECHER_CL: 29 de Febrero día mundial de las #EnfermedadesRaras https://t.co/boWseoCOAC",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:25:04 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "‼️Faltan 15 días para celebrar el Día Mundial de las #EnfermedadesRaras‼️
+Organizamos nuestro #VIIIEncuentroNacionalER en @CentroCREER @Imserso
+Programa actualizado en nuestra web⬇️⬇️⬇️
+https://t.co/mpKiPoIjbx
+#DíaMundialEnfermedadesRaras #HazlasVisibles #EncuentrosCREER https://t.co/2a5z95WtnJ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:27:52 +0000 2020",
+"name": "Monica",
+"screen_name": "Monicayelephant",
+"text": "RT @FEDER_ONG: R3. Si queréis saber más sobre el estado de situación de las #EnfermedadesRaras y su impacto desde la investigación social,…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:29:58 +0000 2020",
+"name": "RAREgenomics",
+"screen_name": "RAREGenomicsCM",
+"text": "La Directora General de Innovación e Investigación Tecnológica @CastanoMluisa sobre RareGenomics: "Siento que este proyecto es un orgullo".
+Muchas gracias por el apoyo al trabajo que realizamos en el estudio de #EnfermedadesRaras @ComunidadMadrid https://t.co/l0XWx1Cl66",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:30:08 +0000 2020",
+"name": "Itxaso Gondra Ciscar",
+"screen_name": "ItxasoC",
+"text": "RT @AEF_AT: El 80 % de las #enfermedadesraras sigue sin investigación y solo el 5% recibe tratamiento. Vía ⁦@FEDER_ONG⁩ ⁦@rtve⁩  https://t.…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:30:18 +0000 2020",
+"name": "Itxaso Gondra Ciscar",
+"screen_name": "ItxasoC",
+"text": "RT @AEF_AT: FEDER reclama el impulso de la medicina genómica en España para favorecer el diagnóstico precoz de #enfermedadesraras. Vía ⁦@La…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:30:23 +0000 2020",
+"name": "Pacientes Semergen",
+"screen_name": "PacientSemergen",
+"text": "#FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidades de las personas con #EnfermedadesRaras @FEDER_ONG @RarasReales @NoInvisibles https://t.co/lrQR118IC8",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:30:59 +0000 2020",
+"name": "AOTEN Ostomizados",
+"screen_name": "ostomizadostfe",
+"text": "RT @PacientSemergen: #FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidade…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:32:55 +0000 2020",
+"name": "Susana Romero 👩🏻‍💻👷🏻‍♀️",
+"screen_name": "suromig",
+"text": "RT @mercadodel13: Nuestro #FFpaciente y #GRACIAS para escolares, niños y personas afectadas por una #ER, docentes, médicos, investigadores…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:34:20 +0000 2020",
+"name": "Imserso",
+"screen_name": "Imserso",
+"text": "RT @CentroCREER: ‼️Faltan 15 días para celebrar el Día Mundial de las #EnfermedadesRaras‼️
+Organizamos nuestro #VIIIEncuentroNacionalER en…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:36:27 +0000 2020",
+"name": "RAREgenomics",
+"screen_name": "RAREGenomicsCM",
+"text": "La Directora General de Investigación e Innovación Tecnológica @CastanoMluisa sobre RareGenomics: "Este proyecto es un orgullo". 
+Muchas gracias por el apoyo a nuestro trabajo en el estudio de #EnfermedadesRaras @ComunidadMadrid https://t.co/RJOpHf4qF0",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:41:01 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @maria5sentidos: #enfermedadesraras | Mi #ffpaciente es para @angelmanasa la asociación española del síndrome de Angelman. Mañana se cel…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:41:45 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @mapeav75: y mi tercer #ffpaciente del día para @maria5sentidos y @anajosebb, por todo el trabajo que hacen por las #EnfermedadesRaras y…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:42:41 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:44:00 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @PacientSemergen: #FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidade…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:44:43 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @VRedorat: Me sumo!! Mi #FFpaciente  para @quistestarlov 
+#hazlasvisibles #raraeslaenfermedad #enfermedadesraras #RareDisease",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:45:23 +0000 2020",
+"name": "Una sufridora más",
+"screen_name": "1asufridoramas",
+"text": "RT @PacientSemergen: #FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidade…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:46:48 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @mercadodel13: Nuestro #FFpaciente y #GRACIAS para escolares, niños y personas afectadas por una #ER, docentes, médicos, investigadores…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:47:08 +0000 2020",
+"name": "PacienteSinPaz 👍#FebreroRaro2020",
+"screen_name": "PacienteSinPaz",
+"text": "RT @VRedorat: Me sumo!! Mi #FFpaciente  para @quistestarlov 
+#hazlasvisibles #raraeslaenfermedad #enfermedadesraras #RareDisease",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:47:12 +0000 2020",
+"name": "PacienteSinPaz 👍#FebreroRaro2020",
+"screen_name": "PacienteSinPaz",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:47:28 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @1asufridoramas: #FFpaciente
+#FebreroRaro2020
+
+Más #investigación e #inversión en #EnfermedadesRaras
+
+#GirasolesTQ
+#QuistesTarlov",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:47:31 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @nh487: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. ¡¡Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:48:54 +0000 2020",
+"name": "Boys don't cry",
+"screen_name": "DexterMorganbcn",
+"text": "RT @FECHER_CL: 29 de Febrero día mundial de las #EnfermedadesRaras https://t.co/boWseoCOAC",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:49:09 +0000 2020",
+"name": "sanidad pública",
+"screen_name": "sanidadGRANADA",
+"text": "RT @Cronichats: 📍"Cronichat: un encuentro en Twitter donde pacientes y profesionales hablan sobre su enfermedad". 
+📍"Dicen cosas que NO sab…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:49:14 +0000 2020",
+"name": "Miguel Lopez Abenoza",
+"screen_name": "miloabeno",
+"text": "RT @jacobocp: 🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:50:13 +0000 2020",
+"name": "sanidad pública",
+"screen_name": "sanidadGRANADA",
+"text": "RT @danzando_mp: Una vez más @joancmarch dando visibilidad y valor al trabajo q los pacientes junto a profesionales sanitarios hacemos en #…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:50:51 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @nh487: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. ¡¡Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:51:45 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @1asufridoramas: #FFpaciente
+#FebreroRaro2020
+
+Más #investigación e #inversión en #EnfermedadesRaras
+
+#GirasolesTQ
+#QuistesTarlov https:…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:53:24 +0000 2020",
+"name": "carmen",
+"screen_name": "cmisstwitt",
+"text": "Efectivamente, muchas CC 💔 están asociaciadas a #EnfermedadesRaras como el #sindrome22q entre otros. Todavía hacen falta protocolos en la Sanidad española para dar diagnósticos Genéticos para el origen Cardiopatías Congénitas aisladas. Hoy #14Feb #DíaCardiopatíasCongénitas 💖",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 09:55:33 +0000 2020",
+"name": "María Ramírez Sánchez",
+"screen_name": "lovenursingmery",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:55:40 +0000 2020",
+"name": "El Regalo N°7",
+"screen_name": "ElRegalo7",
+"text": "RT @RarasReales: El Hospital de Valme @AGSSurSevilla celebra este #FebreroRaro2020 3 sesiones de alto nivel científico sobre #EnfermedadesR…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:56:44 +0000 2020",
+"name": "@manuelcanarias #FebreroRaro2020 + #Investigacion",
+"screen_name": "manuelcanarias3",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:57:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "#EnfermedadesRaras
+El concurso fotográfico #EResArte quiere reflejar la realidad de los más de tres millones de personas que conviven en España con alguna enfermedad poco frecuente. 
+Conoce más sobre esta iniciativa y sobre cómo participar en ella
+https://t.co/W2dMyI8Qpu https://t.co/E8RHPK15oI",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 09:59:24 +0000 2020",
+"name": "FundacionLealtad",
+"screen_name": "FundLealtad",
+"text": "RT @FEDER_ONG: ¡Ya está aquí! Lanzamos nuestra campaña por el Día Mundial de las #EnfermedadesRaras 'Crecer contigo, nuestra esperanza' #So…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:00:09 +0000 2020",
+"name": "María Sáenz Jalón",
+"screen_name": "JalonSaenz",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:01:38 +0000 2020",
+"name": "AGS Sur de Sevilla",
+"screen_name": "AGSSurSevilla",
+"text": "RT @RarasReales: El Hospital de Valme @AGSSurSevilla celebra este #FebreroRaro2020 3 sesiones de alto nivel científico sobre #EnfermedadesR…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:02:41 +0000 2020",
+"name": "Fundación Adcor",
+"screen_name": "FundacionAdcor",
+"text": "RT @jacobocp: 🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:04:36 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "RT @djavierreh: De la Mano del H. 12 de Octubre y de   @FEDER_ONG, Expression of Hope de @SanofiES @RarasReales llega a Madrid a repartir E…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:12:04 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #EnfermedadesRaras https://t.co/m6P2qkFm62",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:16:37 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "RT @leo_veritas: R1. a @No_invisibles
+Pacientes y familiares entre muchas
+@ReMPS_ (distrofias musculares)
+@Fundacionoelia
+@petrelrett (sínd…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:17:31 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @mercadodel13: Nuestro #FFpaciente y #GRACIAS para escolares, niños y personas afectadas por una #ER, docentes, médicos, investigadores…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:18:58 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "@mercadodel13 @IISAragon @pinzarol @juandelanuza @agenciaimasc @cris_mingarro @rrlaweb @colegiosansu @cpalpartir @csachezro @enamir11 ¡Enhorabuena por ese proyecto #wikiER13! Y GRACIAS por toda la visibilidad a las #EnfermedadesRaras 👏👏 #FFPaciente",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:19:20 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "RT @AsmdSpain: Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #Enf…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:21:36 +0000 2020",
+"name": "Ruth Martin",
+"screen_name": "ruthgoico",
+"text": "RT @djavierreh: De la Mano del H. 12 de Octubre y de   @FEDER_ONG, Expression of Hope de @SanofiES @RarasReales llega a Madrid a repartir E…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:22:00 +0000 2020",
+"name": "Sergio Casanueva",
+"screen_name": "SergioCasanueva",
+"text": "RT @cmisstwitt: Efectivamente, muchas CC 💔 están asociaciadas a #EnfermedadesRaras como el #sindrome22q entre otros. Todavía hacen falta pr…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 10:22:10 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "RT @PacientSemergen: #FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidade…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:27:24 +0000 2020",
+"name": "Marisa Martínez salv",
+"screen_name": "MarmaSalv",
+"text": "RT @HospitalLaFe: 🔬👩‍🔬El próximo viernes 21 de febrero a las 9:30h se celebra en el salón de actos del @CIPFciencia  la V Jornada Nacional…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:28:19 +0000 2020",
+"name": "Maite Padilla📢#CRONICHAT #FIBROMIALGIA #DOLOR",
+"screen_name": "danzando_mp",
+"text": "RT @richardcanabate: Gracias a todos los participantes del #CroniChat @Cronichats de esta noche sobre #EnfermedadesRaras https://t.co/dOtWK…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:30:18 +0000 2020",
+"name": "BIOBANCO LA FE",
+"screen_name": "BiobancoLaFe",
+"text": "RT @HospitalLaFe: 🔬👩‍🔬El próximo viernes 21 de febrero a las 9:30h se celebra en el salón de actos del @CIPFciencia  la V Jornada Nacional…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:31:46 +0000 2020",
+"name": "Daniel de Vicente",
+"screen_name": "DanieldVicente",
+"text": "Mi #FFpaciente para la incansable @maria5sentidos por su carisma y su gran trabajo día tras día para dar visibilidad a las #EnfermedadesRaras.",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:41:35 +0000 2020",
+"name": "PARAPARESIA ESPASTIC",
+"screen_name": "APEFCYL",
+"text": "RT @Aepef: Con motivo de la celebración del Día de las Enfermedades Raras, Chus, nuestra vicepresidenta, ha organizado para el día 29 de fe…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:42:38 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Con motivo del Día Mundial, en Marzo celebraremos nuestro Acto Institucional en #Madrid  #DM2020 #SomosFEDER https://t.co/DtUwlTxvdw https://t.co/F1o0uyDUx4",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:44:07 +0000 2020",
+"name": "grupo de apoyo asma epoc malaga",
+"screen_name": "coalla10",
+"text": "Yo no soy rara, mi enfermedad es invisible,cuando nos preguntan por  la enfermedad  nadie sabe que es ..consigamos que no pongan cara de (que es esa enfermedad ? ) desde las personas que la tenemos y vosotros luchemos por dejar de oir  ( que es esa enfermedad ?) TODOS JUNTOS",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 10:44:18 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @VRedorat: Me sumo!! Mi #FFpaciente  para @quistestarlov 
+#hazlasvisibles #raraeslaenfermedad #enfermedadesraras #RareDisease https://t.…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 10:47:51 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "¡Hemos estrenado página web oficial por el Día Mundial de las #EnfermedadesRaras ! Descubrela entrando en https://t.co/ueVyU2kcpf #somosFEDER #DM2020 https://t.co/V1mJwoNpsA",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:48:55 +0000 2020",
+"name": "OLGA LETICIA",
+"screen_name": "olgaleticia003",
+"text": "RT @VRedorat: Me sumo!! Mi #FFpaciente  para @quistestarlov 
+#hazlasvisibles #raraeslaenfermedad #enfermedadesraras #RareDisease",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 10:53:10 +0000 2020",
+"name": "Mely enfermera",
+"screen_name": "la_oveja_negra",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 10:54:06 +0000 2020",
+"name": "Marina Rodríguez",
+"screen_name": "marinaromen",
+"text": "RT @raquelsastrecom: R2: Hay que mejorar el sistema. Y, para ello, es imprescindible que se reconozca la especialidad de genética clínica.…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 10:58:36 +0000 2020",
+"name": "Miguel Angel De la Cámara",
+"screen_name": "MiguelDlaCamara",
+"text": "RT @soriano_p: Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:01:14 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero enfrentar mi vida”.
+
+Noah Higón @nh487, activista por las #EnfermedadesRaras, ha escrito «De qué dolor son tus ojos»
+https://t.co/gwQZ4g0JKZ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:01:18 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @PacientSemergen: #FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidade…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:01:29 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "RT @RarasReales: “Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:02:26 +0000 2020",
+"name": "mariola leon medina",
+"screen_name": "bolinfa",
+"text": "RT @RarasReales: “Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:13:27 +0000 2020",
+"name": "Alfa-1 España",
+"screen_name": "Alfa1Espana",
+"text": "RT @coalla10: Yo no soy rara, mi enfermedad es invisible,cuando nos preguntan por  la enfermedad  nadie sabe que es ..consigamos que no pon…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:15:16 +0000 2020",
+"name": "Maria Pilar Serrano",
+"screen_name": "MPilarSerSan",
+"text": "RT @suromig: Hoy se presenta en #Zaragoza #wikiER13 en el espacio recreo, la enciclopedia creativa de las #EnfermedadesRaras Siento no pode…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:16:46 +0000 2020",
+"name": "A GARAI APA",
+"screen_name": "garapaito",
+"text": "RT @CentroCREER: En el #EstudioENSERio de @CentroCREER @Imserso y @FEDER_ONG se reúnen más de 400 diagnósticos diferentes
+Clasificación seg…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:20:36 +0000 2020",
+"name": "Dr. Alfonso Vidal",
+"screen_name": "DrAlfonsoVidal",
+"text": "RT @1asufridoramas: #FFpaciente
+#FebreroRaro2020
+
+Más #investigación e #inversión en #EnfermedadesRaras
+
+#GirasolesTQ
+#QuistesTarlov https:…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:27:52 +0000 2020",
+"name": "Real Academia de Medicina y Cirugía de Valladolid",
+"screen_name": "RealCirugia",
+"text": "RT @coalla10: Yo no soy rara, mi enfermedad es invisible,cuando nos preguntan por  la enfermedad  nadie sabe que es ..consigamos que no pon…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:39:47 +0000 2020",
+"name": "Isabel martinez calzado",
+"screen_name": "isabel18770",
+"text": "RT @FundIsabelGemio: EL 29 de Febrero es el día mundial de la Enfermedades Raras.
+!! No dejes de colaborar ¡¡
+#enfermedadesraras #investiga…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:40:39 +0000 2020",
+"name": "Alejandro Molano",
+"screen_name": "Alejand20426919",
+"text": "El coronavirus 🦠  #coronavírus #america #asia #enfermedadesraras alejandro0.1.01 @Alejand20426919 https://t.co/IzHTEqlY5U",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:41:46 +0000 2020",
+"name": "Montserrat Calpena",
+"screen_name": "MontserratCalp1",
+"text": "RT @coalla10: Yo no soy rara, mi enfermedad es invisible,cuando nos preguntan por  la enfermedad  nadie sabe que es ..consigamos que no pon…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:46:59 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Investigadoras en #EnfermedadesRaras - #EERR" que organiza el @CIPFciencia. @ERdivulga 
+📋Programa https://t.co/ZJlCp1efzf
+🖋️Inscripciones: https://t.co/62PC9Ixr57 https://t.co/ZmSgwgPqjv",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:47:28 +0000 2020",
+"name": "CIPF",
+"screen_name": "CIPFciencia",
+"text": "RT @incliva_iis: 👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Inv…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:47:38 +0000 2020",
+"name": "ERRdivulga",
+"screen_name": "ERdivulga",
+"text": "RT @incliva_iis: 👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Inv…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:47:45 +0000 2020",
+"name": "LaLuchaDeAbril",
+"screen_name": "LaLuchaDeAbril1",
+"text": "Porque todos los días sean San Valentin en nuestra familia ! Disfrutad de este día con ❤❤
+
+#enfermedadesraras #spg #fisioterapia #logopeda #equinoterapia #abril #paraparesia #espastica #espasticidad #genetica… https://t.co/hHILLvz8lv",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:48:18 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Mensajes que llegan al ♥️ #FFPaciente",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:51:15 +0000 2020",
+"name": "AESIP",
+"screen_name": "PolandAESIP",
+"text": "RT @FEDER_ONG: ¡Hemos estrenado página web oficial por el Día Mundial de las #EnfermedadesRaras ! Descubrela entrando en https://t.co/ueVyU…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 11:52:35 +0000 2020",
+"name": "Esti 🌿",
+"screen_name": "JardindeMendel",
+"text": "Si conocéis a algún paciente/cuidador que conviva con una enfermedad rara podéis pasarle la info de esta jornada súper interesante que celebraremos el día 21 en #Barcelona.
+
+¿Me ayudáis a que se difunda? Os lo agradeceré mucho ❤️ #EnfermedadesRaras 
+https://t.co/W5bRpQGlaV",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 11:59:36 +0000 2020",
+"name": "Alfa-1 España",
+"screen_name": "Alfa1Espana",
+"text": "RT @FEDER_ONG: R4. La #investigación, única opción. El colectivo de #EnfermedadesRaras es uno de los promotores principales de la investiga…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:00:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "RT @PacientSemergen: #FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidade…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:03:16 +0000 2020",
+"name": "Maite Padilla📢#CRONICHAT #FIBROMIALGIA #DOLOR",
+"screen_name": "danzando_mp",
+"text": "RT @MadridMarysun: Este #Cronichat  fue muy especial, cada testimonio único #EnfermedadesRaras , 👏👏, tengo un nudo en la garganta, 🥺 , 😘",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 12:04:48 +0000 2020",
+"name": "Pedro Alsina Mier",
+"screen_name": "AlsinaMier",
+"text": "RT @SanofiES: ¡De #Sevilla a #Madrid! La exposición #ExpressionOfHope llega al Hospital 12 de Octubre de la mano de @FEDER_ORG, para dar vi…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:05:13 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Investigadores rosarinos en primeros pasos de un desarrollo innovador en salud.
+#NiemannPickC
+#EnfermedadesRaras https://t.co/tkrH0jl3N8",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:10:29 +0000 2020",
+"name": "BiBi Gardens",
+"screen_name": "BiBi_Gardens",
+"text": "RT @RarasReales: “Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:19:52 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @AsmdSpain: Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #Enf…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:20:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Mientras no exista cura para una enfermedad poco frecuente es fundamental al menos garantizar el acceso a un abordaje terapéutico que frene el avance y agravamiento de la patología”.
+
+Se dijo en la jornada sobre #EnfermedadesRaras en el SNS
+
+https://t.co/xYLvctl9im https://t.co/xfvlAtu9gm",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:21:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Gracias a Colabora Energía por su solidaridad y apoyo al colectivo de personas con #enfermedadesraras y sus familiares https://t.co/wQC9CQ5JUZ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:21:43 +0000 2020",
+"name": "CAMURATI ENGELMAN",
+"screen_name": "CAMURATI_ONG",
+"text": "RT @maria5sentidos: #enfermedadesraras | Mi #ffpaciente es para @angelmanasa la asociación española del síndrome de Angelman. Mañana se cel…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:22:23 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "La Fundación @la_marato de TV3 abre el plazo para la presentación de proyectos de investigación biomédica de excelencia sobre enfermedades minoritarias. #Enfermedadesraras
+       🗓️ Plazo: hasta el 13 de marzo de 2020.
+https://t.co/FhpgPZsQv3 https://t.co/UvlsNLjPlY",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:23:21 +0000 2020",
+"name": "22q España",
+"screen_name": "22q_es",
+"text": "RT @cmisstwitt: Efectivamente, muchas CC 💔 están asociaciadas a #EnfermedadesRaras como el #sindrome22q entre otros. Todavía hacen falta pr…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 12:24:56 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "RT @DanieldVicente: Mi #FFpaciente para la incansable @maria5sentidos por su carisma y su gran trabajo día tras día para dar visibilidad a…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:28:34 +0000 2020",
+"name": "Fundacion Venezolana",
+"screen_name": "retinosisve",
+"text": "RT @raquelsastrecom: R2: Hay que mejorar el sistema. Y, para ello, es imprescindible que se reconozca la especialidad de genética clínica.…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 12:29:11 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "alguien con un proyecto de #investigación de #ehlersdanlos?",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 12:30:03 +0000 2020",
+"name": "Emilio",
+"screen_name": "EmiggDO",
+"text": "RT @RarasReales: “Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:33:53 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "RT @RarasReales: “Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:35:15 +0000 2020",
+"name": "Federación ASEM",
+"screen_name": "Federacion_ASEM",
+"text": "RT @CentroCREER: La Fundación @la_marato de TV3 abre el plazo para la presentación de proyectos de investigación biomédica de excelencia so…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:36:21 +0000 2020",
+"name": "ÓskarHR",
+"screen_name": "scariosHR",
+"text": "RT @dePocholate: ¡Estoy tan agradecida a @Sci_Granada por haber conocido a personas como @maria5sentidos!
+Os dije el otro día que el proyec…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 12:36:48 +0000 2020",
+"name": "@J",
+"screen_name": "Piworth",
+"text": "RT @RarasReales: “Mientras no exista cura para una enfermedad poco frecuente es fundamental al menos garantizar el acceso a un abordaje ter…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:43:52 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "@AngeMall Gracias por el piropo ☺️
+Pero no me considero un ejemplo, solo hago lo posible para visibilizar el síndrome de #ehlersdanlos, y por extensión todas las #EnfermedadesRaras 
+Eso sí, si lo que hago sirve para que haya más gente implicada en la causa, me alegro infinitamente 😃",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:45:12 +0000 2020",
+"name": "Lore_",
+"screen_name": "_lore_l",
+"text": "RT @RarasReales: “Mientras no exista cura para una enfermedad poco frecuente es fundamental al menos garantizar el acceso a un abordaje ter…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:46:27 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @DanieldVicente: Mi #FFpaciente para la incansable @maria5sentidos por su carisma y su gran trabajo día tras día para dar visibilidad a…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:46:59 +0000 2020",
+"name": "Pedro Soriano",
+"screen_name": "soriano_p",
+"text": "RT @AsmdSpain: Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #Enf…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 12:56:38 +0000 2020",
+"name": "eduscopi",
+"screen_name": "eduscopi",
+"text": "RT @JardindeMendel: Si conocéis a algún paciente/cuidador que conviva con una enfermedad rara podéis pasarle la info de esta jornada súper…",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:00:41 +0000 2020",
+"name": "Daniel Gutiérrez  Menéndez",
+"screen_name": "dagumeus07",
+"text": "RT @FASGAcentro: Vente con FASGA  a correr por la Esperanza.  ✍ Apúntate a la XI Carrera 🏃‍♀🏃‍♂ por la Esperanza con fasga💓social. Busca a…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 13:03:20 +0000 2020",
+"name": "Miguel Angel Moreno Pelayo",
+"screen_name": "MAMorenoPelayo",
+"text": "RT @RAREGenomicsCM: La Directora General de Investigación e Innovación Tecnológica @CastanoMluisa sobre RareGenomics: "Este proyecto es un…",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 13:16:12 +0000 2020",
+"name": "Maria Jose Salgado R",
+"screen_name": "mjsvrn",
+"text": "“Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero enfrentar mi vida”.
+
+Noah Higón @nh487, activista por las #EnfermedadesRaras, ha escrito «De qué dolor son tus ojos»
+https://t.co/gwQZ4g0JKZ",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:16:35 +0000 2020",
+"name": "Chus Martín Martínez",
+"screen_name": "ignachus",
+"text": "¿Te parece raro correr? Algunas enfermedades lo siguen siendo... 🏃
+«Carrera solidaria por la esperanza de las enfermedades raras» de @FEDER_ONG 👉 https://t.co/UOvxyxDqeE
+#EnfermedadesRaras https://t.co/ZnVugkG99R",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:16:47 +0000 2020",
+"name": "Chus Martín Martínez",
+"screen_name": "ignachus",
+"text": "Este 2020 va a ser especial. Va a tener un “día raro”. El 29 de Febrero. Y ese día, como cada último día de febrero, vamos a celebrar el Día Mundial de #EnfermedadesRaras para seguir dando visibilidad a la necesidad de investigación y al cuidado de los pacientes. https://t.co/nQiN7Rp65R",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:17:26 +0000 2020",
+"name": "Chus Martín Martínez",
+"screen_name": "ignachus",
+"text": "De la Mano del H. 12 de Octubre y de   @FEDER_ONG, Expression of Hope de @SanofiES @RarasReales llega a Madrid a repartir ESPERANZA!!! a todos los que ESPERAN un diagnóstico y un tratamiento, conviviendo con una Enfermedad Rara! #DM2020 #EnfermedadesRaras #somosFeder https://t.co/F1DUQSzx4U",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:20:55 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "P3 ¿De qué manera afecta tu enfermedad a tu día a día? ¿Y a tu trabajo, relaciones familiares, de pareja o amigos? 
+¿Hablas con los pacientes de las repercusiones de su enfermedad en el día a día? ¿Crees que es importante? #Cronichat #EnfermedadesRaras #FebreroRaro2020 #VendoOpel",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:22:46 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "“Mientras no exista cura para una enfermedad poco frecuente es fundamental al menos garantizar el acceso a un abordaje terapéutico que frene el avance y agravamiento de la patología”.
+
+Se dijo en la jornada sobre #EnfermedadesRaras en el SNS
+
+https://t.co/xYLvctl9im https://t.co/xfvlAtu9gm",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:23:50 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "R3. Si queréis saber más sobre el estado de situación de las #EnfermedadesRaras y su impacto desde la investigación social, contad con los informes de nuestro #Observatorio: https://t.co/6j7sZasAlW #Cronichat",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:24:31 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "R2: Le pido que no haya que matar a un unicornio cada vez que haya que pedirle un array a un niño. Con trastorno del espectro autista...  HAY QUE PEDIR ARRAY Y X-FRÁGIL, SIEMPRE. #Cronichat https://t.co/mvYXd57f1r",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:26:06 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "#FFpaciente para la iniciativa #FebreroRaro2020  y el conjunto de asociaciones que ayudan y visibilizan las necesidades de las personas con #EnfermedadesRaras @FEDER_ONG @RarasReales @NoInvisibles https://t.co/lrQR118IC8",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:27:46 +0000 2020",
+"name": "Beatriz Valero",
+"screen_name": "Valero_Bea",
+"text": "¡Ya está aquí! Lanzamos nuestra campaña por el Día Mundial de las #EnfermedadesRaras 'Crecer contigo, nuestra esperanza' #SomosFEDER  https://t.co/QFp519MPph https://t.co/Kii0owhkKE",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:36:09 +0000 2020",
+"name": "Lucia Banyuls",
+"screen_name": "LuciaBanyuls",
+"text": "👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Investigadoras en #EnfermedadesRaras - #EERR" que organiza el @CIPFciencia. @ERdivulga 
+📋Programa https://t.co/ZJlCp1efzf
+🖋️Inscripciones: https://t.co/62PC9Ixr57 https://t.co/ZmSgwgPqjv",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:37:24 +0000 2020",
+"name": "Fac. Medicina UV",
+"screen_name": "medicina_uv",
+"text": "Si el día 28 de febrero andan por #Castellón, celebraremos el #díamundial de las #EnfermedadesRaras y al menda le ha tocado contar todo lo que se investiga en la @UV_EG y @incliva_iis https://t.co/Cmq9U83qjj",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:42:37 +0000 2020",
+"name": "FQ Andalucía",
+"screen_name": "FQ_Andalucia",
+"text": "¡Ya está disponible nuestra página web oficial por el Día Mundial del las #enfermedadesraras ! Puedes acceder a través de: https://t.co/ueVyU2kcpf #somosFEDER #DM2020 https://t.co/K4SUrPMUvM",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:47:15 +0000 2020",
+"name": "Jorge Garrido",
+"screen_name": "JorgeArctos",
+"text": "¡Estoy tan agradecida a @Sci_Granada por haber conocido a personas como @maria5sentidos!
+Os dije el otro día que el proyecto no lo habían concedido, verdad?
+Pues vamos a volver a pedir otro! Aquí no paramos!
+#acondroplasia
+#EnfermedadesRaras 
+#FebreroRaro2020",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:48:51 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "Desde @anisalud Aragón, nuestro compañero Adrián Matute, con las #enfermedadesraras para conocer el proyecto #wikiER13 ¡Gracias a @mercadodel13 por invitarnos!",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 13:54:57 +0000 2020",
+"name": "Wolf-Hirschhorn",
+"screen_name": "AESWH",
+"text": "¡Hemos estrenado página web oficial por el Día Mundial de las #EnfermedadesRaras ! Descubrela entrando en https://t.co/ueVyU2kcpf #somosFEDER #DM2020 https://t.co/V1mJwoNpsA",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:03:29 +0000 2020",
+"name": "Don pimpóm",
+"screen_name": "donpimpom3",
+"text": "Sentencia del Juzgado de lo Social de Toledo de incapacidad permanente absoluta por Fibromialgia y Síndrome de Fatiga crónica
+#fibromialgia #Fibromyalgia #SFC #incapacidad #Salud #EnfermedadesRaras #Enfermedades #trabajadores #Pensiones #Toledo 
+https://t.co/7OTy3Xw4Be https://t.co/3LAcHplwpG",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:04:49 +0000 2020",
+"name": "Colegio de Alpartir",
+"screen_name": "cpalpartir",
+"text": "Nuestro #FFpaciente y #GRACIAS para escolares, niños y personas afectadas por una #ER, docentes, médicos, investigadores y más profesionales que han puesto en marcha el proyecto colaborativo #wikiER13 para visibilizar las #enfermedadesraras y apoyar la #investrigación https://t.co/gdhhsvDRy6",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:09:57 +0000 2020",
+"name": "Latiendaroja",
+"screen_name": "Latiendaroja1",
+"text": "Querida familia, os invito a que participéis en la iniciativa de @quistestarlov y su hashtag #FebreroRaro2020⚡️Más Inversión e #investigación en #EnfermedadesRaras⚡️#QuistesTarlov #FFpaciente  Si le enviais una foto con el pulgar arriba a @anajosebb os hace esta creatividad 💙😘 https://t.co/r5hb4r6NLl",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:22:02 +0000 2020",
+"name": "Radostin Stefanov",
+"screen_name": "RadosRds",
+"text": "Sentencia del Juzgado de lo Social de Toledo de incapacidad permanente absoluta por Fibromialgia y Síndrome de Fatiga crónica
+#fibromialgia #Fibromyalgia #SFC #incapacidad #Salud #EnfermedadesRaras #Enfermedades #trabajadores #Pensiones #Toledo 
+https://t.co/7OTy3Xw4Be https://t.co/3LAcHplwpG",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:38:43 +0000 2020",
+"name": "Laura de Esteban",
+"screen_name": "Larala311",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:39:16 +0000 2020",
+"name": "GEORGY MEZARD ALEVA",
+"screen_name": "GEORGYSOY",
+"text": "🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso...
+
+➕VISIBILiDAD
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR #CroniChat #FFPaciente #másvisibles https://t.co/POCyOcsIe5",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:43:30 +0000 2020",
+"name": "PARAPARESIA ESPASTIC",
+"screen_name": "APEFCYL",
+"text": "📣 Se acerca el Día Internacional de las Enfermedades Raras!! ✋🏼#29febrero🤚🏾⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Con el lema “somos más de 300 millones”, arranca la campaña 2020 apoyada por cientos de entidades en todo el mundo de #EnfermedadesRaras.
+
+Súmate a #RareDiseaseDay https://t.co/N3gB9Xn1dW",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:46:31 +0000 2020",
+"name": "Paul Dumitru Andrei",
+"screen_name": "andrei_paul",
+"text": "“Mientras no exista cura para una enfermedad poco frecuente es fundamental al menos garantizar el acceso a un abordaje terapéutico que frene el avance y agravamiento de la patología”.
+
+Se dijo en la jornada sobre #EnfermedadesRaras en el SNS
+
+https://t.co/xYLvctl9im https://t.co/xfvlAtu9gm",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:50:12 +0000 2020",
+"name": "Qbcn",
+"screen_name": "Qbcn2016",
+"text": "Last Tweet to promote the Rare Disease World Day !
+Remember to give support !
+29/02/2020
+
+#DiaMundialEnfermedadesRaras
+#somosFEDER
+#EnfermedadesRaras 
+#EERR",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:50:34 +0000 2020",
+"name": "mujerysalud",
+"screen_name": "MujerysaludEs",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:53:15 +0000 2020",
+"name": "👁‍🗨🔔 Miguel Morales😎",
+"screen_name": "ArmamaterChile",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 14:56:39 +0000 2020",
+"name": "Dory Rosado",
+"screen_name": "DORYRORO2",
+"text": "Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️ Me sumo a la campaña de @quistestarlov para conseguir...
+
+➕VISIBILiDAD
+➕ INVESTIGACIÓN 
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR 
+#EnfermedadesRaras https://t.co/JNi9ZfCVPo",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:00:31 +0000 2020",
+"name": "BeatrizGomezGonzalez",
+"screen_name": "beatriz_gomezg",
+"text": "‼️Faltan 15 días para celebrar el Día Mundial de las #EnfermedadesRaras‼️
+Organizamos nuestro #VIIIEncuentroNacionalER en @CentroCREER @Imserso
+Programa actualizado en nuestra web⬇️⬇️⬇️
+https://t.co/mpKiPoIjbx
+#DíaMundialEnfermedadesRaras #HazlasVisibles #EncuentrosCREER https://t.co/2a5z95WtnJ",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:00:48 +0000 2020",
+"name": "Qbcn",
+"screen_name": "Qbcn2016",
+"text": "Recuerda !!
+Este mes se celebra el día mundial de las enfermedades raras !!
+Colabora con las entidades que ayudan a los que las sufren.
+
+#enfermedadesraras #diamundialenfermedadesraras #EERR
+-------------------------------------------------------------------------
+ñ{}[]¨ $%&amp;/()=?",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:04:02 +0000 2020",
+"name": "Edgar Buloz, MD MBA MNRH",
+"screen_name": "ebuloz",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:06:26 +0000 2020",
+"name": "Silvia #FebreroRaro2020",
+"screen_name": "silviaginies",
+"text": "y mi tercer #ffpaciente del día para @maria5sentidos y @anajosebb, por todo el trabajo que hacen por las #EnfermedadesRaras y porque son unas buenísimas personas",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:10:33 +0000 2020",
+"name": "RTSanidad",
+"screen_name": "RT_Sanidad",
+"text": "P4 ¿Qué opinas del estado de la investigación clínica sobre Enfermedades Raras? 
+¿Tienes información sobre ella? 
+¿Sabes dónde obtenerla?
+#Cronichat #EnfermedadesRaras #FebreroRaro2020 https://t.co/wRP386pf0H",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:11:33 +0000 2020",
+"name": "Pacientesquecuentan",
+"screen_name": "pacienteqcuenta",
+"text": "Ayer jueves 13,  se habló en #Cronichat de la importancia q tiene el diagnóstico para el paciente
+
+Le da seguridad, confianza, le ayuda a quitarse etiquetas como "loco" o " exagerado"
+
+Por fin, sabes a lo q te enfrentas
+
+#pacientesquecuentan 
+#SiempreAdelante",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:18:44 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:25:08 +0000 2020",
+"name": "sandra",
+"screen_name": "scabrelles",
+"text": "Efectivamente, muchas CC 💔 están asociaciadas a #EnfermedadesRaras como el #sindrome22q entre otros. Todavía hacen falta protocolos en la Sanidad española para dar diagnósticos Genéticos para el origen Cardiopatías Congénitas aisladas. Hoy #14Feb #DíaCardiopatíasCongénitas 💖",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:28:12 +0000 2020",
+"name": "Bego",
+"screen_name": "unamamaconcrohn",
+"text": "Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️ Me sumo a la campaña de @quistestarlov para conseguir...
+
+➕VISIBILiDAD
+➕ INVESTIGACIÓN 
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR 
+#EnfermedadesRaras https://t.co/JNi9ZfCVPo",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:32:59 +0000 2020",
+"name": "jose antonio",
+"screen_name": "akanawaska",
+"text": "R1. a @No_invisibles
+Pacientes y familiares entre muchas
+@ReMPS_ (distrofias musculares)
+@Fundacionoelia
+@petrelrett (síndrome de Ret)
+@guerreropurpura
+@GA1Familia
+@FundacionQuerer
+@StopSanfilippo
+@mapeav75 
+#Cronichat
+#FFpaciente
+#pacientesquecuentan
+#EnfermedadesRaras https://t.co/zkUlGZYitM",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:37:31 +0000 2020",
+"name": "Dr. Litos",
+"screen_name": "DrLitos",
+"text": "👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Investigadoras en #EnfermedadesRaras - #EERR" que organiza el @CIPFciencia. @ERdivulga 
+📋Programa https://t.co/ZJlCp1efzf
+🖋️Inscripciones: https://t.co/62PC9Ixr57 https://t.co/ZmSgwgPqjv",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:41:04 +0000 2020",
+"name": "Olga Cuadrado Glez",
+"screen_name": "olga_josemamuel",
+"text": "☕️🧪El Centro Paleo Magina recibe un #Caféconciencia sobre #salud
+
+☕️👩‍🔬El investigador Francisco José Esteban aborda las #EnfermedadesRaras con alumnos, tratando la #epilepsia epilepsia infantil y el síndrome STXBP1
+
+Descúbrelo👉 https://t.co/TAIzNZuAPg
+
+#AndalucíaCiencia https://t.co/ITDZo0gCp7",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:45:43 +0000 2020",
+"name": "Translational Bioinformatics Lab",
+"screen_name": "TranslationalB1",
+"text": "La Directora General de Investigación e Innovación Tecnológica @CastanoMluisa sobre RareGenomics: "Este proyecto es un orgullo". 
+Muchas gracias por el apoyo a nuestro trabajo en el estudio de #EnfermedadesRaras @ComunidadMadrid https://t.co/RJOpHf4qF0",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:47:01 +0000 2020",
+"name": "Carmen Gonzalez",
+"screen_name": "Carmencitagon48",
+"text": "Hay más de 300 millones de personas en el mundo relacionadas con las #EnfermedadesRaras, entre pacientes, familias, amigos y cuidadores. Las enfermedades raras forman una gran comunidad, y en #Takeda tenemos un gran compromiso con su investigación #FebreroRaro2020 https://t.co/kRIvLLJizX",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 15:57:49 +0000 2020",
+"name": "Belén Jurado",
+"screen_name": "DeAutismo",
+"text": "Mi #FFpaciente para la incansable @maria5sentidos por su carisma y su gran trabajo día tras día para dar visibilidad a las #EnfermedadesRaras.",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:04:04 +0000 2020",
+"name": "Beatriz Cordero",
+"screen_name": "Bettylammkraus",
+"text": "Si conocéis a algún paciente/cuidador que conviva con una enfermedad rara podéis pasarle la info de esta jornada súper interesante que celebraremos el día 21 en #Barcelona.
+
+¿Me ayudáis a que se difunda? Os lo agradeceré mucho ❤️ #EnfermedadesRaras 
+https://t.co/W5bRpQGlaV",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:05:07 +0000 2020",
+"name": "Maite Padilla📢#CRONICHAT #FIBROMIALGIA #DOLOR",
+"screen_name": "danzando_mp",
+"text": "Conoces el Servicio de Atención Psicológica de @FEDER_ONG 
+
+#366DiasdeEERR #masvisibles 
+#FebreroRaro2020 
+
+El  servicio de Atención Psicológica tiene como objetivo fomentar la normalización biopsicosocial y la inclusión de las personas con #EnfermedadesRaras  y sus familias.",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:07:41 +0000 2020",
+"name": "Arantxa Sáez Sánchez",
+"screen_name": "saezatxa",
+"text": "Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #EnfermedadesRaras https://t.co/m6P2qkFm62",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:12:33 +0000 2020",
+"name": "Elena Miranda",
+"screen_name": "enamir11",
+"text": "Nuestro #FFpaciente y #GRACIAS para escolares, niños y personas afectadas por una #ER, docentes, médicos, investigadores y más profesionales que han puesto en marcha el proyecto colaborativo #wikiER13 para visibilizar las #enfermedadesraras y apoyar la #investrigación https://t.co/gdhhsvDRy6",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:15:14 +0000 2020",
+"name": "lourdes",
+"screen_name": "lourdes_pavo",
+"text": "R4. La #investigación, única opción. El colectivo de #EnfermedadesRaras es uno de los promotores principales de la investigación: en los últimos 5 años, identificamos 328 proyectos de investigación apoyados por el tejido asociativo con más de 3 millones de euros. #cronichat",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:21:34 +0000 2020",
+"name": "Tuly Briones",
+"screen_name": "tuly_briones",
+"text": "Promover las voces de los pacientes para su atención en entornos de los servicios de salud pública es una prioridad no una política La Salud, para un derecho de vida, no es política pública, es un derecho. #EnfermedadesRaras #RareDiseaseDay #FebreroRaro2020 #EERR #EnfermedadRara https://t.co/YOoU3gtthJ",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:22:15 +0000 2020",
+"name": "AC",
+"screen_name": "acerezomoreno",
+"text": "Promover las voces de los pacientes para su atención en entornos de los servicios de salud pública es una prioridad no una política La Salud, para un derecho de vida, no es política pública, es un derecho. #EnfermedadesRaras #RareDiseaseDay #FebreroRaro2020 #EERR #EnfermedadRara https://t.co/YOoU3gtthJ",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:35:47 +0000 2020",
+"name": "Lola Aviñó",
+"screen_name": "LOLA_Avi",
+"text": "👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Investigadoras en #EnfermedadesRaras - #EERR" que organiza el @CIPFciencia. @ERdivulga 
+📋Programa https://t.co/ZJlCp1efzf
+🖋️Inscripciones: https://t.co/62PC9Ixr57 https://t.co/ZmSgwgPqjv",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:38:03 +0000 2020",
+"name": "APICEC",
+"screen_name": "APICEC1",
+"text": "👩‍⚕️ La Dra. Silvia Castillo, neumopediatra del @GVAclinic e investigadora de @incliva_iis, participa en la "V Jornada Investigadoras en #EnfermedadesRaras - #EERR" que organiza el @CIPFciencia. @ERdivulga 
+📋Programa https://t.co/ZJlCp1efzf
+🖋️Inscripciones: https://t.co/62PC9Ixr57 https://t.co/ZmSgwgPqjv",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:40:15 +0000 2020",
+"name": "♫ Jessi ♫",
+"screen_name": "JsKGabriela",
+"text": "R2. Todo #Cronichat coincide: #Diagnóstico y #Tratamiento continúan siendo los principales problemas de las personas con #EnfermedadesRaras. Los datos del #EstudioENSERio que hemos publicado junto al @CentroCREER: https://t.co/YszkBfUfkm",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:44:35 +0000 2020",
+"name": "Zetti SRL",
+"screen_name": "ZettiSRL",
+"text": "Arranca @Cronichats #EERR en #366diasdeEERR de #FebreroRaro2020 y por  #Por20RazonesEERR
+P1 ¿Puedes recomendarnos alguna cuenta en Twitter de paciente, profesional de la salud, asociación, perfil institucional... centrada en las #EnfermedadesRaras?
+Contesta con R1 #Cronichat 👍 https://t.co/5NKOSYbT9v",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:47:19 +0000 2020",
+"name": "Y de verdad tienes 3 💚💙",
+"screen_name": "deverdadtienes3",
+"text": "Conoces el Servicio de Atención Psicológica de @FEDER_ONG 
+
+#366DiasdeEERR #masvisibles 
+#FebreroRaro2020 
+
+El  servicio de Atención Psicológica tiene como objetivo fomentar la normalización biopsicosocial y la inclusión de las personas con #EnfermedadesRaras  y sus familias.",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:50:20 +0000 2020",
+"name": "Antoni Montserrat Moliner",
+"screen_name": "ToniMontserratM",
+"text": "Presentación de investigaciones de vanguardia, intercambio de ideas y discusión sobre políticas de investigación de #EnfermedadesRaras. Pacientes y #OrganizacionesDePacientes compartirán también sus experiencias y perspectivas.
+
+🏙️Berlín 📅11-14 marzo
+
+https://t.co/KKJSMRBn5s https://t.co/Y2DZ6coCwW",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:52:06 +0000 2020",
+"name": "Monica",
+"screen_name": "Monicayelephant",
+"text": "Mi #FFpaciente para la incansable @maria5sentidos por su carisma y su gran trabajo día tras día para dar visibilidad a las #EnfermedadesRaras.",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:52:08 +0000 2020",
+"name": "Antoni Montserrat Moliner",
+"screen_name": "ToniMontserratM",
+"text": "Una mayoría de #EnfermedadesRaras son crónicas y degenerativas y, por tanto, invalidantes. +70% de las personas con estas patologías posee el certificado de discapacidad. 44% necesitan de ayuda en actividades de vida doméstica, 42% para desplazamientos.
+
+https://t.co/f3NTg2XdPV https://t.co/bS470Rlptz",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 16:59:01 +0000 2020",
+"name": "Maite Moral",
+"screen_name": "matermona",
+"text": "Mañana sábado os esperamos en la plaza del Icue de Cartagena. @dgenesmurcia instalará de 11:00 a 14:00 horas una mesa informativa sobre #EnfermedadesRaras. Esta actividad se enmarca en los actos organizados por el Día Mundial de las #EERR que se conmemora el 29 de febrero https://t.co/iSWPpDPrTk",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 17:00:55 +0000 2020",
+"name": "Lia Ruesta",
+"screen_name": "lia_bea",
+"text": "Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #EnfermedadesRaras https://t.co/m6P2qkFm62",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 17:01:37 +0000 2020",
+"name": "RETIMUR",
+"screen_name": "RetimurMurcia",
+"text": "La Fundación @la_marato de TV3 abre el plazo para la presentación de proyectos de investigación biomédica de excelencia sobre enfermedades minoritarias. #Enfermedadesraras
+       🗓️ Plazo: hasta el 13 de marzo de 2020.
+https://t.co/FhpgPZsQv3 https://t.co/UvlsNLjPlY",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 17:03:27 +0000 2020",
+"name": "Gloria Martinez 💚💙",
+"screen_name": "gloriamadrid",
+"text": "Conoces el Servicio de Atención Psicológica de @FEDER_ONG 
+
+#366DiasdeEERR #masvisibles 
+#FebreroRaro2020 
+
+El  servicio de Atención Psicológica tiene como objetivo fomentar la normalización biopsicosocial y la inclusión de las personas con #EnfermedadesRaras  y sus familias.",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 17:07:29 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "La Fundación @la_marato de TV3 abre el plazo para la presentación de proyectos de investigación biomédica de excelencia sobre enfermedades minoritarias. #Enfermedadesraras
+       🗓️ Plazo: hasta el 13 de marzo de 2020.
+https://t.co/FhpgPZsQv3 https://t.co/UvlsNLjPlY",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:02:09 +0000 2020",
+"name": "Biosíntesis podcast",
+"screen_name": "bio_sintesis",
+"text": "La Fundación @la_marato de TV3 abre el plazo para la presentación de proyectos de investigación biomédica de excelencia sobre enfermedades minoritarias. #Enfermedadesraras
+       🗓️ Plazo: hasta el 13 de marzo de 2020.
+https://t.co/FhpgPZsQv3 https://t.co/UvlsNLjPlY",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:10:33 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "“Las ‘tijeras moleculares’ para corregir el ADN pueden servir en un futuro para curar #EnfermedadesRaras de base genética, pero hay que ser honesto y decir que su aplicación biomédica todavía no es una realidad”
+
+Lluis Montoliu, investigador en CIBERER
+https://t.co/Cm25EjfgeQ",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:11:33 +0000 2020",
+"name": "Ana José Bravo #FebreroRaro2020",
+"screen_name": "anajosebb",
+"text": "Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. ¡¡Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️ Me sumo a la campaña de @quistestarlov para conseguir...
+
+➕VISIBILiDAD
+➕ INVESTIGACIÓN 
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR 
+#EnfermedadesRaras https://t.co/Z2I06kdTl4",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:11:38 +0000 2020",
+"name": "ASMES",
+"screen_name": "ASMES2016",
+"text": "R4. La #investigación, única opción. El colectivo de #EnfermedadesRaras es uno de los promotores principales de la investigación: en los últimos 5 años, identificamos 328 proyectos de investigación apoyados por el tejido asociativo con más de 3 millones de euros. #cronichat",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:18:07 +0000 2020",
+"name": "AAVVSanBasilioMurcia",
+"screen_name": "AAVVSanBasilio",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:19:06 +0000 2020",
+"name": "Rosi#porfirianoessolonombredemujer",
+"screen_name": "Rosi08269300",
+"text": "Mi #ffpaciete es para mi gran compañera @Rosi08269300, guerrera y contagiadora de sonrisa, porque #porfiriaNoEsSoloNombreDeMujer 
+y no vas a parar de gritarlo.
+La #porfiria existe.
+#EnfermedadesRaras #visibilidad https://t.co/5If4BOwrPk",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:45:00 +0000 2020",
+"name": "Richard Cañabate ®",
+"screen_name": "richardcanabate",
+"text": "Después del #CroniChat @Cronichats de ayer he tenido que crear una lista de #EnfermedadesRaras en #Twitter
+
+https://t.co/Szd9WebwlG",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 18:54:58 +0000 2020",
+"name": "Manu Pompe",
+"screen_name": "Aguazulpompe",
+"text": "Esta mañana ha tenido lugar en Madrid la rueda de prensa de @FEDER_ONG para presentar la campaña por el Día Mundial de las #EnfermedadesRaras 'Crecer contigo, nuestra esperanza'.",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 18:56:37 +0000 2020",
+"name": "Manu Pompe",
+"screen_name": "Aguazulpompe",
+"text": "Este año el #DiaMundialEnfermedadesRaras quiere poner en valor el trabajo realizado por el #MovimientoAsociativo.
+
+Por eso, @FEDER_ONG quiere dar visibilidad a testimonios de entidades miembro que ejemplifiquen este objetivo ¿les ayudas?
+
+https://t.co/oREs0z3mVw https://t.co/tkAK5IkiYK",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 18:59:04 +0000 2020",
+"name": "Manu Pompe",
+"screen_name": "Aguazulpompe",
+"text": "Acompañamos a @FEDER_ONG en la #RuedaDePrensa de la campaña por el #DíaMundialDeLasEnfermedadesRaras "Crecer contigo,   nuestra esperanza"con el énfasis en tres ámbitos
+#Investigación #Equidad
+#ServiciosEspecializados
+Poniendo en valor el #MovimientoAsociativo
+#SomosFEDER #DM2020 https://t.co/nzopT3ymzc",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:04:20 +0000 2020",
+"name": "Dani Acevedo",
+"screen_name": "DanielAcevedo",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:08:08 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/nIssbMF5Np Gracias a @AESWH @asociacionasic @dasiar69 #enfermedadesraras #díacardiopatíascongénitas",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:12:15 +0000 2020",
+"name": "Raquel Piqueras",
+"screen_name": "RaquelPiquerasM",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:16:06 +0000 2020",
+"name": "Enlace Distrofia Muscular A.C.",
+"screen_name": "EnlaceDMDB",
+"text": "Les compartimos la nueva página de la Alianza Nacional por las Enfermedades Raras por el Día Mundial de las #EnfermedadesRaras. 
+https://t.co/FxEDnxf8sH
+#YoSoyEnlace 💚 #Chihuahua 
+#DistrofiaMuscular",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:22:45 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "Nuestro #FFpaciente para @FEDER_ONG una vez más por su ayuda y apoyo al movimiento asociativo. #somosFEDER #masvisibles #EnfermedadesRaras https://t.co/m6P2qkFm62",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:29:40 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "#FFpaciente
+#FebreroRaro2020
+
+Más #investigación e #inversión en #EnfermedadesRaras
+
+#GirasolesTQ
+#QuistesTarlov",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 19:35:30 +0000 2020",
+"name": "FENPOF CHILE 🇨🇱",
+"screen_name": "fenpofChile",
+"text": "@emequijada @fenpofChile @CamaraDiputados @rarediseaseday @mercadodel13 @lun @diarioestrella @genotipia @Colaboratech_ @eurordis @saludconlupa @FONASA Ver esta realidad y cómo afecta a la vida de millones de personas en el mundo es clave para visibilizar las #enfermedadesraras. A nuestra manera, lo hacemos, y mucha gente desde otros ámbitos. Si sabemos que existen... todos podemos hacer. Mucho ánimo y fuerza #visibilidadER",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:40:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Una variante de #Fabry, “#EnfermedadDeFabry de presentación tardía” no presenta síntomas iniciales en adolescencia y juventud pero desarrolla padecimiento de corazón o riñón en 4ª o 5ª década de la vida. Es + difícil de diagnosticar.
+
+https://t.co/LYmxXS9G9Y",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:58:29 +0000 2020",
+"name": "Victoria Lopez",
+"screen_name": "Astury32",
+"text": "Mi #ffpaciete es para mi gran compañera @Rosi08269300, guerrera y contagiadora de sonrisa, porque #porfiriaNoEsSoloNombreDeMujer 
+y no vas a parar de gritarlo.
+La #porfiria existe.
+#EnfermedadesRaras #visibilidad https://t.co/5If4BOwrPk",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 19:58:48 +0000 2020",
+"name": "Cristina Montserrat",
+"screen_name": "Crismon1007",
+"text": "R3. Las #EnfermedadesRaras son, en su mayoría, crónicas y degenerativas. Todo ello, requiere una atención
+especializada que frene el avance y agravamiento de la enfermedad, además de un gran impacto en la vida de la persona y su núcleo familiar. #Cronichat",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:02:19 +0000 2020",
+"name": "Roberto Lopez De Cas",
+"screen_name": "Rolodecas",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:03:36 +0000 2020",
+"name": "Mercedes Araujo",
+"screen_name": "MercedesArCal",
+"text": "Buscar #FebreroRaro2020 y encontraréis lo que @quistestarlov está consiguiendo. Mi #FFPaciente es para ese equipazo!!  💋
+
+🙋‍♂️ Me sumo a la campaña de @quistestarlov para conseguir...
+
+➕VISIBILiDAD
+➕ INVESTIGACIÓN 
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR 
+#EnfermedadesRaras https://t.co/JNi9ZfCVPo",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:40:24 +0000 2020",
+"name": "Eliana Ortiz",
+"screen_name": "Eliana_org",
+"text": "Oportunidad: A un tratamiento y diagnostico oportuno, atencion integral multidisciplinar, a una educacion inclusiva, a una vida digna es lo que requieren los niños con #EnfermedadesRaras - huerfanas en Colombia @colombiaccesibl @MinSaludCol  @GeneticaPUJ @MargaritaRepo @Fecoer",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 20:42:41 +0000 2020",
+"name": "Fundación Querer",
+"screen_name": "FundacionQuerer",
+"text": "R1. a @No_invisibles
+Pacientes y familiares entre muchas
+@ReMPS_ (distrofias musculares)
+@Fundacionoelia
+@petrelrett (síndrome de Ret)
+@guerreropurpura
+@GA1Familia
+@FundacionQuerer
+@StopSanfilippo
+@mapeav75 
+#Cronichat
+#FFpaciente
+#pacientesquecuentan
+#EnfermedadesRaras https://t.co/zkUlGZYitM",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:46:33 +0000 2020",
+"name": "Elwis Durán",
+"screen_name": "narude03",
+"text": "Promover las voces de los pacientes para su atención en entornos de los servicios de salud pública es una prioridad no una política La Salud, para un derecho de vida, no es política pública, es un derecho. #EnfermedadesRaras #RareDiseaseDay #FebreroRaro2020 #EERR #EnfermedadRara https://t.co/YOoU3gtthJ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:46:36 +0000 2020",
+"name": "MariaCasal",
+"screen_name": "MariaCasalM",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:47:20 +0000 2020",
+"name": "Leo📚🖋#Por20RazonesEERR",
+"screen_name": "leo_veritas",
+"text": "De aquí al próximo 29/02/2020 escribamos 20 razones por la 👀 e #investigación en #EnfermedadesRaras
+1️⃣4️⃣ Para que siga ⬆️ la esperanza de vida de todos los pacientes. Por ej. con enfermedades neuromusculares.
+#Por20RazonesEERR.
+#pacientesquecuentan.
+https://t.co/qzBuVLWUkp",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:47:25 +0000 2020",
+"name": "Sayago Ayuso",
+"screen_name": "SayagoAyuso",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:47:37 +0000 2020",
+"name": "JafgAQT ن",
+"screen_name": "jafgaqt",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 20:51:44 +0000 2020",
+"name": "Castán",
+"screen_name": "mdcastan",
+"text": "Hola!! @luzgbv @MariaCasalM @lucia_villalon @LuciaCampo @RaquelPiquerasM @SayagoAyuso @JaviNieves @javillanoabril @DanielAcevedo @ExpositoCOPE ¿Nos ayudáis con un RT a @pazugalde y a mi? 🙏🏻 ¡¡Por una buena causa!! #EnfermedadesRaras #SindromeDeRett",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:01:33 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Madrid acogerá el 1 de marzo la XI Carrera por la Esperanza @FEDER_ONG en favor de las personas con #EnfermedadesRaras
+
+🏃‍♀️🏃  10 o 5 km
+🧒👦 Diversas distancias según edad
+
+Y música, sorteo solidario, actividades para toda la familia ..
+
++info
+https://t.co/FQptvRoq6H https://t.co/bG2uPXH0e3",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:06:11 +0000 2020",
+"name": "Borja Centenera",
+"screen_name": "Borja_Centenera",
+"text": "Hola! Nos ayudáis a difundir? 🙏🏻 por la investigación del #SindromeDeRett  #EnfermedadesRaras 
+
+@HildegartGlez @PostigoElena @sergiosayas @Ignacio_Uria @Enfermera_Madri @enfermeratweet @EnfrmraSaturada @JoseLuisReal @jlguzman2 @JCimarro",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 21:15:46 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "@mercadodel13 @IISAragon @pinzarol @juandelanuza @agenciaimasc @cris_mingarro @rrlaweb @colegiosansu @cpalpartir @csachezro @enamir11 ¡Enhorabuena por ese proyecto #wikiER13! Y GRACIAS por toda la visibilidad a las #EnfermedadesRaras 👏👏 #FFPaciente",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:20:31 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "“Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero enfrentar mi vida”.
+
+Noah Higón @nh487, activista por las #EnfermedadesRaras, ha escrito «De qué dolor son tus ojos»
+https://t.co/gwQZ4g0JKZ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:22:06 +0000 2020",
+"name": "FEGEREC",
+"screen_name": "FEGEREC",
+"text": "Alba Ancochea, ha advertido que en la mitad de los casos los pacientes aún tardan 4 años en ser diagnosticados y solo existe tratamiento para el 5 % de todas las enfermedades raras 👏👏👏
+#enfermedadesraras #investigacion
+
+https://t.co/E4kTPtc6xU",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:27:18 +0000 2020",
+"name": "Ninalaguerrera.org",
+"screen_name": "NinalaguerreraO",
+"text": "R2. a @Charo_79
+¿Está preparado?
+Indicar que el 70% de la búsqueda se financia en donativos de telemaratones o campañas de las propias familias afectadas por #EnfermedadesRaras (@NinalaguerreraO o @AngelaTourette
+#Cronichat
+#FFpaciente
+#pacientesquecuentan
+https://t.co/lCLIk5kTNK",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:35:00 +0000 2020",
+"name": "Enric M Garcia",
+"screen_name": "m_enricgl",
+"text": "“Las ‘tijeras moleculares’ para corregir el ADN pueden servir en un futuro para curar #EnfermedadesRaras de base genética, pero hay que ser honesto y decir que su aplicación biomédica todavía no es una realidad”
+
+Lluis Montoliu, investigador en CIBERER
+https://t.co/Cm25EjfgeQ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:38:14 +0000 2020",
+"name": "Pacientesquecuentan",
+"screen_name": "pacienteqcuenta",
+"text": "De aquí al próximo 29/02/2020 escribamos 20 razones por la 👀 e #investigación en #EnfermedadesRaras
+1️⃣4️⃣ Para que siga ⬆️ la esperanza de vida de todos los pacientes. Por ej. con enfermedades neuromusculares.
+#Por20RazonesEERR.
+#pacientesquecuentan.
+https://t.co/qzBuVLWUkp",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 21:39:54 +0000 2020",
+"name": "Una sufridora más",
+"screen_name": "1asufridoramas",
+"text": "De aquí al próximo 29/02/2020 escribamos 20 razones por la 👀 e #investigación en #EnfermedadesRaras
+1️⃣4️⃣ Para que siga ⬆️ la esperanza de vida de todos los pacientes. Por ej. con enfermedades neuromusculares.
+#Por20RazonesEERR.
+#pacientesquecuentan.
+https://t.co/qzBuVLWUkp",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:01:37 +0000 2020",
+"name": "Alejandro Arranz",
+"screen_name": "alarranz",
+"text": "Un placer acompañaros. Estais haciendo un gran trabajo",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 22:03:23 +0000 2020",
+"name": "Rafael Vázquez Manrique",
+"screen_name": "monkeyplatillos",
+"text": "“Yo no elijo ponerme goteros, operarme o tener visitas médicas todas las semanas, pero sí elijo la manera en la que quiero enfrentar mi vida”.
+
+Noah Higón @nh487, activista por las #EnfermedadesRaras, ha escrito «De qué dolor son tus ojos»
+https://t.co/gwQZ4g0JKZ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:07:50 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "🙋‍♂️ Me sumo a la campaña #FebreroRaro2020 de @quistestarlov para apoyar la investigación de las #EnfermedadesRaras y de paso...
+
+➕VISIBILiDAD
+➕CONCIENCIACIÓN
+➕APOYO
+
+#366diasdeEERR #CroniChat #FFPaciente #másvisibles https://t.co/POCyOcsIe5",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:09:42 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "Madrid acogerá el 1 de marzo la XI Carrera por la Esperanza @FEDER_ONG en favor de las personas con #EnfermedadesRaras
+
+🏃‍♀️🏃  10 o 5 km
+🧒👦 Diversas distancias según edad
+
+Y música, sorteo solidario, actividades para toda la familia ..
+
++info
+https://t.co/FQptvRoq6H https://t.co/bG2uPXH0e3",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:11:06 +0000 2020",
+"name": "María Isabel",
+"screen_name": "m_isabelbf",
+"text": "“En #EnfermedadesRaras falta que sean los organismos oficiales los que le pongan fácil al paciente acudir a un centro con experiencia en el manejo y tratamiento de su enfermedad. Muchos solo encuentran trabas hasta conseguir ser derivados”
+https://t.co/m9Y5IY8Uma",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:12:43 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "Conoces el Servicio de Atención Psicológica de @FEDER_ONG 
+
+#366DiasdeEERR #masvisibles 
+#FebreroRaro2020 
+
+El  servicio de Atención Psicológica tiene como objetivo fomentar la normalización biopsicosocial y la inclusión de las personas con #EnfermedadesRaras  y sus familias.",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:26:23 +0000 2020",
+"name": "Vicky 💜💜💜",
+"screen_name": "VRedorat",
+"text": "#EnfermedadesRaras
+
+Es necesaria la definición de actuaciones en el procedimiento de toma de decisión para tratar a un paciente afectado por una enfermedad poco frecuente, independientemente de la CCAA.
+
+En decálogo @aelmhu sobre #MedicamentosHuérfanos
+https://t.co/xDUjwrzuyx https://t.co/G5BJfbbbeM",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:26:54 +0000 2020",
+"name": "Belén Sabanza ن",
+"screen_name": "bsabanza",
+"text": "¡Por ellas!",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 22:28:02 +0000 2020",
+"name": "Elena Postigo",
+"screen_name": "PostigoElena",
+"text": "Hola! Nos ayudáis a difundir? 🙏🏻 por la investigación del #SindromeDeRett  #EnfermedadesRaras 
+
+@HildegartGlez @PostigoElena @sergiosayas @Ignacio_Uria @Enfermera_Madri @enfermeratweet @EnfrmraSaturada @JoseLuisReal @jlguzman2 @JCimarro",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 22:30:00 +0000 2020",
+"name": "AFIDRO",
+"screen_name": "afidro_colombia",
+"text": "✅ #DatoDelDía 👉 Las #EnfermedadesRaras son enfermedades potencialmente mortales, o debilitantes a largo plazo, de baja prevalencia y alto nivel de complejidad. 🙋🏽‍♂ ¡La oportunidad está en el diagnóstico oportuno! 🙋🏽#2020InclusiónEH https://t.co/AbM3UhT1WB",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:33:03 +0000 2020",
+"name": "Maberu18",
+"screen_name": "Maberu181",
+"text": "Mi #FFpaciente para la incansable @maria5sentidos por su carisma y su gran trabajo día tras día para dar visibilidad a las #EnfermedadesRaras.",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:36:21 +0000 2020",
+"name": "Gregorio Pérez Peñate",
+"screen_name": "PenateGregorio",
+"text": ""'Raras' son más de 300 millones de personas con 6.000 enfermedades distintas. Parece que lo ''raro' no es tan 'raro'..."
+
+Precioso vídeo por el Día Mundial de las #EnfermedadesRaras  @rarediseaseday #SomosFEDER #DAAT @FEDER_ONG
+
+https://t.co/76TLwxLS24",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:36:38 +0000 2020",
+"name": "Centriolos",
+"screen_name": "Grijota7",
+"text": "“Las ‘tijeras moleculares’ para corregir el ADN pueden servir en un futuro para curar #EnfermedadesRaras de base genética, pero hay que ser honesto y decir que su aplicación biomédica todavía no es una realidad”
+
+Lluis Montoliu, investigador en CIBERER
+https://t.co/Cm25EjfgeQ",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:36:58 +0000 2020",
+"name": "Germán Villafañe",
+"screen_name": "patogerman01",
+"text": "Hoy es el #DiaCardiopatiasCongenitas.
+Un alto porcentaje de los afectados por el #sindromenoonan sufren una cardiopatía
+@MenudosMenudos  
+#noonan #rasopatias #enfermedadesraras #RareDiseaseDay #FebreroRaro2020 https://t.co/Ip8fcfQaeg",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:38:23 +0000 2020",
+"name": "Gregorio Pérez Peñate",
+"screen_name": "PenateGregorio",
+"text": "Hagamos entre todos cada vez más visibles https://t.co/gBKiCtq6XF",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 22:46:27 +0000 2020",
+"name": "Pablo Abal",
+"screen_name": "PabloAbalRey",
+"text": "Alba Ancochea, ha advertido que en la mitad de los casos los pacientes aún tardan 4 años en ser diagnosticados y solo existe tratamiento para el 5 % de todas las enfermedades raras 👏👏👏
+#enfermedadesraras #investigacion
+
+https://t.co/E4kTPtc6xU",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:47:43 +0000 2020",
+"name": "Concha Piqueras",
+"screen_name": "ConchaPiqueras",
+"text": "R4. En España, contamos con dos estructuras clave en la investigación de las #EnfermedadesRaras:
+👉 Instituto de Investigación de Enfermedades Raras (podéis seguirlo a través de @SaludISCIII)
+👉 Centro de Investigación Biomédica en Red de ER (@CIBERER )
+
+ #Cronichat",
+"ReTweet: "False"},
+{"data": "Fri Feb 14 22:49:38 +0000 2020",
+"name": "David Guillem-Tatay",
+"screen_name": "TatayDavid",
+"text": "Hola! Nos ayudáis a difundir? 🙏🏻 por la investigación del #SindromeDeRett  #EnfermedadesRaras 
+
+@HildegartGlez @PostigoElena @sergiosayas @Ignacio_Uria @Enfermera_Madri @enfermeratweet @EnfrmraSaturada @JoseLuisReal @jlguzman2 @JCimarro",
+"ReTweet: "True"},
+{"data": "Fri Feb 14 22:51:10 +0000 2020",
+"name": "11q España",
+"screen_name": "11qesorg",
+"text": "El 29 de febrero es el día internacional de las #enfermedadesraras y hay que concienciar este mes a 100.000 personas más. ¿Cómo? Subiendo una foto levantando la mano con los hashtags #yosoy11q #sindromedejacobsen #jacobsensyndrome #enfermedadrara 11q España. https://t.co/01KbpOkOe2",
+"ReTweet: "False"},

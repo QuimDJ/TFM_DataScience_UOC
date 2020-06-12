@@ -1,0 +1,14 @@
+{"data": "Fri Apr 17 22:02:58 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "No, no tengo el #Covid19, pero sigo teniendo que venir al hospital. 
+
+La vida de una enferma crónica y sus consecuencias no se paran porque haya una pandemia mundial. 
+
+Nuestra realidad es esta, pero para un mundo ciego nunca seremos trendic topic. #EnfermedadesRaras https://t.co/KKxHpitenR",
+"ReTweet: "False"},
+{"data": "Fri Apr 17 22:08:19 +0000 2020",
+"name": "Amaya Navarro",
+"screen_name": "AmayaNavarroR",
+"text": "#verdadverdadera #raraeslaenfermedad",
+"ReTweet: "True"},

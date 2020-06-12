@@ -1,0 +1,448 @@
+{"data": "Sat May 09 22:53:00 +0000 2020",
+"name": "CEI Gilberto Bosques",
+"screen_name": "CGBSenado",
+"text": "La @opsoms calcula que existen entre 6,000 y 7,000 #EnfermedadesRaras que afectan a más de 300 millones de personas, tanto niños como adultos, alrededor del mundo, causando sufrimiento e impactos económicos y sociales.
+Conoce los detalles:
+👉🏼https://t.co/1P6EHGzbM0 https://t.co/4HHX0VAbei",
+"ReTweet: "False"},
+{"data": "Sat May 09 23:35:03 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sat May 09 23:35:24 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "¿Sabías que las enfermedades minoritarias afectan a más de 350 millones de personas en todo el mundo? ¿O que la mitad de los afectados son niños y niñas? ¿Y que cada año se identifican 250 nuevas #EnfermedadesRaras?  
+https://t.co/sH0BoNFhjI",
+"ReTweet: "False"},
+{"data": "Sat May 09 23:43:21 +0000 2020",
+"name": "ECCE HOMO Juan Luis Gonzalez Cruz",
+"screen_name": "JuanLui48232081",
+"text": "La @opsoms calcula que existen entre 6,000 y 7,000 #EnfermedadesRaras que afectan a más de 300 millones de personas, tanto niños como adultos, alrededor del mundo, causando sufrimiento e impactos económicos y sociales.
+Conoce los detalles:
+👉🏼https://t.co/1P6EHGzbM0 https://t.co/4HHX0VAbei",
+"ReTweet: "False"},
+{"data": "Sun May 10 00:03:51 +0000 2020",
+"name": "Amy Rollitt",
+"screen_name": "AmyRollitt",
+"text": "The latest #RareDiseaseDay! https://t.co/uX9i1at8Or Thanks to @AmyRollitt @KnoppBio #raredisease #covid19",
+"ReTweet: "False"},
+{"data": "Sun May 10 01:18:27 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "La revista "trofeo" se hace eco de la III Plantà de Pinos Adaptada en Siete Aguas, celebrada el 1 de Marzo, organizada por @XFragil_CV y @ASPAYMCV, con la colaboración  de APEGA @FEDER_ONG , #xfragil #ASPAYMCV  #XFragilCVsequedaencasa #QuedateEnCasa #SieteAguas #EnfermedadesRaras https://t.co/FBqs7QfQAJ",
+"ReTweet: "False"},
+{"data": "Sun May 10 02:09:01 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Día inolvidable  en plena naturaleza. Convivencia  inclusiva,personas con discapacidad  intelectual y física y personas sin discapacidad grabada por @a_punt_media @XFragil_CV @ASPAYMCV #xfragil #XFragilCVsequedaencasa #ASPAYMCV #inclusion #discapacidad",
+"ReTweet: "True"},
+{"data": "Sun May 10 02:57:41 +0000 2020",
+"name": "4q35 to 2! ❤ Staying Home! ❤",
+"screen_name": "rebeccapragnell",
+"text": "It’s like looking in the mirror at my son. 💜 #UBA5",
+"ReTweet: "True"},
+{"data": "Sun May 10 03:30:08 +0000 2020",
+"name": "Cure SMC1A Epilepsy",
+"screen_name": "smc1a_epilepsy",
+"text": "In the United States, when a disease affects fewer than 200,000 people, it is considered Rare. #RareDiseaseDay https://t.co/MyGYEucc6R",
+"ReTweet: "False"},
+{"data": "Sun May 10 03:59:52 +0000 2020",
+"name": "𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 𝐌𝐢𝐧𝐝𝐚-𝐀𝐥𝐮𝐢𝐬𝐚",
+"screen_name": "ElizabethMindaA",
+"text": "#DiaMundialDelLupus para sensibilizar a las personas sobre esta enfermedad. El #Lupus es una enfermedad rara no invisible, menos para quien la padece... #retomariposa #EnfermedadesRaras #RareDisease #Lupusday @PacientesEc @NoInvisibles https://t.co/UecxWz6OeV",
+"ReTweet: "False"},
+{"data": "Sun May 10 04:43:02 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᔕIᑎ TíTᑌᒪO. 🤭
+
+...
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post… https://t.co/QCQtrB5EDz",
+"ReTweet: "False"},
+{"data": "Sun May 10 07:14:21 +0000 2020",
+"name": "rosa",
+"screen_name": "rosadomenech51",
+"text": "#EnfermedadesRaras
+
+Actualmente un 9% de niños con una enfermedad minoritaria no han podido ser diagnosticados.
+
+@SJDbarcelona_es se ha convertido en hospital pediátrico que hace más estudios genéticos en España y con más variedad de mutaciones genéticas.
+https://t.co/ilx1PyB5p0",
+"ReTweet: "False"},
+{"data": "Sun May 10 07:39:01 +0000 2020",
+"name": "Eva Ma. Ponce💙💙",
+"screen_name": "evamaponce",
+"text": "Me veo reflejada: agotamiento, dolor diario, miedo de hacer algo como salir de casa porque no sé si tendré energía para hacer lo que quiero o deberé llamar a alguien para regresar. Tengo #EncefalitisMiálgica #SíndromeDeFatigaCrónica Hagamos conciencia #12deMayo #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun May 10 07:45:53 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/XPGkG36kXc Gracias a @RarasReales @InstitutoRoche @pfizer_spain #enfermedadesraras #zoología",
+"ReTweet: "False"},
+{"data": "Sun May 10 08:01:09 +0000 2020",
+"name": "FEGEREC",
+"screen_name": "FEGEREC",
+"text": "🗓 10 maio, dia mundial #lupus
+máis información 👉 https://t.co/2g7SZKFBFZ
+#EERRGalicia #EnfermedadesRaras #Fegerec https://t.co/LhbQLcEXYY",
+"ReTweet: "False"},
+{"data": "Sun May 10 09:57:44 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},
+{"data": "Sun May 10 10:01:39 +0000 2020",
+"name": "🍀Orgullo Indito🍀13",
+"screen_name": "OrgulloIndito",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},
+{"data": "Sun May 10 10:14:28 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "#MPSDAY #IRTRASLOSSIGNOS
+Conocer los signos y síntomas de las Mucopolisacaridosis y Síndromes Relacionados  (#MPS) puede mejorar notablemente la identificación, el diagnóstico y el tratamiento temprano de las personas que viven con estas #enfermedadesraras https://t.co/wSIeT2EG0g",
+"ReTweet: "False"},
+{"data": "Sun May 10 10:15:34 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},
+{"data": "Sun May 10 10:43:57 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Efectivamente.
+
+Hablar de ellas las hace #masvisibles y menos raras.
+Hablar de ellas las hace #masfrecuentes y mejor conocidas.
+
+No dejemos de hablar de ellas ni en tiempos de #COVID19
+
+#EnfermedadesRaras
+#366DiasdeEERR 
+
+@INDEPF @FEDER_ONG",
+"ReTweet: "True"},
+{"data": "Sun May 10 10:47:11 +0000 2020",
+"name": "Asami Santa Fe",
+"screen_name": "asamisantafe",
+"text": "10 de Mayo #DiaMundialDelLupus 
+#EnfermedadesRaras
+#MiasteniaSantaFe https://t.co/88hHIgdu15",
+"ReTweet: "False"},
+{"data": "Sun May 10 10:52:46 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},
+{"data": "Sun May 10 11:10:20 +0000 2020",
+"name": "Gloria Magro Esteban",
+"screen_name": "GloriaMagro",
+"text": "Me veo reflejada: agotamiento, dolor diario, miedo de hacer algo como salir de casa porque no sé si tendré energía para hacer lo que quiero o deberé llamar a alguien para regresar. Tengo #EncefalitisMiálgica #SíndromeDeFatigaCrónica Hagamos conciencia #12deMayo #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun May 10 11:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "💻La X Conferencia Europea sobre #EnfermedadesRaras y Productos Huérfanos se celebrará de forma online el 14-15 de mayo.
+
+Está reconocida a nivel mundial como el mayor evento de enfermedades minoritarias entre las dirigidos por los pacientes.
+
+Más info
+https://t.co/4gMPA9rbWM https://t.co/Ds3EMRDs7r",
+"ReTweet: "False"},
+{"data": "Sun May 10 11:47:26 +0000 2020",
+"name": "Lupus Castilla-la Mancha (alupusmancha@gmail.com)",
+"screen_name": "LupusCLM",
+"text": "Ayudemos a los que se preocupan de enfermedades como el #Lupus y #Autoinmunes a conocer más y mejor estas #enfermedadesraras  y avanzar hacia su curación",
+"ReTweet: "True"},
+{"data": "Sun May 10 12:22:00 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy es el Día Mundial del Lupus. #LupusSinBulos #DiaMundialDelLupus #EnfermedadesRaras @Felupus",
+"ReTweet: "True"},
+{"data": "Sun May 10 12:39:15 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "Esta tarde 10 de  Mayo a las 18h Música para el Autismo proyecta on line  su película "Quiero ser Cebra" de manera gratuita. Tras la proyección  mesa redonda.#xfragil #Musica #autismo  #EnfermedadesRaras https://t.co/G4bvjG2aQV",
+"ReTweet: "False"},
+{"data": "Sun May 10 13:02:45 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Esta tarde 10 de  Mayo a las 18h Música para el Autismo proyecta on line  su película "Quiero ser Cebra" de manera gratuita. Tras la proyección  mesa redonda.#xfragil #Musica #autismo  #EnfermedadesRaras https://t.co/G4bvjG2aQV",
+"ReTweet: "False"},
+{"data": "Sun May 10 13:07:00 +0000 2020",
+"name": "La zebra humana",
+"screen_name": "la_zebra_humana",
+"text": "La salud interfiere otra vez en mis planes y el vídeo de hoy queda en el aire. Mañana sabréis si lo subo o paso al siguiente reto.
+
+#miretoSED #vertigos #nistagmo #enfermedadinvisible #enfermedadesraras… https://t.co/v8wAt8SA2E",
+"ReTweet: "False"},
+{"data": "Sun May 10 13:28:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "❓ ¿Has visto nuestro vídeo conmemorativo por nuestros 20 años? 
+
+🔸 Descúbrelo aquí: https://t.co/kQy9Msbydj 
+
+#somosFEDER https://t.co/o9tFDgIIg5",
+"ReTweet: "False"},
+{"data": "Sun May 10 14:01:18 +0000 2020",
+"name": "мαяiєlα 〰",
+"screen_name": "Sobriamente",
+"text": "#DiaMundialDelLupus para sensibilizar a las personas sobre esta enfermedad. El #Lupus es una enfermedad rara no invisible, menos para quien la padece... #retomariposa #EnfermedadesRaras #RareDisease #Lupusday @PacientesEc @NoInvisibles https://t.co/UecxWz6OeV",
+"ReTweet: "False"},
+{"data": "Sun May 10 14:01:48 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:12:47 +0000 2020",
+"name": "Silvia Gil",
+"screen_name": "Silviagil100Gil",
+"text": "La Consulta de #EnfermedadesRaras del Hospital de Elche ha atendido +2.500 visitas desde su puesta en marcha hace 3 años. Esta consulta monográfica y multidisciplinar tiene como objetivo mejorar y centralizar la atención, ofreciendo diagnóstico precoz.
+
+https://t.co/HYNiiauMK3 https://t.co/GE47kBKm3R",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:25:56 +0000 2020",
+"name": "Fundación Taiyari",
+"screen_name": "fundataiyariac",
+"text": "El #Lupus es una de las #EnfermedadesRaras que existen.
+La falta de conocimiento en ocasiones genera el que se sientan discriminadas o poco comprendidas al grado de sentir la necesidad de ocultarla.
+Recuerda que el lupus es parte de ti, pero no te hace SER quien eres.
+#YoIncluyo https://t.co/ptgkKVTcoC",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:32:45 +0000 2020",
+"name": "Geraldina González de la Vega",
+"screen_name": "Geraldina_GV",
+"text": "El #Lupus es una de las #EnfermedadesRaras que existen.
+La falta de conocimiento en ocasiones genera el que se sientan discriminadas o poco comprendidas al grado de sentir la necesidad de ocultarla.
+Recuerda que el lupus es parte de ti, pero no te hace SER quien eres.
+#YoIncluyo https://t.co/ptgkKVTcoC",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:32:58 +0000 2020",
+"name": "Agus",
+"screen_name": "AgusMorinico666",
+"text": "El #Lupus es una de las #EnfermedadesRaras que existen.
+La falta de conocimiento en ocasiones genera el que se sientan discriminadas o poco comprendidas al grado de sentir la necesidad de ocultarla.
+Recuerda que el lupus es parte de ti, pero no te hace SER quien eres.
+#YoIncluyo https://t.co/ptgkKVTcoC",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:33:45 +0000 2020",
+"name": "la disCAPACIDAD nos une",
+"screen_name": "DiscapacidadNos",
+"text": "El #Lupus es una de las #EnfermedadesRaras que existen.
+La falta de conocimiento en ocasiones genera el que se sientan discriminadas o poco comprendidas al grado de sentir la necesidad de ocultarla.
+Recuerda que el lupus es parte de ti, pero no te hace SER quien eres.
+#YoIncluyo https://t.co/ptgkKVTcoC",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:34:45 +0000 2020",
+"name": "SOY HEMI Y SOY FELIZ",
+"screen_name": "Soyhemi",
+"text": "El #Lupus es una de las #EnfermedadesRaras que existen.
+La falta de conocimiento en ocasiones genera el que se sientan discriminadas o poco comprendidas al grado de sentir la necesidad de ocultarla.
+Recuerda que el lupus es parte de ti, pero no te hace SER quien eres.
+#YoIncluyo https://t.co/ptgkKVTcoC",
+"ReTweet: "False"},
+{"data": "Sun May 10 15:53:27 +0000 2020",
+"name": "ASOCIACIÓN ACPEIM",
+"screen_name": "acpeim",
+"text": "🥰 Feliz día de las madres 🥰
+
+#felizdiadelasmadres 
+#familiaeim 
+#lasmejoresmadres
+#mujerguerrera 
+#todounangel
+#enfermedadesraras 
+#erroresinnatosdelmetabolismo https://t.co/FQdV1RNqRO",
+"ReTweet: "False"},
+{"data": "Sun May 10 16:29:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "#MovimientoAsociativo La Fundación Poco Frecuente presenta una Convocatoria de Ayudas a familias con #enfermedadesraras afectadas por el COVID-19 https://t.co/sjY357n4yZ https://t.co/3Ob53mu9f1",
+"ReTweet: "False"},
+{"data": "Sun May 10 16:57:42 +0000 2020",
+"name": "Norma AcevesG",
+"screen_name": "normisacevesg",
+"text": "El #Lupus es una de las #EnfermedadesRaras que existen.
+La falta de conocimiento en ocasiones genera el que se sientan discriminadas o poco comprendidas al grado de sentir la necesidad de ocultarla.
+Recuerda que el lupus es parte de ti, pero no te hace SER quien eres.
+#YoIncluyo https://t.co/ptgkKVTcoC",
+"ReTweet: "False"},
+{"data": "Sun May 10 17:32:06 +0000 2020",
+"name": "Cristina Bermejo Rey (En 🏡)",
+"screen_name": "Cristina_BeRey",
+"text": "Mañana sale el fallo de #ShowYourRare...
+
+🤞
+
+#Convocatoria #Relatos #EnfermedadesRaras #Escribir #Escritura https://t.co/TiwUkB25LV",
+"ReTweet: "False"},
+{"data": "Sun May 10 17:45:02 +0000 2020",
+"name": "Carmen lópez valiente",
+"screen_name": "carmen_sjogren",
+"text": "Gracias @FEDER_ONG  y gracias @aesjogren por el gran trabajo #sjögren https://t.co/rF6DsRI0cC",
+"ReTweet: "True"},
+{"data": "Sun May 10 17:48:50 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},
+{"data": "Sun May 10 18:00:58 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "El 5 mayo fue #DiaMundialdelSindrome5p Entre sus síntomas: llanto similar al maullido del gato, microcefalia, retraso en desarrollo somático, discapacidad intelectual. Se calculan 900 afectados en España
+
+Más info 👉https://t.co/xeV1OYONRa
+@Sindrome5p
+https://t.co/Bbb40fVqHV",
+"ReTweet: "True"},
+{"data": "Sun May 10 18:08:11 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/LYXPWm8VVX Gracias a @ArtrogriposisEs @FEGEREC #enfermedadesraras #lupus",
+"ReTweet: "False"},
+{"data": "Sun May 10 18:42:44 +0000 2020",
+"name": "Vicky García Nañez",
+"screen_name": "nanez_vicky",
+"text": "Mañana sale el fallo de #ShowYourRare...
+
+🤞
+
+#Convocatoria #Relatos #EnfermedadesRaras #Escribir #Escritura https://t.co/TiwUkB25LV",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:15:41 +0000 2020",
+"name": "EDUARDO RODRIGUEZ L",
+"screen_name": "ERLISSIR",
+"text": "#DiaMundialDelLupus para sensibilizar a las personas sobre esta enfermedad. El #Lupus es una enfermedad rara no invisible, menos para quien la padece... #retomariposa #EnfermedadesRaras #RareDisease #Lupusday @PacientesEc @NoInvisibles https://t.co/UecxWz6OeV",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:30:08 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:35:00 +0000 2020",
+"name": "Lore_",
+"screen_name": "_lore_l",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:36:22 +0000 2020",
+"name": "yolanda badas gonzalez",
+"screen_name": "yotauro61",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:45:26 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/zO5g8W3BaT Thanks to @jay_virdee @Jane_L_Edwards @R_LKX #raredisease #autoimmunewarrior",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:53:28 +0000 2020",
+"name": "Ana Haya",
+"screen_name": "anayab18",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 19:57:17 +0000 2020",
+"name": "Dr Arturo",
+"screen_name": "drpiolin",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 20:03:30 +0000 2020",
+"name": "Claire",
+"screen_name": "Ptitrouf",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 20:05:23 +0000 2020",
+"name": "pruden@fitness69",
+"screen_name": "cambaro69",
+"text": "Quizás no sabías que…
+
+🤔25% enfermedades crónicas son #EnfermedadesRaras
+🤔75% de los afectados tienen algún grado de dependencia
+🤔50% precisan apoyo en su vida diaria
+🤔35% de los fallecimientos de niños menores de un año se deben a estas patologías
+
+https://t.co/sH0BoNnGsa https://t.co/XGaafgo8cl",
+"ReTweet: "False"},
+{"data": "Sun May 10 20:16:25 +0000 2020",
+"name": "Quantum Babylon",
+"screen_name": "quantum_babylon",
+"text": "El proyecto del investigador Joaquin Dopazo usa la #InteligenciaArtificial para probar fármacos ya existentes como tratamiento para el #Covid_19 usando el #BigData 
+que ya empleaba desde 2018 para #enfermedadesraras 
+
+https://t.co/Aj7VYlzG3Y?",
+"ReTweet: "False"},
+{"data": "Sun May 10 20:19:56 +0000 2020",
+"name": "onmedic",
+"screen_name": "onmedic",
+"text": "El proyecto del investigador Joaquin Dopazo usa la #InteligenciaArtificial para probar fármacos ya existentes como tratamiento para el #Covid_19 usando el #BigData 
+que ya empleaba desde 2018 para #enfermedadesraras 
+
+https://t.co/Aj7VYlzG3Y?",
+"ReTweet: "False"},
+{"data": "Sun May 10 20:25:24 +0000 2020",
+"name": "vanesa rc",
+"screen_name": "vanesarc2",
+"text": "Pensar que el futuro es bueno es lo mismo que saber que hay solución, en mi caso no hay y creo que no les interesa que tengamos solucion ...pero lucharemos para que tengan cura los que detrás de nosotros vengan #enfermedadesraras #NadaEsImposible",
+"ReTweet: "False"},
+{"data": "Sun May 10 20:26:17 +0000 2020",
+"name": "Patricia Estefanía",
+"screen_name": "Patty_Pina",
+"text": "El proyecto del investigador Joaquin Dopazo usa la #InteligenciaArtificial para probar fármacos ya existentes como tratamiento para el #Covid_19 usando el #BigData 
+que ya empleaba desde 2018 para #enfermedadesraras 
+
+https://t.co/Aj7VYlzG3Y?",
+"ReTweet: "False"},
+{"data": "Sun May 10 21:05:22 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "El amor se redefine y se reinventa en tiempos de pandemia. #mami #EnfermedadesRaras #NadaEsImposible https://t.co/dCQ4UCZtma",
+"ReTweet: "False"},

@@ -1,0 +1,488 @@
+{"data": "Wed Apr 08 22:06:56 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "[ Le saviez-vous ❓ ] 
+Les leucodystrophies "indéterminées" sont les maladies pour lesquelles les gènes en cause ne sont pas identifiés. Elles représentent encore 20% des cas. Elles correspondent aux types de leucodystrophies les plus rares. #RareDiseaseDay #JIMR2020
+📸 Inserm https://t.co/RRWp3k3uJ4",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:07:02 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "[ Le saviez-vous ❓ ] 
+Les #leucodystrophies sont des maladies rares. L'ALD, la leucodystrophie la plus fréquente, concerne 1 naissance sur 17 000. Il existe aujourd'hui, une trentaine de leucodystrophies identifiées. #RareDiseaseDay #JIMR2020 https://t.co/P1spMikzCv",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:07:07 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Aujourd'hui, c'est la Journée Internationale des maladies rares. Une maladie est dite rare lorsqu’elle touche moins d’une personne sur 2 000. 
+Les #leucodystrophies en font partie. Ne les oublions pas ! 
+Pour comprendre ce que sont les leucodystrophies 👇#RareDiseaseDay #JIMR2020 https://t.co/3Y8FxH1xEY",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:07:16 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Aujourd’hui, #ELA organise une rencontre inédite dans un #laboratoire de #recherche à @icm_institute à #Paris. 
+Restez connectés ! 📲 #RareDiseaseDay #JIMR
+📸 ICM https://t.co/suMZ7aaJ8C",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:07:21 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Conclusion par Guy Alba, Président d’ELA : lancement d’un essai clinique majeur pour 2020. #RareDiseaseDay #JIMR2020 https://t.co/ayjCVELwMv",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:07:24 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "Visite du laboratoire 🧪 de thérapie génique à l’ICM. #ICM #RareDiseaseDay #JIMR2020 #laboratoire #maladiesrares https://t.co/HcXzQg1HLL",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:07:29 +0000 2020",
+"name": "Serge Seret",
+"screen_name": "seret_serge",
+"text": "À la veille de la Journée Internationale des maladies rares, #ELA sera présente à Paris pour une présentation inédite sur les avancées de la #recherche sur les #leucodystrophies en 2020, maladies génétiques rares. 
+Restez connectés ! 📲 #RareDiseaseDay #JIMR https://t.co/FKf7It3k0I",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 22:58:37 +0000 2020",
+"name": "Barbara Williams",
+"screen_name": "Barbara98168126",
+"text": "#LetsTalkAboutHD @HDSA #RareDiseaseDay https://t.co/XJHNWj9RWe",
+"ReTweet: "False"},
+{"data": "Wed Apr 08 23:01:40 +0000 2020",
+"name": "JZz",
+"screen_name": "zz_jezz",
+"text": "Un grupo que hace una investigación excelente sobre #enfermedadesraras , con una gran generosidad y buen hacer. Adelante Susana Balcells y la U-735 del @CIBERER",
+"ReTweet: "True"},
+{"data": "Wed Apr 08 23:13:58 +0000 2020",
+"name": "Noelia Corrales",
+"screen_name": "corrales_noelia",
+"text": "Enhorabuena Susanna! Un fuerte abrazo @corrales_noelia #aesys #enfermedadesraras #schaafyang",
+"ReTweet: "True"},
+{"data": "Wed Apr 08 23:37:42 +0000 2020",
+"name": "Noemí Mancha",
+"screen_name": "NoemiMancha",
+"text": "@NoemiMancha
+@AasSjogren 
+@NoInvisibles
+@quistestarlov 
+@MIASTENIAJAEN
+@FMFSPAIN
+@STOP_FMF
+#Twitter 
+#Autoinmunes",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 00:06:05 +0000 2020",
+"name": "Pablo Abal",
+"screen_name": "PabloAbalRey",
+"text": "Se comenzó a realizar un seguimiento telefónico y se están implantando las videollamadas: «Estamos sorprendidas por los resultados obtenidos» 📱😮
+
+#enfermedadesraras #fegerec #teletrabajo 
+
+https://t.co/RJTtAHXyP9",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 00:21:59 +0000 2020",
+"name": "germán",
+"screen_name": "gamolinas2505",
+"text": "@SectorSalud Con el mayor respeto el sindrome de Churg Strauss y muchas otras #enfermedadesraras no discriminas si el día es par o impar, la telemedicina con especialistas no es una realidad...espero por citas desde enero y con estas medidas ya las estan cancelando.",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 03:25:59 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "https://t.co/DBfVH3uRAV
+
+NEET DM : https://t.co/dp0d6H8c7r
+NEET MCh : https://t.co/QLB2hdq9kL
+General : https://t.co/NvjsrqB5k7
+
+Other Medexamsprep Links:
+
+Visit: https://t.co/CG6GomTD95
+Facebook: https://t.co/XfLD8V46pl
+#neetdm #dm #dm2020 https://t.co/9o8jS8TsMc",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 03:26:23 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "https://t.co/DBfVH3uRAV
+
+NEET DM : https://t.co/dp0d6H8c7r
+NEET MCh : https://t.co/QLB2hdq9kL
+General : https://t.co/NvjsrqB5k7
+
+Other Medexamsprep Links:
+
+Visit: https://t.co/CG6GomTD95
+Facebook: https://t.co/XfLD8V46pl
+#neetdm #dm #dm2020 https://t.co/6Xl1FVHvyy",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 03:27:00 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "https://t.co/DBfVH3uRAV
+
+NEET DM : https://t.co/dp0d6H8c7r
+NEET MCh : https://t.co/QLB2hdq9kL
+General : https://t.co/NvjsrqB5k7
+
+Other Medexamsprep Links:
+
+Visit: https://t.co/CG6GomTD95
+Facebook: https://t.co/XfLD8V46pl
+#neetdm #dm #dm2020 #mch #mch2020 #neetmch https://t.co/vhnHQztxvU",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 05:33:00 +0000 2020",
+"name": "Enric I. Canela",
+"screen_name": "enriccanela",
+"text": "👉Damos la bienvenida a Susanna Balcells como nueva jefa de grupo del @CIBERER en @BiologiaUB @GeneticsUB  @SJDbarcelona_es 👏👏👏 https://t.co/rJvCmdV6ZJ El equipo está especializado en investigar las bases genéticas y moleculares de distintas #enfermedadesraras https://t.co/mbsKmkYmf5",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 06:47:05 +0000 2020",
+"name": "ASHUA",
+"screen_name": "ashua_spain",
+"text": "👉Damos la bienvenida a Susanna Balcells como nueva jefa de grupo del @CIBERER en @BiologiaUB @GeneticsUB  @SJDbarcelona_es 👏👏👏 https://t.co/rJvCmdV6ZJ El equipo está especializado en investigar las bases genéticas y moleculares de distintas #enfermedadesraras https://t.co/mbsKmkYmf5",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 06:56:17 +0000 2020",
+"name": "Gemma Fuster",
+"screen_name": "GemmaFuster1",
+"text": "👉Damos la bienvenida a Susanna Balcells como nueva jefa de grupo del @CIBERER en @BiologiaUB @GeneticsUB  @SJDbarcelona_es 👏👏👏 https://t.co/rJvCmdV6ZJ El equipo está especializado en investigar las bases genéticas y moleculares de distintas #enfermedadesraras https://t.co/mbsKmkYmf5",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 07:42:44 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "#EnfermedadesRaras
+
+Abril es #MesFabry, tiempo de aprender a identificar cuanto antes esta enfermedad poco frecuente. ¿Sabes cómo se diagnostica la #EnfermedadDeFabry? Conoce mejor esta enfermedad lisosomal aquí:
+
+👉https://t.co/VufgWtFM47 https://t.co/86e0Mhlqxp",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 07:44:21 +0000 2020",
+"name": "Gema Lopez",
+"screen_name": "lpez_morillas",
+"text": "Este abril es #MesFabry ¿Todavía no conoces nuestra web sobre la Enfermedad de #Fabry con información y recursos de apoyo para pacientes y profesionales? 
+#EnfermedadDeFabry #EnfermedadesRaras
+
+👉https://t.co/SK71xnYWQA https://t.co/I62Vo1EtPB",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 07:45:29 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/Ix5ZFYl59B Thanks to @RareDiseases @heatherrenton @GlobalGenes #raredisease #weareinthistogether",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 07:45:53 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/MsGChjLdGY Gracias a @CIBERER @FEDER_ONG #genética #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 07:52:00 +0000 2020",
+"name": "Pfizer España",
+"screen_name": "pfizer_spain",
+"text": "A veces olvidamos la dimensión social de las #EnfermedadesRaras: "Hacen fuertes a las familias, pero también las empobrecen"
+
+Carmen López, fundadora de @FEGEREC, en @LaVozdeGalicia https://t.co/1X2BN3G8KZ
+
+@FEDER_ONG @noinvisibles @CentroCREER https://t.co/qRlKaTGwRi",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 08:03:38 +0000 2020",
+"name": "FEGEREC",
+"screen_name": "FEGEREC",
+"text": "A veces olvidamos la dimensión social de las #EnfermedadesRaras: "Hacen fuertes a las familias, pero también las empobrecen"
+
+Carmen López, fundadora de @FEGEREC, en @LaVozdeGalicia https://t.co/1X2BN3G8KZ
+
+@FEDER_ONG @noinvisibles @CentroCREER https://t.co/qRlKaTGwRi",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 08:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@aedv_es e Instituto de Investigación de #EnfermedadesRaras @SaludISCIII crean el 1er registro español de xeroderma pigmentoso para facilitar conocimiento e investigación sobre esta enfermedad dermatológica con solo 2,3 casos por millón de nacidos vivos.
+https://t.co/MHRL2Tgp4L",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:00:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:01:33 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "👏👏👏",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 09:17:00 +0000 2020",
+"name": "Takeda_ES",
+"screen_name": "Takeda_ES",
+"text": "Garantizar el bienestar de las personas con #EnfermedadesRaras está en nuestras manos ¡Sigue estas recomendaciones contra el COVID-19 de @FEDER_ONG ! https://t.co/2Mcd39HUrg",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:17:52 +0000 2020",
+"name": "Noe Fdez",
+"screen_name": "Noeliafdez6",
+"text": "👉Damos la bienvenida a Susanna Balcells como nueva jefa de grupo del @CIBERER en @BiologiaUB @GeneticsUB  @SJDbarcelona_es 👏👏👏 https://t.co/rJvCmdV6ZJ El equipo está especializado en investigar las bases genéticas y moleculares de distintas #enfermedadesraras https://t.co/mbsKmkYmf5",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:25:32 +0000 2020",
+"name": "Sergio López",
+"screen_name": "SergiAlc",
+"text": "Garantizar el bienestar de las personas con #EnfermedadesRaras está en nuestras manos ¡Sigue estas recomendaciones contra el COVID-19 de @FEDER_ONG ! https://t.co/2Mcd39HUrg",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:35:06 +0000 2020",
+"name": "Carmen Moreno Olivera",
+"screen_name": "CMorenoOlivera7",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:46:17 +0000 2020",
+"name": "Share4Rare_es #QuédateEnCasa",
+"screen_name": "Share4Rare_es",
+"text": "Aleksandra vive en Holanda y tiene un hijo y una hija afectados por #EnfermedadesRaras neuromusculares 👩‍👦‍👦 
+
+¡Esta es su conmovedora historia! ➡️ https://t.co/JusXOmwc83
+
+#Share4Rare #Cuidadoras #Salud https://t.co/NJnEZsYVjj",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 09:59:14 +0000 2020",
+"name": "Alas Para Román",
+"screen_name": "alaspararoman",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 10:40:16 +0000 2020",
+"name": "Regli",
+"screen_name": "Regli_Garesp",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 10:41:44 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "A veces olvidamos la dimensión social de las #EnfermedadesRaras: "Hacen fuertes a las familias, pero también las empobrecen"
+
+Carmen López, fundadora de @FEGEREC, en @LaVozdeGalicia https://t.co/1X2BN3G8KZ
+
+@FEDER_ONG @noinvisibles @CentroCREER https://t.co/qRlKaTGwRi",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 11:02:53 +0000 2020",
+"name": "The Chronic Theory ♿️",
+"screen_name": "ZebraOrphans",
+"text": "LOL.
+
+Try living with (the not really rare) #EhlersDanlosSyndrome, it's associated instabilities of the cervical junction and cluster syndromes and then get back to me on how the NHS 'cares' for you.
+
+#RareDiseaseDay",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 11:04:29 +0000 2020",
+"name": "juan miguel",
+"screen_name": "juanmiguelmb07",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 11:29:21 +0000 2020",
+"name": "Inmaculada González",
+"screen_name": "Inmaggenet",
+"text": "Más de 600 recién nacidos en @Murciasalud durante alarma #Covid_19  seguimos con detección precoz de metabolopatias @Metabolicos_es #EnfermedadesRaras #CribadoNeonatal en @AreaUnoArrixaca plan de Contingencia preventivo de #TEL #AplausoSanitario",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 11:58:16 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "📣¡#Abril es el #MesFabry!
+
+Desde @RarasReales nos invitan a conocerlo todo sobre una de las #EnfermedadesRaras que se estima que afecta a más español@s: entre 400 y 1.150.
+
+Conocer es comprender, y comprender es ayudar.
+
+➕ info 👇
+
+#SanofiEsEnfermedadesRaras #EnfermedadDeFabry https://t.co/b0IaKLKMAT",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 12:39:10 +0000 2020",
+"name": "Pilar Amate",
+"screen_name": "pilaramate",
+"text": "Hemos creado esta cuenta de Twitter para visibilizar las #EnfermedadesRaras. 
+👉¿Nos ayudas? 
+👍 ¡Síguenos! ;-) 
+#RareStrenght",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 12:41:57 +0000 2020",
+"name": "danis.swan",
+"screen_name": "danisswan",
+"text": "ᗪᗩᔕ ᒪO ᑫᑌE EᖇEᔕ.🧿💫
+
+...
+
+#danisswan #gaucherdisease #gaucher #raredisease #enfermedadesraras #enfermedadeslisosomales #minimalfeed  #minimal #simple #style #mood #inspiracion #instamood #ootd #post… https://t.co/sEXU4ECRlj",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 13:00:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Te adjuntamos las preguntas más frecuentes sobre #enfermedadesraras , ámbito laboral y estado de alarma. https://t.co/2tWIGRpt0a https://t.co/T3lHDPfCCV",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 13:01:36 +0000 2020",
+"name": "Rare Disease Day",
+"screen_name": "rarediseaseday",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 13:05:09 +0000 2020",
+"name": "Kelley biddle",
+"screen_name": "Kelleybiddle1",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 13:12:41 +0000 2020",
+"name": "TheInformationPoint",
+"screen_name": "The_Info_Point",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 13:22:25 +0000 2020",
+"name": "yu🐑",
+"screen_name": "delphiniumpearl",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 13:24:37 +0000 2020",
+"name": "uniamofimronlus",
+"screen_name": "uniamofimronlus",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 18:21:33 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 18:24:47 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/ltZG6iCaWV",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 18:25:34 +0000 2020",
+"name": "Davi",
+"screen_name": "DBCN0",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/ltZG6iCaWV",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 18:39:17 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#EnfermedadesRaras: pacientes vulnerables frente al #COVID19
+
+#366DiasdeEERR #masvisibles
+
+via @somos_pacientes 
+
+@FEDER_ONG @NoInvisibles @RarasReales",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 18:52:39 +0000 2020",
+"name": "UADP",
+"screen_name": "UadpGordon",
+"text": "@UadpGordon @rarediseaseday 
+
+#myositis #breastcancer",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 19:11:38 +0000 2020",
+"name": "Analice Martins (Ana)",
+"screen_name": "analiceanamart3",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 19:31:30 +0000 2020",
+"name": "Metabolicos.es",
+"screen_name": "Metabolicos_es",
+"text": "Más de 600 recién nacidos en @Murciasalud durante alarma #Covid_19  seguimos con detección precoz de metabolopatias @Metabolicos_es #EnfermedadesRaras #CribadoNeonatal en @AreaUnoArrixaca plan de Contingencia preventivo de #TEL #AplausoSanitario",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 19:44:02 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 19:45:24 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/V1WKtDBAPf Thanks to @WorldPIWeek @MyWayAccess @rarediseaseday #careaboutrare #rarediseaseday",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 19:56:44 +0000 2020",
+"name": "💕Lynna♡ 70K 💕 * ❤ * #MGWV #LOYALS *❤*",
+"screen_name": "NLynn1_Xo",
+"text": "Hoy, 29 de febrero, es el #DiaMundialEnfermedadesRaras sigannos en @fisiounbosque https://t.co/6NQXxg77r0",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 20:03:09 +0000 2020",
+"name": "@SEGenetica",
+"screen_name": "segenetica",
+"text": "Un grupo que hace una investigación excelente sobre #enfermedadesraras , con una gran generosidad y buen hacer. Adelante Susana Balcells y la U-735 del @CIBERER",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 20:26:51 +0000 2020",
+"name": "Maria",
+"screen_name": "Mmozun",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 20:28:31 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/ltZG6iCaWV",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 20:45:27 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Montejaque, 9 de abril de 2020. 
+Un grupo de personas lanzan una iniciativa de difusión y solidaridad.
+🤗🤗🤗💜💜💜
+#MPS #EnfermedadesRaras https://t.co/GSeB69t4Wj https://t.co/bzQM4UkriR",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 20:46:12 +0000 2020",
+"name": "Daniel_kenn",
+"screen_name": "Daniel_ken01",
+"text": "💙",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 20:53:07 +0000 2020",
+"name": "💜𝕄𝕒𝕣𝕚𝕥𝕖 𝕄𝕒𝕣𝕥𝕚𝕟𝕖𝕫💚",
+"screen_name": "marite15586",
+"text": "Os dejamos por aquí la entrevista de radio que hicimos esta semana para Radio Voz! 🙂
+#enfermedadesraras #eerrGalicia #eerr",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 21:09:50 +0000 2020",
+"name": "Maria Angeles Prieto",
+"screen_name": "mangelesprieto",
+"text": "Gracias @joancmarch por pensar en las personas que cuidan y los pacientes con #enfermedadesraras 
+
+Podéis escuchar el #podcast pinchando en el enlace. 👇🏻",
+"ReTweet: "True"},
+{"data": "Thu Apr 09 21:15:51 +0000 2020",
+"name": "ASOCIACIÓN SOTA DIEZ",
+"screen_name": "S10ASOCIACION",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/ltZG6iCaWV",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 21:17:11 +0000 2020",
+"name": "Andjelina B",
+"screen_name": "satarel",
+"text": "Read the story behind the building and monuments lit up for #RareDiseaseDay 2020 around the world. Each individual effort to raise awareness locally sends a message of solidarity, breaking isolation globally! https://t.co/gvrqohD5B6
+
+@RareVoices @uniamofimronlus https://t.co/VQssvuibkW",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 21:40:39 +0000 2020",
+"name": "Alex Marcas Vila",
+"screen_name": "lexmarcasvila",
+"text": "👉Damos la bienvenida a Susanna Balcells como nueva jefa de grupo del @CIBERER en @BiologiaUB @GeneticsUB  @SJDbarcelona_es 👏👏👏 https://t.co/rJvCmdV6ZJ El equipo está especializado en investigar las bases genéticas y moleculares de distintas #enfermedadesraras https://t.co/mbsKmkYmf5",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 21:48:46 +0000 2020",
+"name": "Gabriela Repetto 🧬",
+"screen_name": "gmrepetto",
+"text": "@jecubillare @Victor_A_R_R_ @fenpofChile Millones de gracias a uds por la invitacion a conversar! Super importante conocer y ver como trabajamos juntos para resolver necesidades de las personas con #EnfermedadesRaras y sus flias en época de #covid . Que esten todos bien!!!",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 21:50:00 +0000 2020",
+"name": "Chiesi España",
+"screen_name": "Chiesi_es",
+"text": "Te adjuntamos las preguntas más frecuentes sobre #enfermedadesraras , ámbito laboral y estado de alarma. https://t.co/2tWIGRpt0a https://t.co/T3lHDPfCCV",
+"ReTweet: "False"},
+{"data": "Thu Apr 09 21:59:06 +0000 2020",
+"name": "Pablo",
+"screen_name": "mactub7",
+"text": "Recordamos la necesidad de proteger y considerar como colectivo especialmente vulnerable a los más de 3 millones de personas que conviven con #enfermedadesraras o sin diagnóstico en España. #COVID19 https://t.co/nl9COAxvsE https://t.co/GYudFVnPx8",
+"ReTweet: "False"},
