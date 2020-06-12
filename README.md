@@ -8,12 +8,6 @@
   <br>(Font de dades: TWITTER)</b>.</p>
 </div>
 </div>
-<div style="width:100%;">&nbsp;</div>
-
-
-# Anàlisi del Dia Mundial de les Malalties Minoritàries (2020)
-## (Rare Disease Day Analysis)
-<br>
 <div style="text-align:right">
     <span style="font-family:calibri;font-size:8;color:white; background-color:Crimson; text-align:right; margin-left: 0.5cm;padding:0.3cm"> Autor: </span>
     <span style="font-family:calibri;font-size:8;color:white; background-color:RoyalBlue; text-align:center;  margin-right: 0.5cm; padding:0.3cm"><b> Joaquim de Dalmases Juanet </b></span>
