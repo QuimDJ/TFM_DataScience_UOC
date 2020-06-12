@@ -11,7 +11,7 @@
 <div style="width:100%;">&nbsp;</div>
 
 
-# Anàlisi del Dia Mundial de les Malalties Minoritàries 
+# Anàlisi del Dia Mundial de les Malalties Minoritàries (2020)
 ## (Rare Disease Day Analysis)
 <br>
 <div style="text-align:right">
