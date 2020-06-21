@@ -1,0 +1,514 @@
+{"data": "Sat Jun 20 22:45:19 +0000 2020",
+"name": "jordi exposito",
+"screen_name": "jordiexposito1",
+"text": "Mi #FFPaciente para agradecer a la revista médica @JIMD_Editors la publicación de nuestro artículo y por dar voz a los pacientes de #EnfermedadesRaras y sus #familias. Para no caer en el olvido ni ser invisibles, algo especialmente relevante en tiempos de pandemia. NinAbrazos 🤗",
+"ReTweet: "True"},
+{"data": "Sat Jun 20 22:56:39 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "21 de Junio, día mundial de la ELA, haciendo visible lo invisible, juntos somos más fuertes#ELA#Enfermedadesraras#SALUD#Neuromuscular https://t.co/MPO7dM3ahd",
+"ReTweet: "False"},
+{"data": "Sat Jun 20 23:00:07 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "Juntos somos más fuertes,21 de junio día mundial de la ELA, haciendo  visible lo invisible#Salud#ELA#Neuromuscular#Enfermedadesraras https://t.co/Kk6Qm6Xkka",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 00:16:40 +0000 2020",
+"name": "mismamente",
+"screen_name": "mismamente2",
+"text": "Hoy vamos de buenas noticias para las #EnfermedadesRaras gracias a @somos_pacientes 
+
+"La investigación clínica en enfermedades raras crece un 88% en una década".
+
+https://t.co/J9OXFkXCZt
+
+#366DiasdeEERR #masvisibles #avancesEIM
+
+@NoInvisibles @pelendinez https://t.co/9WM2nnXfG8",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 03:21:40 +0000 2020",
+"name": "Yordi Fluixart i Naguarru🍌",
+"screen_name": "CatalunyaRiure",
+"text": "Amaurosis congénita de Leber,  Retinosis pigmentaria y  Retinopatía del Prematuro son algunas #EnfermedadesRaras de la visión.
+
+En este artículo te explicamos por qué la terapia génica es tan importante en estos casos: https://t.co/TJtfmZMiFd https://t.co/0pY6n819lP",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 07:06:39 +0000 2020",
+"name": "💜María José💜🌸🍀📚🎨🧵🧶",
+"screen_name": "lunazul61",
+"text": "#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 07:43:17 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/48G599xGMy Thanks to @taylorkane23 #raredisease #coronavirus",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 08:22:08 +0000 2020",
+"name": "FEGEREC",
+"screen_name": "FEGEREC",
+"text": "🗓 21 de junio, día mundial de la #ELA
+Más info 👉 https://t.co/PNDSqmBpSE
+
+#enfermedadesraras #EERRGalicia #LaELAExiste https://t.co/joDyLUhKsX",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 08:30:14 +0000 2020",
+"name": "RetinoblastomaEspaña 👁",
+"screen_name": "_AER_es",
+"text": "¡Trabajando conjuntamente podemos acelerar la investigación en #enfermedadesraras! 
+
+✅ Únete a nuestro proyecto cuyo objetivo es describir detalladamente la historia natural de los #tumores raros pediátricos ➡️ https://t.co/T5Nn77mwWD https://t.co/JA0klRzjKe",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 08:35:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@FEDER_ONG suscribe un convenio con Consejo General de Colegios @Farmaceuticos_ para la atención integral de los pacientes crónicos en #Farmacia. 
+
+94% pacientes con #EnfermedadesRaras han visto interrumpida su atención como consecuencia de la pandemia.
+https://t.co/KdjxSzGdLt",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 08:48:36 +0000 2020",
+"name": "Farmacéuticos",
+"screen_name": "Farmaceuticos_",
+"text": ".@FEDER_ONG suscribe un convenio con Consejo General de Colegios @Farmaceuticos_ para la atención integral de los pacientes crónicos en #Farmacia. 
+
+94% pacientes con #EnfermedadesRaras han visto interrumpida su atención como consecuencia de la pandemia.
+https://t.co/KdjxSzGdLt",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 08:57:26 +0000 2020",
+"name": "Lluis Montoliu",
+"screen_name": "LluisMontoliu",
+"text": "Nosotros en el @CNB_CSIC @CIBERER investigamos sobre la estructura funcional de genes en mamíferos 🧬y sobre #enfermedadesraras como el #albinismo usando modelos animales editados genéticamente con #CRISPR Diagnosticamos y exploramos posibles tratamientos.
+#SinCienciaNoHayFuturo https://t.co/5dGYPp9k9k",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 09:00:00 +0000 2020",
+"name": "Fundación Pfizer ESP",
+"screen_name": "Fundpfizer_ES",
+"text": "En el Desafío #EdeaSalud2020, buscamos soluciones que permitan optimizar al máximo el proceso de #diagnóstico de #EnfermedadesRaras, minimizando el tiempo y proporcionando la mejor información posible. 
+¿Te animas? Puedes apuntarte aquí: https://t.co/ti9CZV87hp https://t.co/bbbsuYypo7",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 09:06:05 +0000 2020",
+"name": "Miguel Carballo",
+"screen_name": "MiguelC10673233",
+"text": "#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 09:12:56 +0000 2020",
+"name": "ALBA albinismo",
+"screen_name": "ALBA_albinismo",
+"text": "Nosotros en el @CNB_CSIC @CIBERER investigamos sobre la estructura funcional de genes en mamíferos 🧬y sobre #enfermedadesraras como el #albinismo usando modelos animales editados genéticamente con #CRISPR Diagnosticamos y exploramos posibles tratamientos.
+#SinCienciaNoHayFuturo https://t.co/5dGYPp9k9k",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 09:15:16 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy vamos de buenas noticias para las #EnfermedadesRaras gracias a @somos_pacientes 
+
+"La investigación clínica en enfermedades raras crece un 88% en una década".
+
+https://t.co/J9OXFkXCZt
+
+#366DiasdeEERR #masvisibles #avancesEIM
+
+@NoInvisibles @pelendinez https://t.co/9WM2nnXfG8",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 09:21:32 +0000 2020",
+"name": "manuelflu 🎶 🎷 🎻🎺🔻",
+"screen_name": "manelflu",
+"text": "La @UNIAUniversidad oferta el Diploma de Especialización en Enfermedades Autoinmunes Sistémicas, que comenzará en septiembre. #EnfermedadesRaras
+Matrícula: del 22 de junio al 1 de septiembre de 2020 a través de: https://t.co/E0l8OOFb4E
+https://t.co/BvYyFZA2NQ https://t.co/4Q94qR7Rn0",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 09:50:46 +0000 2020",
+"name": "Brendaoncats * #Medicareforall * RIP Mascara 5.16.",
+"screen_name": "brendaoncats",
+"text": "Today is #RareDiseaseDay!#CJD took my father 3 years ago so I support the @CJDFoundation and my dads Steve Thacker fund at the @CDCFound",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 10:11:16 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 21 de junio es el Día Mundial de la #ELA #DiaMundialDeLaELA #EnfermedadesRaras
+Ningún paciente de ELA sin un cuidador especializado #rebÉLAte #nosrebELAmos 
+https://t.co/WD4l6EnZlU",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 10:13:51 +0000 2020",
+"name": "Dimas",
+"screen_name": "DXjaba",
+"text": "Hoy 21 de junio es el Día Mundial de la #ELA #DiaMundialDeLaELA #EnfermedadesRaras
+Ningún paciente de ELA sin un cuidador especializado #rebÉLAte #nosrebELAmos 
+https://t.co/WD4l6EnZlU https://t.co/ey4IOZ7eJr",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 10:23:56 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 21 de junio es el Día Internacional de la #Aniridia #DíaInternacionalDeLaAniridia #EnfermedadesRaras
+Participa en #AniridiaDay con #AniridiaAids @ANIRIDIAAEA",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 10:27:31 +0000 2020",
+"name": "manuelflu 🎶 🎷 🎻🎺🔻",
+"screen_name": "manelflu",
+"text": "‼️ Participa en el estudio «Determinantes del retraso diagnóstico en las personas afectadas por #EnfermedadesRaras en España» del @SaludISCIII, @FEDER_ONG y @CentroCREER @Imserso
+Con tu ayuda, conoceremos más sobre el #retrasodiagnóstico en España 
+👉https://t.co/ydNf4eOmcM https://t.co/nVDrtIXDnp",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 10:30:09 +0000 2020",
+"name": "Biblioteca Universitaria UM",
+"screen_name": "UmBiblioteca",
+"text": "#ELA: Esclerosis Lateral Amiotrófica 
+Es una enfermedad neurodegenerativa progresiva que afecta rápidamente a las neuronas motoras del cerebro y la médula espinal, ocasionando debilitamiento muscular e incapacidad de movimiento
+#enfermedadesraras https://t.co/qQVHoFT63S",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 10:34:15 +0000 2020",
+"name": "fundacionswh@gmail.com",
+"screen_name": "Fswh4pmenos",
+"text": "Queremos agradecer a @fundacionmutua y @FEDER_ONG las subvenciones destinadas a la Fundación S. Wolf Hirschhorn 4pmenos en las convocatorias #ProgramaImpulso y #MovimientoAsociativo.
+
+#MutuaMadrileña #SomosFEDER #WolfHirschhorn #FSWH #SoySWH #EERR  https://t.co/9HntqfRMsV",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 10:44:48 +0000 2020",
+"name": "WildeOscar * Remembering Mascara who died 5.16.20*",
+"screen_name": "WildeOscarCat",
+"text": "Today is #RareDiseaseDay!#CJD took my father 3 years ago so I support the @CJDFoundation and my dads Steve Thacker fund at the @CDCFound",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 12:52:39 +0000 2020",
+"name": "David Javierre",
+"screen_name": "djavierreh",
+"text": "Todo un placer haber podido asistir! Lección de VIDA!!!. Para nosotros es un honor poder colaborar en estas actividades haciendo posible el programa “ASUME UN RETO POCO FRECUENTE” @SanofiES @RarasReales @FEDER_ONG",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 12:58:54 +0000 2020",
+"name": "David Javierre",
+"screen_name": "djavierreh",
+"text": "🔸👍🏽Muchas gracias @SanofiGenzyme por esta inciativa y @FEDER_ONG por siempre estar ahi para apoyar y visibilizar la realidad de las enfermedades raras🙌🏼 #actays #raroseriarendirse #enfermedadesraras #RareDisease #Solidarity #Solidaridad",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 13:10:40 +0000 2020",
+"name": "AlTaMo",
+"screen_name": "taviralber",
+"text": "Amaurosis congénita de Leber,  Retinosis pigmentaria y  Retinopatía del Prematuro son algunas #EnfermedadesRaras de la visión.
+
+En este artículo te explicamos por qué la terapia génica es tan importante en estos casos: https://t.co/TJtfmZMiFd https://t.co/0pY6n819lP",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 13:12:09 +0000 2020",
+"name": "Aniridia Day:21 June",
+"screen_name": "AniridiaDay",
+"text": "Hoy 21 de junio es el Día Internacional de la #Aniridia #DíaInternacionalDeLaAniridia #EnfermedadesRaras
+Participa en #AniridiaDay con #AniridiaAids @ANIRIDIAAEA https://t.co/BCOtSdh8Yv",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 13:17:16 +0000 2020",
+"name": "Lesmes Moratinos",
+"screen_name": "LesmesMoratinos",
+"text": "Caso de Neurofibromatosis tipo 2. Múltiples meningiomas y neurinoma bilateral del VIII par. 
+🧠 Mutación en gen NF2, Cr.22
+#Neurology #neuroscience #Neurosurgery #NeuroRad #RareDiseaseDay #MIR2021 #2MIR21 #MIR2020 #2MIR20 https://t.co/Q22nNPVXn4",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:02:25 +0000 2020",
+"name": "fundacionswh@gmail.com",
+"screen_name": "Fswh4pmenos",
+"text": "Queremos agradecer a @fundacionmutua y @FEDER_ONG por la subvención destinada a la Fundación S. Wolf Hirschhorn 4pmenos en la convocatoria del #ProgramaImpulso
+
+#MutuaMadrileña #SomosFEDER #WolfHirschhorn #FSWH #SoySWH #EERR  https://t.co/9HntqfRMsV",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:23:54 +0000 2020",
+"name": "Raquel Goñi",
+"screen_name": "Viajesdemoda",
+"text": "Lo que opinan #AlumnasSFN #FueraDeSerie 💚.
+.
+@EvadelRuste #Estilista de #Moda e #Interiorista además de Fundadora de @mercadodel13 #SegundasVidas y  #wikiER13 para dar visibilidad a #EnfermedadesRaras.
+.
+Entrevista completa en https://t.co/XmG3hR0fNy https://t.co/sLoeXNqIU6",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:35:14 +0000 2020",
+"name": "Sandra Milena Castellar. MD",
+"screen_name": "samycastellar",
+"text": "#DiaMundialDeLaELA #Acela #enfermedadesraras #raredisease @eerr_es @meciec_col @MinSaludCol @ioiroosevelt https://t.co/56343HGTWp",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:40:17 +0000 2020",
+"name": "A.C.",
+"screen_name": "ACgonzalopez1",
+"text": "#EnfermedadesRaras Cada día algunas de esas #enfermedadesautoinmunes atacan al ser humano. #Necesitan #InvestigarEstaEnNuestroADN",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 14:42:34 +0000 2020",
+"name": "Sandra Milena Castellar. MD",
+"screen_name": "samycastellar",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/4DWnDOlGkR",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:44:00 +0000 2020",
+"name": "Sandra Milena Castellar. MD",
+"screen_name": "samycastellar",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/wwrm5UQwPo",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:55:19 +0000 2020",
+"name": "Dr. Sergio Zimmer",
+"screen_name": "DocSergioZeta",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 14:57:59 +0000 2020",
+"name": "Ángel López Hernanz",
+"screen_name": "angelopezh",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:07:55 +0000 2020",
+"name": "Vicente Lozada-Balderrama",
+"screen_name": "VicenteLozadaB",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:12:29 +0000 2020",
+"name": "Fernando Suárez-Obando MD. 🧬🏥",
+"screen_name": "FerSuarezMD",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/wwrm5UQwPo",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:14:27 +0000 2020",
+"name": "CHICHITO CHACO",
+"screen_name": "chichodisanto",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:16:33 +0000 2020",
+"name": "Dr Fatma",
+"screen_name": "bastakif",
+"text": "72٪ من الأمراض النادرة وراثية في حين أن البعض الآخر منها يحدث نتيجة للعدوى البكتيرية أو الفيروسية أو الحساسية أو لأسباب بيئية أو سرطانات نادرة.
+#نادر 
+#يوم_الأمراض_النادرة
+#RareDiseaseDay
+#وراثة https://t.co/TtdA9skYYm",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:16:40 +0000 2020",
+"name": "Dr Fatma",
+"screen_name": "bastakif",
+"text": "يوجد أكثر من 6000 مرض #نادر معروف.
+#يوم_الأمراض_النادرة
+#RareDiseaseDay
+#وراثة https://t.co/SdqnOEjIgQ",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:26:15 +0000 2020",
+"name": "ELA Colombia",
+"screen_name": "ColombiaELA",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/wwrm5UQwPo",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 15:42:56 +0000 2020",
+"name": "Leo Salvador #Diätassistent",
+"screen_name": "Leodietista",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 16:04:14 +0000 2020",
+"name": "Wilson Guayanlema",
+"screen_name": "Willyderio",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/wwrm5UQwPo",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 16:26:36 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "Seguimos avanzando en investigación!! Nuestra esperanza. @FEDER_ONG @CIPFciencia #xfragilcv #xfragil #SinCienciaNoHayFuturo #EnfermedadesRaras #SinInvestigaciónNoHayFuturo https://t.co/EpaZovqt5N",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 16:44:50 +0000 2020",
+"name": "Paciente empoderado",
+"screen_name": "pacienteseguro",
+"text": "¿Todavía no conoces los podcast de la Escuela de Pacientes @escpacientes? En su sexto episodio de la serie “Entre pacientes y coronavirus” entrevistaron a @maria5sentidos, bloguera, activista #EnfermedadesRaras y madre de un niño con #SíndromeDeJoubert.
+https://t.co/u2qxFkQMDT",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 16:47:36 +0000 2020",
+"name": "maria jesus saiz",
+"screen_name": "msaizeslava",
+"text": "Medicina Reproductiva del @HospitalSantPau y @FPuigvert : centro de referencia para poder realizar un diagnóstico genético preimplantacional con HLA si hiciera falta, en casos de parejas con hijos o hijas afectos de drepanocitosis.",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 16:48:43 +0000 2020",
+"name": "Dreia Maes",
+"screen_name": "DreiaMaes",
+"text": "Nosotros en el @CNB_CSIC @CIBERER investigamos sobre la estructura funcional de genes en mamíferos 🧬y sobre #enfermedadesraras como el #albinismo usando modelos animales editados genéticamente con #CRISPR Diagnosticamos y exploramos posibles tratamientos.
+#SinCienciaNoHayFuturo https://t.co/5dGYPp9k9k",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 18:05:58 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/NFT2THDkgy Gracias a @FundacionDravet @Carla_Nog @eerr_es #enfermedadesraras #gofundme",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 18:30:27 +0000 2020",
+"name": "🌸Isis Knight🌸",
+"screen_name": "Isis_Knight",
+"text": "Mi TFG va exactamente del manejo de una enfermedad rara en la oficina de farmacia. Como paciente y futura farmacéutica he padecido la poca información a nivel sanitario y he aprendido un montón en estos meses sobre el tema. Me encanta ver que se dan pasitos sobre ello...",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 18:37:36 +0000 2020",
+"name": "Luis Fontana",
+"screen_name": "BqcaBad",
+"text": "Mi TFG va exactamente del manejo de una enfermedad rara en la oficina de farmacia. Como paciente y futura farmacéutica he padecido la poca información a nivel sanitario y he aprendido un montón en estos meses sobre el tema. Me encanta ver que se dan pasitos sobre ello...",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 18:52:52 +0000 2020",
+"name": "Fundación Querer",
+"screen_name": "FundacionQuerer",
+"text": "Un niño con una enfermedad rara, distrofia muscular de Duchenne (DMD), gana la primera batalla judicial al hospital que le niega un fármaco https://t.co/ZXNUrcDInf @FundacionQuerer @PilarGGranja #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 19:11:27 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "🔸👍🏽Muchas gracias @SanofiGenzyme por esta inciativa y @FEDER_ONG por siempre estar ahi para apoyar y visibilizar la realidad de las enfermedades raras🙌🏼 #actays #raroseriarendirse #enfermedadesraras #RareDisease #Solidarity #Solidaridad https://t.co/e4zUgMluwx",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 19:13:39 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "⁉WEBINAR FORMATIVO⁉👉Descúbre como tratar a #pacientes con #enfermedadesraras en tiempos de #COVID19 gracias al programa organizado por @SanofiGenzyme @sehh_es
+
+✔El 22 de junio se abordará al tratamiento de la #enfermedaddeGaucher
+
+➕Regístrate aquí👉https://t.co/NQMHjZPMdj https://t.co/x1doaHEmr2",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 19:17:21 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Todo un placer haber podido asistir! Lección de VIDA!!!. Para nosotros es un honor poder colaborar en estas actividades haciendo posible el programa “ASUME UN RETO POCO FRECUENTE” @SanofiES @RarasReales @FEDER_ONG https://t.co/8qBe8kTh7Q",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 19:30:15 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 19:32:37 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 19:43:52 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/sOIrHwtS1S Thanks to @Share4Rare @epaultaylor @Abhinav_Jain_19 #raredisease #cancer",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 19:44:54 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Todo nuestro apoyo #DiaMundialDeLaELA @adelacv #xfragilcv #xfragil #EnfermedadesRaras
+
+https://t.co/kovHpfUgeR https://t.co/cvz9xwva5v",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 19:46:10 +0000 2020",
+"name": "LOLITA PONCE",
+"screen_name": "KUKITA07",
+"text": "Todo nuestro apoyo #DiaMundialDeLaELA @adelacv #xfragilcv #xfragil #EnfermedadesRaras
+
+https://t.co/kovHpfUgeR https://t.co/cvz9xwva5v",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 19:50:55 +0000 2020",
+"name": "Cristóbal Baena",
+"screen_name": "CBACris16",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 20:01:15 +0000 2020",
+"name": "Jero",
+"screen_name": "jero_ut",
+"text": "Todo un placer haber podido asistir! Lección de VIDA!!!. Para nosotros es un honor poder colaborar en estas actividades haciendo posible el programa “ASUME UN RETO POCO FRECUENTE” @SanofiES @RarasReales @FEDER_ONG",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 20:10:30 +0000 2020",
+"name": "Pablo Hertfelder García-Conde",
+"screen_name": "PabloHertfelder",
+"text": "👨‍👩‍👦‍👦Familias de todo el mundo realizan este video para mostrarnos que la unidad es posible y la búsqueda de una cura para la enfermedad que tienen. Alcemos hoy la voz apoyando #SYNGAP1 ¡¡Comparte!! 🌍💉🔃 #enfermedadesraras #Family #ISSP https://t.co/N0bkCBU8Iw",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 20:13:56 +0000 2020",
+"name": "Lourdes O.N. 🇪🇸❤️",
+"screen_name": "lourdesollerne1",
+"text": "👨‍👩‍👦‍👦Familias de todo el mundo realizan este video para mostrarnos que la unidad es posible y la búsqueda de una cura para la enfermedad que tienen. Alcemos hoy la voz apoyando #SYNGAP1 ¡¡Comparte!! 🌍💉🔃 #enfermedadesraras #Family #ISSP https://t.co/N0bkCBU8Iw",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 20:15:32 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Todo nuestro apoyo #DiaMundialDeLaELA @adelacv #xfragilcv #xfragil #EnfermedadesRaras
+
+https://t.co/kovHpfUgeR https://t.co/cvz9xwva5v",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 20:22:34 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": ""La única  lucha que se pierde  es la que se abandona" frase que utiliza mucho @LauraSolerAz  y que comparto. Necesitamos  más  investigación. #Sininvestigaciónnohayfuturo #SinCienciaNoHayFuturo #xfragilcv #xfragil #enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Sun Jun 21 20:30:29 +0000 2020",
+"name": "iSanidad",
+"screen_name": "isanidad",
+"text": "La especialidad de genética clínica facilitaría la equidad entre CC.AA. del diagnóstico genético de enfermedades raras oculares @Novartis @RetinaSERV #EnfermedadesRaras https://t.co/p6GtYGgFpM",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 20:42:26 +0000 2020",
+"name": "Lu",
+"screen_name": "luacosta17",
+"text": "Es nuestra responsabilidad visibilizar y exigir que los estados se hagan cargo. 
+Les dejo un link de la Asociación Española de ELA para que puedan saber un poco más sobre la Esclerosis Lateral Amiotrófica #ELA #enfermedadesraras https://t.co/3QEAmTO6RS https://t.co/io4hnZdT7a",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 20:46:01 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 21:00:41 +0000 2020",
+"name": "Susana🐾🌹",
+"screen_name": "susanadv17",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 21:30:54 +0000 2020",
+"name": "carlos schinocca",
+"screen_name": "caschiteam",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 21:44:49 +0000 2020",
+"name": "Nurmi",
+"screen_name": "LuciaNurmi",
+"text": "#ELA: Esclerosis Lateral Amiotrófica 
+Es una enfermedad neurodegenerativa progresiva que afecta rápidamente a las neuronas motoras del cerebro y la médula espinal, ocasionando debilitamiento muscular e incapacidad de movimiento
+#enfermedadesraras https://t.co/qQVHoFT63S",
+"ReTweet: "False"},
