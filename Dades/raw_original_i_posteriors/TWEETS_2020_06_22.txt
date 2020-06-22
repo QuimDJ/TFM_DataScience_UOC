@@ -1,0 +1,853 @@
+{"data": "Sun Jun 21 23:00:05 +0000 2020",
+"name": "mismamente",
+"screen_name": "mismamente2",
+"text": "Nuesta experiencia durante el confinamiento conviviendo con una niña con #discapacidad
+
+#SYNGAP1 #madresfera #enfermedadesraras #encefalopatía #inclusion #capacidadesdiferentes #autismo #TEA #diversidad #discapacidadintelectual 
+
+https://t.co/IENK4dzyRe https://t.co/GnTftjcd8u",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 23:04:11 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 23:05:31 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "La Asociación Española de Laboratorios de #MedicamentosHuérfanos @aelmhu denuncia que la estrategia de #EnfermedadesRaras lleve en punto muerto desde el 2014. Pide que en la fase post-covid los pacientes vuelvan a estar "en el foco del sistema sanitario".
+https://t.co/DHNv4jNM2v",
+"ReTweet: "False"},
+{"data": "Sun Jun 21 23:06:47 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "“Altruismo a contracorriente: acoger a niños con #EnfermedadesRaras”
+
+Este artículo @eldiarioes sobre el proyecto AcogeR @FEDER_ONG ha sido reconocido con el accésit Premios Afectivo Efectivo al "Mejor trabajo periodístico de ámbito sanitario"  
+https://t.co/aqDrVCh1bB",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:05:48 +0000 2020",
+"name": "MARY",
+"screen_name": "MARITZA10175582",
+"text": "@harold_luzardo @Lenin @FiscaliaEcuador @DianaSalazarM2 @24HorasGYE @dayannamonroy @Alguacil_67 @VillaFernando_ @economista33 @fabriciocorread @alcaldiagye Los carnets de discapacidad usados por los políticos para importar autos de lujo a menor precio!!!  Investiguen a todos los que se están llevando el dinero de quienes realmente lo necesitan...tengo cientos de casos de pacientes con #enfermedadesraras a quienes @Lenin ha olvidado",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:20:48 +0000 2020",
+"name": "Enrique Torres N",
+"screen_name": "Alguacil_67",
+"text": "@harold_luzardo @Lenin @FiscaliaEcuador @DianaSalazarM2 @24HorasGYE @dayannamonroy @Alguacil_67 @VillaFernando_ @economista33 @fabriciocorread @alcaldiagye Los carnets de discapacidad usados por los políticos para importar autos de lujo a menor precio!!!  Investiguen a todos los que se están llevando el dinero de quienes realmente lo necesitan...tengo cientos de casos de pacientes con #enfermedadesraras a quienes @Lenin ha olvidado",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:23:56 +0000 2020",
+"name": "UnQuitoNuevo",
+"screen_name": "NuevoQuito",
+"text": "@harold_luzardo @Lenin @FiscaliaEcuador @DianaSalazarM2 @24HorasGYE @dayannamonroy @Alguacil_67 @VillaFernando_ @economista33 @fabriciocorread @alcaldiagye Los carnets de discapacidad usados por los políticos para importar autos de lujo a menor precio!!!  Investiguen a todos los que se están llevando el dinero de quienes realmente lo necesitan...tengo cientos de casos de pacientes con #enfermedadesraras a quienes @Lenin ha olvidado",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:33:44 +0000 2020",
+"name": "CuyoNoticias by Alejandro A Costanzo",
+"screen_name": "CuyoNoticias",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:44:41 +0000 2020",
+"name": "Locomotoro",
+"screen_name": "Josefo69121663",
+"text": "@harold_luzardo @Lenin @FiscaliaEcuador @DianaSalazarM2 @24HorasGYE @dayannamonroy @Alguacil_67 @VillaFernando_ @economista33 @fabriciocorread @alcaldiagye Los carnets de discapacidad usados por los políticos para importar autos de lujo a menor precio!!!  Investiguen a todos los que se están llevando el dinero de quienes realmente lo necesitan...tengo cientos de casos de pacientes con #enfermedadesraras a quienes @Lenin ha olvidado",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:56:44 +0000 2020",
+"name": "Tania #QuédateEnCasa🏡❤️o #usa mascarilla 😷🇪🇨",
+"screen_name": "TaniCPN",
+"text": "@harold_luzardo @Lenin @FiscaliaEcuador @DianaSalazarM2 @24HorasGYE @dayannamonroy @Alguacil_67 @VillaFernando_ @economista33 @fabriciocorread @alcaldiagye Los carnets de discapacidad usados por los políticos para importar autos de lujo a menor precio!!!  Investiguen a todos los que se están llevando el dinero de quienes realmente lo necesitan...tengo cientos de casos de pacientes con #enfermedadesraras a quienes @Lenin ha olvidado",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 00:57:11 +0000 2020",
+"name": "Doc Montgomery, Walking it, Like I Taught It.",
+"screen_name": "DocMontyFor2020",
+"text": "Happy Father’s Day. Wishing I had my Mine with me for Father’s Day. 
+#DM2020 https://t.co/WXNDnEWY7q",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 03:33:03 +0000 2020",
+"name": "Isabel Chavez Pinto.",
+"screen_name": "isabelchavez15_",
+"text": "#Hoy #21Junio #DiaMundialdelaELA #WorldALSday
+#Enfermedad neurodegenerativa poco frecuente y progresiva en donde mueren las neuronas q controlan el movimiento. NO tiene causa ni cura conocida
+
+Toda la #Info: https://t.co/QZ2bnWjVcI
+
+#EnfermedadesRaras #Neurologia
+@AsociacionELAar https://t.co/cJ1JyUFjF3",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 03:41:58 +0000 2020",
+"name": "Celimar Rivera-Baco",
+"screen_name": "celimarrivera",
+"text": "👍🏻💙 https://t.co/t0XjirDmxA",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 03:53:21 +0000 2020",
+"name": "OYRSA",
+"screen_name": "OYRSA_es",
+"text": "AERSCYL es una asociación surgida de un grupo de #Whatsapp #Facebook que aglutina a familiares de pacientes de #enfermedadesraras de Castilla y León. Desde OYRSA, a partir del anuncio de #CharityGolf2019, comunicamos a diario su existencia y entorno 🏌️⛳️
+https://t.co/4Nr1ryErGJ",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 04:22:44 +0000 2020",
+"name": "Lorena Martinez",
+"screen_name": "loremar83",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos sobre el impacto de la pandemia de #coronavirus de @RareDiseasesNet financiada por los @NIH o conozcan más en https://t.co/ywrdWAvrwQ @NCATS_NIH_gov #COVID19 https://t.co/E5y47RxJg4",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 05:17:31 +0000 2020",
+"name": "Carlos Dosouto",
+"screen_name": "CDosouto",
+"text": "Medicina Reproductiva del @HospitalSantPau y @FPuigvert : centro de referencia para poder realizar un diagnóstico genético preimplantacional con HLA si hiciera falta, en casos de parejas con hijos o hijas afectos de drepanocitosis.",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 06:09:38 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Ponencia de @J_Samos muy interesante tanto  por la información  que aportó como por su excelente exposición. Gracias a @FEDER_ONG  por organizar este Seminario #xfragil #EnfermedadesRaras  #xfragilcv #COVID19 https://t.co/9FUTnifIdD",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 06:12:35 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "#EnfermedadesRaras y desescalada
+
+Taller @FEDER_ONG "Adaptándonos, Juntos, a la nueva situación". Herramientas y estrategias para el afrontamiento y la adaptación a la nueva normalidad.
+
+📅 26 de junio de 11h a 13h.
+
+Más info e inscripción (hasta el 22)
+https://t.co/xrbcGS2gR8 https://t.co/KRBGuNgQyq",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 06:17:04 +0000 2020",
+"name": "Draft Healthcare",
+"screen_name": "drafthealthcare",
+"text": "👩‍⚕️ En el año 2000 se aprobó un reglamento que permitió abordar las necesidades de los 30M de pacientes con #EnfermedadesRaras 
+
+De 8 tratamientos disponibles, ascendimos a 169 en 2019
+
+Seguimos trabajando sin descanso 👉 https://t.co/pojZOHACKJ #WeWontRest @FEDER_ONG https://t.co/KIH9cmBPKH",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 06:25:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 06:30:03 +0000 2020",
+"name": "ester alberich forns 💛",
+"screen_name": "esalberich",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 06:34:30 +0000 2020",
+"name": "Lady Dark",
+"screen_name": "AryaStark5",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 06:55:31 +0000 2020",
+"name": "PMFarma",
+"screen_name": "PMFarma",
+"text": "Europa tiene 169 fármacos para #enfermedadesraras, frente a 8 antes de la #norma de medicamentos huérfanos https://t.co/V3w0uPZfAy https://t.co/2rp5snjRwy",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 07:09:49 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 07:34:07 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 07:43:14 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/Pxs9kBIjwB Thanks to @OnceUponAGene #raredisease #technology",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 07:44:16 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "Difunde porfa🙏 
+#ENFERMEDADESCRÓNICAS
+#CronicasdelaEnfermedad
+#MillonesAusentes_y_Confinados
+#EncefalomielitisMialgica
+#pwME
+#MillonesAusentes
+#Fibromialgia
+#SQM #DolorCronico #EnfermedadesRaras
+👇
+https://t.co/Ob3ISRy52V https://t.co/4GNenJxw9y",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 07:47:39 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 08:00:36 +0000 2020",
+"name": "Mas Visibles",
+"screen_name": "MasVisibles",
+"text": "Difunde porfa🙏 
+#ENFERMEDADESCRÓNICAS
+#CronicasdelaEnfermedad
+#MillonesAusentes_y_Confinados
+#EncefalomielitisMialgica
+#pwME
+#MillonesAusentes
+#Fibromialgia
+#SQM #DolorCronico #EnfermedadesRaras
+👇
+https://t.co/Ob3ISRy52V https://t.co/4GNenJxw9y",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 08:02:05 +0000 2020",
+"name": "Vivir con FSHD",
+"screen_name": "VivirconFSHD",
+"text": "La buena gente de @MasVisibles nos ha añadido en su web, como web amiga y no podemos estar más contentos por ello.
+Os recomiendo seguirles de cerca, porque hacen una labor encomiable.
+#enfermedadesraras #FSHD",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 08:14:45 +0000 2020",
+"name": "RAREgenomics",
+"screen_name": "RAREGenomicsCM",
+"text": "👉 El próximo 9 de julio celebraremos online la 14ª Jornada de #EnfermedadesRaras #Neurológicas de la Comunidad de #Madrid. 
+
+📝Podéis inscribiros enviando a raregenomics18@gmail.com vuestro nombre y apellidos, DNI, email, centro de trabajo y categoría profesional. https://t.co/m6biYv8fFb",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 08:15:18 +0000 2020",
+"name": "Fundación Querer",
+"screen_name": "FundacionQuerer",
+"text": "¿ Conoces @CeliayPepeCole ? 
+Sabemos las dificultades que experimentan los niños con trastornos severos en el lenguaje y la comunicación para acceder a la información y las dificultades que ello conlleva. 
+Inf: https://t.co/f2CoBTvi9l
+#enfermedadesraras #fundacionquerer https://t.co/efq9vRvjF1",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 08:37:06 +0000 2020",
+"name": "ucb_iberia",
+"screen_name": "ucb_iberia",
+"text": "👩‍⚕️ En el año 2000 se aprobó un reglamento que permitió abordar las necesidades de los 30M de pacientes con #EnfermedadesRaras 
+
+De 8 tratamientos disponibles, ascendimos a 169 en 2019
+
+Seguimos trabajando sin descanso 👉 https://t.co/pojZOHACKJ #WeWontRest @FEDER_ONG https://t.co/KIH9cmBPKH",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 08:46:41 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 08:49:48 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "Os recomiendo los talleres de @FEDER_ONG, yo los encuentro de lo más prácticos",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 08:56:54 +0000 2020",
+"name": "Mónica",
+"screen_name": "MonicaLopezAlon",
+"text": "El Reglamento europeo cumple 20 años: de los 8 medicamentos existentes para #EnfermedadesRaras en el año 2000 se ha pasado a los 169 disponibles hoy. @Farmaindustria #WeWontRest @FEDER_ONG",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 09:04:43 +0000 2020",
+"name": "Maria Alvarez Perea",
+"screen_name": "ancargoro",
+"text": "En tiempos de #COVIDー19 el manejo multidisciplinar de los pacientes con #EnfermedadesRaras es fundamental. @sehh_es organiza este programa con el aval de @Sociedad_SEMI @GTEMinoritarias y #AECOM https://t.co/4jFh3UXd62 dirigido a profesionales sanitarios.@RarasReales @SanofiES https://t.co/9SiUoOhW7i",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:04:57 +0000 2020",
+"name": "#MillonesAusentes_y_Confinados",
+"screen_name": "MAusentConfinad",
+"text": "Difunde porfa🙏 
+#ENFERMEDADESCRÓNICAS
+#CronicasdelaEnfermedad
+#MillonesAusentes_y_Confinados
+#EncefalomielitisMialgica
+#pwME
+#MillonesAusentes
+#Fibromialgia
+#SQM #DolorCronico #EnfermedadesRaras
+👇
+https://t.co/Ob3ISRy52V https://t.co/4GNenJxw9y",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:05:04 +0000 2020",
+"name": "Maria Alvarez Perea",
+"screen_name": "ancargoro",
+"text": "Mañana comienza el primer webinar del programa organizado por @sehh_es con el aval de  #aecom y @Sociedad_SEMI @GteiSemi   #ehealth y #EnfermedadesRaras en tiempos de  #covidー19. El registro a través de https://t.co/1wILPHOaBK #enfermedadeslisosomales @RarasReales @SanofiES https://t.co/xKrylonOCS",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:13:40 +0000 2020",
+"name": "Mas Visibles",
+"screen_name": "MasVisibles",
+"text": "La buena gente de @MasVisibles nos ha añadido en su web, como web amiga y no podemos estar más contentos por ello.
+Os recomiendo seguirles de cerca, porque hacen una labor encomiable.
+#enfermedadesraras #FSHD https://t.co/eFOI5F6MpJ",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 09:15:03 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "La buena gente de @MasVisibles nos ha añadido en su web, como web amiga y no podemos estar más contentos por ello.
+Os recomiendo seguirles de cerca, porque hacen una labor encomiable.
+#enfermedadesraras #FSHD https://t.co/eFOI5F6MpJ",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 09:17:42 +0000 2020",
+"name": "Francisco Fernandez",
+"screen_name": "franferparra",
+"text": "¿ Conoces @CeliayPepeCole ? 
+Sabemos las dificultades que experimentan los niños con trastornos severos en el lenguaje y la comunicación para acceder a la información y las dificultades que ello conlleva. 
+Inf: https://t.co/f2CoBTvi9l
+#enfermedadesraras #fundacionquerer https://t.co/efq9vRvjF1",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:18:04 +0000 2020",
+"name": "Laura Soler Azorín",
+"screen_name": "LauraSolerAz",
+"text": "Seguimos avanzando en investigación!! Nuestra esperanza. @FEDER_ONG @CIPFciencia #xfragilcv #xfragil #SinCienciaNoHayFuturo #EnfermedadesRaras #SinInvestigaciónNoHayFuturo https://t.co/EpaZovqt5N",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:20:43 +0000 2020",
+"name": "José Manuel Mirón Sola",
+"screen_name": "jomamiso33",
+"text": "Seguimos avanzando en investigación!! Nuestra esperanza. @FEDER_ONG @CIPFciencia #xfragilcv #xfragil #SinCienciaNoHayFuturo #EnfermedadesRaras #SinInvestigaciónNoHayFuturo https://t.co/EpaZovqt5N",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:21:32 +0000 2020",
+"name": "Laura Soler Azorín",
+"screen_name": "LauraSolerAz",
+"text": ""La única  lucha que se pierde  es la que se abandona" frase que utiliza mucho @LauraSolerAz  y que comparto. Necesitamos  más  investigación. #Sininvestigaciónnohayfuturo #SinCienciaNoHayFuturo #xfragilcv #xfragil #enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 09:25:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "💻Webinarios @sehh_es para profesionales sanitarios
+
+Manejo de paciente con #EnfermedadesRaras en tiempos #Covid19
+
+📅 Hoy 22/06  🕔 17h. #EnfermedadDeGaucher
+
+29/06 #EnfermedadDePompe
+1/07   #MPS
+
+Inscripción
+👉https://t.co/mKmUnT9ijT https://t.co/O1EJuvCro5",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:26:07 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Hoy 21 de junio es el Día Internacional de la #Aniridia #DíaInternacionalDeLaAniridia #EnfermedadesRaras
+Participa en #AniridiaDay con #AniridiaAids @ANIRIDIAAEA",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 09:26:57 +0000 2020",
+"name": "Y de verdad tienes 3 💚💙",
+"screen_name": "deverdadtienes3",
+"text": "💻Webinarios @sehh_es para profesionales sanitarios
+
+Manejo de paciente con #EnfermedadesRaras en tiempos #Covid19
+
+📅 Hoy 22/06  🕔 17h. #EnfermedadDeGaucher
+
+29/06 #EnfermedadDePompe
+1/07   #MPS
+
+Inscripción
+👉https://t.co/mKmUnT9ijT https://t.co/O1EJuvCro5",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:29:21 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "y estos #objetivosFEDAES -&gt; https://t.co/LXF8lDMW23
+#ataxia #apoyopsicológico #grupodeapoyo #enfermedadesraras  #investigación #terapiagénica #apoyoalainvestigación https://t.co/mqqWYqssgh",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:33:06 +0000 2020",
+"name": "Davi",
+"screen_name": "DBCN0",
+"text": "Difunde porfa🙏 
+#ENFERMEDADESCRÓNICAS
+#CronicasdelaEnfermedad
+#MillonesAusentes_y_Confinados
+#EncefalomielitisMialgica
+#pwME
+#MillonesAusentes
+#Fibromialgia
+#SQM #DolorCronico #EnfermedadesRaras
+👇
+https://t.co/Ob3ISRy52V https://t.co/4GNenJxw9y",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 09:46:42 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "El 60% de las #ataxias son hereditarias y en el 50% aún no se ha logrado identificar el gen causante. Es necesario encontrar tratamientos que puedan frenar la progresión de estas enfermedades -&gt; https://t.co/d2q5IaCUlv #enfermedadesraras https://t.co/RobCLVM8H6",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 10:13:13 +0000 2020",
+"name": "BeatrizGomezGonzalez",
+"screen_name": "beatriz_gomezg",
+"text": "👉 El próximo 9 de julio celebraremos online la 14ª Jornada de #EnfermedadesRaras #Neurológicas de la Comunidad de #Madrid. 
+
+📝Podéis inscribiros enviando a raregenomics18@gmail.com vuestro nombre y apellidos, DNI, email, centro de trabajo y categoría profesional. https://t.co/m6biYv8fFb",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 10:25:34 +0000 2020",
+"name": "ASENSE-Andalucía",
+"screen_name": "ASENSE_A",
+"text": "Medidas básicas y de carácter obligatorio en la "nueva normalidad"
+#neuromusculares #enfermedadesraras #AsenseA #ProhibidoRendirse https://t.co/z3zOsS2Crp",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 10:38:59 +0000 2020",
+"name": "Fray Leopardo",
+"screen_name": "frayleopardo",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 10:49:39 +0000 2020",
+"name": "ASENSE-Andalucía",
+"screen_name": "ASENSE_A",
+"text": "Nuevo vídeo de nuestra amiga Anabel dedicado al mal uso de las plazas PMR
+📽️🖱️👉https://t.co/10nvf32e6a
+#neuromusculares #enfermedadesraras #AsenseA #ProhibidoRendirse Federación ASEM FEDER @Federacion_ASEM @FEDER_ONG",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 10:59:43 +0000 2020",
+"name": "ecobiomagazine",
+"screen_name": "ecobiomagazine1",
+"text": "Amaurosis congénita de Leber,  Retinosis pigmentaria y  Retinopatía del Prematuro son algunas #EnfermedadesRaras de la visión.
+
+En este artículo te explicamos por qué la terapia génica es tan importante en estos casos: https://t.co/TJtfmZMiFd https://t.co/0pY6n819lP",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 11:02:20 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "El 60% de las #ataxias son hereditarias y en el 50% aún no se ha logrado identificar el gen causante. Es necesario encontrar tratamientos que puedan frenar la progresión de estas enfermedades -&gt; https://t.co/d2q5IaCUlv #enfermedadesraras https://t.co/RobCLVM8H6",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 11:06:36 +0000 2020",
+"name": "info@aepmi.org",
+"screen_name": "AEPMI",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 11:22:44 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "La buena gente de @MasVisibles nos ha añadido en su web, como web amiga y no podemos estar más contentos por ello.
+Os recomiendo seguirles de cerca, porque hacen una labor encomiable.
+#enfermedadesraras #FSHD https://t.co/eFOI5F6MpJ",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 11:33:29 +0000 2020",
+"name": "Carina Escobar Manero",
+"screen_name": "CarinaEscManero",
+"text": "Gran labor la de @FEDER_ONG prioridades para las personas con #enfermedadesraras entre todos tenemos que conseguir que sean #invulnERables",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 11:58:01 +0000 2020",
+"name": "UNIMID",
+"screen_name": "infoUNIMID",
+"text": "Gran labor la de @FEDER_ONG prioridades para las personas con #enfermedadesraras entre todos tenemos que conseguir que sean #invulnERables https://t.co/BUzxPzIQ9Z",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 12:02:38 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:05:15 +0000 2020",
+"name": "ASENSE-Andalucía",
+"screen_name": "ASENSE_A",
+"text": "Ayer fue el Día Mundial de la ELA
+La investigación es muy importante para las enfermedades #neuromusculares #enfermedadesraras #AsenseA #ProhibidoRendirse
+https://t.co/8bVNGcAP3V",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:10:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "🏥🚑 
+Covid-19 y necesidades hospitalarias de personas con #EnfermedadesRaras, según encuesta EURORDIS
+
+👉30% fueron informados de que su hospital o unidad estaba cerrado
+👉30% se les indicó no acudieran a su hospital si no era por Covid-19
+
+https://t.co/oYDyLk89RO https://t.co/S757wHAtUe",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:15:46 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Gran labor la de @FEDER_ONG prioridades para las personas con #enfermedadesraras entre todos tenemos que conseguir que sean #invulnERables https://t.co/BUzxPzIQ9Z",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 12:27:49 +0000 2020",
+"name": "𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 𝐌𝐢𝐧𝐝𝐚-𝐀𝐥𝐮𝐢𝐬𝐚",
+"screen_name": "ElizabethMindaA",
+"text": "Interesante darle una calificación a la fatiga generada por algunas #EnfermedadesRaras #SFC #ArtritisReumatoide #fibromialgia #EnfermedadesCronicas",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 12:28:56 +0000 2020",
+"name": "FEGEREC",
+"screen_name": "FEGEREC",
+"text": ""El éxito del Campamento Urban West radica en que es el personal el que se adapta a los niños, y no al revés" 👏☺️
+
+#EERRGalicia #west #enfermedadesraras #Campamento
+https://t.co/mBO387FoRb",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:36:20 +0000 2020",
+"name": "Juan Carr",
+"screen_name": "HambreCero",
+"text": "🏥🚑 
+Covid-19 y necesidades hospitalarias de personas con #EnfermedadesRaras, según encuesta EURORDIS
+
+👉30% fueron informados de que su hospital o unidad estaba cerrado
+👉30% se les indicó no acudieran a su hospital si no era por Covid-19
+
+https://t.co/oYDyLk89RO https://t.co/S757wHAtUe",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:44:38 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "¿Quieres saber más sobre nuestra asociación? ¡Suscríbete a nuestra boletín informativo! https://t.co/BRAaMQSs2k #Niemannpick #EnfermedadesRaras #Lisosomales https://t.co/h2yqPtv7Lc",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:48:21 +0000 2020",
+"name": "claudia mariela",
+"screen_name": "claudiamleguiza",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 12:53:15 +0000 2020",
+"name": "Claudia",
+"screen_name": "Claudiabergues",
+"text": "Nosotros en el @CNB_CSIC @CIBERER investigamos sobre la estructura funcional de genes en mamíferos 🧬y sobre #enfermedadesraras como el #albinismo usando modelos animales editados genéticamente con #CRISPR Diagnosticamos y exploramos posibles tratamientos.
+#SinCienciaNoHayFuturo https://t.co/5dGYPp9k9k",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 13:01:08 +0000 2020",
+"name": "iSanidad",
+"screen_name": "isanidad",
+"text": "La especialidad de genética clínica facilitaría la equidad entre CC.AA. del diagnóstico genético de enfermedades raras oculares @RetinaSERV @FEDER_ONG @NovartisSpain #EnfermedadesRaras https://t.co/UcgzQwVYYi",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 13:07:00 +0000 2020",
+"name": "Gabriela Repetto 🧬",
+"screen_name": "gmrepetto",
+"text": "@FECHER_CL @pdazan @PAUSOT @izkia @DrEnriqueParis @RarasReales @eurordis @MuevetexlasER @NoInvisibles @ACELNEA @ATUERU @Enferm_Raras @concienciateer @chanchandro @gloriosaa Por favor, compartan el link!  Y felicitaciones por otro paso mas en vincular, visibilizar y  educar con y sobre las personas con #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 13:22:33 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Gran labor la de @FEDER_ONG prioridades para las personas con #enfermedadesraras entre todos tenemos que conseguir que sean #invulnERables",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 13:30:05 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "¡Nuevo webinar de la @sehh_es sobre #EnfermedadesRaras en tiempos de #COVID19!
+
+👉Manejo del paciente con #EnfermedadDeGaucher
+
+🗓Esta tarde
+
+🕔17h
+
+👩‍⚕️👨‍⚕️¡Para profesionales sanitarios!
+
+Más 👇
+
+#SanofiEsEnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 13:50:17 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "El 60% de las #ataxias son hereditarias y en el 50% aún no se ha logrado identificar el gen causante. Es necesario encontrar tratamientos que puedan frenar la progresión de estas enfermedades -&gt; https://t.co/d2q5IaCUlv #enfermedadesraras https://t.co/RobCLVM8H6",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 13:57:23 +0000 2020",
+"name": "Catalina Covas 📚 🎀 #QuédateEnCasa",
+"screen_name": "CatalinaCovas",
+"text": "El 60% de las #ataxias son hereditarias y en el 50% aún no se ha logrado identificar el gen causante. Es necesario encontrar tratamientos que puedan frenar la progresión de estas enfermedades -&gt; https://t.co/d2q5IaCUlv #enfermedadesraras https://t.co/RobCLVM8H6",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 14:16:39 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Los expertos reclaman que se incluya la detección de la #atrofia muscular espinal, #AME, en la prueba del talón que se realiza a los bebés. #EnfermedadesRaras
+https://t.co/IE926JCRtk a través de @ElDiaSegovia",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 14:45:45 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "«Tenemos dos prioridades: la investigación y la atención temprana a las familias». @acondroplasia_ #Displasia #Acondroplasia #EnfermedadesRaras
+https://t.co/p5yRAbRqMs a través de @somos_pacientes",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 15:19:12 +0000 2020",
+"name": "CMT Research Foundation",
+"screen_name": "CmtResearch",
+"text": "Probably the most important regular email you could subscribe to.",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 15:21:02 +0000 2020",
+"name": "Pilar BZ",
+"screen_name": "Pilarbz",
+"text": "👉 El próximo 9 de julio celebraremos online la 14ª Jornada de #EnfermedadesRaras #Neurológicas de la Comunidad de #Madrid. 
+
+📝Podéis inscribiros enviando a raregenomics18@gmail.com vuestro nombre y apellidos, DNI, email, centro de trabajo y categoría profesional. https://t.co/m6biYv8fFb",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 15:29:59 +0000 2020",
+"name": "lia alexandrescu",
+"screen_name": "liinlove1",
+"text": "🏥🚑 
+Covid-19 y necesidades hospitalarias de personas con #EnfermedadesRaras, según encuesta EURORDIS
+
+👉30% fueron informados de que su hospital o unidad estaba cerrado
+👉30% se les indicó no acudieran a su hospital si no era por Covid-19
+
+https://t.co/oYDyLk89RO https://t.co/S757wHAtUe",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 15:30:53 +0000 2020",
+"name": "menosRaras",
+"screen_name": "MenosRaras",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII 
+
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/rv8V4mwEGw a través de @Tweet",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 15:38:42 +0000 2020",
+"name": "menosRaras",
+"screen_name": "MenosRaras",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 15:56:17 +0000 2020",
+"name": "Bollnäs GIF FF",
+"screen_name": "Bollnasfotboll",
+"text": "Ca timmen kvar till kvällens DM-match. 
+
+@Bollnasfotboll - @SoderhamnsFF 
+Solrosens IP 
+Avspark: 19:00. 
+
+OBS! Ingen publik.
+
+#dm2020",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 16:01:30 +0000 2020",
+"name": "ASENSE-Andalucía",
+"screen_name": "ASENSE_A",
+"text": "Los derechos de las personas con #discapacidad no se deben ver afectados por el #Covid19
+https://t.co/pX8vM0AvKE
+#neuromusculares #enfermedadesraras #AsenseA #ProhibidoRendirse",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 16:01:30 +0000 2020",
+"name": "Carmen Mateos",
+"screen_name": "CMATEOSFJD",
+"text": "🍀Músicos por la Salud y FEDER, unidos para sensibilizar sobre las #enfermedadesraras  en centros escolares 
+
+🔸 Realizaron un concierto digital participativo para alumnos y alumnas del Colegio Público de Educación Especial María Soriano, de Madrid
+
+https://t.co/G0CCaSQ1sj https://t.co/FxEzUws3ZN",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 16:05:25 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Se pone en marcha un estudio sobre los factores determinantes del retraso diagnóstico en las personas afectadas por #EnfermedadesRaras en España. ¿Te gustaría participar? Puedes colaborar en esta iniciativa de manera rápida y sencilla. 
+
+Más info aquí
+https://t.co/vt9IPd8blQ https://t.co/Yhx5IgUrO5",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 16:38:02 +0000 2020",
+"name": "Angel Alba",
+"screen_name": "aalbaperez",
+"text": "Ya puedes presentar tu candidatura al desafío #eDeaSalud2020. 
+
+En esta ocasión queremos reducir los tiempos de #diagnostico de las #EnfermedadesRaras. 
+
+Bases e Inscripciones en: https://t.co/kVRbeE0OsA 
+
+🔊 Tienes hasta el 26 de junio para presentar tus ideas. https://t.co/XuG6EOVRph",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 16:39:40 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "La hipofosfatemia ligada al cromosoma X (XLH) pertenece al grupo de #EnfermedadesRaras caracterizadas por la falta de minerales. Los síntomas son dolor óseo, fracturas y alteraciones del crecimiento. @AsociaAeryoh pide un mayor conocimiento.
+https://t.co/FXPmgWhksj",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 17:05:15 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:07:30 +0000 2020",
+"name": "yolanda badas gonzalez",
+"screen_name": "yotauro61",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:08:17 +0000 2020",
+"name": "ALIEN",
+"screen_name": "TeslaFermat",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:14:59 +0000 2020",
+"name": "Ana Brenlla Iglesias",
+"screen_name": "ABrenlla",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:25:05 +0000 2020",
+"name": "pepa mv",
+"screen_name": "mvpepa",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:28:03 +0000 2020",
+"name": "Vasculitis y Enfermedades Huerfanas Colombia",
+"screen_name": "vasculitis_col",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/wwrm5UQwPo",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:51:12 +0000 2020",
+"name": "Consejos de Salud y Enfermedad",
+"screen_name": "CSEnfermedad",
+"text": "Difunde porfa🙏 
+#ENFERMEDADESCRÓNICAS
+#CronicasdelaEnfermedad
+#MillonesAusentes_y_Confinados
+#EncefalomielitisMialgica
+#pwME
+#MillonesAusentes
+#Fibromialgia
+#SQM #DolorCronico #EnfermedadesRaras
+👇
+https://t.co/Ob3ISRy52V https://t.co/4GNenJxw9y",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:56:01 +0000 2020",
+"name": "Ana José Bravo #PonteMascarilla",
+"screen_name": "anajosebb",
+"text": "@pelendinez @MasVisibles @rarediseasesint @CAMURATI_ONG @NoInvisibles @ngorarediseases @AEMPSGOB @FEDER_ONG @eurordis @DUEdevocacion @InforAliber @CentroCREER @sanidadgob @maria5sentidos @ffpaciente @soriano_p @porfiria_org @nh487 @quistestarlov @ANSEDH @Acromegalia_Esp @silviaginies @beatrizce78 El trabajo que realizas Pedro, es soberbio. 
+
+Agradecidos a ti, todos los que tenemos relación con las #EnfermedadesRaras 💖
+
+#FelizLunes #CuarentenaRadical #COVID19",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 17:57:30 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "@pelendinez @MasVisibles @rarediseasesint @CAMURATI_ONG @NoInvisibles @ngorarediseases @AEMPSGOB @FEDER_ONG @eurordis @DUEdevocacion @InforAliber @CentroCREER @sanidadgob @maria5sentidos @ffpaciente @soriano_p @porfiria_org @nh487 @quistestarlov @ANSEDH @Acromegalia_Esp @silviaginies @beatrizce78 El trabajo que realizas Pedro, es soberbio. 
+
+Agradecidos a ti, todos los que tenemos relación con las #EnfermedadesRaras 💖
+
+#FelizLunes #CuarentenaRadical #COVID19",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 18:56:13 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "@pelendinez @MasVisibles @rarediseasesint @CAMURATI_ONG @NoInvisibles @ngorarediseases @AEMPSGOB @FEDER_ONG @eurordis @DUEdevocacion @InforAliber @CentroCREER @sanidadgob @maria5sentidos @ffpaciente @soriano_p @porfiria_org @nh487 @quistestarlov @ANSEDH @Acromegalia_Esp @silviaginies @beatrizce78 El trabajo que realizas Pedro, es soberbio. 
+
+Agradecidos a ti, todos los que tenemos relación con las #EnfermedadesRaras 💖
+
+#FelizLunes #CuarentenaRadical #COVID19",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 19:05:08 +0000 2020",
+"name": "Fundacion Sanfilippo Colombia 🇨🇴",
+"screen_name": "sanfilippo_col",
+"text": "Conoce sobre #sindromedesanfilippo. - Fundacion Sanfilippo Colombia https://t.co/TFv8Oac1ik
+https://t.co/liauRSuW55
+#enfermedadesraras #mps3 #sanfilippo
+#mps #mpspapas #curesanfilippo #stopsanfilippo #sanfilippobarcelona
+ #mpsIII #mpsc #enfermedadeshuerfanas",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 19:37:10 +0000 2020",
+"name": "María Lepe Perez",
+"screen_name": "mlepe45",
+"text": "#EnfermedadesRaras
+
+Cualquier edad es apropiada para explicar al niño/o la enfermedad de un hermano/a. Eso sí, siempre de forma clara y adaptando la explicación a la capacidad para comprender de cada uno.
+
+Àngels Ponce, terapeuta familiar @Share4Rare_es
+
+https://t.co/lyPoyfPT81 https://t.co/qjuVWIxhaB",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 19:40:09 +0000 2020",
+"name": "iSanidad",
+"screen_name": "isanidad",
+"text": "La falta de reconocimiento de la especialidad de genética clínica “entorpece el acceso equitativo de los pacientes a los diagnósticos genéticos”, según explicó la Dra. Guillén @RetinaSERV @FEDER_ONG @NovartisSpain #EnfermedadesRaras https://t.co/UcgzQwVYYi",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 19:43:12 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/cVuJI6qZLL Thanks to @jwmdrc @DOMAINtx #raredisease #scleroderma",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 20:05:24 +0000 2020",
+"name": "Mas Visibles",
+"screen_name": "MasVisibles",
+"text": "@pelendinez @MasVisibles @rarediseasesint @CAMURATI_ONG @NoInvisibles @ngorarediseases @AEMPSGOB @FEDER_ONG @eurordis @DUEdevocacion @InforAliber @CentroCREER @sanidadgob @maria5sentidos @ffpaciente @soriano_p @porfiria_org @nh487 @quistestarlov @ANSEDH @Acromegalia_Esp @silviaginies @beatrizce78 El trabajo que realizas Pedro, es soberbio. 
+
+Agradecidos a ti, todos los que tenemos relación con las #EnfermedadesRaras 💖
+
+#FelizLunes #CuarentenaRadical #COVID19",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 20:31:11 +0000 2020",
+"name": "FisiatriaUnal",
+"screen_name": "FisiatriaU",
+"text": "#DiaMundialDeLaELA #DiaMundialELA #enfermedadesraras #rarediseases @ioiroosevelt @FisiatriaU @ACMFR @MinSaludCol @vasculitis_col @eerr_es @PROMEDICOS #acela https://t.co/wwrm5UQwPo",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 21:11:46 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "📌Cuestiones de la pandemia y su efecto sobre la #Investigación Biomédica de las #enfermedadesraras.
+https://t.co/eWhbM8p5S8",
+"ReTweet: "False"},
+{"data": "Mon Jun 22 21:23:45 +0000 2020",
+"name": "Somos ALAPA",
+"screen_name": "AlapaArgentina",
+"text": "🎙 AHORA - CONFERENCIA SOBRE LA ENFERMEDAD DE GAUCHER
+El Dr. Guillermo Drelichman (MN 56803) está brindando una conferencia a pacientes con la enfermedad de #Gaucher y sus familiares.
+#EPOF #EnfermedadesRaras #Pacientes https://t.co/laKhXh1q60",
+"ReTweet: "False"},
