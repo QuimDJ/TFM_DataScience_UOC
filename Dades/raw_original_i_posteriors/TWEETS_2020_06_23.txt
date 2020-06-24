@@ -1,0 +1,1319 @@
+{"data": "Mon Jun 22 22:06:04 +0000 2020",
+"name": "Gabriela Repetto 🧬",
+"screen_name": "gmrepetto",
+"text": "Crucial involucrar a los más expertos, como son las  agrupaciones de personas con #enfermedadesraras,  para la toma de decisiones en salud",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 22:48:53 +0000 2020",
+"name": "Alejandro Andrade",
+"screen_name": "chanchandro",
+"text": "Crucial involucrar a los más expertos, como son las  agrupaciones de personas con #enfermedadesraras,  para la toma de decisiones en salud https://t.co/8gcdhjYAyu",
+"ReTweet: "True"},
+{"data": "Mon Jun 22 22:52:28 +0000 2020",
+"name": "®Diana Montanari 🇦🇷🌐",
+"screen_name": "DianaMontanari",
+"text": "💜 El #SíndromeDeDravet es una de las llamadas #EnfermedadesRaras, porque tiene una incidencia de 1 entre 20.000 nacimientos. Se trata de una #Epilepsia grave de origen genético, que aparece antes del primer año de edad.",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 01:50:00 +0000 2020",
+"name": "Javier Díaz-Nido",
+"screen_name": "Javier_DiazNido",
+"text": "El 60% de las #ataxias son hereditarias y en el 50% aún no se ha logrado identificar el gen causante. Es necesario encontrar tratamientos que puedan frenar la progresión de estas enfermedades -&gt; https://t.co/d2q5IaCUlv #enfermedadesraras https://t.co/RobCLVM8H6",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 02:16:22 +0000 2020",
+"name": "Javier Díaz-Nido",
+"screen_name": "Javier_DiazNido",
+"text": "El 60% de las #ataxias son hereditarias y en el 50% aún no se ha logrado identificar el gen causante. Es necesario encontrar tratamientos que puedan frenar la progresión de estas enfermedades -&gt; https://t.co/d2q5IaCUlv #enfermedadesraras https://t.co/RobCLVM8H6",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 03:18:44 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdificioVenus",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 03:25:35 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdificioVenus",
+"text": "🏥🚑 
+Covid-19 y necesidades hospitalarias de personas con #EnfermedadesRaras, según encuesta EURORDIS
+
+👉30% fueron informados de que su hospital o unidad estaba cerrado
+👉30% se les indicó no acudieran a su hospital si no era por Covid-19
+
+https://t.co/oYDyLk89RO https://t.co/S757wHAtUe",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 04:48:43 +0000 2020",
+"name": "DISCAPACIDAD",
+"screen_name": "diskapazidad",
+"text": "¡discapacidad news está disponible! https://t.co/5ghAbBSDGn Gracias a @JovenPensionist @ASENSE_A @WellsFargo14 #discapacidad #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 05:09:37 +0000 2020",
+"name": "Laura Fuentes",
+"screen_name": "LaufuentesLaura",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 05:46:33 +0000 2020",
+"name": "Dr. Edwin Jose Cañate Rueda MD",
+"screen_name": "EJCR21",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 06:01:35 +0000 2020",
+"name": "Masquemedicos",
+"screen_name": "masquemedicos",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 06:11:10 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:05:42 +0000 2020",
+"name": "Mamen García López🧬",
+"screen_name": "MamenGarciaLop1",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:09:21 +0000 2020",
+"name": "Sociedad Española de Enfermería Neurológica",
+"screen_name": "sedenered",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:21:16 +0000 2020",
+"name": "CIBERER",
+"screen_name": "CIBERER",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:22:01 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "«Tenemos dos prioridades: la investigación y la atención temprana a las familias». @acondroplasia_ #Displasia #Acondroplasia #EnfermedadesRaras
+https://t.co/p5yRAbRqMs a través de @somos_pacientes",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:22:09 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:24:24 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:26:23 +0000 2020",
+"name": "RetoDravet",
+"screen_name": "RetoDravet",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:26:33 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 ¿Nos acompañas en la exposición virtual de fotografías del concurso #EResarte?
+
+🔹Entidades del nuestro movimiento asociativo se involucrado para trasladar la realidad de las #EnfermedadesRaras 
+
+🔹 2 de julio a las 17:00 horas
+
+✏️Inscríbete aquí: https://t.co/TmHiI3DBQB https://t.co/t0cU4qePpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:29:38 +0000 2020",
+"name": "Arantxa Sáez Sánchez 💚",
+"screen_name": "saezatxa",
+"text": "🍀 ¿Nos acompañas en la exposición virtual de fotografías del concurso #EResarte?
+
+🔹Entidades del nuestro movimiento asociativo se involucrado para trasladar la realidad de las #EnfermedadesRaras 
+
+🔹 2 de julio a las 17:00 horas
+
+✏️Inscríbete aquí: https://t.co/TmHiI3DBQB https://t.co/t0cU4qePpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:36:30 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:39:00 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:39:40 +0000 2020",
+"name": "Mas Visibles",
+"screen_name": "MasVisibles",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:43:13 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/Qb6CYKa7Be Thanks to @PowerPakCE @Jontah_Kay @PatientWorthy #raredisease #genetherapy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:46:57 +0000 2020",
+"name": "Eva del Ruste",
+"screen_name": "EvadelRuste",
+"text": "🍀 ¿Nos acompañas en la exposición virtual de fotografías del concurso #EResarte?
+
+🔹Entidades del nuestro movimiento asociativo se involucrado para trasladar la realidad de las #EnfermedadesRaras 
+
+🔹 2 de julio a las 17:00 horas
+
+✏️Inscríbete aquí: https://t.co/TmHiI3DBQB https://t.co/t0cU4qePpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 07:49:54 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:03:29 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "📸El concurso de fotografías #EResArte recibió más de 100 instantáneas de pacientes de #EnfermedadesRaras y su entorno.
+
+¿Cuáles son las 29 finalistas?
+
+¡Descúbrelas en la inauguración virtual de la exposición!
+
+🗓02/07
+🕔17h
+✍https://t.co/y4WN9Cdx9S
+
+#SanofiEsEnfermedadesRaras https://t.co/dcgm1XqBVg",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:30:35 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:31:12 +0000 2020",
+"name": "Javier Garcia Roca",
+"screen_name": "javigroca",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:45:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Durante el confinamiento los padres de niños con #EnfermedadesRaras han tenido que añadir a su “capa” de padres las de terapeuta, profesor o logopeda. @NavarraTV mostró en el caso de Lucía lo que para ellos han supuesto estos meses de encierro en casa.
+https://t.co/D2v1D7tfdZ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:51:11 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:51:40 +0000 2020",
+"name": "Acción Tay-Sachs",
+"screen_name": "ACTAYS",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:51:47 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Hoy nace un nuevo proyecto de Divulgación sobre #enfermedadesraras para hacerlas #menosRaras.
+
+Empecemos:
+Control del Tratamiento Nutricional de los Pacientes con Enfermedades Congénitas del Metabolismo Durante el Confinamiento. https://t.co/IA3PSupAJH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:51:48 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "📸El concurso de fotografías #EResArte recibió más de 100 instantáneas de pacientes de #EnfermedadesRaras y su entorno.
+
+¿Cuáles son las 29 finalistas?
+
+¡Descúbrelas en la inauguración virtual de la exposición!
+
+🗓02/07
+🕔17h
+✍https://t.co/y4WN9Cdx9S
+
+#SanofiEsEnfermedadesRaras https://t.co/dcgm1XqBVg",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:52:33 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "y estos #objetivosFEDAES -&gt; https://t.co/LXF8lDMW23
+#ataxia #apoyopsicológico #grupodeapoyo #enfermedadesraras  #investigación #terapiagénica #apoyoalainvestigación https://t.co/aK8OzPMGGb",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:54:40 +0000 2020",
+"name": "Jorge Lumbreras",
+"screen_name": "jlumbreras13",
+"text": "Descúbrelas!!",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 08:55:54 +0000 2020",
+"name": "Murciasalud",
+"screen_name": "Murciasalud",
+"text": "📣Hoy se conmemora el #DiaInternacionalSíndromeDravet.
+💜La Consejería de #Salud se ilumina de morado para dar visibilidad y apoyo a las personas que conviven con esta enfermedad y a sus familias
+https://t.co/v22rU9Y6ZM
+
+#MurciaSalud #EnfermedadesRaras #SíndromeDravet #epilepsia https://t.co/5E8go4YPiS",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 08:59:25 +0000 2020",
+"name": "Rhodesia",
+"screen_name": "arleslalectrice",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:02:06 +0000 2020",
+"name": "Luzma 💜💚",
+"screen_name": "Luzma_gp",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:07:59 +0000 2020",
+"name": "Bernardo Foronda",
+"screen_name": "bernardoforonda",
+"text": "Hoy nace un nuevo proyecto de Divulgación sobre #enfermedadesraras para hacerlas #menosRaras.
+
+Empecemos:
+Control del Tratamiento Nutricional de los Pacientes con Enfermedades Congénitas del Metabolismo Durante el Confinamiento. https://t.co/IA3PSupAJH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:25:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:25:40 +0000 2020",
+"name": "BioCores",
+"screen_name": "biocores_",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:26:53 +0000 2020",
+"name": "Tania Herrera",
+"screen_name": "TaniaHeBa",
+"text": "Hoy es el #diainternacionaldelsindromededravet.
+
+Hoy se tiñe el día de morado y las alas de las mariposas nos dan fuerza para seguir luchando por:
+
+* Una mayor inversión en investigación. 
+* En un mayor conocimiento de la enfermedad. 
+ * Más apoyo a las familias.
+
+#ffpaciente",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 09:30:11 +0000 2020",
+"name": "Emprenemjunts",
+"screen_name": "emprenemjunts",
+"text": "‼ Desafío #EdeaSalud2020 | Reto en busca de soluciones que permitan optimizar al máximo el proceso de diagnóstico de #EnfermedadesRaras https://t.co/jysZNMxP0O @Fundpfizer_ES 
+
+⚠ Presenta tu propuesta antes del 26 de junio 📅 https://t.co/sYywTITJPi",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:32:17 +0000 2020",
+"name": "Rou",
+"screen_name": "RouPerea",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:33:13 +0000 2020",
+"name": "Apolonia Romera M (at home 🏠)",
+"screen_name": "ApoloniaRomeraM",
+"text": "📣Hoy se conmemora el #DiaInternacionalSíndromeDravet.
+💜La Consejería de #Salud se ilumina de morado para dar visibilidad y apoyo a las personas que conviven con esta enfermedad y a sus familias
+https://t.co/v22rU9Y6ZM
+
+#MurciaSalud #EnfermedadesRaras #SíndromeDravet #epilepsia https://t.co/5E8go4YPiS",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:56:57 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:57:44 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "¿COMO SOLICITO EL RECONOCIMIENTO DE DEPENDENCIA? 👉https://t.co/fT7Zpc7dCH vía @somosdisca  Servicio de asesoramiento jurídico para socios #Fedaes #ataxias #enfermedadesraras #dependencia https://t.co/TZcaDLtE4U",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 09:59:49 +0000 2020",
+"name": "Laura Del Pozo",
+"screen_name": "pozo_lau",
+"text": "¿COMO SOLICITO EL RECONOCIMIENTO DE DEPENDENCIA? 👉https://t.co/fT7Zpc7dCH vía @somosdisca  Servicio de asesoramiento jurídico para socios #Fedaes #ataxias #enfermedadesraras #dependencia https://t.co/TZcaDLtE4U",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:00:41 +0000 2020",
+"name": "Apoyodravet",
+"screen_name": "apoyodravet",
+"text": "📣Hoy se conmemora el #DiaInternacionalSíndromeDravet.
+💜La Consejería de #Salud se ilumina de morado para dar visibilidad y apoyo a las personas que conviven con esta enfermedad y a sus familias
+https://t.co/v22rU9Y6ZM
+
+#MurciaSalud #EnfermedadesRaras #SíndromeDravet #epilepsia https://t.co/5E8go4YPiS",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:02:01 +0000 2020",
+"name": "Ticbiomed #DigitalHealth",
+"screen_name": "ticbiomed",
+"text": "📢 @Fundpfizer_ES busca #startups que les ayuden a optimizar al máximo el proceso de diagnóstico de #EnfermedadesRaras, minimizando tiempo y mejorando la información. 
+
+¿Crees que puedes ayudar? Preséntate antes este viernes 26. #SaludDigital https://t.co/BdZnB9Su7M",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:02:08 +0000 2020",
+"name": "Nefro-inf-Arrixaca",
+"screen_name": "Nefro_inf_HCUVA",
+"text": "📣Hoy se conmemora el #DiaInternacionalSíndromeDravet.
+💜La Consejería de #Salud se ilumina de morado para dar visibilidad y apoyo a las personas que conviven con esta enfermedad y a sus familias
+https://t.co/v22rU9Y6ZM
+
+#MurciaSalud #EnfermedadesRaras #SíndromeDravet #epilepsia https://t.co/5E8go4YPiS",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:08:12 +0000 2020",
+"name": "Somos Pacientes",
+"screen_name": "somos_pacientes",
+"text": "Participa en los estudios de la plataforma @Share4Rare_es, del Hospital @SJDbarcelona_es, sobre #EnfermedadesRaras para conocer la calidad de vida de los pacientes o el impacto sobre la #educación o el #empleo.
+
++ Info👉https://t.co/OIoNYTVKoN
+#Share4Rare #investigación https://t.co/3bwmHhCrh1",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+Hoy, 23 de junio es Día Mundial #SindromeDeDravet
+Sus síntomas comienzan sobre los 6 meses de edad. Provoca convulsiones muy fuertes y, a partir del 2º año retraso cognitivo y problemas psicomotores. Afecta a 1/16.000 nacimientos.
+
+Más
+https://t.co/UOBoRbaTHm https://t.co/qbVDhkxLDT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:11:08 +0000 2020",
+"name": "#MillonesAusentes_y_Confinados",
+"screen_name": "MAusentConfinad",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:11:35 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "#EnfermedadesRaras
+
+Hoy, 23 de junio es Día Mundial #SindromeDeDravet
+Sus síntomas comienzan sobre los 6 meses de edad. Provoca convulsiones muy fuertes y, a partir del 2º año retraso cognitivo y problemas psicomotores. Afecta a 1/16.000 nacimientos.
+
+Más
+https://t.co/UOBoRbaTHm https://t.co/qbVDhkxLDT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:12:32 +0000 2020",
+"name": "Real Academia de Medicina y Cirugía de Valladolid",
+"screen_name": "RealCirugia",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:15:01 +0000 2020",
+"name": "Cantabria Infinita",
+"screen_name": "cant_infinita",
+"text": "Hoy, Día Internacional del Síndrome de Dravet, cambiamos nuestro 💚 por 💜 para tratar de aportar nuestro granito de arena en la lucha contra esta rara enfermedad: https://t.co/qUMqfN2AeU",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 10:18:23 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:20:33 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "Hoy, Día Internacional del Síndrome de Dravet, cambiamos nuestro 💚 por 💜 para tratar de aportar nuestro granito de arena en la lucha contra esta rara enfermedad: https://t.co/qUMqfN2AeU https://t.co/uOrAEvmRHH",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 10:20:38 +0000 2020",
+"name": "Real Academia de Medicina y Cirugía de Valladolid",
+"screen_name": "RealCirugia",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:22:04 +0000 2020",
+"name": "RetoDravet",
+"screen_name": "RetoDravet",
+"text": "Hoy, Día Internacional del Síndrome de Dravet, cambiamos nuestro 💚 por 💜 para tratar de aportar nuestro granito de arena en la lucha contra esta rara enfermedad: https://t.co/qUMqfN2AeU",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 10:23:06 +0000 2020",
+"name": "Luis Miguel Aras MD",
+"screen_name": "luismiaras",
+"text": "📣Hoy se conmemora el #DiaInternacionalSíndromeDravet.
+💜La Consejería de #Salud se ilumina de morado para dar visibilidad y apoyo a las personas que conviven con esta enfermedad y a sus familias
+https://t.co/v22rU9Y6ZM
+
+#MurciaSalud #EnfermedadesRaras #SíndromeDravet #epilepsia https://t.co/5E8go4YPiS",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:26:34 +0000 2020",
+"name": "Lau✨ // blm",
+"screen_name": "laurapenca",
+"text": "Por el día Internacional del Síndrome de Dravet, recordad:
+
+💜",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 10:28:15 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Más de 30.000 pasos de gigante pequeños viandantes. 
+
+Gracias por estar al otro lado del miedo. #EnfermedadesRaras #NadaEsImposible https://t.co/3CcV7eOBD8",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:30:22 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:38:50 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "Por el día Internacional del Síndrome de Dravet, recordad:
+
+💜 https://t.co/qZTrRaPoPP",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 10:39:57 +0000 2020",
+"name": "Manuel Posada",
+"screen_name": "mposada53",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 10:56:40 +0000 2020",
+"name": "Dr Arturo",
+"screen_name": "drpiolin",
+"text": "#EnfermedadesRaras
+
+Hoy, 23 de junio es Día Mundial #SindromeDeDravet
+Sus síntomas comienzan sobre los 6 meses de edad. Provoca convulsiones muy fuertes y, a partir del 2º año retraso cognitivo y problemas psicomotores. Afecta a 1/16.000 nacimientos.
+
+Más
+https://t.co/UOBoRbaTHm https://t.co/qbVDhkxLDT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:03:00 +0000 2020",
+"name": "Pixelabs",
+"screen_name": "Pixelabs_es",
+"text": "En el Desafío #EdeaSalud2020, buscamos soluciones que permitan optimizar al máximo el proceso de #diagnóstico de #EnfermedadesRaras, minimizando el tiempo y proporcionando la mejor información posible. 
+¿Te animas? Puedes apuntarte aquí: https://t.co/ti9CZV87hp https://t.co/bbbsuYypo7",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:09:19 +0000 2020",
+"name": "lek",
+"screen_name": "LekLaial",
+"text": "Hoy, Día Internacional del Síndrome de Dravet, cambiamos nuestro 💚 por 💜 para tratar de aportar nuestro granito de arena en la lucha contra esta rara enfermedad: https://t.co/qUMqfN2AeU",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 11:11:28 +0000 2020",
+"name": "💜𝕄𝕒𝕣𝕚𝕥𝕖 𝕄𝕒𝕣𝕥𝕚𝕟𝕖𝕫💚",
+"screen_name": "marite15586",
+"text": ""El éxito del Campamento Urban West radica en que es el personal el que se adapta a los niños, y no al revés" 👏☺️
+
+#EERRGalicia #west #enfermedadesraras #Campamento
+https://t.co/mBO387FoRb",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:13:07 +0000 2020",
+"name": "💜𝕄𝕒𝕣𝕚𝕥𝕖 𝕄𝕒𝕣𝕥𝕚𝕟𝕖𝕫💚",
+"screen_name": "marite15586",
+"text": "📣Hoy se conmemora el #DiaInternacionalSíndromeDravet.
+💜La Consejería de #Salud se ilumina de morado para dar visibilidad y apoyo a las personas que conviven con esta enfermedad y a sus familias
+https://t.co/v22rU9Y6ZM
+
+#MurciaSalud #EnfermedadesRaras #SíndromeDravet #epilepsia https://t.co/5E8go4YPiS",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:22:00 +0000 2020",
+"name": "Association International School",
+"screen_name": "Association_Sch",
+"text": "#rarediseaseday Creating awareness https://t.co/Ef4tXIdjom",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:24:53 +0000 2020",
+"name": "iara Mantinan Bua",
+"screen_name": "IaraMBua",
+"text": "#sarcoma #diamundialenfermedadesraras #condrosarcoma #sarcomadehuesos",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 11:25:20 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "Participa en los estudios de la plataforma @Share4Rare_es, del Hospital @SJDbarcelona_es, sobre #EnfermedadesRaras para conocer la calidad de vida de los pacientes o el impacto sobre la #educación o el #empleo.
+
++ Info👉https://t.co/OIoNYTVKoN
+#Share4Rare #investigación https://t.co/3bwmHhCrh1",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:27:23 +0000 2020",
+"name": "Laura Del Pozo",
+"screen_name": "pozo_lau",
+"text": "Participa en los estudios de la plataforma @Share4Rare_es, del Hospital @SJDbarcelona_es, sobre #EnfermedadesRaras para conocer la calidad de vida de los pacientes o el impacto sobre la #educación o el #empleo.
+
++ Info👉https://t.co/OIoNYTVKoN
+#Share4Rare #investigación https://t.co/3bwmHhCrh1",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:30:12 +0000 2020",
+"name": "Acción Tay-Sachs",
+"screen_name": "ACTAYS",
+"text": "🟢Con nuestro programa de Atención a familias afectadas por Tay-Sachs y Sandhoff financiamos terapias y equipamientos que la familia no tenga cubierto por el sistema sanitario, o por su problemática familiar específica. #actays #raroseriarendirse #enfermedadesraras #haztesocio",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:33:39 +0000 2020",
+"name": "LourdesCanoCristóbal 🌹🇪🇸🌹🏳️‍🌈🌹",
+"screen_name": "lulitakano",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:38:17 +0000 2020",
+"name": "Parlon#apeudecarrer #josócabolicionista💜",
+"screen_name": "nuriaparlon",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 11:42:35 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "¿COMO SOLICITO EL RECONOCIMIENTO DE DEPENDENCIA? 👉https://t.co/fT7Zpc7dCH vía @somosdisca  Servicio de asesoramiento jurídico para socios #Fedaes #ataxias #enfermedadesraras #dependencia https://t.co/TZcaDLtE4U",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:43:03 +0000 2020",
+"name": "Aj. Sta. Coloma Gram",
+"screen_name": "scgramenet",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/aMBkXY9hLL https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 11:45:04 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:46:00 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "#EnfermedadesRaras
+
+Hoy, 23 de junio es Día Mundial #SindromeDeDravet
+Sus síntomas comienzan sobre los 6 meses de edad. Provoca convulsiones muy fuertes y, a partir del 2º año retraso cognitivo y problemas psicomotores. Afecta a 1/16.000 nacimientos.
+
+Más
+https://t.co/UOBoRbaTHm https://t.co/qbVDhkxLDT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:48:40 +0000 2020",
+"name": "Elena Raboso🔻",
+"screen_name": "emraboso",
+"text": "#EnfermedadesRaras
+
+Hoy, 23 de junio es Día Mundial #SindromeDeDravet
+Sus síntomas comienzan sobre los 6 meses de edad. Provoca convulsiones muy fuertes y, a partir del 2º año retraso cognitivo y problemas psicomotores. Afecta a 1/16.000 nacimientos.
+
+Más
+https://t.co/UOBoRbaTHm https://t.co/qbVDhkxLDT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 11:51:55 +0000 2020",
+"name": "Valle de Camaleño",
+"screen_name": "ValledeCamaleno",
+"text": "Hoy, Día Internacional del Síndrome de Dravet, cambiamos nuestro 💚 por 💜 para tratar de aportar nuestro granito de arena en la lucha contra esta rara enfermedad: https://t.co/qUMqfN2AeU https://t.co/uOrAEvmRHH",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 11:54:00 +0000 2020",
+"name": "Jose M Hernáandez",
+"screen_name": "jmher76",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 12:01:56 +0000 2020",
+"name": "BeatrizGomezGonzalez",
+"screen_name": "beatriz_gomezg",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 12:07:09 +0000 2020",
+"name": "Nacho_57 - 🌹",
+"screen_name": "Nacho57",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 12:24:15 +0000 2020",
+"name": "Sociedad Española de Enfermería Neurológica",
+"screen_name": "sedenered",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 12:25:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las #EnfermedadesRaras tienen muchos aspectos en común a pesar de la diversidad y heterogeneidad que muestran en su conjunto: 
+
+👉80% son de origen genético 
+👉75% de pacientes de ER tienen algún grado de discapacidad
+👉40% requieren hospitalización
+https://t.co/Uasg3FdIXm https://t.co/23ITFJ7Ty9",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 12:40:20 +0000 2020",
+"name": "Soraya Santalucia Rubio",
+"screen_name": "_SorayaSR",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 12:44:38 +0000 2020",
+"name": "Maria Jose Salgado R",
+"screen_name": "mjsvrn",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 12:55:22 +0000 2020",
+"name": "Neurología Hospital Ramón y Cajal",
+"screen_name": "NeurologiaRyC",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 12:56:50 +0000 2020",
+"name": "Tania Herrera",
+"screen_name": "TaniaHeBa",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 12:57:01 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/aMBkXY9hLL https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 13:00:57 +0000 2020",
+"name": "iSanidad",
+"screen_name": "isanidad",
+"text": "La especialidad de genética clínica facilitaría la equidad entre CC.AA. del diagnóstico genético de enfermedades raras oculares @RetinaSERV @FEDER_ONG @NovartisSpain #EnfermedadesRaras https://t.co/UcgzQwVYYi",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:06:46 +0000 2020",
+"name": "SouthGenetics Chile",
+"screen_name": "SouthGenetics",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:13:20 +0000 2020",
+"name": "F. Javier Molina E.",
+"screen_name": "tweet_Javi",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:26:55 +0000 2020",
+"name": "Mercè Serrano",
+"screen_name": "Marsais_",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 13:28:59 +0000 2020",
+"name": "Martín Casas Concejal",
+"screen_name": "ConcejalCasas",
+"text": "#23Jun | DÍA INTERNACIONAL DEL SÍNDROME DE DRAVET
+
+El #SíndromeDeDravet es una de las llamadas #EnfermedadesRaras, porque tiene una incidencia de 1 entre 20.000 nacimientos. Se trata de una #Epilepsia grave de origen genético, que aparece antes del primer año de edad. https://t.co/UW4YENBdEd",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:31:34 +0000 2020",
+"name": "carmen funes molina",
+"screen_name": "tanenfm",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:31:52 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:35:30 +0000 2020",
+"name": "Araceli Cruz",
+"screen_name": "aracelicruz58",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 13:41:36 +0000 2020",
+"name": "Salvador Martí Pérez",
+"screen_name": "salvamartiperez",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:41:43 +0000 2020",
+"name": "Marta Ortiz Pica",
+"screen_name": "PicaMarta",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:44:04 +0000 2020",
+"name": "Miguel Angel Moreno Pelayo",
+"screen_name": "MAMorenoPelayo",
+"text": "👉 El próximo 9 de julio celebraremos online la 14ª Jornada de #EnfermedadesRaras #Neurológicas de la Comunidad de #Madrid. 
+
+📝Podéis inscribiros enviando a raregenomics18@gmail.com vuestro nombre y apellidos, DNI, email, centro de trabajo y categoría profesional. https://t.co/m6biYv8fFb",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:52:48 +0000 2020",
+"name": "Antonio Barberá",
+"screen_name": "antoniobb1953",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 13:52:59 +0000 2020",
+"name": "Jess Robles",
+"screen_name": "jesy_rove",
+"text": "🟢Con nuestro programa de Atención a familias afectadas por Tay-Sachs y Sandhoff financiamos terapias y equipamientos que la familia no tenga cubierto por el sistema sanitario, o por su problemática familiar específica. #actays #raroseriarendirse #enfermedadesraras #haztesocio",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:57:14 +0000 2020",
+"name": "pilargomis",
+"screen_name": "pilargomis1",
+"text": "🧐¿Buscas información sobre enfermedades minoritarias? 
+
+La Biblioteca @Share4Rare_es ofrece contenido médico sobre una serie de #EnfermedadesRaras: Información general, síntomas, diagnóstico, tratamiento y terapias, estado actual de investigación… 
+
+https://t.co/QhxVgbq3tR https://t.co/puJLlrU8LT",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 13:58:08 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:03:39 +0000 2020",
+"name": "Facultad de Medicina CAS - UDD",
+"screen_name": "UDD_FM",
+"text": "Crucial involucrar a los más expertos, como son las  agrupaciones de personas con #enfermedadesraras,  para la toma de decisiones en salud",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 14:05:44 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Gracias @anajosebb mi mayor recompensa es poder ayudar y estar ahí facilitando recursos.
+
+Gracias de verdad.",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 14:08:19 +0000 2020",
+"name": "Asociación de Peritos Enfermeros y Sanitarios",
+"screen_name": "ASanitarios",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:08:52 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "A diferencia de otras enfermedades, las mayoría de #EnfermedadesRaras no cuentan con manifestaciones clínicas más o menos definidas, algún marcador biomédico o pruebas exploratorias complementarias. Por ello, el diagnóstico se suele demorar por años.
+
+https://t.co/RwRH5PAHB3 https://t.co/Mr5fBLSyZH",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:09:44 +0000 2020",
+"name": "Hepatitis Autoinmune",
+"screen_name": "autoinmuneinfan",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:18:11 +0000 2020",
+"name": "Sandrushka Plata Garbutt Besovski💋",
+"screen_name": "platagarbutt31",
+"text": "23 de Junio: «DÍA INTERNACIONAL DEL SÍNDROME DE DRAVET» Corazón morado
+
+El #SíndromeDeDravet es una de las llamadas #EnfermedadesRaras, porque tiene una incidencia de 1 entre 20.000 nacimientos. Se trata de una #Epilepsia grave de origen genético, que aparece antes del primer año https://t.co/DHrCVb3dpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:27:53 +0000 2020",
+"name": "Somosdisc@",
+"screen_name": "somosdisca",
+"text": "¿COMO SOLICITO EL RECONOCIMIENTO DE DEPENDENCIA? 👉https://t.co/fT7Zpc7dCH vía @somosdisca  Servicio de asesoramiento jurídico para socios #Fedaes #ataxias #enfermedadesraras #dependencia https://t.co/TZcaDLtE4U",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:29:11 +0000 2020",
+"name": "Ana",
+"screen_name": "Molletillo",
+"text": "¿COMO SOLICITO EL RECONOCIMIENTO DE DEPENDENCIA? 👉https://t.co/fT7Zpc7dCH vía @somosdisca  Servicio de asesoramiento jurídico para socios #Fedaes #ataxias #enfermedadesraras #dependencia https://t.co/TZcaDLtE4U",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:31:49 +0000 2020",
+"name": "Ignacio Carrera 🐍",
+"screen_name": "CarreraNacho",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:32:31 +0000 2020",
+"name": "Jesús Alberto",
+"screen_name": "korocotta75",
+"text": "Hoy, Día Internacional del Síndrome de Dravet, cambiamos nuestro 💚 por 💜 para tratar de aportar nuestro granito de arena en la lucha contra esta rara enfermedad: https://t.co/qUMqfN2AeU",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 14:43:03 +0000 2020",
+"name": "Belen Moreno",
+"screen_name": "abelenmjorge",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 14:43:13 +0000 2020",
+"name": "Grego Contreras",
+"screen_name": "marcgrego",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 14:43:43 +0000 2020",
+"name": "david hernandez",
+"screen_name": "davidhe09433483",
+"text": "📣¡Aviso a profesionales sanitari@s!👨‍⚕️👩‍⚕️
+
+Si os interesan las #EnfermedadesRaras, también lo harán los webinars de la @sehh_es sobre manejo de #EnfermedadesLisosomales en tiempos de #COVID19.
+
+Más información, fechas e inscripciones en @RarasReales
+
+#SanofiEsEnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 14:44:35 +0000 2020",
+"name": "Carmen Herrero",
+"screen_name": "cmerrero",
+"text": "👉 El próximo 9 de julio celebraremos online la 14ª Jornada de #EnfermedadesRaras #Neurológicas de la Comunidad de #Madrid. 
+
+📝Podéis inscribiros enviando a raregenomics18@gmail.com vuestro nombre y apellidos, DNI, email, centro de trabajo y categoría profesional. https://t.co/m6biYv8fFb",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 14:56:32 +0000 2020",
+"name": "Pedro Soriano 💡Salud Digital 👥 #FFPaciente",
+"screen_name": "soriano_p",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored #dravetday https://t.co/YNeB7yMCjV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 15:30:01 +0000 2020",
+"name": "saruca212",
+"screen_name": "saruca212",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 15:33:33 +0000 2020",
+"name": "CBGC.ARRIXACA",
+"screen_name": "cbgc_arrixaca",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 15:36:12 +0000 2020",
+"name": "GoFIR",
+"screen_name": "AcademiaGoFIR",
+"text": "Hoy #diainternacionalsindromedravet nos pintamos el alma de morado 💜 para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana #Neurored #dravetday https://t.co/v2AfhoYieJ",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 15:49:27 +0000 2020",
+"name": "Sombradoble",
+"screen_name": "sombradoble",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 15:51:15 +0000 2020",
+"name": "Katherine Marcelain",
+"screen_name": "Katheri19851197",
+"text": "@FECHER_CL @pdazan @PAUSOT @izkia @DrEnriqueParis @RarasReales @eurordis @MuevetexlasER @NoInvisibles @ACELNEA @ATUERU @Enferm_Raras @concienciateer @chanchandro @gloriosaa Por favor, compartan el link!  Y felicitaciones por otro paso mas en vincular, visibilizar y  educar con y sobre las personas con #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 15:52:34 +0000 2020",
+"name": "Jose Verdu",
+"screen_name": "JoseVerdu4",
+"text": ""La única  lucha que se pierde  es la que se abandona" frase que utiliza mucho @LauraSolerAz  y que comparto. Necesitamos  más  investigación. #Sininvestigaciónnohayfuturo #SinCienciaNoHayFuturo #xfragilcv #xfragil #enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 16:10:23 +0000 2020",
+"name": "carolinaswords",
+"screen_name": "carolinaswords",
+"text": "https://t.co/SqtQ5GrpHi #muerte #cancer #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 16:30:20 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "El @HospitalUVRocio acredita ante Europa poder diagnosticar 2.800 #enfermedadesraras.",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 16:39:46 +0000 2020",
+"name": "Ana Belén Martínez",
+"screen_name": "abmcruz2",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 16:46:38 +0000 2020",
+"name": "Alvaro Hermida",
+"screen_name": "Info_Rares",
+"text": "Algoritmo diagnóstico en las acidemias orgánicas. Tan didáctico siempre el Prof. Domingo Gonzalez Lamuño, en directo webinar #AvancesEIM con @DrIsidroVitoria #EnfermedadesRaras https://t.co/LpIJTaUMtn",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 16:53:02 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "23 de Junio: «DÍA INTERNACIONAL DEL SÍNDROME DE DRAVET» Corazón morado
+
+El #SíndromeDeDravet es una de las llamadas #EnfermedadesRaras, porque tiene una incidencia de 1 entre 20.000 nacimientos. Se trata de una #Epilepsia grave de origen genético, que aparece antes del primer año https://t.co/DHrCVb3dpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 16:58:46 +0000 2020",
+"name": "María José Mas ⚫️",
+"screen_name": "MasTwitts",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:03:18 +0000 2020",
+"name": "Información SF",
+"screen_name": "InformacionSF",
+"text": "¿Cómo afectan las medidas que está tomando el gobierno a los pacientes con #EnfermedadesRaras ? #vulnERables
+https://t.co/LC2h8Di9TG",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:04:16 +0000 2020",
+"name": "Petry Jiménez 22.896",
+"screen_name": "PetryJimenez",
+"text": "Avui, Dia internacional #SíndromeDravet expressar el suport de #santacoloma a les persones malalaltes i familiars. També agrair el suport de @auraseguros per cedir la seva façana. @_SorayaSR https://t.co/zvhcBTfeHj",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 17:06:22 +0000 2020",
+"name": "Cipriano Cipriano",
+"screen_name": "CiprianoVFelix",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:08:37 +0000 2020",
+"name": "Alvaro Hermida",
+"screen_name": "Info_Rares",
+"text": "El @DrIsidroVitoria hace una fantástica justificación de las medidas dietéticas en las acidemias organicas y nos recuerda que hay consejos dietéticos para las familias en la web de la @ae3com 👏👏👏 https://t.co/MlZqaGwMyX
+#AvancesEIM #EnfermedadesRaras https://t.co/8NOdZFhRto",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:11:46 +0000 2020",
+"name": "reyna castillo",
+"screen_name": "castilloreyna",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:15:10 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Estamos asumiendo las medidas de desescalada sin ningún tipo de ayuda” 
+
+Juan Carrión, presidente @dgenesmurcia explicó @ORMurcia cómo la pandemia ha afectado y está afectando a #AsociacionesDePacientes con #EnfermedadesRaras (a partir minuto 6)
+
+https://t.co/IXEIu4gWEF https://t.co/bF8w42SQ9b",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:27:38 +0000 2020",
+"name": "Ignacio Carrera 🐍",
+"screen_name": "CarreraNacho",
+"text": "23 de Junio: «DÍA INTERNACIONAL DEL SÍNDROME DE DRAVET» Corazón morado
+
+El #SíndromeDeDravet es una de las llamadas #EnfermedadesRaras, porque tiene una incidencia de 1 entre 20.000 nacimientos. Se trata de una #Epilepsia grave de origen genético, que aparece antes del primer año https://t.co/DHrCVb3dpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:27:58 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "“Estamos asumiendo las medidas de desescalada sin ningún tipo de ayuda” 
+
+Juan Carrión, presidente @dgenesmurcia explicó @ORMurcia cómo la pandemia ha afectado y está afectando a #AsociacionesDePacientes con #EnfermedadesRaras (a partir minuto 6)
+
+https://t.co/IXEIu4gWEF https://t.co/bF8w42SQ9b",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:29:16 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 17:55:49 +0000 2020",
+"name": "SoniaCaseira",
+"screen_name": "Sonia08874813",
+"text": "Pacientes, profesionales e investigadores se unen en un proyecto pionero para analizar el retraso diagnóstico en Enfermedades Raras.
+
+@FEDER_ONG @CentroCREER @SaludISCIII
+ 
+#menosRaras #EERR #enfermedadesraras 
+https://t.co/XxZabcfG6W https://t.co/jzH7oPYvIk",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:00:42 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "📸El concurso de fotografías #EResArte recibió más de 100 instantáneas de pacientes de #EnfermedadesRaras y su entorno.
+
+¿Cuáles son las 29 finalistas?
+
+¡Descúbrelas en la inauguración virtual de la exposición!
+
+🗓02/07
+🕔17h
+✍https://t.co/y4WN9Cdx9S
+
+#SanofiEsEnfermedadesRaras https://t.co/dcgm1XqBVg",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:07:35 +0000 2020",
+"name": "Frankh J Fuentes",
+"screen_name": "frankhcosv",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:20:34 +0000 2020",
+"name": "ORDR",
+"screen_name": "ORDR",
+"text": "Preguntas clave de la encuesta para pacientes con #EnfermedadesRaras y #COVID19:
+✅¿Quiénes se están infectando?
+✅¿Cambió el acceso a la atención?
+✅¿Obtienen los suministros médicos y nutricionales?
+✅¿Tienen estrés y ansiedad?
+Respóndala: https://t.co/mhSU03X4vf https://t.co/8ASB2MJEvV",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:24:34 +0000 2020",
+"name": "Fundación Pfizer ESP",
+"screen_name": "Fundpfizer_ES",
+"text": "📢 @Fundpfizer_ES busca #startups que les ayuden a optimizar al máximo el proceso de diagnóstico de #EnfermedadesRaras, minimizando tiempo y mejorando la información. 
+
+¿Crees que puedes ayudar? Preséntate antes este viernes 26. #SaludDigital https://t.co/BdZnB9Su7M",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:24:53 +0000 2020",
+"name": "Fundación Pfizer ESP",
+"screen_name": "Fundpfizer_ES",
+"text": "‼ Desafío #EdeaSalud2020 | Reto en busca de soluciones que permitan optimizar al máximo el proceso de diagnóstico de #EnfermedadesRaras https://t.co/jysZNMxP0O @Fundpfizer_ES 
+
+⚠ Presenta tu propuesta antes del 26 de junio 📅 https://t.co/sYywTITJPi",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:26:39 +0000 2020",
+"name": "Tapita Torres",
+"screen_name": "agus_1906",
+"text": "🍀 ¿Nos acompañas en la exposición virtual de fotografías del concurso #EResarte?
+
+🔹Entidades del nuestro movimiento asociativo se involucrado para trasladar la realidad de las #EnfermedadesRaras 
+
+🔹 2 de julio a las 17:00 horas
+
+✏️Inscríbete aquí: https://t.co/TmHiI3DBQB https://t.co/t0cU4qePpN",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:34:07 +0000 2020",
+"name": "RetoDravet",
+"screen_name": "RetoDravet",
+"text": "@sedenered Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored https://t.co/wMQAybtz27",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:35:22 +0000 2020",
+"name": "Saludesfera 🌈",
+"screen_name": "saludesferaTW",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia https://t.co/ts9uIWKqRa",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:38:40 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia https://t.co/ts9uIWKqRa",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:42:09 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "El @DrIsidroVitoria hace una fantástica justificación de las medidas dietéticas en las acidemias organicas y nos recuerda que hay consejos dietéticos para las familias en la web de la @ae3com 👏👏👏 https://t.co/MlZqaGwMyX
+#AvancesEIM #EnfermedadesRaras https://t.co/8NOdZFhRto",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:42:50 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Algoritmo diagnóstico en las acidemias orgánicas. Tan didáctico siempre el Prof. Domingo Gonzalez Lamuño, en directo webinar #AvancesEIM con @DrIsidroVitoria #EnfermedadesRaras https://t.co/LpIJTaUMtn",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:44:02 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "El @DrIsidroVitoria hace una fantástica justificación de las medidas dietéticas en las acidemias organicas y nos recuerda que hay consejos dietéticos para las familias en la web de la @ae3com 👏👏👏 https://t.co/MlZqaGwMyX
+#AvancesEIM #EnfermedadesRaras https://t.co/8NOdZFhRto",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:49:51 +0000 2020",
+"name": "Deanna Portero",
+"screen_name": "DeannaPortero",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos
+sobre el impacto de la pandemia de #coronavirus
+de @RareDiseasesNet financiada por los @NIH o
+conozcan más en https://t.co/N2bmbnhGYB
+@NCATS_NIH_gov #COVID19",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 18:54:23 +0000 2020",
+"name": "AG.Bcn",
+"screen_name": "bcn_ag",
+"text": "Algoritmo diagnóstico en las acidemias orgánicas. Tan didáctico siempre el Prof. Domingo Gonzalez Lamuño, en directo webinar #AvancesEIM con @DrIsidroVitoria #EnfermedadesRaras https://t.co/LpIJTaUMtn",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:00:45 +0000 2020",
+"name": "Fundación Dravet",
+"screen_name": "FundacionDravet",
+"text": "@sedenered Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored https://t.co/wMQAybtz27",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:03:40 +0000 2020",
+"name": "Manoli /♥️",
+"screen_name": "AmezcAlvarez",
+"text": "@sedenered Hoy #diainternacionalsindromedravet nos pintamos el alma de morado. Corazón morado para dar a conocer esta enfermedad que afecta a 1 de cada 16.000 nacimientos #enfermedadesraras y para ello anunciamos que nos unimos al #retodravet para este fin de semana.
+ 
+#neurored https://t.co/wMQAybtz27",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:04:40 +0000 2020",
+"name": "Madresfera 🌈",
+"screen_name": "madresfera",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia https://t.co/ts9uIWKqRa",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:08:27 +0000 2020",
+"name": "LaLuchaDeAbril",
+"screen_name": "LaLuchaDeAbril1",
+"text": "Las patatas son mias y no las pienso compartir... ¡¿Ha quedado claro?! 😂
+😂 #enfermedadesraras #spg #abril #paraparesia #espastica #espasticidad #genetica #cromosoma14 #investigacion #rarediseases #minoritydiseases #spg52 #curespg52 #laluchadeabril #rareisnotinvisible https://t.co/4WbXPzBwLb",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:12:07 +0000 2020",
+"name": "Deanna Portero",
+"screen_name": "DeannaPortero",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos sobre el impacto de la pandemia de #coronavirus de @RareDiseasesNet financiada por los @NIH o conozcan más en https://t.co/N2bmbnhGYB @NCATS_NIH_gov #COVID19",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:14:03 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "Todo nuestro  apoyo en el #DiaInternacionalSindromeDravet  @FundacionDravet #xfragilcv #xfragil #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 19:15:01 +0000 2020",
+"name": "Deanna Portero",
+"screen_name": "DeannaPortero",
+"text": "If you helped amplify the NIH @rarediseasesnet COVID-19 study a few weeks ago, please help amplify the availability of Spanish-language materials! #RareDiseases #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 19:20:55 +0000 2020",
+"name": "Ignacio Carrera 🐍",
+"screen_name": "CarreraNacho",
+"text": "Por el día Internacional del Síndrome de Dravet, recordad:
+
+💜",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 19:30:25 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Solo un 2% de niños con #FibrosisQuística cumple las recomendaciones de actividad física siendo este factor uno de los pilares básicos de su manejo. Como en muchas otras #EnfermedadesRaras, la práctica de actividad física es predictor de supervivencia.
+
+https://t.co/XmnqP9CeBl https://t.co/KmvSWmsKmL",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:32:02 +0000 2020",
+"name": "Mariana Gras",
+"screen_name": "marianagras",
+"text": "Un diagnóstico precoz puede salvarles la vida... Conoce el #SíndromedeDravet #dravet #EERR #epilepsia #DiaMundialEnfermedadesRaras https://t.co/6H84SFMvVm",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:37:14 +0000 2020",
+"name": "Mary Carmen Porres #QuédateEnCasa",
+"screen_name": "LaPorres",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:38:44 +0000 2020",
+"name": "V i c k y 🌊",
+"screen_name": "VRedorat",
+"text": "' No me veo tirando petardos, con la muleta y corriendo' #palabrasdemihijo #paraparesiaespastica #EnfermedadesRaras #sanjuan #discapacidad",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:40:15 +0000 2020",
+"name": "iSanidad",
+"screen_name": "isanidad",
+"text": "La falta de reconocimiento de la especialidad de genética clínica “entorpece el acceso equitativo de los pacientes a los diagnósticos genéticos”, según explicó la Dra. Guillén @RetinaSERV @FEDER_ONG @NovartisSpain #EnfermedadesRaras https://t.co/UcgzQwVYYi",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:43:00 +0000 2020",
+"name": "Teresa G Barcala",
+"screen_name": "TereGBarcala",
+"text": "La falta de reconocimiento de la especialidad de genética clínica “entorpece el acceso equitativo de los pacientes a los diagnósticos genéticos”, según explicó la Dra. Guillén @RetinaSERV @FEDER_ONG @NovartisSpain #EnfermedadesRaras https://t.co/UcgzQwVYYi",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:43:12 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/S756OoT7Mn Thanks to @EJPRareDiseases @IMI_JU @MyositisSupport #raredisease #investeuresearch",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 19:53:32 +0000 2020",
+"name": "Carlos Guzman Quilo",
+"screen_name": "GuzmanQCarlos",
+"text": "Solo un 2% de niños con #FibrosisQuística cumple las recomendaciones de actividad física siendo este factor uno de los pilares básicos de su manejo. Como en muchas otras #EnfermedadesRaras, la práctica de actividad física es predictor de supervivencia.
+
+https://t.co/XmnqP9CeBl https://t.co/KmvSWmsKmL",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:04:14 +0000 2020",
+"name": "Investigación Hematología-Oncología",
+"screen_name": "crh_MoralesIMIB",
+"text": "Una buena oportunidad para buscar intereses comunes de investigación entre los grupos @CIBERER y buscar más  colaboraciones. Los grupos @crh_MoralesIMIB y el del Dr V. Mulero son los 2 grupos numerarios pertenecientes a @IMIB_Arrixaca @Murciasalud @FEDER_ONG @FundacionSeneca",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 20:07:24 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Una buena oportunidad para buscar intereses comunes de investigación entre los grupos @CIBERER y buscar más  colaboraciones. Los grupos @crh_MoralesIMIB y el del Dr V. Mulero son los 2 grupos numerarios pertenecientes a @IMIB_Arrixaca @Murciasalud @FEDER_ONG @FundacionSeneca",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 20:11:04 +0000 2020",
+"name": "Lourdes Mesa",
+"screen_name": "Lou_Mesa",
+"text": "Pues me llegan en un día ¡¡especial!! #DiaInternacionalSindromeDravet ¡ya tengo mis boletos para la rifa @RetoDravet en apoyo a #Markel  @FundacionDravet @fimofito #EnfermedadesRaras #CarreraZiordia #AurreraMarkelekin https://t.co/HfPRSFjvLB",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:16:57 +0000 2020",
+"name": "Gin Jones",
+"screen_name": "GiniaJo",
+"text": "This is great -- Spanish-speaking rare disease patients can now contribute to understanding of how Covid-19 affects our communities! Link in the original tweet. I wish our #XLH natural history study app were available in Spanish.",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 20:17:10 +0000 2020",
+"name": "Gin Jones",
+"screen_name": "GiniaJo",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos sobre el impacto de la pandemia de #coronavirus de @RareDiseasesNet financiada por los @NIH o conozcan más en https://t.co/N2bmbnhGYB @NCATS_NIH_gov #COVID19",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:20:40 +0000 2020",
+"name": "jose ramon ramirez",
+"screen_name": "fimofito",
+"text": "Pues me llegan en un día ¡¡especial!! #DiaInternacionalSindromeDravet ¡ya tengo mis boletos para la rifa @RetoDravet en apoyo a #Markel  @FundacionDravet @fimofito #EnfermedadesRaras #CarreraZiordia #AurreraMarkelekin https://t.co/HfPRSFjvLB",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:21:32 +0000 2020",
+"name": "Peter Nieto Mora",
+"screen_name": "nietovippapi",
+"text": "El mundo nos esta dando señales
+Vivamos más y pensemos menos
+.
+.
+.
+#mexico🇲🇽 #temblando #coronavirus #polvodelsahara #avispasasesinas #kawasaki #enfermedadesraras #muerte #discriminacion #guerra #eterosego #gayego… https://t.co/UYdjYUSKXD",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:21:33 +0000 2020",
+"name": "IMIB-Arrixaca",
+"screen_name": "IMIB_Arrixaca",
+"text": "Una buena oportunidad para buscar intereses comunes de investigación entre los grupos @CIBERER y buscar más  colaboraciones. Los grupos @crh_MoralesIMIB y el del Dr V. Mulero son los 2 grupos numerarios pertenecientes a @IMIB_Arrixaca @Murciasalud @FEDER_ONG @FundacionSeneca https://t.co/9U9yxyFq0F",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 20:36:10 +0000 2020",
+"name": "menosRaras",
+"screen_name": "MenosRaras",
+"text": "Sin duda ha sido una excelente Webinar sobre:
+
+👉Acidemias Organicas Metilmalonica y Propionica.
+
+📅 Pronto disponible para los que no pudieron conectarse. 
+👀Avisaremos por aqui.
+
+@Metabolicos_es  @FEDER_ONG
+@InforAliber 
+@DrIsidroVitoria 
+
+#menosRaras #EERR",
+"ReTweet: "True"},
+{"data": "Tue Jun 23 20:39:44 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "“Estamos asumiendo las medidas de desescalada sin ningún tipo de ayuda” 
+
+Juan Carrión, presidente @dgenesmurcia explicó @ORMurcia cómo la pandemia ha afectado y está afectando a #AsociacionesDePacientes con #EnfermedadesRaras (a partir minuto 6)
+
+https://t.co/IXEIu4gWEF https://t.co/bF8w42SQ9b",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:50:46 +0000 2020",
+"name": "Rafael Vázquez Manrique",
+"screen_name": "monkeyplatillos",
+"text": "Un proyecto para mejorar la calidad de vida de personas con #enfermedadesraras lo importante la participación de las personas con enfermedades poco frecuentes.Inscríbete: Registro de Pacientes con Enfermedades Raras @SaludISCIII
+ https://t.co/tY0ifl39ka #ISCIII https://t.co/7tpytfi8Sw",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:52:05 +0000 2020",
+"name": "heidi bjornson",
+"screen_name": "heidibp",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos sobre el impacto de la pandemia de #coronavirus de @RareDiseasesNet financiada por los @NIH o conozcan más en https://t.co/N2bmbnhGYB @NCATS_NIH_gov #COVID19",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 20:56:06 +0000 2020",
+"name": "GrupoOrphar_SEFH",
+"screen_name": "GrupoOrpharSEFH",
+"text": "📌📰¿Quieres estar informado de los avances en la #investigación de las #enfermedadesraras? Suscríbete a nuestro Boletín Social y te lo explicamos con lenguaje divulgativo y te informamos de próximos eventos👉https://t.co/BmuqPiaxuv @FEDER_ONG https://t.co/HV2l3zVeoy",
+"ReTweet: "False"},
+{"data": "Tue Jun 23 21:54:02 +0000 2020",
+"name": "qui es el locu ara?",
+"screen_name": "catalaMaulet",
+"text": "Perfil a seguir",
+"ReTweet: "True"},
