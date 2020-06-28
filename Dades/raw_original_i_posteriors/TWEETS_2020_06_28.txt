@@ -1,0 +1,671 @@
+{"data": "Sat Jun 27 22:01:36 +0000 2020",
+"name": "AnnekeVdWalt",
+"screen_name": "anneke_vdw",
+"text": "We have extended the closing date of our IIH Art Competition. Migraine Art is renowned 
+worldwide, let’s get IIH Art out there for the world to see just how devastating living with IIH can be. #IIHArt #RareDiseaseDay #Working2RelieveThePressure https://t.co/rlunwWhqtX",
+"ReTweet: "False"},
+{"data": "Sat Jun 27 22:16:47 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "#charlas #EnfermedadesRaras  #visibilidadER #chile @emequijada",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 02:40:31 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "🍀Nos reunimos co @fundacionepic , tras el confinamiento, para consolidar nuestra sinergia.
+
+🔸La Fundación se unió a FEDER para impulsar la investigación científica, un aspecto clave para las personas que conviven con #enfermedadesraras
+
+Conoce más aquí: https://t.co/xvGOgrOY2C https://t.co/PNaGosHiHK",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 02:43:30 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 02:57:36 +0000 2020",
+"name": "Antonieta",
+"screen_name": "emequijada",
+"text": "#charlas #EnfermedadesRaras  #visibilidadER #chile @emequijada",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 04:21:28 +0000 2020",
+"name": "Pilar Núñez",
+"screen_name": "Pilarnb2Pilar",
+"text": "@policiademadrid No hace nada con niños borrachos en el #barriodesalamanca @populares @IdiazAyuso #rebrotes #enfermedadesraras #confinamiento",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 05:53:14 +0000 2020",
+"name": "maatute",
+"screen_name": "maaatute",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 05:54:23 +0000 2020",
+"name": "WCI",
+"screen_name": "WaltherCancerIn",
+"text": "Here’s a video we did to show what progressive vision loss can be like due to retinitis pigmentosa associated with USH. (6/)
+
+#RareDiseaseDay #UsherSyndrome #RetinitisPigmentosa #RPAwarenessMonth
+
+Video description: A still image of a girl sitting among flowers getting darker. https://t.co/sktgZ4xdfL",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:17:06 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:18:32 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "El #ISCIII y @FEDER_ONG refuerzan lazos de colaboración para seguir impulsando la investigación en #EnfermedadesRaras.
+@mposada53 
+
+📰 Puedes leerlo en #NoticiasISCIII y consultar la actividad del Instituto de Investigación de Enfermedades Raras ➡️ https://t.co/GSzfoLGjFZ https://t.co/tSatY8OoYP",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:23:33 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "Puedes ver las videoconferencias organizadas por la @AEEsclerodermia con motivo de la celebración del Día Mundial de la #esclerodermia en su canal de YouTube #sclerosmile #DMEsclero20 @Fscleroderma #EnfermedadesRaras
+https://t.co/Ilw9LFY66P",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:24:08 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "La unidad de diagnóstico y tratamiento de enfermedades metabólicas congénitas del Hospital Clínico Universitario de Santiago #CHUS prevé iniciar el próximo semestre el estudio de un nuevo avance para el tratamiento de la #fenilcetonuria #EnfermedadesRaras https://t.co/CtQt6Y1oiF",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:24:36 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:25:06 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": ""Las #EnfermedadesRaras sufren un retraso diagnóstico. Sin embargo, es muy esperanzador que en los últimos años los avances tecnológicos y científicos hayan hecho posible que esta brecha vaya disminuyendo".
+
+Encarna Guillén, pediatra y genetista clínica
+https://t.co/bCHIxEaguy https://t.co/qBt4RfJ0qH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:29:32 +0000 2020",
+"name": "Saludesfera 🌈",
+"screen_name": "saludesferaTW",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia
+ https://t.co/RcvqBX4oZT",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:31:00 +0000 2020",
+"name": "Madresfera 🌈",
+"screen_name": "madresfera",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia
+ https://t.co/RcvqBX4oZT",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:40:40 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 07:43:14 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/yXIrA1fnrv Thanks to @claimesuk #raredisease #wheelchairuser",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 08:01:11 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "Hoy 28 de Junio 2020 Se conmemora el Día Internacional de la Fenilcetonuria. 
+#tamizneonatalampliado #erroresinnatosdelmetabolismo #enfermedadesraras #fenilcetonuria #PKUDay2020 #pkuday https://t.co/aV9bE5ITHH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 08:04:23 +0000 2020",
+"name": "drromeoadalid",
+"screen_name": "drromeoadalid",
+"text": "Hoy 28 de Junio 2020 Se conmemora el Día Internacional de la Fenilcetonuria. 
+#tamizneonatalampliado #erroresinnatosdelmetabolismo #enfermedadesraras #fenilcetonuria #PKUDay2020 #pkuday https://t.co/aV9bE5ITHH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 08:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Durante el confinamiento los padres de niños con #EnfermedadesRaras han tenido que añadir a su “capa” de padres las de terapeuta, profesor o logopeda. @NavarraTV mostró en el caso de Lucía lo que para ellos han supuesto estos meses de encierro en casa.
+https://t.co/D2v1D7tfdZ",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 08:31:19 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 08:36:12 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 08:57:35 +0000 2020",
+"name": "Hannah Santamaria",
+"screen_name": "SantamariHannah",
+"text": "No abes lo que es hasta que lo vives. Ayudame a reunir las firmas en la plataforma Osoigo. Gracias
+https://t.co/YSlRsCyq9w
+#sudeck #enfermedadesraras #enfermedadsilenciosa #dolor #investigacion #sindrome #sdrc #seguimosluchando",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:26:07 +0000 2020",
+"name": "Boys don't cry",
+"screen_name": "DexterMorganbcn",
+"text": "EL NAVEGANTE ⛵️⚓️
+Isabel Gemio: "la búsqueda de la vacuna contra el coronavirus no tiene por qué restar recursos a los proyectos de investigación en #EnfermedadesRaras #Ciencia #Medicina #Salud #televisión #radio #comunicación #COVID19 @FundIsabelGemio 🎥👇https://t.co/J9ePFP5WKV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:29:31 +0000 2020",
+"name": "Ictus Barcelona",
+"screen_name": "ictusbcn",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:37:17 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:43:48 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia
+ https://t.co/RcvqBX4oZT",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:45:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Solo un 2% de niños con #FibrosisQuística cumple las recomendaciones de actividad física siendo este factor uno de los pilares básicos de su manejo. Como en muchas otras #EnfermedadesRaras, la práctica de actividad física es predictor de supervivencia.
+
+https://t.co/XmnqP9CeBl https://t.co/tYYfZwKgp4",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:57:47 +0000 2020",
+"name": "EAVACYL",
+"screen_name": "eavacyl",
+"text": "Merece la pena escuchar esta entrevista.
+
+Gracias Natalia por tu sincera personalidad y tu valentía @RaraMadre",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 09:58:26 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 09:58:53 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "Solo un 2% de niños con #FibrosisQuística cumple las recomendaciones de actividad física siendo este factor uno de los pilares básicos de su manejo. Como en muchas otras #EnfermedadesRaras, la práctica de actividad física es predictor de supervivencia.
+
+https://t.co/XmnqP9CeBl https://t.co/tYYfZwKgp4",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:00:38 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:02:35 +0000 2020",
+"name": "Pedro Soriano 💡Salud Digital 👥 #FFPaciente",
+"screen_name": "soriano_p",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:02:56 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:05:00 +0000 2020",
+"name": "Itziar",
+"screen_name": "Reiferoso",
+"text": "@pelendinez @NoInvisibles @MasVisibles @Init4Health @soriano_p @AGarciaCazorla @eurordis @FEDER_ONG @ffpaciente @maria5sentidos @silviaginies @anajosebb @mapeav75 Genial proyecto . Hay que dar visibilización a las #EnfermedadesRaras y twitter es un buen medio donde aprenden familiares y también el colectivo médico . #TodosSumamos . Estaré atenta 🙌🙌.",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:19:11 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Gracias! Esperamos que os aporte!",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 10:19:41 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:27:26 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:29:35 +0000 2020",
+"name": "Itziar",
+"screen_name": "Reiferoso",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:31:20 +0000 2020",
+"name": "Juan Carlos Ruiz",
+"screen_name": "JuanCarlosRuizR",
+"text": "¡Muchas gracias! @DexterMorganbcn #FelizDomingo #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 10:46:31 +0000 2020",
+"name": "Itziar",
+"screen_name": "Reiferoso",
+"text": "Gracias! Esperamos que os aporte!",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 10:51:40 +0000 2020",
+"name": "FSHD España",
+"screen_name": "fshd_spain",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 10:57:28 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 11:01:16 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "🍀 “El trébol de cuatro hojas”, una iniciativa @FEDER_ONG para concienciar a los más pequeños sobre las #EnfermedadesRaras. 
+
+📖 Puedes descargarte este cuento aquí
+https://t.co/Ql4ozKQVGe https://t.co/fWxTSexRgJ",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 11:07:31 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "🍀 “El trébol de cuatro hojas”, una iniciativa @FEDER_ONG para concienciar a los más pequeños sobre las #EnfermedadesRaras. 
+
+📖 Puedes descargarte este cuento aquí
+https://t.co/Ql4ozKQVGe https://t.co/fWxTSexRgJ",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 11:24:19 +0000 2020",
+"name": "Fútbol preferente da costa",
+"screen_name": "Futbolpreferen",
+"text": "No abes lo que es hasta que lo vives. Ayudame a reunir las firmas en la plataforma Osoigo. Gracias
+https://t.co/YSlRsCyq9w
+#sudeck #enfermedadesraras #enfermedadsilenciosa #dolor #investigacion #sindrome #sdrc #seguimosluchando",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 11:32:31 +0000 2020",
+"name": "El tal Toni 🎗#JoActuo #LlibertatPresosPolitics",
+"screen_name": "terratremol66",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 11:45:32 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Hoy 28 de junio es el Día Internacional de la #Fenilcetonuria o #PKU #piensaenmetabolico
+#pkuday #diametabolico #SinProChallenge #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 12:01:04 +0000 2020",
+"name": "Metabolicos.es",
+"screen_name": "Metabolicos_es",
+"text": "La comunidad de las enfermedades raras siempre unidos!!
+ #sinprochallenge #diametabolico #pkuday  #PKUDay2020",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 12:02:53 +0000 2020",
+"name": "Oscar Zurriaga",
+"screen_name": "ozurri",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 12:08:18 +0000 2020",
+"name": "Ainhoa",
+"screen_name": "Ainfusa_8",
+"text": "La comunidad de las enfermedades raras siempre unidos!!
+ #sinprochallenge #diametabolico #pkuday  #PKUDay2020",
+"ReTweet: "True"},
+{"data": "Sun Jun 28 12:18:56 +0000 2020",
+"name": "Ce",
+"screen_name": "Celia_Jorda3",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 12:45:39 +0000 2020",
+"name": "DEIA",
+"screen_name": "deia_eus",
+"text": "Maratón solidario en #Amurrio 
+
+✅ SpiderAbel correrá 42 kilómetros en solitario para recaudar fondos para @aefat
+
+✅ La ataxia telangiectasia es una enfermedad rara y neurodegenerativa que no tiene cura ni tratamiento
+https://t.co/t1AEN5vugm #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 12:53:41 +0000 2020",
+"name": "Lander Balza",
+"screen_name": "LanderBalza",
+"text": "Maratón solidario en #Amurrio 
+
+✅ SpiderAbel correrá 42 kilómetros en solitario para recaudar fondos para @aefat
+
+✅ La ataxia telangiectasia es una enfermedad rara y neurodegenerativa que no tiene cura ni tratamiento
+https://t.co/t1AEN5vugm #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 12:58:10 +0000 2020",
+"name": "Mas Visibles",
+"screen_name": "MasVisibles",
+"text": "@pelendinez @NoInvisibles @MasVisibles @Init4Health @soriano_p @AGarciaCazorla @eurordis @FEDER_ONG @ffpaciente @maria5sentidos @silviaginies @anajosebb @mapeav75 Genial proyecto . Hay que dar visibilización a las #EnfermedadesRaras y twitter es un buen medio donde aprenden familiares y también el colectivo médico . #TodosSumamos . Estaré atenta 🙌🙌.",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 12:58:15 +0000 2020",
+"name": "Mas Visibles",
+"screen_name": "MasVisibles",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 12:59:41 +0000 2020",
+"name": "ybarralde",
+"screen_name": "ybarralde",
+"text": "Maratón solidario en #Amurrio 
+
+✅ SpiderAbel correrá 42 kilómetros en solitario para recaudar fondos para @aefat
+
+✅ La ataxia telangiectasia es una enfermedad rara y neurodegenerativa que no tiene cura ni tratamiento
+https://t.co/t1AEN5vugm #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 13:32:50 +0000 2020",
+"name": "Victoria Cuerda",
+"screen_name": "cuerdav",
+"text": "🍀 “El trébol de cuatro hojas”, una iniciativa @FEDER_ONG para concienciar a los más pequeños sobre las #EnfermedadesRaras. 
+
+📖 Puedes descargarte este cuento aquí
+https://t.co/Ql4ozKQVGe https://t.co/fWxTSexRgJ",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 13:35:32 +0000 2020",
+"name": "Conociendo a Wally",
+"screen_name": "ConociendoaWall",
+"text": "🍀 “El trébol de cuatro hojas”, una iniciativa @FEDER_ONG para concienciar a los más pequeños sobre las #EnfermedadesRaras. 
+
+📖 Puedes descargarte este cuento aquí
+https://t.co/Ql4ozKQVGe https://t.co/fWxTSexRgJ",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 13:40:15 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": ""Las #EnfermedadesRaras sufren un retraso diagnóstico. Sin embargo, es muy esperanzador que en los últimos años los avances tecnológicos y científicos hayan hecho posible que esta brecha vaya disminuyendo".
+
+Encarna Guillén, pediatra y genetista clínica
+https://t.co/bCHIxEaguy https://t.co/qBt4RfJ0qH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 13:51:04 +0000 2020",
+"name": "María Ramírez Sánchez",
+"screen_name": "lovenursingmery",
+"text": "#PacienteExperto con Natalia @RaraMadre #EnfermedadesRaras #Esclerodermia
+ https://t.co/RcvqBX4oZT",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 13:51:31 +0000 2020",
+"name": "Maria Jose Salgado R",
+"screen_name": "mjsvrn",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 14:03:32 +0000 2020",
+"name": "Josune Irabien",
+"screen_name": "josune_irabien",
+"text": "Maratón solidario en #Amurrio 
+
+✅ SpiderAbel correrá 42 kilómetros en solitario para recaudar fondos para @aefat
+
+✅ La ataxia telangiectasia es una enfermedad rara y neurodegenerativa que no tiene cura ni tratamiento
+https://t.co/t1AEN5vugm #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 14:05:04 +0000 2020",
+"name": "ORDR",
+"screen_name": "ORDR",
+"text": "¿Cómo afecta la pandemia de #coronavirus a pacientes con #EnfermedadesRaras? Pacientes y cuidadores: completen esta encuesta de 20 minutos de @rarediseasesnet financiada por @NIH  y obtengan más información en https://t.co/mhSU03FtDH #COVID19 https://t.co/NeuvNzEg6y",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 14:52:16 +0000 2020",
+"name": "Antoni Montserrat Moliner",
+"screen_name": "ToniMontserratM",
+"text": "Algunos datos sobre #EnfermedadesRaras que muchos desconocen:
+
+👉90% no cuentan con tratamiento específico
+👉65% son graves e invalidantes
+👉50% de pacientes reciben al menos un diagnóstico incorrecto 
+👉50% no se conocen todavía los genes responsables
+https://t.co/6n6Y6o1pF2",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 15:28:58 +0000 2020",
+"name": "Chiruca",
+"screen_name": "chirucadq",
+"text": "La Asociación "Yo Nemalínica" suma 34.000 euros al proyecto de #investigación liderado por el profesor Sánchez Alcázar, centrado en la búsqueda de nuevos tratamientos para las #miopatías congénitas. https://t.co/sL17mrsiO2
+#enfermedadesraras #SinCienciaNoHayFuturo https://t.co/Qwr0yCLG6J",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 16:03:30 +0000 2020",
+"name": "Ramona Espinosa",
+"screen_name": "RamonaEspinosaE",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 16:14:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "#MovimientoAsociativo Cómo afecta la desinfección para el coronavirus a las #enfermedadesraras  como la Sensibilidad Química Multiple
+
+🔸 Descúbrelo aquí: https://t.co/tkWqSFQgxT https://t.co/GstdUfIcnS",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 16:47:27 +0000 2020",
+"name": "Xènia Aranda",
+"screen_name": "XeniaAranda",
+"text": "¿Eres paciente de enfermedad minoritaria o familiar y te gustaría aportar tu grano de arena a su investigación? 
+4 estudios @Share4Rare_es en los que puedes participar. Entre otros
+Calidad de vida en #EnfermedadesRaras
+Carga de pacientes no diagnósticados
+https://t.co/xw38Ygznqb https://t.co/wwfn6Q1iUU",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 18:33:38 +0000 2020",
+"name": "rosa",
+"screen_name": "rosadomenech51",
+"text": ""Las #EnfermedadesRaras sufren un retraso diagnóstico. Sin embargo, es muy esperanzador que en los últimos años los avances tecnológicos y científicos hayan hecho posible que esta brecha vaya disminuyendo".
+
+Encarna Guillén, pediatra y genetista clínica
+https://t.co/bCHIxEaguy https://t.co/qBt4RfJ0qH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 19:10:47 +0000 2020",
+"name": "Ana José Bravo #PonteMascarilla",
+"screen_name": "anajosebb",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 19:43:11 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/OyT9LOH0ss Thanks to @CciSeattle @theartofwoo @KnoppBio #raredisease #careaboutrare",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 20:23:56 +0000 2020",
+"name": "G-Security",
+"screen_name": "CodemiaE",
+"text": "Ya comenzó #8punto8solidaria 🙌
+Conferencia de #ciberseguridad que cuenta con expositores de varias partes del mundo.
+Todo lo que recaudemos hoy será para la fundación @CureAHC #Chile 🙌
+Puedes participar y donar en el siguiente link:
+https://t.co/FYFiMgW2W2
+#EnfermedadesRaras https://t.co/QgM87Fg9pK",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 20:28:12 +0000 2020",
+"name": "Lia Ruesta",
+"screen_name": "lia_bea",
+"text": "#MovimientoAsociativo Cómo afecta la desinfección para el coronavirus a las #enfermedadesraras  como la Sensibilidad Química Multiple
+
+🔸 Descúbrelo aquí: https://t.co/tkWqSFQgxT https://t.co/GstdUfIcnS",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 20:36:04 +0000 2020",
+"name": "Wanderlust en Nueva Normalidad",
+"screen_name": "AngekMGV",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 20:36:52 +0000 2020",
+"name": "Neus",
+"screen_name": "Neus22067453",
+"text": "Los genes, que se encuentran en nuestras células, juegan un papel muy importante en nuestra salud.
+
+En este artículo hablamos de #innovación a través de las terapias génicas y su importancia en el tratamiento de #EnfermedadesRaras de la visión.
+https://t.co/fncSFz9w3U https://t.co/DKh4EL9vii",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:01:50 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:03:30 +0000 2020",
+"name": "Conchita Travesedo 🖤",
+"screen_name": "ConchaTravesedo",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:17:49 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:21:09 +0000 2020",
+"name": "María #Vivircondolor",
+"screen_name": "dolor_mas",
+"text": "#366DiasDeEERR #masvisibles está preparando un mes de Julio lleno de sorpresas.
+
+Espero que de verdad os gusten y nos ayudeis a hacer cada día @MasVisibles las #EnfermedadesRaras 
+
+Con la inestimable colaboración de @Init4Health https://t.co/BOPgQjZ6dH",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:43:35 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:55:42 +0000 2020",
+"name": "Phoebe Hudson",
+"screen_name": "PhoebeH62970907",
+"text": "TOMORROW IS #RareDiseaseDay!
+
+What do you have planned for the day? Visit https://t.co/54vIkznn6J to find out what others are up to! https://t.co/ywanZCe9wK",
+"ReTweet: "False"},
+{"data": "Sun Jun 28 21:58:53 +0000 2020",
+"name": "Mº Esther Cámara",
+"screen_name": "MEstherCmara",
+"text": "❓¿Quieres conocer más sobre la realidad de las personas con #enfermedadesraras?
+
+🔹Te invitamos, junto a @RarasReales a la inauguración virtual del concurso #EResarte
+
+🔸Acompáñanos el 2 de julio a las 17:00h
+
+✏️Inscríbete: https://t.co/TmHiI3DBQB https://t.co/CggwaNiEMV",
+"ReTweet: "False"},
