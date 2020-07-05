@@ -1,0 +1,542 @@
+{"data": "Sat Jul 04 22:14:12 +0000 2020",
+"name": "AG.Bcn",
+"screen_name": "bcn_ag",
+"text": "Hoy añadimos un recurso nuevo de formación para pacientes. La Eurordis Open Academy. Los pacientes son expertos en sus enfermedades y tienen una valiosa contribución para la investigación, políticas y servicios. Sobre todo en #EnfermedadesRaras
+
+#366DiasdeEERR #masvisibles https://t.co/r8SZaDDLtl",
+"ReTweet: "False"},
+{"data": "Sat Jul 04 22:18:46 +0000 2020",
+"name": "Davi",
+"screen_name": "DBCN0",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sat Jul 04 22:22:04 +0000 2020",
+"name": "SusanMcDonaldGaddy",
+"screen_name": "McGaddy",
+"text": "Several of our @NIH friends like @ncats_nih_gov director Dr. Austin, @NIHClinicalCntr director Dr. Gilman, @ORDR staff, &amp; more, recently visited &amp; served dinner to our families. Tomorrow, we're partnering with our @NIH friends for #RareDiseaseDay. Join us: https://t.co/aPikKS5xXj https://t.co/0Bhpw05mh3",
+"ReTweet: "False"},
+{"data": "Sat Jul 04 22:35:41 +0000 2020",
+"name": "Miriam Sanchez Escamilla",
+"screen_name": "MSanchezEscamil",
+"text": "En #Share4Rare estamos creando un registro de pacientes para comprender mejor cómo afecta la #covid19 a personas con #enfermedadesraras o no diagnosticadas.
+
+¡Ayúdanos a investigar cómo el nuevo coronavirus afecta a los más vulnerables! https://t.co/DKJNDkVSkM ⬅️ #kidscorona https://t.co/QDDBfxLtRe",
+"ReTweet: "False"},
+{"data": "Sat Jul 04 22:50:28 +0000 2020",
+"name": "Debbi Giroux",
+"screen_name": "DebbiAnneWalton",
+"text": "What to look for
+
+#progressivesupranuclearpalsy #progressivesupranuclearpalsyassociation #raredisease #rarediseaseawareness #rarediseaseday #rarediseases @raredisorders @RareChannels @RareDiseaseLive @RareAdvocates @rarediseasefdn https://t.co/VvmSv9LJnt",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 00:26:43 +0000 2020",
+"name": "Mayte Navarro",
+"screen_name": "Espritulibre191",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 00:30:02 +0000 2020",
+"name": "Francisca lopez",
+"screen_name": "lopez_fln42",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 01:17:14 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "Una gran noticia!! Enhorabuena @LluisMontoliu  nos alegramos mucho de tu nombramiento.#xfragilcv
+#xfragil  #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 01:39:47 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Siento una alegría enorme por la elección  de @LluisMontoliu  como Presidente del Comité  de Ética  del CSIC.@Xfragil_CV @FEDER_ONG   #ASPAYMCV  #PredifCV #Ética #EnfermedadesRaras #Investigación",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 02:36:03 +0000 2020",
+"name": "Fundación Niñ@ Lobo",
+"screen_name": "FundacionNLobo",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 06:27:07 +0000 2020",
+"name": "Sonia Cisneros",
+"screen_name": "S_C_E_",
+"text": "Ya puedes ver la expo de #EResArte!
+Vía @SanofiES en👉https://t.co/Gz69GLriEy
+2⃣9⃣fotos mostrando la realidad de las personas con #EnfermedadesRaras 
+3⃣conceptos: esperanza, superación y unión
+2⃣categorías: asociativa e individual
+Las #EERR @MasVisibles
+https://t.co/cioYWTQZXX",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 06:35:27 +0000 2020",
+"name": "Nata",
+"screen_name": "nata_madrid",
+"text": "@SaludMadrid Sería importante hacerlo también el la Comunidad d Madrid.
+No al abandono de pacientes con #enfermedadesraras.
+@LupusMadrid 
+@FEDER_ONG 
+@IdiazAyuso",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 06:44:29 +0000 2020",
+"name": "UefhHuntington",
+"screen_name": "UefhHuntington",
+"text": "📸 Capacidad, Comunicación, Emoción, Optimismo, Superación, Concienciación... Así describen en 1 palabra la iniciativa #EResArte los finalistas de este concurso fotográfico para visibilizar las #EnfermedadesRaras. 
+
+Y a ti ¿qué palabra te inspira? 
+
+👁️👉https://t.co/w8ChsntNDe https://t.co/8wW5P1UlBo",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:00:00 +0000 2020",
+"name": "GNDiario",
+"screen_name": "gndiario_es",
+"text": "La familia de un niño malagueño ha puesto en marcha 'Todo por Antonio' para dar visibilidad a la enfermedad de su hijo y recibir apoyo para acudir a las visitas médica y a las terapias.
+
+#EnfermedadesRaras #ODS3 #ODS17
+
+https://t.co/l52plgOcPR",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:09:52 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "📸 Capacidad, Comunicación, Emoción, Optimismo, Superación, Concienciación... Así describen en 1 palabra la iniciativa #EResArte los finalistas de este concurso fotográfico para visibilizar las #EnfermedadesRaras. 
+
+Y a ti ¿qué palabra te inspira? 
+
+👁️👉https://t.co/w8ChsntNDe https://t.co/8wW5P1UlBo",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:10:53 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Ya puedes ver la expo de #EResArte!
+Vía @SanofiES en👉https://t.co/Gz69GLriEy
+2⃣9⃣fotos mostrando la realidad de las personas con #EnfermedadesRaras 
+3⃣conceptos: esperanza, superación y unión
+2⃣categorías: asociativa e individual
+Las #EERR @MasVisibles
+https://t.co/cioYWTQZXX",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:17:18 +0000 2020",
+"name": "Luis Miguel Aras MD",
+"screen_name": "luismiaras",
+"text": "106.100  € invertidas por ApoyoDravet 1º semestre 2020  #promocióneconómicaproyectoscientíficos.
+
+67.400 directas.
+25.000  club inversores  @Indrenetwork.
+13.700  patrocinios terceros directos a proyectos por acción @apoyodravet
+#dravet #enfermedadesraras 
+ @Indrenetwork",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:43:15 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/HEMR7HbnwX Thanks to @OnceUponAGene @ZealAccess @CatoResearch #raredisease #chronicillness",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:47:31 +0000 2020",
+"name": "Soria Noticias",
+"screen_name": "sorianoticias",
+"text": "La Junta de  Castilla y León potencia la labor del @IECSCYL en el ámbito de investigación #enfermedadesraras y oncológicas en Castilla y León.
+https://t.co/H4mNSgrgRE a través de @sorianoticias",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:50:50 +0000 2020",
+"name": "Laura Cebrián",
+"screen_name": "Lorasshopper",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:50:54 +0000 2020",
+"name": "Raquel Amigo",
+"screen_name": "amigo_raquel",
+"text": "Silencio. Se rueda. #DeSedaYHierro #EnfermedadesRaras https://t.co/wOUFA8T29e",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:51:14 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Silencio. Se rueda. #DeSedaYHierro #EnfermedadesRaras https://t.co/wOUFA8T29e",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 07:52:49 +0000 2020",
+"name": "menosRaras",
+"screen_name": "MenosRaras",
+"text": "Guía para Pacientes con Acromegalia de la @sociedadSEEN sobre las Comorbilidades, por ejemplo:
+
+👉 Corazón 
+👉 Tiroides
+👉 Pulmones
+👉 Colon
+
+@Acromegalia_Esp
+
+#menosRaras #acromegalia #EERR #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 07:57:00 +0000 2020",
+"name": "Pfizer España",
+"screen_name": "pfizer_spain",
+"text": "Aproximadamente el 80% de las #EnfermedadesRaras están producidas por una alteración en el material hereditario y en muchas ocasiones no hay antecedentes familiares, lo que complica su diagnóstico
+
+Nos lo explican en @genotipia
+
+👉🏻https://t.co/XDJHC8SXGz https://t.co/G6hNKjLhsM",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 08:06:27 +0000 2020",
+"name": "Lara C",
+"screen_name": "LaraC43952928",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 08:15:59 +0000 2020",
+"name": "Duchenne Parent Project España",
+"screen_name": "DPPSpain",
+"text": "Aproximadamente el 80% de las #EnfermedadesRaras están producidas por una alteración en el material hereditario y en muchas ocasiones no hay antecedentes familiares, lo que complica su diagnóstico
+
+Nos lo explican en @genotipia
+
+👉🏻https://t.co/XDJHC8SXGz https://t.co/G6hNKjLhsM",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 08:18:04 +0000 2020",
+"name": "Jose Ramon Padin",
+"screen_name": "JoseRPadin",
+"text": "Guía para Pacientes con Acromegalia de la @sociedadSEEN sobre las Comorbilidades, por ejemplo:
+
+👉 Corazón 
+👉 Tiroides
+👉 Pulmones
+👉 Colon
+
+@Acromegalia_Esp
+
+#menosRaras #acromegalia #EERR #EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 08:59:49 +0000 2020",
+"name": "EpidemiXs",
+"screen_name": "EpidemiXs",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 08:59:53 +0000 2020",
+"name": "Ana Vallejo",
+"screen_name": "avallejo_",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 09:00:45 +0000 2020",
+"name": "ALCE Epilepsia",
+"screen_name": "ALCEEpilepsia",
+"text": "Buenas cifras a pesar delpalo presupuestario covid. Seguimos #promocionciencia #curadravet #curaepilepsiarefractaria https://t.co/Av95J5w0PU",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 09:19:08 +0000 2020",
+"name": "Begoña Martin",
+"screen_name": "bmartincastillo",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 09:20:30 +0000 2020",
+"name": "Lua222",
+"screen_name": "LauraMa86481471",
+"text": "Hoy añadimos un recurso nuevo de formación para pacientes. La Eurordis Open Academy. Los pacientes son expertos en sus enfermedades y tienen una valiosa contribución para la investigación, políticas y servicios. Sobre todo en #EnfermedadesRaras
+
+#366DiasdeEERR #masvisibles https://t.co/r8SZaDDLtl",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 09:20:46 +0000 2020",
+"name": "@50provincias",
+"screen_name": "50provincias",
+"text": "Desde @50provincias colaboramos con el reto #KmsporlaInvestigacionenEERR y os pedimos vuestra colaboración para dar difusión y pedir colaboración. 
+Cualquier aportación es bienvenida. 
+
+https://t.co/Acn0NGcXbE
+
+Hay que hacer #masvisibles las #EnfermedadesRaras con #366DiasdeEERR",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 09:21:24 +0000 2020",
+"name": "CurroGarciaMusicales",
+"screen_name": "currogarciamusi",
+"text": "#GoodMorningWorld Hoy 5 de Julio es el  #DiaInternacionalPHP Hoy nos hacemos más visibles, queremos aumentar la investigación, mejorar la atención sanitaria, por mucho motivos.
+#EnfermedadesRaras 
+Colabora, comparte... https://t.co/GmMqmTZX1Q @FEDER_ONG https://t.co/XzRlCrg0Di",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 09:41:34 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Silencio. Se rueda. #DeSedaYHierro #EnfermedadesRaras https://t.co/wOUFA8T29e",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 09:47:17 +0000 2020",
+"name": "ACHUMBERTODASILVA",
+"screen_name": "dasilvahumberto",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 10:32:40 +0000 2020",
+"name": "Hope for Hasti",
+"screen_name": "brannigan001",
+"text": "Thanks @Skentelbery @BBCCornwall for the interview about my 700 mile BAREFOOT trek for #HopeforHasti to raise fund for a gene therapy for CdLS and raise awareness of inadequate rare disease provision in the U.K. https://t.co/QISbAUjMF6 #cornwall #RareDiseaseday #genetherapy",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 10:43:00 +0000 2020",
+"name": "Iris Ontavilla",
+"screen_name": "iris_ontavilla",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 10:53:00 +0000 2020",
+"name": "#SoyDisOrganic",
+"screen_name": "soydisorganic",
+"text": "@FEDER_ONG #MovimientoAsociativo hoy más que nunca 💪🏽 #Investigación en #EnfermedadesRaras #EERR",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 11:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Federación Española de #EnfermedadesRaras cumple 20 años defendiendo los derechos de personas y familias que conviven con una enfermedad poco frecuente. Todo empezó con la iniciativa y el empeño de varias familias. Lo explica este video conmemorativo.
+https://t.co/l8iGDwsOlg",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 11:25:43 +0000 2020",
+"name": "Verónica 💣🎺",
+"screen_name": "veronicamalaina",
+"text": "En casos como Sanfilippos, la detección precoz del síndrome es crucial en el futuro desarrollo de los niños. 💪👩‍🔬 #Stopsanfilippo #EnfermedadesRaras
+https://t.co/GfIcwqV3Fi",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 12:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Técnicas de secuenciación masiva y bioinformática permiten importantes avances en el diagnóstico de #EnfermedadesRaras. La incorporación de estas herramientas permite @HospitalUVRocio multiplicar por 10 esta capacidad en los últimos 3 años.
+https://t.co/oVEoqfFULz",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 12:30:08 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "Técnicas de secuenciación masiva y bioinformática permiten importantes avances en el diagnóstico de #EnfermedadesRaras. La incorporación de estas herramientas permite @HospitalUVRocio multiplicar por 10 esta capacidad en los últimos 3 años.
+https://t.co/oVEoqfFULz",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 13:15:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Selene, una niña con Pierre Robin, es protagonista de “Los niños de luz”, un libro para visibilizar las #EnfermedadesRaras y para “hacer ver a la sociedad que estos niños existen, y que no por mirar a un lado o ignorarlos van a dejar de existir”.
+https://t.co/yfBqjTDRa7",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 13:18:06 +0000 2020",
+"name": "V i c k y 🌊",
+"screen_name": "VRedorat",
+"text": "#raraeslaenfermedad #hazlasvisibles #enfermedadesraras #rarediseases",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 13:32:42 +0000 2020",
+"name": "José Luis Moyano",
+"screen_name": "NicksNames",
+"text": "Técnicas de secuenciación masiva y bioinformática permiten importantes avances en el diagnóstico de #EnfermedadesRaras. La incorporación de estas herramientas permite @HospitalUVRocio multiplicar por 10 esta capacidad en los últimos 3 años.
+https://t.co/oVEoqfFULz",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 13:38:35 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Desde @50provincias colaboramos con el reto #KmsporlaInvestigacionenEERR y os pedimos vuestra colaboración para dar difusión y pedir colaboración. 
+Cualquier aportación es bienvenida. 
+
+https://t.co/Acn0NGcXbE
+
+Hay que hacer #masvisibles las #EnfermedadesRaras con #366DiasdeEERR",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 13:45:12 +0000 2020",
+"name": "🐶💛",
+"screen_name": "moreno1873",
+"text": "Hoy añadimos un recurso nuevo de formación para pacientes. La Eurordis Open Academy. Los pacientes son expertos en sus enfermedades y tienen una valiosa contribución para la investigación, políticas y servicios. Sobre todo en #EnfermedadesRaras
+
+#366DiasdeEERR #masvisibles https://t.co/r8SZaDDLtl",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 14:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "👉 Fármacos para #EnfermedadesRaras autorizados por la EMA antes del año 2000 = 8
+👉 Disponibles en 2019 = 169 para +100 diferentes dolencias
+
+@Farmaindustria señala los avances que se han conseguido en #MedicamentosHuérfanos en los últimos 20 años
+https://t.co/BKmZoQuFXP",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 14:25:07 +0000 2020",
+"name": "SOMOS GENES",
+"screen_name": "somos_genes",
+"text": "Los pacientes de #EnfermedadesRaras pasan una odisea diagnostica de un promedio de 5 años para encontrar un diagnostico, y el 80% no tendran un tratamiento. #SinCienciaNoHayFuturoParaNadie Nos queda muchisimo por descubrir, por entender, para llegar a dar respuestas utiles!",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 14:40:40 +0000 2020",
+"name": "Somosdisc@",
+"screen_name": "somosdisca",
+"text": "Hoy se conmemora el día de la concienciación del pseudohipoparatiroidismo
+El #pseudohipoparatiroidismo es un trastorno genético raro o poco frecuente que se parece al hipoparatiroidismo,niveles bajos de hormona paratiroidea #enfermedadesraras #discapacidad https://t.co/I4crDVWw9C",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 15:03:47 +0000 2020",
+"name": "josé morán llamas",
+"screen_name": "wiriminijaus",
+"text": "Registro Internacional de pacientes con enfermedades poco frecuentes que hayan padecido el #COVIDー19.¡Ayúdanos a difundir esta iniciativa de @Share4Rare_es con un RT!
+Haz que la ciencia avance en #EnfermedadesRaras y la #pandemia actual.
+https://t.co/Y2yUfRiwKw https://t.co/Pa296gPJQ9",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 15:26:15 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "Técnicas de secuenciación masiva y bioinformática permiten importantes avances en el diagnóstico de #EnfermedadesRaras. La incorporación de estas herramientas permite @HospitalUVRocio multiplicar por 10 esta capacidad en los últimos 3 años.
+https://t.co/oVEoqfFULz",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 16:04:35 +0000 2020",
+"name": "Ana",
+"screen_name": "Molletillo",
+"text": "Hoy se conmemora el día de la concienciación del pseudohipoparatiroidismo
+El #pseudohipoparatiroidismo es un trastorno genético raro o poco frecuente que se parece al hipoparatiroidismo,niveles bajos de hormona paratiroidea #enfermedadesraras #discapacidad https://t.co/I4crDVWw9C",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 17:40:29 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Esta semana se ha celebrado la Reunión Anual del Centro de Investigación Biomédica en Red de Enfermedades Raras @CIBERER #RACIBERER2020.
+
+📰➡️ ¿Qué avances y retos científicos y qué líneas de investigación hay en #enfermedadesraras? https://t.co/PcTltSJfm4 https://t.co/VijmdPU4JN",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 17:41:32 +0000 2020",
+"name": "zo🌻",
+"screen_name": "zoemoorexxx",
+"text": "okay might actually enter",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 17:41:52 +0000 2020",
+"name": "DM1 - Steinert",
+"screen_name": "DM1Steinert",
+"text": "Esta semana se ha celebrado la Reunión Anual del Centro de Investigación Biomédica en Red de Enfermedades Raras @CIBERER #RACIBERER2020.
+
+📰➡️ ¿Qué avances y retos científicos y qué líneas de investigación hay en #enfermedadesraras? https://t.co/PcTltSJfm4 https://t.co/VijmdPU4JN",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:05:57 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/1hJSUWtK3I Gracias a @MPSpapas @pfizer_spain @retinosis #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:23:11 +0000 2020",
+"name": "Emma Stokes-Heley",
+"screen_name": "emma_heley",
+"text": "Thanks @Skentelbery @BBCCornwall for the interview about my 700 mile BAREFOOT trek for #HopeforHasti to raise fund for a gene therapy for CdLS and raise awareness of inadequate rare disease provision in the U.K. https://t.co/QISbAUjMF6 #cornwall #RareDiseaseday #genetherapy",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:30:16 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:31:31 +0000 2020",
+"name": "Lore_?",
+"screen_name": "_lore_l",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:33:51 +0000 2020",
+"name": "Romy Rossich",
+"screen_name": "RRossich",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:36:49 +0000 2020",
+"name": "Laura de Esteban",
+"screen_name": "Larala311",
+"text": "👉 Fármacos para #EnfermedadesRaras autorizados por la EMA antes del año 2000 = 8
+👉 Disponibles en 2019 = 169 para +100 diferentes dolencias
+
+@Farmaindustria señala los avances que se han conseguido en #MedicamentosHuérfanos en los últimos 20 años
+https://t.co/BKmZoQuFXP",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:48:36 +0000 2020",
+"name": "Lia Ruesta",
+"screen_name": "lia_bea",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 18:55:25 +0000 2020",
+"name": "leo mazzitelli 🇪🇺",
+"screen_name": "leomazzitelli",
+"text": "Il presidente, @nzingaretti condivide insieme agli assessori Alessio D'Amato, @GiovannaPug e @SartoreregLazio
+ la campagna #showyoursupport per la #giornatadellemalattierare #rarediseaseday https://t.co/9nFtoQGJfH",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 19:35:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras que afectan a la vista como la retinosis pigmentaria, la enfermedad de Stargardt o la aniridia son ejemplo del desconocimiento que todavía existe sobre este tipo de dolencias pese al importante impacto que tienen en las personas.
+
+https://t.co/jYSEkL0XCF https://t.co/Ne3JNzJfJ3",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 19:38:00 +0000 2020",
+"name": "UNODETANTOS",
+"screen_name": "fabiovegarobino",
+"text": "#EnfermedadesRaras que afectan a la vista como la retinosis pigmentaria, la enfermedad de Stargardt o la aniridia son ejemplo del desconocimiento que todavía existe sobre este tipo de dolencias pese al importante impacto que tienen en las personas.
+
+https://t.co/jYSEkL0XCF https://t.co/Ne3JNzJfJ3",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 19:39:46 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "#EnfermedadesRaras que afectan a la vista como la retinosis pigmentaria, la enfermedad de Stargardt o la aniridia son ejemplo del desconocimiento que todavía existe sobre este tipo de dolencias pese al importante impacto que tienen en las personas.
+
+https://t.co/jYSEkL0XCF https://t.co/Ne3JNzJfJ3",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 19:43:13 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/7Pf7BvrprF Thanks to @aHUSAllianceAct @wearesrna #raredisease #systemicsclerosis",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 20:05:26 +0000 2020",
+"name": "CIBERER",
+"screen_name": "CIBERER",
+"text": "Esta semana se ha celebrado la Reunión Anual del Centro de Investigación Biomédica en Red de Enfermedades Raras @CIBERER #RACIBERER2020.
+
+📰➡️ ¿Qué avances y retos científicos y qué líneas de investigación hay en #enfermedadesraras? https://t.co/PcTltSJfm4 https://t.co/VijmdPU4JN",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 20:14:54 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "#EnfermedadesRaras que afectan a la vista como la retinosis pigmentaria, la enfermedad de Stargardt o la aniridia son ejemplo del desconocimiento que todavía existe sobre este tipo de dolencias pese al importante impacto que tienen en las personas.
+
+https://t.co/jYSEkL0XCF https://t.co/Ne3JNzJfJ3",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 20:31:20 +0000 2020",
+"name": "Julia Vero Rmz Miram",
+"screen_name": "JuliVerRM",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 20:35:31 +0000 2020",
+"name": "Ser y Humano",
+"screen_name": "SeryHumano",
+"text": "Síndrome de Rubinstein-Taybi o “síndrome de los pulgares anchos” https://t.co/MyWNrkOjGc a través de @seryhumano #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 20:39:07 +0000 2020",
+"name": "FUNDACION LIBELLAS NALCN ion channel",
+"screen_name": "Libellas_NALCN",
+"text": "El 80% de enfermedades raras debutan en la edad pediátrica. https://t.co/bsDnyvIu6g.  #enfermedadesraras #rarediseases #testgeneticos",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 20:42:09 +0000 2020",
+"name": "Nata",
+"screen_name": "nata_madrid",
+"text": "Vengaaaaa, que se puede!!!!!
+💪🏻💪🏻💪🏻💪🏻 @sacalenguaELA @FEDER
+@ELA_ANDALUCIA 
+#enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Sun Jul 05 21:47:30 +0000 2020",
+"name": "FMF ESPAÑA",
+"screen_name": "FMFSPAIN",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 05 21:49:17 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
