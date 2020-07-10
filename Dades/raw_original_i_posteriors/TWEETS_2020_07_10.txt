@@ -1,0 +1,633 @@
+{"data": "Thu Jul 09 22:00:01 +0000 2020",
+"name": "Leyendas 2020",
+"screen_name": "8dot8",
+"text": "⚠️Liberamos la 1ra jornada de #8punto8Solidaria 2020 que fue en ayuda de @CureAHC #Chile #EnfermedadesRaras💖
+
+⭐Conferencia #Hacker #Solidaria de lujo 🏴‍☠️
+
+👉Aquí la pueden ver: https://t.co/7sZOoxoA0S
+
+#Hack2Covid 
+Próximas conferencias:
+#8punto8Junior 15/7
+#8punto8Sur 29/7",
+"ReTweet: "False"},
+{"data": "Thu Jul 09 22:03:55 +0000 2020",
+"name": "Reme",
+"screen_name": "kaluapiscis",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Thu Jul 09 22:08:25 +0000 2020",
+"name": "Melisa Quigley",
+"screen_name": "MQuigley1963",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Thu Jul 09 22:24:14 +0000 2020",
+"name": "Bernardita Luengo",
+"screen_name": "BernarditaLueng",
+"text": "Mi pollito aún nos quedas tú para seguir luchando❤️ #mitocondriales #enfermedadesraras #sidromedeleigh #chile https://t.co/SlZPBt3hm6",
+"ReTweet: "False"},
+{"data": "Thu Jul 09 22:52:16 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "El Tamiz Neonatal Ampliado es una intervención de salud pública exitosa que salva vidas y previene discapacidad. 
+#tamizneonatalampliado #erroresinnatosdelmetabolismo #enfermedadesraras #mamasybebessanos #sindiscapacidad https://t.co/qQ5xbTbDAv",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 00:18:41 +0000 2020",
+"name": "Mr. C0N",
+"screen_name": "C0nMr",
+"text": "⚠️Liberamos la 1ra jornada de #8punto8Solidaria 2020 que fue en ayuda de @CureAHC #Chile #EnfermedadesRaras💖
+
+⭐Conferencia #Hacker #Solidaria de lujo 🏴‍☠️
+
+👉Aquí la pueden ver: https://t.co/7sZOoxoA0S
+
+#Hack2Covid 
+Próximas conferencias:
+#8punto8Junior 15/7
+#8punto8Sur 29/7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 01:19:44 +0000 2020",
+"name": "nelly vitela",
+"screen_name": "nellyvitela15",
+"text": "El Tamiz Neonatal Ampliado es una intervención de salud pública exitosa que salva vidas y previene discapacidad. 
+#tamizneonatalampliado #erroresinnatosdelmetabolismo #enfermedadesraras #mamasybebessanos #sindiscapacidad https://t.co/qQ5xbTbDAv",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 01:24:37 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "Dando continuidad con nuestro programa "Salud con los Expertos" "Espectro de la Enfermedad de Niemann Pick" Con el Experto Dr. David Cervantes y nuestra coordinadora médica Juana Ines Navarrete 👇 #Tamizneonatalampliado #Niemannpick #EnfermedadesRaras #enfermedadeslisosomales https://t.co/eM8cFbfFwe",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 01:35:20 +0000 2020",
+"name": "nelly vitela",
+"screen_name": "nellyvitela15",
+"text": "Dando continuidad con nuestro programa "Salud con los Expertos" "Espectro de la Enfermedad de Niemann Pick" Con el Experto Dr. David Cervantes y nuestra coordinadora médica Juana Ines Navarrete 👇 #Tamizneonatalampliado #Niemannpick #EnfermedadesRaras #enfermedadeslisosomales https://t.co/eM8cFbfFwe",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 01:51:21 +0000 2020",
+"name": "☠ Ragnar ☠",
+"screen_name": "gbergel",
+"text": "⚠️Liberamos la 1ra jornada de #8punto8Solidaria 2020 que fue en ayuda de @CureAHC #Chile #EnfermedadesRaras💖
+
+⭐Conferencia #Hacker #Solidaria de lujo 🏴‍☠️
+
+👉Aquí la pueden ver: https://t.co/7sZOoxoA0S
+
+#Hack2Covid 
+Próximas conferencias:
+#8punto8Junior 15/7
+#8punto8Sur 29/7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 01:53:11 +0000 2020",
+"name": "Neo Geo / Soy AkB",
+"screen_name": "neogeoAkb",
+"text": "⚠️Liberamos la 1ra jornada de #8punto8Solidaria 2020 que fue en ayuda de @CureAHC #Chile #EnfermedadesRaras💖
+
+⭐Conferencia #Hacker #Solidaria de lujo 🏴‍☠️
+
+👉Aquí la pueden ver: https://t.co/7sZOoxoA0S
+
+#Hack2Covid 
+Próximas conferencias:
+#8punto8Junior 15/7
+#8punto8Sur 29/7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 02:01:05 +0000 2020",
+"name": "AG.Bcn",
+"screen_name": "bcn_ag",
+"text": "Mas de 100 nuevos genes responsables de #EnfermedadesRaras es un buen comienzo para buscar tratamiento y dar calidad de vida.
+
+#366DiasdeEERR #masvisibles
+#kmsporlainvestigacionenEERR
+
+@MasVisibles",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 03:51:16 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "Grupo de enfermedades Neuromusculares HOMI, por amor a los niños #salud #EnfermedadesRaras #neuromuscular #homi #neuropediatria",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 04:00:08 +0000 2020",
+"name": "CIBERER_Complemento",
+"screen_name": "CIBERER_U754",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 05:16:10 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Una de las #enfermedadesraras es la ataxia de Friedreich. Enfermedad #neurodegenerativa, afecta a la coordinación y al movimiento, entre otros síntomas. Te contamos un poco más &gt;&gt;
+#NDEG #rehabilitación #logopedia #fisioterapia #salud
+https://t.co/otySJx7fu6",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 05:16:58 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "🍀Necesitamos tu experiencia sobre tratamientos y terapias innovadoras en #enfermedadesraras
+
+🔸Así, continuaremos trabajando en el Mapa de Acceso a a la Innovación de los Pacientes, el cual esta realizando Roche con asociaciones de pacientes
+
+🔸Colabora: https://t.co/5vNuutalK0 https://t.co/TsDHmm5GLV",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 05:49:57 +0000 2020",
+"name": "Lils🌈",
+"screen_name": "Bubbleg43124389",
+"text": "Alv 
+#julio #Covid_19 #china #EnfermedadesRaras #enfermedad #julio2020 #cuarentena",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 05:51:43 +0000 2020",
+"name": "Salvador Payán",
+"screen_name": "salvadorpayan",
+"text": "Hoy en @hematosantpau recibimos a Adrián y su familia,pacientes que nos llegan desde un hospital madrileño para que completemos el diagnóstico de hemocromatosis hereditaria juvenil. Es importante que todos los pacientes tengan acceso al diagnóstico molecular.#CSUR_Eritropatología",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 06:09:21 +0000 2020",
+"name": "Hematología SantPau",
+"screen_name": "hematosantpau",
+"text": "Hoy en @hematosantpau recibimos a Adrián y su familia,pacientes que nos llegan desde un hospital madrileño para que completemos el diagnóstico de hemocromatosis hereditaria juvenil. Es importante que todos los pacientes tengan acceso al diagnóstico molecular.#CSUR_Eritropatología",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 06:28:25 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 06:28:55 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 06:52:48 +0000 2020",
+"name": "Sara Medina Gómez",
+"screen_name": "SaraMedinaGmez2",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 06:53:14 +0000 2020",
+"name": "Sombradoble",
+"screen_name": "sombradoble",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 06:53:43 +0000 2020",
+"name": "GrupoOrphar_SEFH",
+"screen_name": "GrupoOrpharSEFH",
+"text": "Mas de 100 nuevos genes responsables de #EnfermedadesRaras es un buen comienzo para buscar tratamiento y dar calidad de vida.
+
+#366DiasdeEERR #masvisibles
+#kmsporlainvestigacionenEERR
+
+@MasVisibles https://t.co/TXW0AFVbFh",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 07:05:01 +0000 2020",
+"name": "david hernandez",
+"screen_name": "davidhe09433483",
+"text": "Ahinoa padece dos #EnfermedadesRaras que complican sobremanera su alimentación y minan su energía. A las dificultades que conllevan sumó incomprensión (a su bajón de peso le endosaron la etiqueta de “anorexia”). Ahora busca apoyos para su investigación.
+https://t.co/yMoKuJSfKa",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 07:06:15 +0000 2020",
+"name": "Lua222",
+"screen_name": "LauraMa86481471",
+"text": "#enfermedadesraras
+#autoinmunes
+#autoinflamotorias",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 07:07:39 +0000 2020",
+"name": "laClemen",
+"screen_name": "laClemen1",
+"text": "Ya me han liado para preparar otra recopilación de trabajos, esta vez sobre #neurodegeneración y #EnfermedadesRaras ¡Anímense a enviarnos propuestas! ¡Y difundan si les parece interesante y conocen a gente que trabaje en estos temas, por favor!
+cc/ @moigaren @CarmenAgustin",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 07:16:07 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "RT",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 07:23:44 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "La lucha incesante de la atleta Cristina de Ves, única persona en España afectada con Síndrome de Gerstmann-Straussler-Scheinker #EnfermedadesRaras https://t.co/pBoUBIxKhg a través de @diario_de_ibiza",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 07:29:05 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "La vida sense filtres. #EnfermedadesRaras https://t.co/9hTyCB7VCG",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 07:43:15 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/h2LtlTGwHw Thanks to @Linda2o2o #raredisease #covid19",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 07:43:54 +0000 2020",
+"name": "cmmmlg",
+"screen_name": "cmmmlg",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 07:45:38 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "«En busca de aliento» libro escrito por Salvador Calderón en el que cuenta su experiencia de vida con #HipertensiónPulmonar #EnfermedadesRaras https://t.co/k8b2o80jBe",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 07:47:15 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "La lucha incesante de la atleta Cristina de Ves, única persona en España afectada con Síndrome de Gerstmann-Straussler-Scheinker #EnfermedadesRaras https://t.co/pBoUBIxKhg a través de @diario_de_ibiza",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 07:49:41 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "«En busca de aliento» libro escrito por Salvador Calderón en el que cuenta su experiencia de vida con #HipertensiónPulmonar #EnfermedadesRaras https://t.co/k8b2o80jBe",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 08:02:03 +0000 2020",
+"name": "CP Fisioterapeutas Madrid | #SalimosMásFuertes",
+"screen_name": "cfisiomad",
+"text": "#Noticias 📰
+
+Identifican #anticuerpos protectores para #enfermedadesraras similares a la #polio en niños.
+
+Más información ➡️ https://t.co/F87xlsEW6k vía @infosalus_com",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 08:15:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Selene, una niña con Pierre Robin, es protagonista de “Los niños de luz”, un libro para visibilizar las #EnfermedadesRaras y para “hacer ver a la sociedad que estos niños existen, y que no por mirar a un lado o ignorarlos van a dejar de existir”.
+https://t.co/yfBqjTDRa7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 09:01:17 +0000 2020",
+"name": "Lilamin🇪🇸✨",
+"screen_name": "Antonio02816349",
+"text": "Selene, una niña con Pierre Robin, es protagonista de “Los niños de luz”, un libro para visibilizar las #EnfermedadesRaras y para “hacer ver a la sociedad que estos niños existen, y que no por mirar a un lado o ignorarlos van a dejar de existir”.
+https://t.co/yfBqjTDRa7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 09:13:57 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Selene, una niña con Pierre Robin, es protagonista de “Los niños de luz”, un libro para visibilizar las #EnfermedadesRaras y para “hacer ver a la sociedad que estos niños existen, y que no por mirar a un lado o ignorarlos van a dejar de existir”.
+https://t.co/yfBqjTDRa7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 09:19:00 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "En España existen más de 13.000 afectados por algún tipo de ataxia cerebelosa. De ellos, un 60% corresponderían a algún tipo de ataxia hereditaria. -&gt; https://t.co/WPk8MFlxRi #noticiasataxias #ataxias #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 09:20:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@irdirc estableció entre sus objetivos para 2017-2027
+
+✅ Aprobar 1.000 nuevas terapias para #EnfermedadesRaras
+✅ Atención y terapia en el plazo de un año
+✅ Desarrollar metodologías para evaluar el impacto de los diagnósticos y las terapias aplicadas
+
+https://t.co/fkSe80McXB https://t.co/CR9PW145hO",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 09:58:10 +0000 2020",
+"name": "Voro",
+"screen_name": "voro11",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 10:15:15 +0000 2020",
+"name": "maria",
+"screen_name": "mariapitaviesca",
+"text": "Qué bien explicado @PCavanillas, mucho ánimo amiga!",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 10:23:13 +0000 2020",
+"name": "Asoc. Esp. Aniridia",
+"screen_name": "ANIRIDIAAEA",
+"text": "#EnfermedadesRaras que afectan a la vista como la retinosis pigmentaria, la enfermedad de Stargardt o la aniridia son ejemplo del desconocimiento que todavía existe sobre este tipo de dolencias pese al importante impacto que tienen en las personas.
+
+https://t.co/jYSEkL0XCF https://t.co/Ne3JNzJfJ3",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 10:26:57 +0000 2020",
+"name": "IRDiRC",
+"screen_name": "irdirc",
+"text": "Gracias @RarasReales por esto post! Gracias a @20m por esta noticia de @irdirc! 
+Thank you so much!!!",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 10:31:28 +0000 2020",
+"name": "IRDiRC",
+"screen_name": "irdirc",
+"text": "Just spotted thanks to @RarasReales this article about #irdirc goals &amp; vision on @20m 😃👏 Gracias! Thank you!
+https://t.co/zGhcXhBXug
+#rarediseases #EnfermedadesRaras 
+@TransplantChild @EvaBS14 @SaludISCIII @oligogirl @VirginieHivert @raredisorders @Invisionbcd @indousrare",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 11:05:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Como ocurre con muchas otras #EnfermedadesRaras, vivir con #FibrosisQuística supone afrontar múltiples desafíos a lo largo del ciclo vital. La figura del psicólogo resulta fundamental para llevar mejor los tratamientos, manejar emociones negativas y más…
+
+https://t.co/2G5ndpUe1T https://t.co/135rIc2dHx",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 11:30:56 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Conclusiones de la XIII Reunión Anual del Centro de  Investigación Biomédica en Red de #EnfermedadesRaras @CIBERER  #RACIBERER2020
+Se identifican más de 100 nuevos genes responsables de #EERR
+Este año en versión #online, pero siempre buscando la cura‼️
+https://t.co/xidybBmbtH https://t.co/wAxXiBuWif",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 12:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Federación Española de #EnfermedadesRaras cumple 20 años defendiendo los derechos de personas y familias que conviven con una enfermedad poco frecuente. Todo empezó con la iniciativa y el empeño de varias familias. Lo explica este video conmemorativo.
+https://t.co/l8iGDwsOlg",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 12:31:12 +0000 2020",
+"name": "jose maria simon",
+"screen_name": "doctorsimon2",
+"text": "Como ocurre con muchas otras #EnfermedadesRaras, vivir con #FibrosisQuística supone afrontar múltiples desafíos a lo largo del ciclo vital. La figura del psicólogo resulta fundamental para llevar mejor los tratamientos, manejar emociones negativas y más…
+
+https://t.co/2G5ndpUe1T https://t.co/135rIc2dHx",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 12:35:03 +0000 2020",
+"name": "Begoña Ruiz",
+"screen_name": "Begoruizg",
+"text": "La lucha incesante de la atleta Cristina de Ves, única persona en España afectada con Síndrome de Gerstmann-Straussler-Scheinker #EnfermedadesRaras https://t.co/pBoUBIxKhg a través de @diario_de_ibiza",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 12:38:34 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Oliver Ccolqque, el niño con un grave caso de #morquio que lucha por acceder a un tratamiento integral
+#enfermedadesraras #MPS https://t.co/TvMOfGaCeK vía @elcomercio_peru",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 13:42:57 +0000 2020",
+"name": "María José O",
+"screen_name": "mariajose_ore",
+"text": "#enfermedadesraras
+#autoinmunes
+#autoinflamotorias",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 14:10:14 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Queda mucho camino por recorrer, pero ayuda a seguir haciéndolo recordar que hace apenas 20 años muy pocos habían oído hablar de las #EnfermedadesRaras y que hoy son cada vez más visibles y empiezan a formar parte de la agenda social y política del país.
+https://t.co/7WF3PLQTDU https://t.co/gdSNOYxz8U",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 14:12:04 +0000 2020",
+"name": "Itziar",
+"screen_name": "Reiferoso",
+"text": "Queda mucho camino por recorrer, pero ayuda a seguir haciéndolo recordar que hace apenas 20 años muy pocos habían oído hablar de las #EnfermedadesRaras y que hoy son cada vez más visibles y empiezan a formar parte de la agenda social y política del país.
+https://t.co/7WF3PLQTDU https://t.co/gdSNOYxz8U",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 14:12:12 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "SI 💪🏻 (aunque luego paguemos una buena factura) 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación… https://t.co/eL0QGmYy9o",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 14:17:00 +0000 2020",
+"name": "Pfizer España",
+"screen_name": "pfizer_spain",
+"text": "🧬 @lavozdegalicia nos acerca #Genoma4Care: una spin-off creada en la @UniversidadeUSC que combina la genómica con la inteligencia artificial para acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras
+
+👉🏻https://t.co/g392x9MOCF @CIBERER https://t.co/jAZmSSs5tX",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 14:33:44 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "💙 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/SJVrZFxjzA",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 14:46:54 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Valentina Treviño, presidenta de la Fundación Síndrome de Guillain Barré México @sindromegb 
+Síndrome de #GuillainBarré #EnfermedadesRaras #aliadosfemexer #SGB #COVID19 
+https://t.co/LCQ40YTSUZ",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:04:23 +0000 2020",
+"name": "TQM Jordi Coll *-*",
+"screen_name": "tqm_jordi",
+"text": "Abril le saca la lengua al COVID19 y a su enfermedad SPG52!!! Y tu? Te quejas del confinamiento? 😍
+
+#enfermedadesraras #paraparesia #espastica #investigacion #rarediseases #minoritydiseases #investigation #spg52 #genetic #curespg52 #laluchadeabril #rareisnotinvisible https://t.co/p4aN5ZoA8v",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:05:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:06:21 +0000 2020",
+"name": "Esteban A.  SanMartín L.",
+"screen_name": "easanmartin",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:15:56 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:19:57 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "En España existen más de 13.000 afectados por algún tipo de ataxia cerebelosa. De ellos, un 60% corresponderían a algún tipo de ataxia hereditaria. -&gt; https://t.co/WPk8MFlxRi #noticiasataxias #ataxias #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:22:04 +0000 2020",
+"name": "Principia",
+"screen_name": "Principia_io",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:24:19 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Feliz por hacer lo que me gusta y feliz por hacerlo rodeado de grandes profesionales de los que aprender mucho.
+
+#Ehealth #RareDiseases 
+#SaludDigital #EnfermedadesRaras 
+
+#366DiasdeEERR #masvisibles 
+#kmsporlaInvestigacionenEERR https://t.co/NKzZljX1I3",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:24:40 +0000 2020",
+"name": "Beatriz Escobar",
+"screen_name": "BeatrizEscDon",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:37:37 +0000 2020",
+"name": "CareMo",
+"screen_name": "caring_mobile",
+"text": "Feliz por hacer lo que me gusta y feliz por hacerlo rodeado de grandes profesionales de los que aprender mucho.
+
+#Ehealth #RareDiseases 
+#SaludDigital #EnfermedadesRaras 
+
+#366DiasdeEERR #masvisibles 
+#kmsporlaInvestigacionenEERR https://t.co/NKzZljX1I3",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:39:24 +0000 2020",
+"name": "drunkastronaut",
+"screen_name": "drunkastronaut",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 15:56:42 +0000 2020",
+"name": "Deusto Neuro-e-Motion",
+"screen_name": "deustoNeuroeM",
+"text": "Los niños con #enfermedadesraras podrán aprender desde su casa con #Federito https://t.co/GAmzc429fm",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 16:05:26 +0000 2020",
+"name": "Fundación IMO",
+"screen_name": "FundacionImo",
+"text": "El mejor complemento para el calor del #verano es… ¡el abanico #solidario de #FundaciónIMO! Con su compra, estarás colaborando con nuestros proyectos de #investigación de #enfermedadesraras que afectan a la #visión.
+
+¡Consigue el tuyo en la recepción principal de @imobarcelona! https://t.co/6UKQ9mPX4d",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 16:11:24 +0000 2020",
+"name": "Esti 🌿",
+"screen_name": "JardindeMendel",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» @JardindeMendel @mandykurosaki 
+
+https://t.co/QIppUGQofb https://t.co/RswXS1XTfN",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 16:19:07 +0000 2020",
+"name": "carmen alvarez",
+"screen_name": "carmenalva1970",
+"text": "«En busca de aliento» libro escrito por Salvador Calderón en el que cuenta su experiencia de vida con #HipertensiónPulmonar #EnfermedadesRaras https://t.co/k8b2o80jBe",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 16:24:37 +0000 2020",
+"name": "IMO",
+"screen_name": "imobarcelona",
+"text": "El mejor complemento para el calor del #verano es… ¡el abanico #solidario de #FundaciónIMO! Con su compra, estarás colaborando con nuestros proyectos de #investigación de #enfermedadesraras que afectan a la #visión.
+
+¡Consigue el tuyo en la recepción principal de @imobarcelona! https://t.co/6UKQ9mPX4d",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 16:36:28 +0000 2020",
+"name": "IMO",
+"screen_name": "imobarcelona",
+"text": "El mejor complemento para el calor del #verano es… ¡el abanico #solidario de #FundaciónIMO! Con su compra, estarás colaborando con nuestros proyectos de #investigación de #enfermedadesraras que afectan a la #visión.
+
+¡Consigue el tuyo en la recepción principal de @imobarcelona! https://t.co/6UKQ9mPX4d",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 16:52:46 +0000 2020",
+"name": "Mari Trini Giner🕵🏻‍♀️🎬📝📸",
+"screen_name": "MariTriniGiner",
+"text": "Como cada viernes, un nuevo episodio de #HistoriasNoTanRaras. Esta semana es Gloria, fundadora y presidenta de @CebrasChile quien comparte su testimonio. Además es parte de @Conectivaorg y @FECHER_CL Mujer inquieta, activa, emprendedora https://t.co/1ftP4Z89uU #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 16:58:48 +0000 2020",
+"name": "Judithe Santero",
+"screen_name": "ShofisSan",
+"text": "Siempre el acompañamiento de los profesionales en este y muchos más diagnósticos es fundamental para fortalecer nuestras redes de apoyo personales y familiares 🤓💚🤓
+#FibrosisQuística",
+"ReTweet: "True"},
+{"data": "Fri Jul 10 17:07:20 +0000 2020",
+"name": "Eva Bermejo-Sánchez",
+"screen_name": "EvaBS14",
+"text": "Just spotted thanks to @RarasReales this article about #irdirc goals &amp; vision on @20m 😃👏 Gracias! Thank you!
+https://t.co/zGhcXhBXug
+#rarediseases #EnfermedadesRaras 
+@TransplantChild @EvaBS14 @SaludISCIII @oligogirl @VirginieHivert @raredisorders @Invisionbcd @indousrare",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 17:20:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras que afectan a la vista como la retinosis pigmentaria, la enfermedad de Stargardt o la aniridia son ejemplo del desconocimiento que todavía existe sobre este tipo de dolencias pese al importante impacto que tienen en las personas.
+
+https://t.co/jYSEkL0XCF https://t.co/R3k8qBzUXL",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 17:30:00 +0000 2020",
+"name": "Genotipia",
+"screen_name": "genotipia",
+"text": "CRISPR para decidir qué pacientes con una enfermedad rara pueden ser tratados con un suplemento nutricional.
+#INVESTIGACIÓN #enfermedadesraras #CRISPR https://t.co/uYWmffi8I7",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 18:05:57 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/yfw9gXpi6D Gracias a @cfisiomad @eerr_es #enfermedadesraras #irdirc",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 18:28:46 +0000 2020",
+"name": "@)esthergonzalez",
+"screen_name": "estherg01291486",
+"text": "¡Hoy es el #DiaMundialEnfermedadesRaras!Es importante que existan centros de referencia que aglutinen experiencia y conocimiento,y den soporte a otros centros. @HospitalSantPau - @SJDbarcelona_es somos centro de referencia (CSUR) en enfermedades hereditarias de los glóbulos rojos https://t.co/0mvhI0y8iD",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 19:43:10 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/bV9pQjpqT9 Thanks to @UCR_ScienceNews #raredisease #research",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 20:28:08 +0000 2020",
+"name": "Asociación Colombiana de Genetica Humana ACGH",
+"screen_name": "asociacion_acgh",
+"text": "Te invitamos a nuestro webinar el próximo jueves 16 de julio. 
+¡No faltes! 
+#distrofiamusculardeduchene #EnfermedadesRaras https://t.co/Z58pKY0pPp",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 20:39:21 +0000 2020",
+"name": "Funcolehf",
+"screen_name": "funcolehf",
+"text": "Te invitamos a nuestro webinar el próximo jueves 16 de julio. 
+¡No faltes! 
+#distrofiamusculardeduchene #EnfermedadesRaras https://t.co/Z58pKY0pPp",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 20:57:29 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Este año los comerciantes de Igualada Comerç😘😘😘colaboran con las familias #MPS repartiendo globos también con nuestro logo para todo el que quiera llevar al cielo un deseo positivo🎐🎐🎐💜💜💜
+#malaltiesminoritaries
+#enfermedadesraras 
+#ebfigd20 https://t.co/YlW50W7iq5",
+"ReTweet: "False"},
+{"data": "Fri Jul 10 21:32:25 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "En España existen más de 13.000 afectados por algún tipo de ataxia cerebelosa. De ellos, un 60% corresponderían a algún tipo de ataxia hereditaria. -&gt; https://t.co/WPk8MFlxRi #noticiasataxias #ataxias #EnfermedadesRaras",
+"ReTweet: "False"},
