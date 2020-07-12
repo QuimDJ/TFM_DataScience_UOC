@@ -1,0 +1,842 @@
+{"data": "Sat Jul 11 22:02:41 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sat Jul 11 22:03:55 +0000 2020",
+"name": "Lia Ruesta",
+"screen_name": "lia_bea",
+"text": "🍀 ¿Conoces nuestro espacio en web donde recopilamos toda la información sobre el #COVID19? 
+
+🔸 Accede aquí a él y descubre todo sobre #COVID19 y #enfermedadesraras: https://t.co/J4NfpW7GNc https://t.co/X4wxgXjcnK",
+"ReTweet: "False"},
+{"data": "Sat Jul 11 22:05:21 +0000 2020",
+"name": "Sergio Lopez",
+"screen_name": "SergioL89839764",
+"text": "@Variety @ASCAP @RomeoSantosPage @ASCAPLATINO https://t.co/fY2bMoK4ZB",
+"ReTweet: "True"},
+{"data": "Sat Jul 11 22:06:33 +0000 2020",
+"name": "Sinprisas",
+"screen_name": "Telamarineraa",
+"text": "CRISPR para decidir qué pacientes con una enfermedad rara pueden ser tratados con un suplemento nutricional.
+#INVESTIGACIÓN #enfermedadesraras #CRISPR https://t.co/uYWmffi8I7",
+"ReTweet: "False"},
+{"data": "Sat Jul 11 22:13:40 +0000 2020",
+"name": "Sergio Lopez",
+"screen_name": "SergioL89839764",
+"text": "@eldelquijote https://t.co/fY2bMoK4ZB",
+"ReTweet: "True"},
+{"data": "Sat Jul 11 22:15:40 +0000 2020",
+"name": "Sergio Lopez",
+"screen_name": "SergioL89839764",
+"text": "@AP_Espectaculos @sanbenito @RomeoSantosPage @daddy_yankee https://t.co/fY2bMoK4ZB",
+"ReTweet: "True"},
+{"data": "Sat Jul 11 22:16:03 +0000 2020",
+"name": "Sergio Lopez",
+"screen_name": "SergioL89839764",
+"text": "@ASCAP @sanbenito https://t.co/fY2bMoK4ZB",
+"ReTweet: "True"},
+{"data": "Sat Jul 11 22:34:33 +0000 2020",
+"name": "Abigail G. Quiles",
+"screen_name": "AbigailGQuiles",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sat Jul 11 22:40:30 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "A Review of psychological, social and behavioral functions in rasopathies 
+#rasopatias #enfermedadesraras #rasopathies 
+
+https://t.co/MKPQKmxwYq",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 03:12:12 +0000 2020",
+"name": "Circassian93",
+"screen_name": "Circassian931",
+"text": "#multisystematrophy is a #raredisease let's make some noise for it on #RareDiseaseDay @rhondaburchmore",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 05:40:00 +0000 2020",
+"name": "Síndrome de Rett",
+"screen_name": "asociacionrett",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 05:45:53 +0000 2020",
+"name": "Salvador Ibáñez Micó",
+"screen_name": "salibmi",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 07:42:06 +0000 2020",
+"name": "Bronwyn Grace",
+"screen_name": "BronwynGrace2",
+"text": "We have extended the closing date of our IIH Art Competition. Migraine Art is renowned 
+worldwide, let’s get IIH Art out there for the world to see just how devastating living with IIH can be. #IIHArt #RareDiseaseDay #Working2RelieveThePressure https://t.co/rlunwWhqtX",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 07:43:14 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/sSPBGo7rB4 Thanks to @CciSeattle #raredisease #careaboutrare",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 07:46:06 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:07:41 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:16:03 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Emprendedores y startups competirán por reducir los tiempos de diagnóstico de las #enfermedadesraras  https://t.co/cD4iTBEJgg via @larazon_es",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:18:41 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Hugo no puede caminar ni mantenerse sentado, no sujeta su tronco. Tiene mucha espasticidad y movimientos involuntarios”
+#enfermedadesraras https://t.co/GRe6FEFyAU",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:27:03 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:29:18 +0000 2020",
+"name": "Noemí Font",
+"screen_name": "ratolinaemma",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:35:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:37:49 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "El diagnóstico de #EnfermedadesRaras supone para pacientes y familias tener que enfrentarse a una serie de retos: Falta de información, Incertidumbre sobre el futuro, discriminación, desgaste económico…Los explican con más detalle @genotipia 
+
+https://t.co/FsCPHh9xw0 https://t.co/DtVyO2IJGN",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:46:26 +0000 2020",
+"name": "macala",
+"screen_name": "macala09",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 08:46:38 +0000 2020",
+"name": "Ana Ibáñez",
+"screen_name": "diabetikatipo3",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:08:07 +0000 2020",
+"name": "Maria Jose Rangel",
+"screen_name": "Jandamex",
+"text": "Apoyo psicológico online para todos nuestros asociados.
+Para más información e inscripciones escribe a oficina@aepef.org
+#aepef #paraparesiaespastica #enfermedadesraras #yomequedoencasa https://t.co/USU9zrhvhl",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:08:15 +0000 2020",
+"name": "Maria Jose Rangel",
+"screen_name": "Jandamex",
+"text": "Apoyo psicológico online para todos nuestros asociados.
+Para más información e inscripciones escribe a oficina@aepef.org
+#asociacionaepef #paraparesiaespastica #enfermedadesraras #yomequedoencasa https://t.co/2kS0zjnpWM",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:17:16 +0000 2020",
+"name": "Laura de Esteban",
+"screen_name": "Larala311",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:27:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:34:12 +0000 2020",
+"name": "sabrina❓🔮💙",
+"screen_name": "sabarte",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:40:49 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:41:01 +0000 2020",
+"name": "Noemi",
+"screen_name": "noemisel96",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:46:34 +0000 2020",
+"name": "jose maria simon",
+"screen_name": "doctorsimon2",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:49:07 +0000 2020",
+"name": "in_spectatormode",
+"screen_name": "inspectatormode",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 09:55:46 +0000 2020",
+"name": "in_spectatormode",
+"screen_name": "inspectatormode",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 10:09:03 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 10:41:16 +0000 2020",
+"name": "Emprendedores F-M",
+"screen_name": "EmprendedoresF1",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 10:47:51 +0000 2020",
+"name": "María",
+"screen_name": "mariabnnt",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 10:48:38 +0000 2020",
+"name": "María",
+"screen_name": "mariabnnt",
+"text": "❤️",
+"ReTweet: "True"},
+{"data": "Sun Jul 12 10:58:08 +0000 2020",
+"name": "lluvia",
+"screen_name": "anarios1415",
+"text": "La #SaludMental, #autismo, #cuidadospaliativos y las #EnfermedadesRaras, con protagonismo en la #ComisiónReconstrucción del @Congreso_Es
+@aelmhu a pedido avances de una Estrategia Nacional sobre las #EERR q está paralizada desde 2014.
+En @Catalunya_Press👇
+https://t.co/r82L6J54cu https://t.co/s8WEC2I1Vw",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 10:59:34 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 11:02:41 +0000 2020",
+"name": "Esther 🌙",
+"screen_name": "_sthrr_",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 11:10:10 +0000 2020",
+"name": "MoNiOnEiL",
+"screen_name": "Monioneil",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 11:13:05 +0000 2020",
+"name": "ivecita",
+"screen_name": "yamilecb",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 11:14:02 +0000 2020",
+"name": "Esteban A.  SanMartín L.",
+"screen_name": "easanmartin",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 11:21:18 +0000 2020",
+"name": "Bea",
+"screen_name": "BeaPlasencia22",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 11:52:31 +0000 2020",
+"name": "Esther",
+"screen_name": "epavn8",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 12:26:47 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 12:28:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/INLj4CSHsw",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 12:39:11 +0000 2020",
+"name": "Fundación EPIC",
+"screen_name": "fundacionepic",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/INLj4CSHsw",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 12:54:27 +0000 2020",
+"name": "𝔧𝔞𝔫𝔞 🥀",
+"screen_name": "janasdn",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:06:13 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:06:47 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:08:27 +0000 2020",
+"name": "Ana Isabel Alava",
+"screen_name": "AnaIsabelAlava1",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:08:32 +0000 2020",
+"name": "Maytona.Española-Test, test y más test",
+"screen_name": "mayte2708",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:10:51 +0000 2020",
+"name": "Raquel Amigo",
+"screen_name": "amigo_raquel",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:32:40 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:33:00 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/INLj4CSHsw",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:33:06 +0000 2020",
+"name": "Sara Snorky 🐬",
+"screen_name": "SaraTowy",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:33:20 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:39:44 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "➿N•A•D•A➿
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/do3x8LWGNQ",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:47:01 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:48:45 +0000 2020",
+"name": "Eleonor 🍋",
+"screen_name": "Eleonor_HG",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 13:50:03 +0000 2020",
+"name": "Chris Schofield",
+"screen_name": "chrischofiel1",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:17:33 +0000 2020",
+"name": "bárbara",
+"screen_name": "barbaradentist",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:21:46 +0000 2020",
+"name": "Natalia Arango",
+"screen_name": "ArangoCoaching",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:25:44 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Los pacientes con enfermedades visuales hereditarias tardan una media de cinco años en ser diagnosticados.
+
+#KmsporlaInvestigacionenEERR para reducir tiempos tan necesarios para mejor atención y mayor calidad de vida en #EnfermedadesRaras
+
+ @ElDiaSegovia 
+
+https://t.co/aGjjB5vIHx",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:29:29 +0000 2020",
+"name": "Antonieta",
+"screen_name": "emequijada",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:29:52 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#366DiasdeEERR #masvisibles es una iniciativa que parte de la necesidad de hacer ver a la sociedad el retraso diagnóstico que hay en #EnfermedadesRaras, el retraso en una acceso tratamiento adecuado y la falta de equidad entre unas comunidades y otras. 
+
+@NoInvisibles @FEDER_ONG",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:37:16 +0000 2020",
+"name": "D'Genes Asoc. de ER",
+"screen_name": "dgenesmurcia",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:37:21 +0000 2020",
+"name": "Rosana García",
+"screen_name": "azahd76",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:38:45 +0000 2020",
+"name": "Esteffs🌪",
+"screen_name": "EstefiRoman97",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 14:57:43 +0000 2020",
+"name": "JoseLuisAA",
+"screen_name": "aguayo_UM",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 15:20:16 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "💙 "Lo intentaré otra vez mañana"
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha… https://t.co/n6DHKS88E2",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 15:24:05 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "🖤 Mitos sobre los Enfermos Crónicos 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación… https://t.co/y7HXkDrYeD",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 15:30:56 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Los pacientes con enfermedades visuales hereditarias tardan una media de cinco años en ser diagnosticados.
+
+#KmsporlaInvestigacionenEERR para reducir tiempos tan necesarios para mejor atención y mayor calidad de vida en #EnfermedadesRaras
+
+ @ElDiaSegovia 
+
+https://t.co/aGjjB5vIHx",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 15:32:09 +0000 2020",
+"name": "Liliana Rodrigues 🇻🇪🇵🇹",
+"screen_name": "lergpv",
+"text": "Los pacientes con enfermedades visuales hereditarias tardan una media de cinco años en ser diagnosticados.
+
+#KmsporlaInvestigacionenEERR para reducir tiempos tan necesarios para mejor atención y mayor calidad de vida en #EnfermedadesRaras
+
+ @ElDiaSegovia 
+
+https://t.co/aGjjB5vIHx",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 15:34:55 +0000 2020",
+"name": "CIBERER_Biobank",
+"screen_name": "CibererBiobank",
+"text": "Como en el caso de tantas #EnfermedadesRaras, las personas con esclerosis tuberosa y sus familias viven en la incertidumbre. 
+@el_pais publicó sobre esta patología, caracterizada por el crecimiento indiscriminado de tumores benignos por todo el cuerpo.
+https://t.co/SSfmo1CpBI",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 16:09:33 +0000 2020",
+"name": "Chrisy Genetista",
+"screen_name": "christianfpg1",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 16:24:28 +0000 2020",
+"name": "Dulce",
+"screen_name": "marien1903",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 16:45:47 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "Los pacientes con enfermedades visuales hereditarias tardan una media de cinco años en ser diagnosticados.
+
+#KmsporlaInvestigacionenEERR para reducir tiempos tan necesarios para mejor atención y mayor calidad de vida en #EnfermedadesRaras
+
+ @ElDiaSegovia 
+
+https://t.co/aGjjB5vIHx",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 16:47:46 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "Los pacientes con enfermedades visuales hereditarias tardan una media de cinco años en ser diagnosticados.
+
+#KmsporlaInvestigacionenEERR para reducir tiempos tan necesarios para mejor atención y mayor calidad de vida en #enfermedadesraras
+
+https://t.co/AfwK6ODsbD",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 17:07:30 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 17:35:09 +0000 2020",
+"name": "Dolors Cifuentes",
+"screen_name": "CifuDolors",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 17:37:59 +0000 2020",
+"name": "Alejandro Molina Higueras",
+"screen_name": "alexmh94",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 17:55:01 +0000 2020",
+"name": "Pichoncilla 🦇🇪🇸",
+"screen_name": "pichoncilla77",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:06:25 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/PTZPO0Ddpw Gracias a @MPSpapas #enfermedadesraras #linfomas",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:10:02 +0000 2020",
+"name": "Isa",
+"screen_name": "imds612",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:17:17 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "🍀 Desde FEDER trabajamos con alianzas internacionales en #enfermedadesraras para garantizar el bienestar de nuestro colectivo.
+
+🔸 Descubre en este vídeo más sobre nuestra labor a nivel internacional: https://t.co/L9yxcbL5Fz",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:19:06 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/INLj4CSHsw",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:25:45 +0000 2020",
+"name": "ASMES",
+"screen_name": "ASMES2016",
+"text": "El 80% de las #EnfermedadesRaras comienza a mostrar síntomas en la edad pediátrica. Por ello el papel de los pediatras es fundamental en el diagnóstico, tratamiento y pronóstico de las enfermedades poco frecuentes.
+
+https://t.co/hrnDjfkGJm",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:31:09 +0000 2020",
+"name": "Mercedes Sacristán",
+"screen_name": "mercesacristan",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/INLj4CSHsw",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su investigación
+
+https://t.co/hqdg1gER25 https://t.co/U6TagGJ5sV",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:36:09 +0000 2020",
+"name": "Ana Isabel Sanchez",
+"screen_name": "Ana_Isabel825",
+"text": "Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su investigación
+
+https://t.co/hqdg1gER25 https://t.co/U6TagGJ5sV",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:39:55 +0000 2020",
+"name": "Esther R. Murphy",
+"screen_name": "farmamurphy",
+"text": "Cuidadores y familiares de pacientes de #EnfermedadesRaras se declaran como infelices o deprimidos tres veces más que la población general. 
+
+Más datos sobre el impacto de las EERR en la vida diaria en esta infografía @eurordis
+https://t.co/DPa5nLQ6o5 https://t.co/zTxlfyoD6Y",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:40:18 +0000 2020",
+"name": "Gloria Domingo",
+"screen_name": "GloriaDomingo",
+"text": "Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su investigación
+
+https://t.co/hqdg1gER25 https://t.co/U6TagGJ5sV",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 18:51:23 +0000 2020",
+"name": "CrónicasdelaEnfermedad",
+"screen_name": "CEnfermedad",
+"text": "RT @RarasReales: Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su (1/2)",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:00:08 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "@AnaHid46 Lástima q esa gente igual no convive con #EnfermedadesRaras Y #dolorcronico 
+Nuestras citas han sido anuladas, en mi caso si tengo alguna, es telefónica. Y por mucho q se empeñen, hay ciertas especialidades que no te pueden valorar por un teléfono.",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:08:43 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:09:03 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:09:51 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:12:27 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:14:34 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:28:52 +0000 2020",
+"name": "Anggie Andrade",
+"screen_name": "AndradeAnggie",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:36:36 +0000 2020",
+"name": "miguel gonzález 🇪🇦🏳️‍🌈",
+"screen_name": "miguelglezRTPA",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:42:30 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:43:11 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/hydFgw2nf2 Thanks to @RareRevolutionM @RareShareOrg @Primary_Immune #raredisease #snrtg",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 19:55:01 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "El Consorcio Internacional para la Investigación de #EnfermedadesRaras estableció sus objetivos 2017-2027
+
+👉Atención y terapia en el plazo de un año
+👉Aprobar 1.000 nuevas terapias
+👉Desarrollar metodologías para evaluar el impacto de los diagnósticos
+https://t.co/fkSe80McXB",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:05:15 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:06:03 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:06:23 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:06:59 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:10:37 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:21:09 +0000 2020",
+"name": "Bego Cuadrado",
+"screen_name": "bgodgo",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:32:58 +0000 2020",
+"name": "💫Lili 🌀",
+"screen_name": "liliann_av",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:38:23 +0000 2020",
+"name": "Dimon",
+"screen_name": "dimontdgui1",
+"text": "#5G #Antenas #Covid_19 #sick #EnfermedadesRaras #virus #VirusChino #FakeNews #despierta #irresponsables https://t.co/dQuGtglOFT",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:44:07 +0000 2020",
+"name": "Romulo Iniesta",
+"screen_name": "romuloiniesta",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:47:10 +0000 2020",
+"name": "Belén Jurado",
+"screen_name": "DeAutismo",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:52:03 +0000 2020",
+"name": "Auxi",
+"screen_name": "mauvedelle",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 20:54:09 +0000 2020",
+"name": "Néstor Durán",
+"screen_name": "NestorD84",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 21:21:14 +0000 2020",
+"name": "Gobierno de Melilla",
+"screen_name": "MelillaGobierno",
+"text": "💪🏻 @EdeCastro y @Bussi_za han inaugurado #EstaSemana la sede de la asociación Cuenta con Nosotros, de apoyo e información sobre #EnfermedadesRaras en Melilla, en el pabellón Guillermo García Pezzi.
+
+Hasta ahora sin nada, pronto tendrá local fijo.
+
+#Gracias por vuestra gran labor. https://t.co/lPWPxdM9yX",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 21:21:37 +0000 2020",
+"name": "Bussian RM",
+"screen_name": "Bussi_za",
+"text": "💪🏻 @EdeCastro y @Bussi_za han inaugurado #EstaSemana la sede de la asociación Cuenta con Nosotros, de apoyo e información sobre #EnfermedadesRaras en Melilla, en el pabellón Guillermo García Pezzi.
+
+Hasta ahora sin nada, pronto tendrá local fijo.
+
+#Gracias por vuestra gran labor. https://t.co/lPWPxdM9yX",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 21:22:18 +0000 2020",
+"name": "CUENTA CON NOSOTROS",
+"screen_name": "EERR_Melilla",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
+{"data": "Sun Jul 12 21:28:30 +0000 2020",
+"name": "Locura transitoria",
+"screen_name": "criistinaalonso",
+"text": "Lo tenemos todo y vivimos a medias. #EnfermedadesRaras https://t.co/IpYiU7nT1J",
+"ReTweet: "False"},
