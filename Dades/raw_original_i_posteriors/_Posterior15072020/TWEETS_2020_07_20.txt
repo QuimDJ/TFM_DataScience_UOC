@@ -1,0 +1,874 @@
+{"data": "Sun Jul 19 22:43:48 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "De los primeros síntomas a la diagnosis. Esta infografía representa los dificultosos caminos y “estaciones” por las que actualmente pasan los pacientes con #EnfermedadesRaras y sus familias en la búsqueda de su diagnóstico.
+https://t.co/0I74PqgP3M",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 22:50:42 +0000 2020",
+"name": "ASOCIACION XERODERMA PIGMENTOSUM España",
+"screen_name": "XerodermaEspana",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 22:57:12 +0000 2020",
+"name": "Vale",
+"screen_name": "tvalentina05",
+"text": "Vivimos con incertidumbre..",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 23:24:00 +0000 2020",
+"name": "JessiK🌸🐬🎶📚",
+"screen_name": "JsKGabriela",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 23:30:49 +0000 2020",
+"name": "Solo~",
+"screen_name": "SoloDarkWolf5",
+"text": "#RareDiseaseDay2019: Corn Allergy (Thread)
+
+This #RareDiseaseDay topic is technically a condition.  Food allergies are not rare, and corn allergies are really not as rare as many think. They are, however, rarely heard of and poorly understood. 
+
+https://t.co/txx0G8hmJZ",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 02:19:34 +0000 2020",
+"name": "Farmacos Huérfanos",
+"screen_name": "orphandrugchile",
+"text": "🗣🔔📢Empiezan los preparativos para el dia de las #enfermedadesraras 28 de Febrero 2021👇🏼",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 02:45:17 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 04:54:56 +0000 2020",
+"name": "Salud y Negocios",
+"screen_name": "MaribelRCoronel",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 04:57:59 +0000 2020",
+"name": "Mr. ¯\_(ツ)_/¯hite",
+"screen_name": "RicardoBlanco",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 04:58:31 +0000 2020",
+"name": "Angel Horacio",
+"screen_name": "angelhoracio",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 04:59:31 +0000 2020",
+"name": "Tere Chavez",
+"screen_name": "majaloca",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 05:17:36 +0000 2020",
+"name": "Lau18mx",
+"screen_name": "lau18mx",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 05:20:08 +0000 2020",
+"name": "marcosjminjaresadi",
+"screen_name": "marcosjoseminja",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud... https://t.co/29ioy1itZZ",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 05:27:18 +0000 2020",
+"name": "Ivonne Kren",
+"screen_name": "IvonneKren",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 05:36:24 +0000 2020",
+"name": "Síndrome de Rett",
+"screen_name": "asociacionrett",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 05:43:28 +0000 2020",
+"name": "Arthur",
+"screen_name": "Arturoamador",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 06:05:31 +0000 2020",
+"name": "Metabolicos.es",
+"screen_name": "Metabolicos_es",
+"text": "Nos ayudas en nuestro @PlayLoteria solidario? 
+#ysitocaaqui? 
+#loterias
+#solidarios #verano",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 06:15:27 +0000 2020",
+"name": "Marco Iván Escotto",
+"screen_name": "MarcoIvEscotto",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 06:19:41 +0000 2020",
+"name": "Oscar Priego",
+"screen_name": "oscarpriego",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 06:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» 
+
+https://t.co/QIppUGQofb https://t.co/Q4z6ULfwxU",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 06:42:07 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture #potrait #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases… https://t.co/a7HtzPRUGk",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:03:17 +0000 2020",
+"name": "PlayLoterías",
+"screen_name": "PlayLoteria",
+"text": "Nos ayudas en nuestro @PlayLoteria solidario? 
+#ysitocaaqui? 
+#loterias
+#solidarios #verano",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 07:07:21 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Te ayudamos a mejorar. Los logopedas tratan las dificultades que se presentan en torno al lenguaje, oral o escrito, al habla, la voz y la comunicación. Primera sesión gratuita. Aquí te dejamos toda la información: https://t.co/06sFYVFlYq #ataxias #EnfermedadesRaras #FEDAES https://t.co/FW0yCbeOYU",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:23:37 +0000 2020",
+"name": "Esther R. Murphy",
+"screen_name": "farmamurphy",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:30:30 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Pacientes y cuidadores participan en 4 nuevos proyectos de @Share4Rare_es sobre diferentes grupos de #enfermedadesraras.
+
+via @CIBERER 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR 
+
+https://t.co/qOxHT7HEBh
+
+@NoInvisibles",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:30:47 +0000 2020",
+"name": "Fundación IMO",
+"screen_name": "FundacionImo",
+"text": "#FundaciónIMO investiga #enfermedadesraras que afectan a la #visión, causando #ceguera y #bajavisión, para poder desarrollar mejores métodos de diagnóstico y tratamiento.
+
+¡Tú también puedes colaborar en la investigación! Dona ahora introduciendo el código 00413 en #Bizum. https://t.co/dexE4uaYfR",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:36:51 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "Pacientes y cuidadores participan en 4 nuevos proyectos de @Share4Rare_es sobre diferentes grupos de #enfermedadesraras.
+
+via @CIBERER 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR 
+
+https://t.co/qOxHT7HEBh
+
+@NoInvisibles",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:43:15 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/tI6EdiUw7S #raredisease",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 07:55:35 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture #potrait #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases… https://t.co/TT8hzeWipr",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 08:08:14 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Pacientes y cuidadores participan en 4 nuevos proyectos de @Share4Rare_es sobre diferentes grupos de #enfermedadesraras.
+
+via @CIBERER 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR 
+
+https://t.co/qOxHT7HEBh
+
+@NoInvisibles",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 08:35:41 +0000 2020",
+"name": "AELMHU",
+"screen_name": "aelmhu",
+"text": "Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su investigación
+
+https://t.co/hqdg1gER25 https://t.co/U6TagGJ5sV",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 08:39:36 +0000 2020",
+"name": "laClemen",
+"screen_name": "laClemen1",
+"text": "Pacientes y cuidadores participan en 4 nuevos proyectos de @Share4Rare_es sobre diferentes grupos de #enfermedadesraras.
+
+via @CIBERER 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR 
+
+https://t.co/qOxHT7HEBh
+
+@NoInvisibles",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:01:00 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Ya puedes comprar la lotería Solidaria de Navidad de #FEDAES (número 31.196). Puedes hacerlo online https://t.co/VgRsG1QlmE #loteriasolidaria #ataxias #EnfermedadesRaras https://t.co/o2bRkcwl1H",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:01:13 +0000 2020",
+"name": "Guillermo Orts-Gil",
+"screen_name": "GuilleOrtsGil",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:03:17 +0000 2020",
+"name": "Associació Catalana de Comunicació Científica",
+"screen_name": "ACCC_",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:05:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 ¿Sabes cómo colaborar en el estudio sobre retraso diagnóstico en #España en #enfermedadesraras que estamos realizando? 
+
+🔸 ¡Es muy fácil y rápido! Solo tardarás 10 minutos
+
+🔸 Participa aquí: https://t.co/dVCVpY40BI https://t.co/V5PFiH7GaV",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:14:18 +0000 2020",
+"name": "Ictiosis España, ASIC",
+"screen_name": "asociacionasic",
+"text": "La @FEDER_ONG y el @SaludISCIII han reforzado su colaboración para seguir impulsado la #investigación en las #enfermedadesraras, fomentando la participación de los #pacientes en el proceso investigador e impulsando iniciativas de formación. https://t.co/OEcZx8KJIj https://t.co/PZklx3qI4m",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:15:26 +0000 2020",
+"name": "mel",
+"screen_name": "latiamelxd",
+"text": "#EnfermedadesRaras DISTROFIA MUSCULAR DE DUCHENNE Yo, mi mamá y mi hermanito la padecemos! No tiene cura y NO investigan el gen !!!",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:30:00 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Resultados de un ensayo clínico sobre la seguridad y eficacia de interferón gamma en Friedreich Ataxia. Seguimos avanzando - &gt; https://t.co/Wi7PPB6L5X #ataxias #EnfermedadesRaras #investigacion",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:30:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Los errores congénitos del metabolismo (ECM) constituyen un grupo numeroso de #EnfermedadesRaras en el que se han identificado alrededor de 800 distintas. Los ECM están asociados a alguna afectación neurológica en un 90% de los casos. 
+https://t.co/GnCZXvAR56",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 09:31:22 +0000 2020",
+"name": "AESIP",
+"screen_name": "PolandAESIP",
+"text": "🍀 ¿Sabes cómo colaborar en el estudio sobre retraso diagnóstico en #España en #enfermedadesraras que estamos realizando? 
+
+🔸 ¡Es muy fácil y rápido! Solo tardarás 10 minutos
+
+🔸 Participa aquí: https://t.co/dVCVpY40BI https://t.co/V5PFiH7GaV",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:35:46 +0000 2020",
+"name": "Metabolicos.es",
+"screen_name": "Metabolicos_es",
+"text": "FamiliasGA @GA1Familia pone en marcha el proyecto para crear un Registro Nacional de Acidemias Orgánicas
+El objetivo último es investigar la evolución natural de estas #EnfermedadesRaras metabólicas y sus aspectos neurocognitivos y neurorradiológicos.
+
+https://t.co/waaiWPHsXp https://t.co/SHcWJichJJ",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 09:40:03 +0000 2020",
+"name": "Nutricia España",
+"screen_name": "Nutricia_es",
+"text": "#EnfermedadesRaras #EERR @FEDER_ONG @SanitariaSemana
+
+https://t.co/Eka2fitQXm",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 09:48:56 +0000 2020",
+"name": "Yann Le Cam",
+"screen_name": "yann_eurordis",
+"text": "We are pleased to count @ChanZuckerberg among the funders of #RareDiseaseDay. With this grant, we will amplify the patient voice across borders and diseases to accelerate change for people living with a rare disease around the world. @rarediseaseday",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 09:59:05 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Es rápido y ayudas mucho 👇 #enfermedadesraras #ataxias #ataxia",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 10:00:30 +0000 2020",
+"name": "3er Congreso en Ciencia Sanitaria",
+"screen_name": "SanitariaSemana",
+"text": "#EnfermedadesRaras #EERR @FEDER_ONG @SanitariaSemana
+
+https://t.co/Eka2fitQXm",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 10:02:46 +0000 2020",
+"name": "Domenica Taruscio",
+"screen_name": "DTaruscio",
+"text": "We are pleased to count @ChanZuckerberg among the funders of #RareDiseaseDay. With this grant, we will amplify the patient voice across borders and diseases to accelerate change for people living with a rare disease around the world. @rarediseaseday https://t.co/CFy6NNKCTR",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 10:16:30 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "▪️BIEN▪️ 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/veQ9wUNrRJ",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 10:16:32 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "Resultados de un ensayo clínico sobre la seguridad y eficacia de interferón gamma en Friedreich Ataxia. Seguimos avanzando - &gt; https://t.co/Wi7PPB6L5X #ataxias #EnfermedadesRaras #investigacion",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 10:22:37 +0000 2020",
+"name": "Víctor Fernández",
+"screen_name": "vitorino013",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 10:35:00 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "¿Te abruma el lenguaje médico, el pronóstico de la enfermedad y la incertidumbre? 👉 ¡No estás solo/a!  Juntos y juntas somos más fuertes 💪 
+
+¡Únete a la comunidad #Share4Rare! ➡️ https://t.co/24QLIlRHCN #EnfermedadesRaras https://t.co/qkbuxFv5pL",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 10:42:15 +0000 2020",
+"name": "Pacientes LMC",
+"screen_name": "LMC_PACIENTES",
+"text": "¿Te abruma el lenguaje médico, el pronóstico de la enfermedad y la incertidumbre? 👉 ¡No estás solo/a!  Juntos y juntas somos más fuertes 💪 
+
+¡Únete a la comunidad #Share4Rare! ➡️ https://t.co/24QLIlRHCN #EnfermedadesRaras https://t.co/qkbuxFv5pL",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 10:59:09 +0000 2020",
+"name": "SOMM alliance",
+"screen_name": "SOMM_alliance",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 11:00:44 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "📖 ¡Lectura de #verano! 🏖️
+
+Échale un 👁️ a estos relatos protagonizados por personajes con #enfermedadesraras de @Principia_io que te recomienda @RarasReales 👇
+
+#SanofiEsEnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 11:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EResArte hace visible los problemas, ilusiones, esperanzas y frustraciones de un colectivo que grita a través de una muestra artística”
+
+La inauguración online del Museo Virtual sirvió para reivindicar la investigación de las #EnfermedadesRaras
+https://t.co/lpv4H2PTn8",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 11:12:26 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "#EResArte hace visible los problemas, ilusiones, esperanzas y frustraciones de un colectivo que grita a través de una muestra artística”
+
+La inauguración online del Museo Virtual sirvió para reivindicar la investigación de las #EnfermedadesRaras
+https://t.co/lpv4H2PTn8",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 11:21:05 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "#EResArte hace visible los problemas, ilusiones, esperanzas y frustraciones de un colectivo que grita a través de una muestra artística”
+
+La inauguración online del Museo Virtual sirvió para reivindicar la investigación de las #EnfermedadesRaras
+https://t.co/lpv4H2PTn8",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 11:30:01 +0000 2020",
+"name": "AKU Society",
+"screen_name": "AKUSociety",
+"text": "Fantastic news! Congratulations to @eurordis and the @ChanZuckerberg for funding such an important movement. 🎉 🎊 🎉",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 11:35:17 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 11:55:00 +0000 2020",
+"name": "Discapnet",
+"screen_name": "Discapnet",
+"text": "La Asociación en Ruta por las #EnfermedadesRaras alcanza el 62% de su crowdfunding para su investigación 🧪@feder_ong
+
+La entidad lanza una nueva campaña #SeguimosEnRutaPorLaInvestigación con la que quieren reafirmar su compromiso con estas patologías✅
+
+https://t.co/MwqpkhT7PB",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 11:57:15 +0000 2020",
+"name": "Aquila5721",
+"screen_name": "Aquila5721",
+"text": "La Asociación en Ruta por las #EnfermedadesRaras alcanza el 62% de su crowdfunding para su investigación 🧪@feder_ong
+
+La entidad lanza una nueva campaña #SeguimosEnRutaPorLaInvestigación con la que quieren reafirmar su compromiso con estas patologías✅
+
+https://t.co/MwqpkhT7PB",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 12:00:11 +0000 2020",
+"name": "Sanofi España",
+"screen_name": "SanofiES",
+"text": "🙋Juan Carlos Gil, autor de esta imagen finalista de #EResArte cuenta que “he conocido a varias personas con #EnfermedadesRaras”.
+
+Su foto utiliza 8⃣cerillas como metáfora de la diversidad de nuestra sociedad.
+
+Más en https://t.co/JZVh6EiL2P
+
+#SanofiEsEnfermedadesRaras https://t.co/zWXYRmuP3V",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 12:16:57 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#366DiasDeEERR #masvisibles #AvancesEIM #kmsporlainvestigacionenEERR 
+
+@NoticiasPKU @AMadFQ @FEFQ_CFspain @FundacionDravet @pielsana_aedv @fperamoralart @fundacionsigno @Lovexair @GVAsanitat @ASaludDigital @SalutGOIB @AndaluciaJunta @sanidadgob @AEMPSGOB @eurordis @ffpaciente",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 12:17:01 +0000 2020",
+"name": "IBEC",
+"screen_name": "IBECBarcelona",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 12:32:11 +0000 2020",
+"name": "Korda55",
+"screen_name": "juscasmx",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 12:36:40 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 12:44:12 +0000 2020",
+"name": "ALBA albinismo",
+"screen_name": "ALBA_albinismo",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 12:51:59 +0000 2020",
+"name": "Sonia Carrasco /❤",
+"screen_name": "soniacarrascom",
+"text": "#SeguimosEnRutaPorLaInvestigacion",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 12:52:48 +0000 2020",
+"name": "Felix J. Tapia",
+"screen_name": "ftapia",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 13:02:17 +0000 2020",
+"name": "George Paz",
+"screen_name": "georgepaz1",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 13:05:24 +0000 2020",
+"name": "Fundación Síndrome de Dravet",
+"screen_name": "FundacionDravet",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 13:17:23 +0000 2020",
+"name": "David Badia",
+"screen_name": "vits_vits",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 13:20:37 +0000 2020",
+"name": "Q.F.B. Karla Luna",
+"screen_name": "karlume",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 13:29:56 +0000 2020",
+"name": "Paula",
+"screen_name": "MxPaomp",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 13:38:17 +0000 2020",
+"name": "Aida Cruz",
+"screen_name": "aiiidaiiida",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 13:51:49 +0000 2020",
+"name": "AMFQMX",
+"screen_name": "AMFQMX",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 14:03:42 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "🍀 ¿Sabes cómo colaborar en el estudio sobre retraso diagnóstico en #España en #enfermedadesraras que estamos realizando? 
+
+🔸 ¡Es muy fácil y rápido! Solo tardarás 10 minutos
+
+🔸 Participa aquí: https://t.co/dVCVpY40BI https://t.co/V5PFiH7GaV",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 14:10:08 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras #Fabry
+
+¿Sabías que en la #EnfermedadDeFabry la mayoría de los síntomas no son específicos y muchas veces se pasan por alto? 
+
+Te contamos aquí ésta y otras cosas sobre signos y síntomas de Fabry: 
+👉https://t.co/cxCdmXB6gl https://t.co/8QoQgMMPRR",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 14:10:34 +0000 2020",
+"name": "Fernanda Fadel",
+"screen_name": "ferrufa",
+"text": "You never think it is going to happen close to you. 
+A friend´s baby was diagnosed with a rare genetic disease. A cure exists but it's just out of reach:
+@lifeforlucy_ 
+
+#WomenInSTEM #medium #mediumwriter
+#SMA1  #RareDisease #RareDiseaseDay #LifeforLucy
+
+https://t.co/O4uAsfJG7j",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 14:10:37 +0000 2020",
+"name": "Marisa Martínez salv",
+"screen_name": "MarmaSalv",
+"text": "#EnfermedadesRaras #Fabry
+
+¿Sabías que en la #EnfermedadDeFabry la mayoría de los síntomas no son específicos y muchas veces se pasan por alto? 
+
+Te contamos aquí ésta y otras cosas sobre signos y síntomas de Fabry: 
+👉https://t.co/cxCdmXB6gl https://t.co/8QoQgMMPRR",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 14:10:39 +0000 2020",
+"name": "FemTech_🖥👩🏽‍💻",
+"screen_name": "femtech_",
+"text": "You never think it is going to happen close to you. 
+A friend´s baby was diagnosed with a rare genetic disease. A cure exists but it's just out of reach:
+@lifeforlucy_ 
+
+#WomenInSTEM #medium #mediumwriter
+#SMA1  #RareDisease #RareDiseaseDay #LifeforLucy
+
+https://t.co/O4uAsfJG7j",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 14:11:04 +0000 2020",
+"name": "Marisol Garcia Pulgar",
+"screen_name": "marisolgpulgar",
+"text": "#EnfermedadesRaras #Fabry
+
+¿Sabías que en la #EnfermedadDeFabry la mayoría de los síntomas no son específicos y muchas veces se pasan por alto? 
+
+Te contamos aquí ésta y otras cosas sobre signos y síntomas de Fabry: 
+👉https://t.co/cxCdmXB6gl https://t.co/8QoQgMMPRR",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 14:52:29 +0000 2020",
+"name": "LaMonique",
+"screen_name": "rvmonik",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 15:01:14 +0000 2020",
+"name": "Jim Lynch",
+"screen_name": "JimLynchCodes",
+"text": "You never think it is going to happen close to you. 
+A friend´s baby was diagnosed with a rare genetic disease. A cure exists but it's just out of reach:
+@lifeforlucy_ 
+
+#WomenInSTEM #medium #mediumwriter
+#SMA1  #RareDisease #RareDiseaseDay #LifeforLucy
+
+https://t.co/O4uAsfJG7j",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 15:07:31 +0000 2020",
+"name": "Somos Pacientes",
+"screen_name": "somos_pacientes",
+"text": "La @AELIP_ financiará hasta finales de 2020 al @CIBERER en su estudio ‘Detección y caracterización de autoanticuerpos frente a perilipina 1 en pacientes con #lipodistrofia generalizada adquirida (#SíndromeDeLawrence)’. https://t.co/X2Gu8LrSHa
+#EnfermedadesRaras #Investigación https://t.co/KqHmhnoZB0",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 15:09:56 +0000 2020",
+"name": "heidi bjornson",
+"screen_name": "heidibp",
+"text": "We are pleased to count @ChanZuckerberg among the funders of #RareDiseaseDay. With this grant, we will amplify the patient voice across borders and diseases to accelerate change for people living with a rare disease around the world. @rarediseaseday",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 15:30:33 +0000 2020",
+"name": "Ignacio Carrera 🐍",
+"screen_name": "CarreraNacho",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 15:48:12 +0000 2020",
+"name": "Carlos Magis Rodríguez",
+"screen_name": "carlosmagis",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 15:54:04 +0000 2020",
+"name": "A Baeza",
+"screen_name": "mexico_ab",
+"text": "@ferbelaunzaran 👇👇👇",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 16:05:08 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 16:05:58 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Que papel esconden los ojos humanos en la enfermedad de alzheimer y en las #enfermedadesraras
+https://t.co/r2e3jO9KV7 a través de @hechosdehoy",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 16:06:44 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 16:19:05 +0000 2020",
+"name": "GCAT GenomesForLife",
+"screen_name": "GCATbiobank",
+"text": "Aparte de ofrecer la mejor #bioingeniería contra #COVID__19, en @IBECBarcelona no nos olvidamos de temas tan importantes como #cancer #tuberculosis #Alzheimer o #enfermedadesraras.
+Gracias a los medios que seguís dando voz a estos problemas, y a sus posibles soluciones ( hilo👇) https://t.co/EKoI6gS1vt",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 16:22:22 +0000 2020",
+"name": "jose maria simon",
+"screen_name": "doctorsimon2",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 16:37:10 +0000 2020",
+"name": "Jorge Lumbreras",
+"screen_name": "jlumbreras13",
+"text": "Lectura de verano!",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 17:04:15 +0000 2020",
+"name": "ThankURoadTrip - Hrvy - #SigoALoMío",
+"screen_name": "Beatriz42_3",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 17:09:23 +0000 2020",
+"name": "Victor Gomez M",
+"screen_name": "VickoCis",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 17:11:08 +0000 2020",
+"name": "Cistinosis Mexico",
+"screen_name": "CistinosisMex",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 17:20:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Comisión Europea está incrementando su apoyo a las iniciativas de colaboración centradas en la investigación de las #EnfermedadesRaras, pero la falta de financiación sigue siendo un problema. 
+
+¿Quieres saber qué está haciendo la CE en este ámbito?
+https://t.co/UFAACeBIrn https://t.co/mjrIVetPVP",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 17:46:43 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture #potrait #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases… https://t.co/WZuOWeN8JY",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 17:47:19 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "La Comisión Europea está incrementando su apoyo a las iniciativas de colaboración centradas en la investigación de las #EnfermedadesRaras, pero la falta de financiación sigue siendo un problema. 
+
+¿Quieres saber qué está haciendo la CE en este ámbito?
+https://t.co/UFAACeBIrn https://t.co/mjrIVetPVP",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 18:05:55 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/knRex4mELJ Gracias a @chiari13 @pelendinez @eerr_es #enfermedadesraras #masvisibles",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 18:07:21 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "#366DiasdeEERR #masvisibles #kmsporlainvestigacioneneerr",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 18:17:25 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a la Lic. Miriam Tornero de Galactosemia México
+#Galactosemia #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/59Xpl7IlQX",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 18:42:34 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 19:14:23 +0000 2020",
+"name": "Principia",
+"screen_name": "Principia_io",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 19:14:53 +0000 2020",
+"name": "Principia",
+"screen_name": "Principia_io",
+"text": "📖 ¡Lectura de #verano! 🏖️
+
+Échale un 👁️ a estos relatos protagonizados por personajes con #enfermedadesraras de @Principia_io que te recomienda @RarasReales 👇
+
+#SanofiEsEnfermedadesRaras https://t.co/3I63Swvhch",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 19:15:00 +0000 2020",
+"name": "Principia",
+"screen_name": "Principia_io",
+"text": ".@Principia_io publica varios relatos cortos en los que las #EnfermedadesRaras son protagonistas.  
+
+Vega, con Xeroderma Pigmentosum, es la pricipal personaje en «El peligro invisible» 
+
+https://t.co/QIppUGQofb https://t.co/Q4z6ULfwxU",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 19:35:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@irdirc estableció entre sus objetivos para 2017-2027
+
+✅ Aprobar 1.000 nuevas terapias para #EnfermedadesRaras
+✅ Atención y terapia en el plazo de un año
+✅ Desarrollar metodologías para evaluar el impacto de los diagnósticos y las terapias aplicadas
+
+https://t.co/fkSe80McXB https://t.co/Mwvrn0Dg16",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 19:36:25 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 19:43:11 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/xSo5dvpZcs Thanks to @Unique_charity @PatientWorthy @rarediseasemom #raredisease #covid19",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 19:58:06 +0000 2020",
+"name": "Giuseppe Limongelli",
+"screen_name": "glimongelli",
+"text": "We are pleased to count @ChanZuckerberg among the funders of #RareDiseaseDay. With this grant, we will amplify the patient voice across borders and diseases to accelerate change for people living with a rare disease around the world. @rarediseaseday",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 20:02:50 +0000 2020",
+"name": "Angie Abelleyra ",
+"screen_name": "angie_abelleyra",
+"text": "Es la opción que se les deja a muchos pacientes con #enfermedadesraras como la que tiene Moy, de Oaxaca, a buscar el apoyo de la comunidad para conseguir su medicamento, a falta de la cobertura que por ley tienen derecho, el derecho a la salud...",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 20:29:08 +0000 2020",
+"name": "T h é o",
+"screen_name": "therealvallet",
+"text": "Las #EnfermedadesRaras existen y muchas de ellas son crónicas. 
+
+Sus pacientes tienen rostro. Es el caso de mi amiga Noah. 
+
+Hace falta investigar más, invertir mejor y cuidar una sanidad pública cuyas recetas permiten sobrevivir a muchos bolsillos.",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 20:29:24 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Las #EnfermedadesRaras existen y muchas de ellas son crónicas. 
+
+Sus pacientes tienen rostro. Es el caso de mi amiga Noah. 
+
+Hace falta investigar más, invertir mejor y cuidar una sanidad pública cuyas recetas permiten sobrevivir a muchos bolsillos.",
+"ReTweet: "True"},
+{"data": "Mon Jul 20 20:32:24 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture #potrait #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases… https://t.co/bEt6WmgRbO",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 20:36:05 +0000 2020",
+"name": "Rosa M Herrera",
+"screen_name": "Rosa_M_Herrera",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 20:52:59 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "En "Salud con los Expertos" Hablaremos de: " La Feminización de los cuidados en las Enfermedades Raras" Muy interesante no te lo pierdas con la Experta Dra. Alejandra Camacho y nuestra coordinadora médica Dra. Juana Ines Navarrete.👇#enfermedadesraras #enfermedadeslisosomales https://t.co/v4IQFFe0n6",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 20:56:47 +0000 2020",
+"name": "Vicente56581494",
+"screen_name": "Vic12045519",
+"text": "Te presentamos la entrevista a la Lic. Miriam Tornero de Galactosemia México
+#Galactosemia #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/59Xpl7IlQX",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 21:01:22 +0000 2020",
+"name": "Josu Vega",
+"screen_name": "JVAGARAI",
+"text": "Dsde unidad metabólica del HU 12 de octubre piden ayuda de cuidadores de nuestros pacientes a la hora de validación de un cuestionario. #enfermedadesraras #lainvestigaciónesnuestraesperanza 
+Nos interesa mucho este estudio asi que os animamos a participar
+https://t.co/1zpbQYfP1g",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 21:21:42 +0000 2020",
+"name": "Antonio Souviron",
+"screen_name": "asouvi",
+"text": ".@irdirc estableció entre sus objetivos para 2017-2027
+
+✅ Aprobar 1.000 nuevas terapias para #EnfermedadesRaras
+✅ Atención y terapia en el plazo de un año
+✅ Desarrollar metodologías para evaluar el impacto de los diagnósticos y las terapias aplicadas
+
+https://t.co/fkSe80McXB https://t.co/Mwvrn0Dg16",
+"ReTweet: "False"},
+{"data": "Mon Jul 20 21:38:19 +0000 2020",
+"name": "McGee 🇭🇹",
+"screen_name": "unimcgee",
+"text": "What a beauty 😍💕",
+"ReTweet: "True"},

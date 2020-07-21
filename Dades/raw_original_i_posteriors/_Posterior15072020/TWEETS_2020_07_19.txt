@@ -1,0 +1,433 @@
+{"data": "Sat Jul 18 22:46:41 +0000 2020",
+"name": "Shelly Williamson",
+"screen_name": "ShellyW64",
+"text": "We have extended the closing date of our IIH Art Competition. Migraine Art is renowned 
+worldwide, let’s get IIH Art out there for the world to see just how devastating living with IIH can be. #IIHArt #RareDiseaseDay #Working2RelieveThePressure https://t.co/rlunwWhqtX",
+"ReTweet: "False"},
+{"data": "Sat Jul 18 23:45:28 +0000 2020",
+"name": "LunaRaye3",
+"screen_name": "ToxicSyn3",
+"text": "Living with Cowden syndrome... it's complicated! #PTEN #RareDiseaseDay https://t.co/af07c7RmeP",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 02:37:00 +0000 2020",
+"name": "Paola Andrea Ramos H",
+"screen_name": "060797Paola",
+"text": "#enfermedadesraras  tener Esclerosis tuberosa, y ser tan soñadora con la vida, te motiva 🙂.",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 05:19:23 +0000 2020",
+"name": "🅢🅐🅜",
+"screen_name": "orionescher",
+"text": "#RareDiseaseDay2019: Corn Allergy (Thread)
+
+This #RareDiseaseDay topic is technically a condition.  Food allergies are not rare, and corn allergies are really not as rare as many think. They are, however, rarely heard of and poorly understood. 
+
+https://t.co/txx0G8hmJZ",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 06:56:57 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture #potrait #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases… https://t.co/O5KxRl44fU",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 09:45:59 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "De los primeros síntomas a la diagnosis. Esta infografía representa los dificultosos caminos y “estaciones” por las que actualmente pasan los pacientes con #EnfermedadesRaras y sus familias en la búsqueda de su diagnóstico.
+https://t.co/0I74PqgP3M",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 09:54:29 +0000 2020",
+"name": "Luz Victoria Salazar",
+"screen_name": "luzvisalazar",
+"text": "De los primeros síntomas a la diagnosis. Esta infografía representa los dificultosos caminos y “estaciones” por las que actualmente pasan los pacientes con #EnfermedadesRaras y sus familias en la búsqueda de su diagnóstico.
+https://t.co/0I74PqgP3M",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 10:14:57 +0000 2020",
+"name": "Ceciliogc",
+"screen_name": "Cecilio_gc",
+"text": "“Cuidar a un niño con una enfermedad rara es como correr un maratón diario”
+
+💙  Nos gusta 'Luchadores', el libro editado por @caligramaeditor que recoge la historia de 11 familias que conviven con las #EnfermedadesRaras @LuchadoresAVA
+
+En @abc_familia 👉🏻https://t.co/M8YZ4fI6t3 https://t.co/PMkq0hf52e",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 10:35:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 10:37:35 +0000 2020",
+"name": "yolanda badas gonzalez #NoPaseoBichitos",
+"screen_name": "yotauro61",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 10:39:46 +0000 2020",
+"name": "Boys don't cry",
+"screen_name": "DexterMorganbcn",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 10:45:12 +0000 2020",
+"name": "Juan Carlos Garrosa",
+"screen_name": "Garroj69",
+"text": "“Cuidar a un niño con una enfermedad rara es como correr un maratón diario”
+
+💙  Nos gusta 'Luchadores', el libro editado por @caligramaeditor que recoge la historia de 11 familias que conviven con las #EnfermedadesRaras @LuchadoresAVA
+
+En @abc_familia 👉🏻https://t.co/M8YZ4fI6t3 https://t.co/PMkq0hf52e",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 10:46:49 +0000 2020",
+"name": "Juan Carlos Garrosa",
+"screen_name": "Garroj69",
+"text": ""El retraso en el diagnóstico puede deteriorar la salud del paciente de #Acromegalia. Sin embargo, una vez que se sospecha, el diagnóstico no es difícil"
+
+Cristina Lamas, de la @sociedadSEEN, en @infosalus_com
+
+👉🏻https://t.co/p46cmTAbDR @Acromegalia_Esp #EnfermedadesRaras https://t.co/HuwCyWzZ4c",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 11:18:24 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "🍃🌱Dolor Crónico🍃🌱 
+midolorcronico 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación… https://t.co/JRMjKk380H",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 11:39:03 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "💜💙
+midolorcronico 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha… https://t.co/aW8W8APugb",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 11:40:14 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "💙💜
+midolorcronico 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha… https://t.co/18mWrE7wYs",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 12:28:57 +0000 2020",
+"name": "Pedro mendez",
+"screen_name": "Pedro64mendez",
+"text": "“Cuidar a un niño con una enfermedad rara es como correr un maratón diario”
+
+💙  Nos gusta 'Luchadores', el libro editado por @caligramaeditor que recoge la historia de 11 familias que conviven con las #EnfermedadesRaras @LuchadoresAVA
+
+En @abc_familia 👉🏻https://t.co/M8YZ4fI6t3 https://t.co/PMkq0hf52e",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 12:35:40 +0000 2020",
+"name": "Salud a Diario",
+"screen_name": "SaDiario",
+"text": "Un estudio analizará las causas del retraso diagnóstico en #EnfermedadesRaras y su impacto en las familias afectadas - @FEDER_ONG @AERSCYL @SaludISCIII @CentroCREER  https://t.co/3bK43MLL9z https://t.co/hdN9YYoH6W",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 13:12:37 +0000 2020",
+"name": "Eduardo Suarez",
+"screen_name": "EduardoSuarez25",
+"text": "De los primeros síntomas a la diagnosis. Esta infografía representa los dificultosos caminos y “estaciones” por las que actualmente pasan los pacientes con #EnfermedadesRaras y sus familias en la búsqueda de su diagnóstico.
+https://t.co/0I74PqgP3M",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 13:38:28 +0000 2020",
+"name": "Rocío Requena",
+"screen_name": "RolaRequena",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 13:39:07 +0000 2020",
+"name": "Abuela Gloria",
+"screen_name": "gloria_abuela",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 14:36:55 +0000 2020",
+"name": "Cristina de Juan",
+"screen_name": "CristinadeJuans",
+"text": "“Cuidar a un niño con una enfermedad rara es como correr un maratón diario”
+
+💙  Nos gusta 'Luchadores', el libro editado por @caligramaeditor que recoge la historia de 11 familias que conviven con las #EnfermedadesRaras @LuchadoresAVA
+
+En @abc_familia 👉🏻https://t.co/M8YZ4fI6t3 https://t.co/PMkq0hf52e",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 15:02:02 +0000 2020",
+"name": "Alexa",
+"screen_name": "BluesyHeart",
+"text": "De los primeros síntomas a la diagnosis. Esta infografía representa los dificultosos caminos y “estaciones” por las que actualmente pasan los pacientes con #EnfermedadesRaras y sus familias en la búsqueda de su diagnóstico.
+https://t.co/0I74PqgP3M",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 15:35:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Los grupos @CIBERER han identificado en los últimos años más de 100 nuevos genes responsables de #EnfermedadesRaras.
+
+350 investigadores participaron en su XIII Reunión Anual, que se llevó a cabo en formato online.
+
+https://t.co/vNKarNLwpU https://t.co/qlEZXY8NLr",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 15:47:59 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 15:59:36 +0000 2020",
+"name": "manuel",
+"screen_name": "orugom",
+"text": "“Cuidar a un niño con una enfermedad rara es como correr un maratón diario”
+
+💙  Nos gusta 'Luchadores', el libro editado por @caligramaeditor que recoge la historia de 11 familias que conviven con las #EnfermedadesRaras @LuchadoresAVA
+
+En @abc_familia 👉🏻https://t.co/M8YZ4fI6t3 https://t.co/PMkq0hf52e",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 16:07:20 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Los grupos @CIBERER han identificado en los últimos años más de 100 nuevos genes responsables de #EnfermedadesRaras.
+
+350 investigadores participaron en su XIII Reunión Anual, que se llevó a cabo en formato online.
+
+https://t.co/vNKarNLwpU https://t.co/qlEZXY8NLr",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 16:11:13 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "Los grupos @CIBERER han identificado en los últimos años más de 100 nuevos genes responsables de #EnfermedadesRaras.
+
+350 investigadores participaron en su XIII Reunión Anual, que se llevó a cabo en formato online.
+
+https://t.co/vNKarNLwpU https://t.co/qlEZXY8NLr",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 16:40:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "👏“Todos somos raros, todos somos únicos". Los niños del colegio infantil @eraintxiki de Irún lo tienen claro. Que lo aprendan algunos mayores.
+
+Te lo cuentan en este vídeo parte de una iniciativa @FEDER_ONG para concienciar sobre las #EnfermedadesRaras
+https://t.co/MrQULy7TrV",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 16:42:24 +0000 2020",
+"name": "Miguel Rodriguez",
+"screen_name": "miroci49",
+"text": "“Cuidar a un niño con una enfermedad rara es como correr un maratón diario”
+
+💙  Nos gusta 'Luchadores', el libro editado por @caligramaeditor que recoge la historia de 11 familias que conviven con las #EnfermedadesRaras @LuchadoresAVA
+
+En @abc_familia 👉🏻https://t.co/M8YZ4fI6t3 https://t.co/PMkq0hf52e",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 17:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Obtener un diagnóstico es un primer objetivo para pacientes con #EnfermedadesRaras. Pero una vez obtenido, estos se ven entonces abrumados por una serie de nuevas preocupaciones y desafíos. 
+
+@genotipia escribió sobre estos retos.
+https://t.co/FsCPHh9xw0 https://t.co/zw5DD8aYLq",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:01:54 +0000 2020",
+"name": "Eddie Wind",
+"screen_name": "eddiedipiero",
+"text": "GRACIAS",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 18:01:58 +0000 2020",
+"name": "Eddie Wind",
+"screen_name": "eddiedipiero",
+"text": "Uno de nuestros proyectos de #investigación estudia el uso de #célulasiPS para implementar el CRISPR-CAS9 en el tratamiento de Distrofias de Retina, una serie de #enfermedadesraras que afectan a la #visión y que no tienen cura hoy en día.
+
+Más info ➡️ https://t.co/hVYxhD9zyg https://t.co/wBJoPrCm1t",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:05:58 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/xygREIG0rB Gracias a @SaDiario @AEF_AT @FEDER_ONG #enfermedadesraras #trail",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:07:52 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:24:30 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:25:27 +0000 2020",
+"name": "Interacción Médica",
+"screen_name": "Ymedics",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:25:31 +0000 2020",
+"name": "Miren Casavieja",
+"screen_name": "Izarzuri1983",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:29:58 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:35:05 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "😍Nuestro chico malagueño, Jorge, ha recibido la visita de Jennifer, que subirá 8 cimas en 8 días seguidos, los próximos 1-8 de agosto, en #Málaga. 
+
+💪🏼 Jorge animó a la súper ultratrailera. Nos ayudas? Puedes donar en Facebook e Instagram.
+
+#trail #running #enfermedadesraras https://t.co/9jmxNSKP1H",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 18:52:40 +0000 2020",
+"name": "Carmen García Moreno",
+"screen_name": "marina51300",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 19:02:24 +0000 2020",
+"name": "Jacobo Sellares",
+"screen_name": "jacobosellares",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 19:02:42 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "Lo recaudado es para @FEDER_ONG 
+Venga que este mes quiero poder donar un poquito más que el anterior 🥰🥰",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 19:10:53 +0000 2020",
+"name": "Isam Alobid",
+"screen_name": "IsamAlobid",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 19:28:18 +0000 2020",
+"name": "TONY",
+"screen_name": "TONY81GUAJE",
+"text": "😍Nuestro chico malagueño, Jorge, ha recibido la visita de Jennifer, que subirá 8 cimas en 8 días seguidos, los próximos 1-8 de agosto, en #Málaga. 
+
+💪🏼 Jorge animó a la súper ultratrailera. Nos ayudas? Puedes donar en Facebook e Instagram.
+
+#trail #running #enfermedadesraras https://t.co/9jmxNSKP1H",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 19:36:30 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 19:43:13 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/rBqsu4IemX Thanks to @UKHSPGroup @ChronicRights @MyositisSupport #raredisease #myositislife",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 20:03:48 +0000 2020",
+"name": "AERyOH",
+"screen_name": "AsociaAeryoh",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 20:13:36 +0000 2020",
+"name": "CristyGem",
+"screen_name": "Ccuen1",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 20:26:50 +0000 2020",
+"name": "Terragens",
+"screen_name": "Terragens",
+"text": "Lo recaudado es para @FEDER_ONG 
+Venga que este mes quiero poder donar un poquito más que el anterior 🥰🥰",
+"ReTweet: "True"},
+{"data": "Sun Jul 19 20:29:01 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture #potrait #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases… https://t.co/WxYl1RgHLK",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 20:32:55 +0000 2020",
+"name": "Leticia González",
+"screen_name": "LeticiaGon9",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 20:39:07 +0000 2020",
+"name": "Asociación Nacional Investigadores Hospitalarios",
+"screen_name": "ANIH_1",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 21:26:10 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "FamiliasGA @GA1Familia pone en marcha el proyecto para crear un Registro Nacional de Acidemias Orgánicas
+El objetivo último es investigar la evolución natural de estas #EnfermedadesRaras metabólicas y sus aspectos neurocognitivos y neurorradiológicos.
+
+https://t.co/waaiWPHsXp https://t.co/SHcWJichJJ",
+"ReTweet: "False"},
+{"data": "Sun Jul 19 21:49:52 +0000 2020",
+"name": "Pilar Rodríguez Santana",
+"screen_name": "pilarodsan",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
