@@ -1,0 +1,460 @@
+{"data": "Fri Jul 24 22:00:12 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Fri Jul 24 22:40:00 +0000 2020",
+"name": "SINDROME DE MORSIER",
+"screen_name": "SMorsier",
+"text": "https://t.co/GttDeQlKqg
+Te presentamos la entrevista a Mauricio y Tina de la Asociación mexicana de orientación, apoyo y lucha contra la esclerodermia
+#Esclerodermia #EnfermedadesRaras #aliadosfemexer #COVID19",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 00:03:37 +0000 2020",
+"name": "Funcolehf",
+"screen_name": "funcolehf",
+"text": "En el Webinar Viviendo con Angioedema Hereditario con la presentación de Jessika Torres. Su ejemplo como paciente, madre y profesional es un modelo a seguir.
+.
+.
+#AngioedemaHereditario #Webinar #EnfermedadesRaras #EnfermedadesHuerfanas #Angioedema #RareDisease https://t.co/LgLD48ZfJV",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 01:07:49 +0000 2020",
+"name": "SVH",
+"screen_name": "svhematologia",
+"text": "📚Curso "Rompiendo fronteras en #enfermedadesraras" 
+
+📅 Del 15/09 al 31/12 de 2020
+🔵 En colaboración con el Grupo Español de Enfermedades de Depósito Lisosomal (GEELD)
+📝 Inscripción: https://t.co/fb5xNh3GtH
+📌 Más información: https://t.co/XuzE85b9zd https://t.co/AprO5XK9Ku",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 04:31:41 +0000 2020",
+"name": "Irene Maté 🧩",
+"screen_name": "Irenemate",
+"text": "Las enfermedades metabólicas hereditarias #ECM, comprenden unas 1400 #enfermedadesraras de origen genético, con especial repercusión en #neuropediatría. En este podcast nos proponemos hacerlas comprensibles a través de una clasificación simplificada
+https://t.co/qc7HLl4rSL",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 06:46:35 +0000 2020",
+"name": "Dra A. García-Cazorla",
+"screen_name": "AGarciaCazorla",
+"text": "Super interesting!! The review was thrilling and educative enough, but getting to get it explained and commented from the authors is quite a privilege. Really enjoying @JIMD_Editors podcasts! https://t.co/k6Tmolxk3e",
+"ReTweet: "True"},
+{"data": "Sat Jul 25 07:18:43 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "“No quiero ser una madre coraje, quiero una “sociedad coraje” que me permita ser una madre normal.”
+
+Mónica, madre de una hija con Síndrome de #RubinsteinTaybi explicó en #FFPaciente qué mejoras se deberían implementar en el SNS sobre #EnfermedadesRaras
+https://t.co/KGrFS5OHuK",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 07:43:13 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/we8ft73Klq Thanks to @MinanoMar @JFCConsultants #raredisease #cystinosis",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:35:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Comisión Europea está incrementando su apoyo a las iniciativas de colaboración centradas en la investigación de las #EnfermedadesRaras, pero la falta de financiación sigue siendo un problema. 
+
+¿Quieres saber qué está haciendo la CE en este ámbito?
+https://t.co/UFAACeBIrn https://t.co/xZXVhGQZWy",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:36:26 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "La Comisión Europea está incrementando su apoyo a las iniciativas de colaboración centradas en la investigación de las #EnfermedadesRaras, pero la falta de financiación sigue siendo un problema. 
+
+¿Quieres saber qué está haciendo la CE en este ámbito?
+https://t.co/UFAACeBIrn https://t.co/xZXVhGQZWy",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:38:33 +0000 2020",
+"name": "Creciendo Con Noonan",
+"screen_name": "Noonan2015",
+"text": "La Comisión Europea está incrementando su apoyo a las iniciativas de colaboración centradas en la investigación de las #EnfermedadesRaras, pero la falta de financiación sigue siendo un problema. 
+
+¿Quieres saber qué está haciendo la CE en este ámbito?
+https://t.co/UFAACeBIrn https://t.co/xZXVhGQZWy",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:39:29 +0000 2020",
+"name": "Creciendo Con Noonan",
+"screen_name": "Noonan2015",
+"text": "Manuel Merillas y Carlos Lozano llevan las #enfermedadesraras a lo más alto https://t.co/7gixyXSd7m
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacioneneerr 
+
+@NoInvisibles",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:39:36 +0000 2020",
+"name": "Creciendo Con Noonan",
+"screen_name": "Noonan2015",
+"text": "🍀 “El trébol de cuatro hojas”, una iniciativa @FEDER_ONG para concienciar a los más pequeños sobre las #EnfermedadesRaras. 
+
+📖 Puedes descargarte este cuento aquí
+https://t.co/Ql4ozKQVGe https://t.co/St08kpc2KI",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:40:54 +0000 2020",
+"name": "Creciendo Con Noonan",
+"screen_name": "Noonan2015",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 08:47:26 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": "“Las personas que sufren #EnfermedadesRaras deben ser tratadas con más humanidad”
+
+Ana Celia Marquina contó su experiencia personal de desprecios, escasos avances y situaciones incómodas que ha vivido con su hija en la espera de su diagnóstico.
+https://t.co/0juQCjRNa2",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 09:11:00 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Con un euro al mes puedes ayudar a mejorar la calidad de vida de las personas afectadas de #ataxia y apoyar los proyectos de investigación científica que pueden cambiar su vida. ¿Cómo? -&gt;  https://t.co/kbVtiD4LnS  #teaming #enfermedadesraras @Teaming https://t.co/sLt2zKwgTx",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 09:35:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Los errores congénitos del metabolismo (ECM) constituyen un grupo numeroso de #EnfermedadesRaras en el que se han identificado alrededor de 800 distintas. Los ECM están asociados a alguna afectación neurológica en un 90% de los casos. 
+https://t.co/GnCZXvAR56",
+"ReTweet: "True"},
+{"data": "Sat Jul 25 11:07:04 +0000 2020",
+"name": "#SoyDisOrganic",
+"screen_name": "soydisorganic",
+"text": "Consulta aquí  todo lo relativo a #EnfermedadesRaras y que recoge el @SaludISCIII #ISCIII",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 11:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Técnicas de secuenciación masiva y bioinformática permiten importantes avances en el diagnóstico de #EnfermedadesRaras. La incorporación de estas herramientas permite @HospitalUVRocio multiplicar por 10 esta capacidad en los últimos 3 años.
+https://t.co/oVEoqfFULz",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 11:32:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 11:40:36 +0000 2020",
+"name": "Emprendedores F-M",
+"screen_name": "EmprendedoresF1",
+"text": "#MutualistasFM de @MutuaFM 
+Dona esas pesetas que tienes que guardadas en una caja olvidada de zapatos y de las que probablemente nunca obtendrás un beneficio.  
+https://t.co/4tBICYRbxV https://t.co/YrhDXtqUhQ",
+"ReTweet: "True"},
+{"data": "Sat Jul 25 11:50:25 +0000 2020",
+"name": "Vivir con FSHD",
+"screen_name": "VivirconFSHD",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 11:59:36 +0000 2020",
+"name": "Creciendo Con Noonan",
+"screen_name": "Noonan2015",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:01:15 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:22:42 +0000 2020",
+"name": "Elena Tejedor🏳️‍🌈",
+"screen_name": "ElenaTejedorQ",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:28:36 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "The latest MPS papas! https://t.co/EfURVg98Rv Thanks to @pelendinez @pfizer_spain #enfermedadesraras #raredisease",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:30:41 +0000 2020",
+"name": "Sergio Barrera Falcon - Corredor de Seguros",
+"screen_name": "SBarrerafalcon",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:31:38 +0000 2020",
+"name": "el Creata",
+"screen_name": "elCreata",
+"text": "El jiennense @pelendinez es el impulsor de https://t.co/brXikMONLY y https://t.co/DEFasFRmmy, webs nacidas con el objetivo de dar visibilidad a las #EnfermedadesRaras
+
+Sigue https://t.co/qzKgNM8nAX y su viaje por España a favor del reto #kmsporlainvestigacioneneerr https://t.co/w1GoJCCUFo",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:33:34 +0000 2020",
+"name": "el Creata",
+"screen_name": "elCreata",
+"text": "El jiennense @pelendinez es el impulsor de https://t.co/GjhfdngyD4 y https://t.co/e3NUaPNWz4, webs nacidas con el objetivo de dar visibilidad a las #EnfermedadesRaras
+
+Sigue https://t.co/UiIf6P0zQt y su viaje por España a favor del reto #kmsporlainvestigacioneneerr https://t.co/4jaP6xvNm8",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:41:21 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "@elCreata nos ha dedicado su atención y su tiempo para hacer #masvisibles las #EnfermedadesRaras 
+
+Muchas gracias.",
+"ReTweet: "True"},
+{"data": "Sat Jul 25 12:46:38 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "🏩📷"Siempre hay tiempo para caer, y siempre hay tiempo para recomponerse"💪🏻🤗
+
+Gracias @ffpaciente por recoger el valioso testimonio de nuestra querida Noah Higón @nh487 #EnfermedadesRaras 
+ #FFPaciente
+CC @soriano_p ⤵️ https://t.co/3V0IINpaeO #FFPaciente",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:46:41 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Ya a la venta la 2ª edición de 'De qué dolor son tus ojos', de Noah Higón Bellver @nh487 #enfermedadesraras https://t.co/hpmrNb7mPe",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:46:45 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Estamos hablando de #EnfermedadesRaras con Noah Higón Bellver @nh487. (https://t.co/X0MNdmADyr) Puedes seguir la entrevista en https://t.co/njAJOWZhWN",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:47:14 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 12:49:17 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 13:05:00 +0000 2020",
+"name": "Guiainfantil.com",
+"screen_name": "guiainfantil",
+"text": "El síndrome de Williams es una enfermedad rara que se produce en niños. Conocerla y diagnosticarla a tiempo es un factor decisivo para que estos niños puedan desarrollar una vida lo más normal posible
+
+https://t.co/JJQaeVgdQF #williams #síndromedewilliams #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 13:18:00 +0000 2020",
+"name": "Miguel A. Varela Pérez",
+"screen_name": "varelapma",
+"text": "El síndrome de Williams es una enfermedad rara que se produce en niños. Conocerla y diagnosticarla a tiempo es un factor decisivo para que estos niños puedan desarrollar una vida lo más normal posible
+
+https://t.co/JJQaeVgdQF #williams #síndromedewilliams #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 13:19:23 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "Técnicas de secuenciación masiva y bioinformática permiten importantes avances en el diagnóstico de #EnfermedadesRaras. La incorporación de estas herramientas permite @HospitalUVRocio multiplicar por 10 esta capacidad en los últimos 3 años.
+https://t.co/oVEoqfFULz",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 13:19:45 +0000 2020",
+"name": "SONIA SÁNCHEZ CID",
+"screen_name": "soniaszcid",
+"text": "El síndrome de Williams es una enfermedad rara que se produce en niños. Conocerla y diagnosticarla a tiempo es un factor decisivo para que estos niños puedan desarrollar una vida lo más normal posible
+
+https://t.co/JJQaeVgdQF #williams #síndromedewilliams #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 13:55:24 +0000 2020",
+"name": "La Esfera de los Libros #TodoEmpiezaEnUnaLibrería",
+"screen_name": "esferalibros",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 14:03:22 +0000 2020",
+"name": "Fundación IMO",
+"screen_name": "FundacionImo",
+"text": "Con la compra de un abanico solidario de #FundaciónIMO estarás ayudando investigar las #distrofiasderetina, una serie de #enfermedadesraras que afectan a la #visión y causan #ceguera.
+
+¿A qué esperas? ¡Adquiere el tuyo en la recepción principal de @imobarcelona ahora! https://t.co/wmZD2aV0Qp",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 14:29:00 +0000 2020",
+"name": "Mary Iglesias",
+"screen_name": "Mlif61",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 15:12:45 +0000 2020",
+"name": "Lola Jover Tortosa",
+"screen_name": "jover_lola",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 15:20:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 16:27:15 +0000 2020",
+"name": "Maria Angeles",
+"screen_name": "Mariaahuelva",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 17:08:00 +0000 2020",
+"name": "OMER México",
+"screen_name": "enfermedadrara",
+"text": "La actual pandemia pone de manifiesto la importancia del derecho a la salud para garantizar la cobertura sanitaria universal (CSU) para todos, incluyendo a las personas afectadas por una enfermedad rara.
+#esasuntodetodos
+#enfermedadesraras
+@InfoAliber @FabiolaLoyaMC",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 17:09:08 +0000 2020",
+"name": "Blanca Ibarra 🧬",
+"screen_name": "geneticabca",
+"text": "La actual pandemia pone de manifiesto la importancia del derecho a la salud para garantizar la cobertura sanitaria universal (CSU) para todos, incluyendo a las personas afectadas por una enfermedad rara.
+#esasuntodetodos
+#enfermedadesraras
+@InfoAliber @FabiolaLoyaMC",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 17:35:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 17:42:23 +0000 2020",
+"name": "Familia Sana",
+"screen_name": "Familiasana_es",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 18:00:25 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 18:02:04 +0000 2020",
+"name": "@NeonatosSonLlátzer",
+"screen_name": "NeoSonLlatzer",
+"text": "Las enfermedades metabólicas hereditarias #ECM, comprenden unas 1400 #enfermedadesraras de origen genético, con especial repercusión en #neuropediatría. En este podcast nos proponemos hacerlas comprensibles a través de una clasificación simplificada
+https://t.co/qc7HLl4rSL",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 18:05:59 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/xn8AweMRRP #enfermedadesraras #alpha",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 19:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EResArte hace visible los problemas, ilusiones, esperanzas y frustraciones de un colectivo que grita a través de una muestra artística”
+
+La inauguración online del Museo Virtual sirvió para reivindicar la investigación de las #EnfermedadesRaras
+https://t.co/lpv4H2PTn8",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 19:18:34 +0000 2020",
+"name": "Begonya Nafría",
+"screen_name": "BegonyaNafria",
+"text": "#EResArte hace visible los problemas, ilusiones, esperanzas y frustraciones de un colectivo que grita a través de una muestra artística”
+
+La inauguración online del Museo Virtual sirvió para reivindicar la investigación de las #EnfermedadesRaras
+https://t.co/lpv4H2PTn8",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 19:43:11 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/1KfGms0hCV Thanks to @Amcinerneyleo @Primary_Immune @malatinvisibili #raredisease #maipiuinvisibili",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 20:42:47 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "Con un euro al mes puedes ayudar a mejorar la calidad de vida de las personas afectadas de #ataxia y apoyar los proyectos de investigación científica que pueden cambiar su vida. ¿Cómo? -&gt;  https://t.co/kbVtiD4LnS  #teaming #enfermedadesraras @Teaming https://t.co/sLt2zKwgTx",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 20:47:02 +0000 2020",
+"name": "Fabiola Loya",
+"screen_name": "FabiolaLoyaMC",
+"text": "La actual pandemia pone de manifiesto la importancia del derecho a la salud para garantizar la cobertura sanitaria universal (CSU) para todos, incluyendo a las personas afectadas por una enfermedad rara.
+#esasuntodetodos
+#enfermedadesraras
+@InfoAliber @FabiolaLoyaMC",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 21:25:24 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "“El club de las #EnfermedadesRaras” es uno de los varios relatos cortos para niños publicados en @Principia_io con las enfermedades minoritarias como temática principal. 
+
+En este se relata una visita inesperada y “prohibida” al club… la de un científico.
+https://t.co/uthrwNMYlI",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 21:27:13 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "#EResArte hace visible los problemas, ilusiones, esperanzas y frustraciones de un colectivo que grita a través de una muestra artística”
+
+La inauguración online del Museo Virtual sirvió para reivindicar la investigación de las #EnfermedadesRaras
+https://t.co/lpv4H2PTn8",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 21:28:48 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "Muchas #EnfermedadesRaras son citadas de más de una manera ¿Quieres conocer las diferentes formas con las que se nombra una determinada enfermedad minoritaria?
+
+⏬ Descárgate aquí este listado Orphanet de varios cientos de EERR con sus sinónimos
+
+https://t.co/zW30YTRCCb https://t.co/5UmBcpMQVg",
+"ReTweet: "False"},
+{"data": "Sat Jul 25 21:33:56 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCHo5nF https://t.co/nrHrznqRpE",
+"ReTweet: "False"},
