@@ -1,0 +1,795 @@
+{"data": "Mon Jul 27 22:48:38 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "Fortalecer el marco jurídico para priorizar la atención de Enfermedades Raras. Tamiz Neonatal Metabólico Ampliado para todo recién nacido en territorio mexicano. #Tamizneonatalampliado #EnfermedadesRaras #MujerMéxico #FEMEXER  
+https://t.co/WaehoUkwKE",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 22:50:46 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "@anapatyp @ectorjaime @FEMEXER @Miroslava_SG",
+"ReTweet: "True"},
+{"data": "Mon Jul 27 23:40:39 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/2h08upFcHj",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 23:40:57 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/frHx9YiQke",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 23:41:17 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/Cv1ZPpFpLg",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 23:41:42 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/5hGQDbj9bI",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 23:42:14 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/aYaOYBVI4I",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 23:42:49 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/IFUc2cfGFN",
+"ReTweet: "False"},
+{"data": "Mon Jul 27 23:43:44 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/rvyqv4cxrD",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 02:26:38 +0000 2020",
+"name": "FENPOF CHILE 🇨🇱",
+"screen_name": "fenpofChile",
+"text": "Queremos compartir un video de la AERyOH de España que muestra el testimonio de una paciente con hipofosfatasia (HPP)
+El objetivo es dar visibilidad a esta patología y evitar que se cometan errores como los que cuenta Leticia
+https://t.co/iWvv26ne7b
+#FelizLunes #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 02:27:08 +0000 2020",
+"name": "Enferm Menkes Chile",
+"screen_name": "MenkesChile",
+"text": "Queremos compartir un video de la AERyOH de España que muestra el testimonio de una paciente con hipofosfatasia (HPP)
+El objetivo es dar visibilidad a esta patología y evitar que se cometan errores como los que cuenta Leticia
+https://t.co/iWvv26ne7b
+#FelizLunes #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 02:27:21 +0000 2020",
+"name": "Victor Rodriguez",
+"screen_name": "Victor_A_R_R_",
+"text": "Queremos compartir un video de la AERyOH de España que muestra el testimonio de una paciente con hipofosfatasia (HPP)
+El objetivo es dar visibilidad a esta patología y evitar que se cometan errores como los que cuenta Leticia
+https://t.co/iWvv26ne7b
+#FelizLunes #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 02:43:59 +0000 2020",
+"name": "Emmanuel Reyes Carmona",
+"screen_name": "EmmanuelReyesC",
+"text": "Como Secretario de la #ComsióndeSalud sostuve reunión virtual de la Junta Directiva para escuchar los comentarios de los expertos en la materia #EnfermedadesRaras, con el fin de allegarnos de información de las iniciativas registradas
+#BuenasNoches #InicioDeSemana #COVIDー19 https://t.co/d56MQK6rm2",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 03:12:21 +0000 2020",
+"name": "Bairon Renteria T.",
+"screen_name": "BaironRenteria",
+"text": "Feliz día del deporte Ecuatoriano!! #SomosFederíos #TodoPorLosRíos https://t.co/VAhXqcZp8H",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 04:34:47 +0000 2020",
+"name": "Hanya♥️",
+"screen_name": "evi_ann",
+"text": "Avanzando hacia la visibilización de EERR #EnfermedadesRaras #Craneosinostosis #AlianzaNacionalPorLasEnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 04:43:56 +0000 2020",
+"name": "NAN",
+"screen_name": "NANCYMA24237052",
+"text": "#2020 un año tan #dificil  #incierto lleno de tantas #pruebas #retos #obstaculos  desde su inicio con #sorpresas #enfermedadesraras  gente sin #corazon maltratando #animales  sin #piedad  ni #compasión #diosmio… https://t.co/vJEXtxyUVW",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 05:25:55 +0000 2020",
+"name": "May M L",
+"screen_name": "May94879508",
+"text": "Las #EnfermedadesNeuromusculares son un conjunto de más de 150 enfermedades neurológicas. Consideradas #EnfermedadesRaras, entre todas suman +60.000 pacientes en España. @Federacion_ASEM agrupa veintisiete entidades que trabajan por su visibilidad.
+https://t.co/NYQof7y3g6",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 06:10:20 +0000 2020",
+"name": "Alex Garanto",
+"screen_name": "Jandritu",
+"text": "🆕Un nuevo modelo de ratón ayuda a comprender las #distrofiashereditarias de retina causadas por el gen ‘CERKL’https://t.co/7V99DypunO @GMarfanyN @GeneticsUB @IBUB_UB #er #enfermedadesraras #investigación
+
+📌 Estudio https://t.co/9dbbDkRmRM https://t.co/ot7SadYDbb",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 06:31:53 +0000 2020",
+"name": "Elisabeth Aparicio",
+"screen_name": "A_storytelling",
+"text": "Existe una relación significativa entre Comunidades Autónomas 🔄 y tiempo de retraso diagnóstico de las #EnfermedadesRaras. A mayor ➕ tamaño poblacional, ➖ menor tiempo de este retraso. 
+
+Concluyó el análisis autonómico ENSERIO
+https://t.co/0yVRnYxYCE https://t.co/79tnyjTzYe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 06:34:00 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Suscríbete a nuestro boletín si te lo perdiste: Ya ha salido el último número de nuestro boletín #FEDAES Entra ahora y si aún no estás suscrito hazlo desde el formulario de contacto -&gt; https://t.co/fklTU5ciX3 
+#noticiassalud #ataxias #enfermedadesraras https://t.co/ttRcp4lDWg",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 07:02:37 +0000 2020",
+"name": "Eva del Ruste",
+"screen_name": "EvadelRuste",
+"text": "Más que palabras... 😍#compromiso #visibilidadER #EnfermedadesRaras #fotografía #EResArte",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 07:08:44 +0000 2020",
+"name": "Neuroblues",
+"screen_name": "neuroblues7",
+"text": "Las enfermedades metabólicas hereditarias #ECM, comprenden unas 1400 #enfermedadesraras de origen genético, con especial repercusión en #neuropediatría. En este podcast nos proponemos hacerlas comprensibles a través de una clasificación simplificada
+https://t.co/qc7HLl4rSL",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 07:31:25 +0000 2020",
+"name": "Fátima Elena",
+"screen_name": "FtimaElena2",
+"text": "#YoRespiroPorLaFPI hay que dar visibilidad a las enfermedades raras. Por todos los campeones que luchan contra la FPI @BoehringerES #EnfermedadesRaras https://t.co/4qVVcUIJDO",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 07:43:14 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/EO5ElCLbXP Thanks to @PatientWorthy @beatingcowdens @CatalystForRare #raredisease #scleroderma",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 07:44:07 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "Más que palabras... 😍#compromiso #visibilidadER #EnfermedadesRaras #fotografía #EResArte https://t.co/h9UZCggh0f",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 08:05:06 +0000 2020",
+"name": "Diario CÓRDOBA",
+"screen_name": "cordoba",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 08:10:32 +0000 2020",
+"name": "🚔📯🇪🇸 Nidal 🐺🌙🎤",
+"screen_name": "Nidalgp",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 08:15:31 +0000 2020",
+"name": "Gabri",
+"screen_name": "gabribeltran",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 08:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "⛰️🚶‍♀️⛰️ La asociación “En Ruta por las #EnfermedadesRaras” vuelve a la montaña tras confinamiento para seguir recaudando fondos para su investigación. 
+
+Relanzan campaña #SeguimosEnRutaPorLaInvestigación coincidiendo con la “nueva normalidad” 👏👏
+https://t.co/zSp9pg5WGL",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 08:20:42 +0000 2020",
+"name": "Toñi Giraldo",
+"screen_name": "Giraldo_27",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 09:25:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyOVnI",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 09:42:00 +0000 2020",
+"name": "FEDAES",
+"screen_name": "FEDAES",
+"text": "Intolerancias alimentarias, alergias o trastornos en el metabolismo que derivan en #enfermedadesraras  que afectan a nuestra alimentación, en este artículo están algunas de ellas-&gt; https://t.co/1YST5c7rJF #saludalimentaria #comerbien #salud",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 09:45:45 +0000 2020",
+"name": "Ooo Okay.🤝",
+"screen_name": "RalphGyebii",
+"text": "@konanHB and @_dynamite00 just linked up😮💦 Stream on audiomack #DM2020 https://t.co/eEoY5IpP5m",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 10:02:44 +0000 2020",
+"name": "Purití🐈",
+"screen_name": "puri3443",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 10:26:08 +0000 2020",
+"name": "Síndrome de Ondine España.CCHS",
+"screen_name": "ondine_spain",
+"text": "Al final la han querido todas.
+
+¡Muchas gracias odontosteticalcoy !
+
+#labolsadelverano 
+#respirarparasoñar 
+#síndromedeondine 
+#síndromedehipoventilacióncentralcongénita 
+#investigarparacurar 
+#enfermedadesraras https://t.co/ySErebgL53",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 10:29:43 +0000 2020",
+"name": "Mad Mike 🔥🔥",
+"screen_name": "Mike_Oh2",
+"text": "👤 @dynamite ft. @konanHB &amp; @sémi
+🎙 ​Don't Mind
+━━━━━━━━━━━━━
+⇝Released: #July2020
+⇝Genre:  #AfroBeat
+⇝Type : #Single
+⇝Tag: #Dynamite #Scott #Sémi #DM2020
+ ━━━━━━━━━━━   
+
+Audiomack
+https://t.co/gICwWEhNoY
+
+SoundCloud
+https://t.co/YhDvTgdiXc https://t.co/26NUvfMkGU",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 10:30:17 +0000 2020",
+"name": "Scott",
+"screen_name": "konanHB",
+"text": "🔥💯🔞",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 10:36:53 +0000 2020",
+"name": "Mad Mike 🔥🔥",
+"screen_name": "Mike_Oh2",
+"text": "🔥💯🔞",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 10:43:35 +0000 2020",
+"name": "Apice Epilepsia",
+"screen_name": "ApiceEpilepsia",
+"text": "¡350 millones de afectados por #EnfermedadesRaras en todo el mundo! ¿Aún piensas que son Raras?
+
+Ayúdanos a hacerlas #masvisibles con #366DiasdeEERR y #kmsporlainvestigacionenEERR
+@NoInvisibles @GTEMinoritarias @GrupoOrpharSEFH @aepediatria @SENefrologia @senep_es @seneurologia https://t.co/A7xQOl3baz",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 11:19:42 +0000 2020",
+"name": "Don’t mind is out. 🔥link in my bio🧎🏿‍♂️",
+"screen_name": "_dynamite00",
+"text": "@konanHB and @_dynamite00 just linked up😮💦 Stream on audiomack #DM2020 https://t.co/eEoY5IpP5m",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 11:21:08 +0000 2020",
+"name": "#FibromialgiaAlAuge💜",
+"screen_name": "LaLocaDeLaCas13",
+"text": "Siento decirlo, pero estoy cansada de hacer encuestas sobre #enfermedadesraras y que todo se quede en el papel. Asi no se lucha, así no se consigue ningún cambio ni mejora la calidad de vida de nadie.",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:00:15 +0000 2020",
+"name": "Ataxia and Me CIO 1184030",
+"screen_name": "Ataxia_and_Me",
+"text": "@EmmaButcher26 @OxPharmaGenesis Thank you for the follow.
+
+I am sure you will enjoy it @OxPharmaGenesis #Medcomms 
+
+my visit was FANTASTIC 
+https://t.co/LZO5RSDV4O
+
+#Ataxia #RareDisease #rarediseaseDay #Health #Communication (#pinksocks https://t.co/0gwSsKPObx",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:10:08 +0000 2020",
+"name": "menosRaras",
+"screen_name": "MenosRaras",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:30:53 +0000 2020",
+"name": "Nata",
+"screen_name": "nata_madrid",
+"text": "Sin dotar d recursos a investigadores es imposible avanzar en la cura de las #enfermedadesraras.
+El síndrome d Landau-Kleffner, una enfermedad neurológica muy rara q provoca la pérdida dl lenguaje en niños.
+@FEDER_ONG
+@NoInvisibles https://t.co/gGxnOdZHzH vía @infosalus_com",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:35:05 +0000 2020",
+"name": "CIBERER_Biobank",
+"screen_name": "CibererBiobank",
+"text": "Personas con #EnfermedadesRaras y sus familias siguen haciendo frente cada día a serios retos de inclusión social. Este informe EURORDIS muestra sus necesidades diarias no cubiertas y ofrece una serie de recomendaciones para lograr su atención integral.
+
+https://t.co/kJ2zwKwPiV https://t.co/f2NwW1wM3t",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:36:31 +0000 2020",
+"name": "CIBERER_Biobank",
+"screen_name": "CibererBiobank",
+"text": "#EnfermedadesRaras ¿Sabías que la #EnfermedadDeGaucher de tipo neuropático crónico es poco frecuente en países occidentales pero la de mayor prevalencia en el resto del mundo? 
+
+¿Quieres saber más sobre #Gaucher? Síntomas, diagnóstico, manejo... 
+👉https://t.co/n8hJDDrs5Y https://t.co/Ac2tAhYU9i",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:38:42 +0000 2020",
+"name": "Dont Mind is out.. link in Bio",
+"screen_name": "FanteNyiBa",
+"text": "@konanHB and @_dynamite00 just linked up😮💦 Stream on audiomack #DM2020 https://t.co/eEoY5IpP5m",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:45:26 +0000 2020",
+"name": "María Mata",
+"screen_name": "_maariamp",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 12:56:08 +0000 2020",
+"name": "Ana Paty Peralta",
+"screen_name": "anapatyp",
+"text": "La prueba del tamiz neonatal ampliado, es una nueva estrategia para la prevención de los defectos al nacimiento. Tenemos que lograr este diagnóstico para todos los recién nacidos 👶🏻.",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 13:06:41 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 13:25:59 +0000 2020",
+"name": "Deusto Neuro-e-Motion",
+"screen_name": "deustoNeuroeM",
+"text": "Acerca del síndrome #LandauKleffner https://t.co/ExB7tK4Fgr #enfermedadesraras
+
+(Vía @infosalus_com)",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 13:27:00 +0000 2020",
+"name": "Deusto Neuro-e-Motion",
+"screen_name": "deustoNeuroeM",
+"text": "Acerca del síndrome Landau-Kleffner https://t.co/ExB7tJN4oT #LandauKleffner #enfermedadesraras
+
+(Vía @infosalus_com)",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 13:31:51 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 13:59:36 +0000 2020",
+"name": "Isabel Beltran",
+"screen_name": "isabel0368",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 14:00:45 +0000 2020",
+"name": "Ernesto",
+"screen_name": "princesamia2016",
+"text": "🍀¿Has participado ya en el estudio sobre retraso diagnóstico en España? 
+
+🔸La experiencia de las personas con #enfermedadesraras es fundamental para conocer más sobre esta problemática y establecer una hoja de ruta adecuada. 
+
+🔸Accede aquí y participa: https://t.co/dVCVpXMpKa https://t.co/eE2EiJidBU",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 14:28:31 +0000 2020",
+"name": "CÓRDOBA CHISMOSA",
+"screen_name": "CORDOBACABREADA",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 14:35:49 +0000 2020",
+"name": "Costa del Sol Noticias DSur",
+"screen_name": "CostaSolNoticia",
+"text": "#Torremolinos 📰 Muere Ángel Ruiz, el joven malagueño que padecía una enfermedad rara&gt;. 
+#SAS #Enfermedadesraras  https://t.co/HBCRWzu1qT",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 14:45:44 +0000 2020",
+"name": "ana_solsona",
+"screen_name": "anamari42757471",
+"text": "Siento decirlo, pero estoy cansada de hacer encuestas sobre #enfermedadesraras y que todo se quede en el papel. Asi no se lucha, así no se consigue ningún cambio ni mejora la calidad de vida de nadie.",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 14:52:26 +0000 2020",
+"name": "CIBERER",
+"screen_name": "CIBERER",
+"text": "🆕Share4Rare pone en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras https://t.co/HZi7FD9njx @SJDbarcelona_es @Share4Rare https://t.co/zDTkyw1Z6R",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 14:54:48 +0000 2020",
+"name": "Eugenia de la Morena",
+"screen_name": "ugedelamorbar",
+"text": "🆕Share4Rare pone en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras https://t.co/HZi7FD9njx @SJDbarcelona_es @Share4Rare https://t.co/zDTkyw1Z6R",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 15:00:15 +0000 2020",
+"name": "Mito_guerrera",
+"screen_name": "Nerea_mine",
+"text": "🆕Share4Rare pone en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras https://t.co/HZi7FD9njx @SJDbarcelona_es @Share4Rare https://t.co/zDTkyw1Z6R",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 15:32:36 +0000 2020",
+"name": "Francisco José Pérez",
+"screen_name": "pintorperez1965",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:15:56 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:17:18 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:18:04 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "🆕Share4Rare pone en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras https://t.co/HZi7FD9njx @SJDbarcelona_es @Share4Rare https://t.co/zDTkyw1Z6R",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:18:51 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:18:52 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:23:43 +0000 2020",
+"name": "Yaquelín Loyo",
+"screen_name": "Yaquelin_Loyo",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:23:52 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Existen más de 8 mil #enfermedadesraras en el mundo
+ y solo el 60% tienen #tratamiento: especialistas. 
+ https://t.co/CEkKI1na6o",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:33:32 +0000 2020",
+"name": "María Rodríguez",
+"screen_name": "maria5sentidos",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:35:05 +0000 2020",
+"name": "Cultura RSC",
+"screen_name": "CulturaRSC",
+"text": "Comenzamos la semana con una señal hexagonal preciosa asociada a una nueva #ER y una palabra que es una #actitud 100% ILUSIÓN https://t.co/Nv5ber8Cv0 ¡Gracias Esther!😍
+
+#colaboración #conexión #participación #EnfermedadesRaras #visibilidadER #Feniceltonuria #ORPHA716 #wikiER13 https://t.co/D46GTbYbjl",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:42:06 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:42:37 +0000 2020",
+"name": "#FFPaciente",
+"screen_name": "ffpaciente",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:47:05 +0000 2020",
+"name": "Arantxa Sáez 🧼👋🏻+😷+ 🧍🏻‍♀️↔️🧍🏻‍♀️",
+"screen_name": "saezatxa",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:50:33 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:54:11 +0000 2020",
+"name": "Pedro Soriano 👥 #FFPaciente",
+"screen_name": "soriano_p",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:56:29 +0000 2020",
+"name": "Beatriz Cuñado",
+"screen_name": "beatrizce78",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 16:56:38 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:03:04 +0000 2020",
+"name": "El Guadajoz-Twit",
+"screen_name": "lalcoiano",
+"text": "¡Diario El Guadajoz en Twitter está disponible! https://t.co/eotSBJwHTp #últimahora #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:04:22 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:04:57 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Muy satisfechas de poder contribuir al conocimiento de las distrofias de retina hereditarias causadas por mutaciones en CERKL, como Retinosis pigmentaria y Distrofia de conos y bastones, con un modelo en ratón generado por CRISPR @CIBERER @GeneticsUB @BiologiaUB @segenetica",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 17:05:35 +0000 2020",
+"name": "Midas🎗",
+"screen_name": "MakonR2",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:06:23 +0000 2020",
+"name": "TONY",
+"screen_name": "TONY81GUAJE",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:07:27 +0000 2020",
+"name": "Mario MS",
+"screen_name": "mariomusan",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:08:29 +0000 2020",
+"name": "Aquila5721",
+"screen_name": "Aquila5721",
+"text": "Muy satisfechas de poder contribuir al conocimiento de las distrofias de retina hereditarias causadas por mutaciones en CERKL, como Retinosis pigmentaria y Distrofia de conos y bastones, con un modelo en ratón generado por CRISPR @CIBERER @GeneticsUB @BiologiaUB @segenetica",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 17:17:44 +0000 2020",
+"name": "Mary Carmen Porres #QuédateEnCasa",
+"screen_name": "LaPorres",
+"text": "🆕Share4Rare pone en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras https://t.co/HZi7FD9njx @SJDbarcelona_es @Share4Rare https://t.co/zDTkyw1Z6R",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:27:18 +0000 2020",
+"name": "Acción Tay-Sachs",
+"screen_name": "ACTAYS",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:28:35 +0000 2020",
+"name": "Maribel Martinez",
+"screen_name": "Akier06",
+"text": "“Conóceme por mis habilidades, no por mis discapacidades.” - Robert M. Hensel
+#tel #tea #enfermedadesraras #nnee #diversidad #niños #tecomo #azuqueca #Guadalajara https://t.co/6Q6Rv6vDZQ",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:30:27 +0000 2020",
+"name": "Accesibilidad Real #10N #España",
+"screen_name": "28aReal",
+"text": "🆕Un nuevo modelo de ratón ayuda a comprender las #distrofiashereditarias de retina causadas por el gen ‘CERKL’https://t.co/7V99DypunO @GMarfanyN @GeneticsUB @IBUB_UB #er #enfermedadesraras #investigación
+
+📌 Estudio https://t.co/9dbbDkRmRM https://t.co/ot7SadYDbb",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:36:25 +0000 2020",
+"name": "Mito_guerrera",
+"screen_name": "Nerea_mine",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 17:50:26 +0000 2020",
+"name": "ana",
+"screen_name": "anitaamorales99",
+"text": "#EnfermedadesRaras | Una familia de #LaCarlota pide ayuda para afrontar las terapias de su hija
+https://t.co/kvsfmEASRR",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 19:43:11 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/JhvfZCZmcR Thanks to @cdhintl @aHUSAllianceAct @TARareDisease #raredisease #charcotmarietoothdisease",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 19:43:53 +0000 2020",
+"name": "V i c k y 🌊",
+"screen_name": "VRedorat",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 19:52:14 +0000 2020",
+"name": "Mardy Bum",
+"screen_name": "hidrolsg",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 19:54:50 +0000 2020",
+"name": "laClemen",
+"screen_name": "laClemen1",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 19:54:55 +0000 2020",
+"name": "Alfredo Santalla",
+"screen_name": "AlfredoSantalla",
+"text": "😃🍷Un año más la bodega @AsuncionLaHorra apoya a la #aeeg con botellas de Roble 2018 Ribera del Duero. Cada botella son 6 € donados íntegros a la AEEG. Ponte en contacto con la bodega y colabora con tu pedido! 🤗GRACIAS!!! #glucogenosis #gsd #enfermedadesraras @FEDER_ONG https://t.co/X5z49hXk6j",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 20:02:26 +0000 2020",
+"name": "Fundación IMO",
+"screen_name": "FundacionImo",
+"text": "Una de nuestras investigaciones está centrada en encontrar nuevos #genes cuyas mutaciones provocan #distrofiasderetina, para contribuir al conocimiento y diagnóstico de estas #enfermedadesraras que causan #ceguera y #bajavisión.
+
+Más info: https://t.co/Vdw4wy02qg https://t.co/CXpTHRPFiI",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 20:05:14 +0000 2020",
+"name": "Ninalaguerrera.org",
+"screen_name": "NinalaguerreraO",
+"text": "Vino solidario en apoyo de la Asociación Española se Enfermoa de @Glucogenosis Animaros y probadlo.",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 20:05:40 +0000 2020",
+"name": "LAN",
+"screen_name": "Landing_around",
+"text": "Vino solidario en apoyo de la Asociación Española se Enfermoa de @Glucogenosis Animaros y probadlo.",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 20:09:02 +0000 2020",
+"name": "Ninalaguerrera.org",
+"screen_name": "NinalaguerreraO",
+"text": "Vino solidario en apoyo de la Asociación Española de Enfermos de @Glucogenosis Animaros y probadlo.",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 20:09:48 +0000 2020",
+"name": "LAN",
+"screen_name": "Landing_around",
+"text": "Vino solidario en apoyo de la Asociación Española de Enfermos de @Glucogenosis Animaros y probadlo.",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 20:32:19 +0000 2020",
+"name": "David Ferre",
+"screen_name": "dferregu",
+"text": "Muy satisfechas de poder contribuir al conocimiento de las distrofias de retina hereditarias causadas por mutaciones en CERKL, como Retinosis pigmentaria y Distrofia de conos y bastones, con un modelo en ratón generado por CRISPR @CIBERER @GeneticsUB @BiologiaUB @segenetica",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 20:35:21 +0000 2020",
+"name": "Concha Sánchez",
+"screen_name": "ConchaSanchezJ",
+"text": "🙋‍♂Para l@s que conviven con patologías crónicas
+🙋‍♀Para l@s que confían en las #vacunas
+🙋‍♂‍Para l@s que padecen #enfermedadesraras
+💁Para ti
+🌍Para tod@s, @SanofiES
+¿Nos sigues?",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 20:37:36 +0000 2020",
+"name": "Mª Luz Nieto",
+"screen_name": "MLuzNieto1",
+"text": "Existe una relación significativa entre Comunidades Autónomas 🔄 y tiempo de retraso diagnóstico de las #EnfermedadesRaras. A mayor ➕ tamaño poblacional, ➖ menor tiempo de este retraso. 
+
+Concluyó el análisis autonómico ENSERIO
+https://t.co/0yVRnYxYCE https://t.co/79tnyjTzYe",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 20:48:26 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "Por favor sigamos colaborando en lo que podamos. Es por una buena causa #ShowYourRare #SoyMutante #FebreroRaro2020 #cosasdeescritora",
+"ReTweet: "True"},
+{"data": "Tue Jul 28 20:57:38 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 20:59:00 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/kExbzyRz7p",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 20:59:25 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/vsUApupnCK",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:00:03 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/ck7WiEmMoK",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:16:42 +0000 2020",
+"name": "Vigopeques",
+"screen_name": "Vigopeques",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:22:35 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/7U4FILA1i2",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:24:17 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/KPhrDtryzk",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:27:19 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:45:02 +0000 2020",
+"name": "Álvaro Martín",
+"screen_name": "alvaromartinmd",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
+{"data": "Tue Jul 28 21:52:07 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Tras recibir un diagnóstico (o no) la maternidad se complica y empieza un proceso muy duro del que nadie te habla. #enfermedadesraras 
+
+♥️ Si ayudo a una sola persona con este directo, me sentiré muy feliz.
+
+ℹ️ Mañana a las 18:00 horas aquí: https://t.co/xmzQFbJG9O https://t.co/tG5f7fYc5a",
+"ReTweet: "False"},
