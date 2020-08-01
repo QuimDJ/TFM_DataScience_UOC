@@ -1,0 +1,406 @@
+{"data": "Thu Jul 30 21:59:57 +0000 2020",
+"name": "GeneticsUB",
+"screen_name": "GeneticsUB",
+"text": "Muy satisfechas de poder contribuir al conocimiento de las distrofias de retina hereditarias causadas por mutaciones en CERKL, como Retinosis pigmentaria y Distrofia de conos y bastones, con un modelo en ratón generado por CRISPR @CIBERER @GeneticsUB @BiologiaUB @segenetica",
+"ReTweet: "True"},
+{"data": "Thu Jul 30 22:09:59 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Maripaz Mastreta de @FundacionGIST 
+
+#GIST #EnfermedadesRaras #aliadosfemexer #COVID19 
+
+https://t.co/BotOKeb3EF",
+"ReTweet: "False"},
+{"data": "Thu Jul 30 22:18:47 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "La Unidad de raquis combina el TAC intraoperatorio y la neuronavegación en las cirugías complejas
+#MPS #ENFERMEDADESRARAS https://t.co/eOVg2qHCej via @AddThis",
+"ReTweet: "False"},
+{"data": "Thu Jul 30 22:18:53 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Milagros Castro de  
+@fundacionamcmx 
+ 
+#Artrogriposis #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/Vypo12vVVK",
+"ReTweet: "False"},
+{"data": "Thu Jul 30 22:48:59 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Jorge Bizarro de 
+@fundapieldeluna 
+ 
+#Albinismo #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/6hrDDFb2TX",
+"ReTweet: "False"},
+{"data": "Thu Jul 30 22:50:24 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Raquel Delgado de @SMorsier 
+
+Síndrome de #Morsier #DisplasiaSeptoÓptica #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/1NA5YKv3HM",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 08:02:46 +0000 2020",
+"name": "Victor H. Butrón",
+"screen_name": "ButronENG",
+"text": "Prioridad nº 10 en decálogo @FEDER_ONG para pacientes con #EnfermedadesRaras
+
+"Favorecer la inclusión laboral de las personas con enfermedades minoritarias y sus familiares de forma que puedan conciliar su vida laboral y familiar."
+
+https://t.co/JuTFiWtHwB https://t.co/hE8IsAOxOZ",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 08:17:21 +0000 2020",
+"name": "Marisol Garcia Pulgar",
+"screen_name": "marisolgpulgar",
+"text": "Los errores congénitos del metabolismo (ECM) constituyen un grupo numeroso de #EnfermedadesRaras en el que se han identificado alrededor de 800 distintas. Los ECM están asociados a alguna afectación neurológica en un 90% de los casos. 
+https://t.co/GnCZXvAR56",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 08:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Personas con #EnfermedadesRaras y sus familias siguen haciendo frente cada día a serios retos de inclusión social. Este informe EURORDIS muestra sus necesidades diarias no cubiertas y ofrece una serie de recomendaciones para lograr su atención integral.
+
+https://t.co/kJ2zwKwPiV https://t.co/Fbu3zEOodg",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 09:38:45 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Pausa hexagonal y una nueva señal dedicada junto a una palabra que es #actitud 100% Resiliencia https://t.co/L7GpVvpw7m Un regalazo para todos...😍✨¡Gracias Alicia!
+
+#colaboración #conexión #participación #EnfermedadesRaras #visibilidadER #gigantismocerebral #orpha821 #wikiER13 https://t.co/us3of2sWVp",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 09:39:52 +0000 2020",
+"name": "Antoni Montserrat Moliner",
+"screen_name": "ToniMontserratM",
+"text": "Personas con #EnfermedadesRaras y sus familias siguen haciendo frente cada día a serios retos de inclusión social. Este informe EURORDIS muestra sus necesidades diarias no cubiertas y ofrece una serie de recomendaciones para lograr su atención integral.
+
+https://t.co/kJ2zwKwPiV https://t.co/Fbu3zEOodg",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 09:40:00 +0000 2020",
+"name": "Share4Rare_es",
+"screen_name": "Share4Rare_es",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 09:41:17 +0000 2020",
+"name": "Gloria Brea Calvo",
+"screen_name": "gloriabreacalvo",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 09:51:08 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 10:02:23 +0000 2020",
+"name": "menosRaras",
+"screen_name": "MenosRaras",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 10:39:42 +0000 2020",
+"name": "chiari",
+"screen_name": "chiari13",
+"text": "¿Qué motiva el retraso diagnóstico de #EnfermedadesRaras?
+
+❓ 73% desconocimiento de la enfermedad
+📃 7% Problemas administrativos
+💴 3% Evaluación económica en hospital
+🤔 15% causas no especificadas
+https://t.co/QE68Evh1sF",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 10:49:06 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "Prioridad nº 10 en decálogo @FEDER_ONG para pacientes con #EnfermedadesRaras
+
+"Favorecer la inclusión laboral de las personas con enfermedades minoritarias y sus familiares de forma que puedan conciliar su vida laboral y familiar."
+
+https://t.co/JuTFiWtHwB https://t.co/hE8IsAOxOZ",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 10:52:09 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "Personas con #EnfermedadesRaras y sus familias siguen haciendo frente cada día a serios retos de inclusión social. Este informe EURORDIS muestra sus necesidades diarias no cubiertas y ofrece una serie de recomendaciones para lograr su atención integral.
+
+https://t.co/kJ2zwKwPiV https://t.co/Fbu3zEOodg",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 10:54:46 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "Cuando esperas y te desesperas para que tú médico te vea 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras… https://t.co/5KQTBSDFXA",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 11:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 11:58:55 +0000 2020",
+"name": "Luz Victoria Salazar",
+"screen_name": "luzvisalazar",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 12:02:09 +0000 2020",
+"name": "Asociación ASMD España",
+"screen_name": "AsmdSpain",
+"text": "Prioridad nº 10 en decálogo @FEDER_ONG para pacientes con #EnfermedadesRaras
+
+"Favorecer la inclusión laboral de las personas con enfermedades minoritarias y sus familiares de forma que puedan conciliar su vida laboral y familiar."
+
+https://t.co/JuTFiWtHwB https://t.co/hE8IsAOxOZ",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 12:25:24 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "Prioridad nº 10 en decálogo @FEDER_ONG para pacientes con #EnfermedadesRaras
+
+"Favorecer la inclusión laboral de las personas con enfermedades minoritarias y sus familiares de forma que puedan conciliar su vida laboral y familiar."
+
+https://t.co/JuTFiWtHwB https://t.co/hE8IsAOxOZ",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 12:26:58 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 12:33:45 +0000 2020",
+"name": "Aedex Epilepsia Extremadura",
+"screen_name": "AedexE",
+"text": "😃🍷Un año más la bodega @AsuncionLaHorra apoya a la #aeeg con botellas de Roble 2018 Ribera del Duero. Cada botella son 6 € donados íntegros a la AEEG. Ponte en contacto con la bodega y colabora con tu pedido! 🤗GRACIAS!!! #glucogenosis #gsd #enfermedadesraras @FEDER_ONG https://t.co/X5z49hXk6j",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 12:34:44 +0000 2020",
+"name": "Aedex Epilepsia Extremadura",
+"screen_name": "AedexE",
+"text": "Ocho cimas en ocho días - reto solidario de una trail runner. A beneficio de la educación de niños y jóvenes con ataxia telangiectasia. Vía ⁦@runners_es⁩ #trail #running #enfermedadesraras  https://t.co/Ym5ISXjxAt",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 13:20:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Solo un 5% de las #EnfermedadesRaras cuentan con tratamiento. En esta situación, la única opción posible es la investigación.  Sin embargo, solo el 20% de las enfermedades minoritarias están siendo investigadas. 
+
+🔬⚗️ + sobre EE.RR. y su investigación.
+https://t.co/wkS0j0VY13 https://t.co/lc3GlHvMZ5",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 13:38:04 +0000 2020",
+"name": "Esteban A.  SanMartín L.",
+"screen_name": "easanmartin",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 14:13:24 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 14:40:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "💰 ¿Sabías que este 2020 es el último año para canjear tus pesetas por euros?
+
+💸💸💸En el 2021 ya no te servirán para nada. Pero puedes usarlas para luchar contra las #EnfermedadesRaras gracias a la original campaña “La última peseta”. Averigua cómo. 
+
+https://t.co/xS6tIFesxw https://t.co/3u4HkfYN8l",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 15:40:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras ¿Sabías que la #EnfermedadDeGaucher de tipo neuropático crónico es poco frecuente en países occidentales pero la de mayor prevalencia en el resto del mundo? 
+
+¿Quieres saber más sobre #Gaucher? Síntomas, diagnóstico, manejo... 
+👉https://t.co/n8hJDD9QHo https://t.co/YFEenQFn6A",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 15:55:41 +0000 2020",
+"name": "Laia Llubes",
+"screen_name": "LaiaLlubes",
+"text": "@FEDER_ONG @CentroCREER @SaludISCIII Un grupo de investigadores en salud estamos haciendo entrevistas a personas diagnósticas de #EnfermedadesRaras y familiares. Si quieres participar por favor envíame un mensaje privado. Tu participación es clave!",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 15:56:52 +0000 2020",
+"name": "Laia Llubes",
+"screen_name": "LaiaLlubes",
+"text": "@FEGEREC Un grupo de investigadores en salud estamos haciendo entrevistas a personas diagnósticas de #EnfermedadesRaras y familiares. Si quieres participar por favor envíame un mensaje privado. Tu participación es clave!",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 15:57:08 +0000 2020",
+"name": "FoneStore.es ",
+"screen_name": "FoneStore_es",
+"text": "FoneStore tiene el orgullo de unirse a la campaña @LlamadaSolidar1 que consiste en la recogida de #móviles viejos o rotos, para financiar Proyectos de Investigación de #EnfermedadesRaras en niños.
+
+Agradecemos a Mayche su fabulosa atención #LlamadaSolidaria #Solidaridad #Familias https://t.co/maVGq0DGU8",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 15:57:25 +0000 2020",
+"name": "Laia Llubes",
+"screen_name": "LaiaLlubes",
+"text": "@JuanP_Galvez @diariolaopinion @Conecta_Fiction Un grupo de investigadores en salud estamos haciendo entrevistas a personas diagnósticas de #EnfermedadesRaras y familiares. Si quieres participar por favor envíame un mensaje privado. Tu participación es clave!",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 17:23:17 +0000 2020",
+"name": "CBGC.ARRIXACA",
+"screen_name": "cbgc_arrixaca",
+"text": "Solo un 5% de las #EnfermedadesRaras cuentan con tratamiento. En esta situación, la única opción posible es la investigación.  Sin embargo, solo el 20% de las enfermedades minoritarias están siendo investigadas. 
+
+🔬⚗️ + sobre EE.RR. y su investigación.
+https://t.co/wkS0j0VY13 https://t.co/lc3GlHvMZ5",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 17:29:06 +0000 2020",
+"name": "FoneStore.es ",
+"screen_name": "FoneStore_es",
+"text": "👏👏👏👏👏 https://t.co/dNo8biq9Fp",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 17:29:13 +0000 2020",
+"name": "FoneStore.es ",
+"screen_name": "FoneStore_es",
+"text": "Fabulosa iniciativa !! https://t.co/Ix0rHNKXgk",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 17:32:41 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Cecilia Infante de @mielofibrosismf 
+
+#Mielofibrosis #EnfermedadesRaras #aliadosfemexer #COVID19 https://t.co/apnh33dyjH",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 17:58:57 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 18:16:38 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Personas con #EnfermedadesRaras y sus familias siguen haciendo frente cada día a serios retos de inclusión social. Este informe EURORDIS muestra sus necesidades diarias no cubiertas y ofrece una serie de recomendaciones para lograr su atención integral.
+
+https://t.co/kJ2zwKwPiV https://t.co/Fbu3zEOodg",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 18:22:07 +0000 2020",
+"name": "Begonya Nafría",
+"screen_name": "BegonyaNafria",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 18:52:45 +0000 2020",
+"name": "Asociación STOP FMF",
+"screen_name": "STOP_FMF",
+"text": "Ya estamos en agosto, mes de la concienciación de los autoinflamatorios.
+@STOP_FMF @AAlliance_SAID @PeriodicFeverUK 
+
+#Autoinflamatorios
+#Autoinflammatory #SAID
+#AutoinflamMonth #august4autoinflammatory
+#EnfermedadesRaras
+@FEDER_ONG @COCEMFE_ @ffpaciente  @plataformamm",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 18:55:11 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 18:57:35 +0000 2020",
+"name": "Asociación STOP FMF",
+"screen_name": "STOP_FMF",
+"text": "Agosto, mes de la concienciación de los autoinflamatorios. 
+@STOP_FMF @AAlliance_SAID @PeriodicFeverUK
+@AutoinflamMonth
+#Autoinflamatorios #Autoinflammatory #SAID #AutoinflamMonth #august4autoinflammatory #EnfermedadesRaras 
+@FEDER_ONG
+@COCEMFE_
+@ffpaciente
+@plataformamm",
+"ReTweet: "True"},
+{"data": "Fri Jul 31 19:11:08 +0000 2020",
+"name": "Izarbe",
+"screen_name": "itsizarbe",
+"text": "🆕Un nuevo modelo de ratón ayuda a comprender las #distrofiashereditarias de retina causadas por el gen ‘CERKL’https://t.co/7V99DypunO @GMarfanyN @GeneticsUB @IBUB_UB #er #enfermedadesraras #investigación
+
+📌 Estudio https://t.co/9dbbDkRmRM https://t.co/ot7SadYDbb",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 19:11:34 +0000 2020",
+"name": "Raül Ibars",
+"screen_name": "RaulRguezIbars",
+"text": "🆕Un nuevo modelo de ratón ayuda a comprender las #distrofiashereditarias de retina causadas por el gen ‘CERKL’https://t.co/7V99DypunO @GMarfanyN @GeneticsUB @IBUB_UB #er #enfermedadesraras #investigación
+
+📌 Estudio https://t.co/9dbbDkRmRM https://t.co/ot7SadYDbb",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 19:30:35 +0000 2020",
+"name": "𝙹𝚊𝚟𝚒𝚎𝚛 𝙿𝚊𝚛𝚛𝚊𝚍𝚘 🔛",
+"screen_name": "JavierParradol",
+"text": "FoneStore tiene el orgullo de unirse a la campaña @LlamadaSolidar1 que consiste en la recogida de #móviles viejos o rotos, para financiar Proyectos de Investigación de #EnfermedadesRaras en niños.
+
+Agradecemos a Mayche su fabulosa atención #LlamadaSolidaria #Solidaridad #Familias https://t.co/maVGq0DGU8",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 19:30:41 +0000 2020",
+"name": "Grupo G&M & TobeOnline",
+"screen_name": "GastroModaTobe",
+"text": "FoneStore tiene el orgullo de unirse a la campaña @LlamadaSolidar1 que consiste en la recogida de #móviles viejos o rotos, para financiar Proyectos de Investigación de #EnfermedadesRaras en niños.
+
+Agradecemos a Mayche su fabulosa atención #LlamadaSolidaria #Solidaridad #Familias https://t.co/maVGq0DGU8",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 19:40:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "En estudio sobre #EnfermedadesRaras y su tratamiento
+
+😉 34% de los pacientes señaló contar con el tratamiento adecuado
+🙁 25% dijo no tener tratamiento
+😕 22% lo tenía pero lo consideraba inadecuado.
+
+https://t.co/QE68EvyCkd https://t.co/9CAPSs3h3b",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 19:43:11 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/XoZeSDUmz2 Thanks to @jcahannigan @RareDiseases @GlobalGenes #raredisease #hope",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 20:50:20 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "Con estos días de calor insoportable, os imagináis no poder daros un baño en la piscina?
+El contraste de temperatura, uno de los detonantes de crisis en la #hemiplejiaalternante #hemiplejiaalternantedelainfancia
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 20:54:32 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "Celebrar a lo grande tu cumpleaños?
+La exposición a estímulos y excitación en exceso, otra causa de crisis para nuestr@s hij@s que sufren #hemiplejiaalternantedelainfancia
+#hemiplejiaalternante
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 21:01:01 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "La pandemia que estamos sufriendo, nos está enseñado a llevar el día a día con el miedo a un virus.
+En la #hemiplejiaalternantedelainfancia cualquier proceso vírico, puede afectar de muy diferentes formas. Otra causa mas de crisis en la #hemiplejiaalternante
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 21:06:19 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "Cuando sufres crisis de #hemiplejiaalternante pueden pasar desde horas o dias hasta que el cuerpo vuelve a reaccionar. Hasta entonces, solo podemos dar cariño y fuerza a quien la sufre. Impotencia de no poder hacer nada mas.
+#hemiplejiaalternantedelainfancia
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Fri Jul 31 21:19:21 +0000 2020",
+"name": "Belén 🌻",
+"screen_name": "BelBelenpa1977",
+"text": "#microrrelato #escribirterapia #escribir #leer#lectores #lectura #relato#editores #editoriales #carpediem#viveelmomento #enfermedadesraras https://t.co/fw2G1xXm0G",
+"ReTweet: "False"},

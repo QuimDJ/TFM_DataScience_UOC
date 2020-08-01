@@ -1,0 +1,326 @@
+{"data": "Fri Jul 31 23:40:47 +0000 2020",
+"name": "Eva Bermejo-Sánchez",
+"screen_name": "EvaBS14",
+"text": "Solo un 5% de las #EnfermedadesRaras cuentan con tratamiento. En esta situación, la única opción posible es la investigación.  Sin embargo, solo el 20% de las enfermedades minoritarias están siendo investigadas. 
+
+🔬⚗️ + sobre EE.RR. y su investigación.
+https://t.co/wkS0j0VY13 https://t.co/lc3GlHvMZ5",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 02:23:52 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/rNSuYhDolB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 02:24:11 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/FHVimM3aEF",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 02:33:53 +0000 2020",
+"name": "Andrei stoica M",
+"screen_name": "Andreimurph",
+"text": "It's #RareDiseaseDay and you should know about ITP, an autoimmune blood disorder that causes low platelets. I was diagnosed three years ago, and after four weeks of chemo, I'm in remission! I still deal with minor bruising and chronic fatigue, but my body is much improved! https://t.co/fke8juRJ4H",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 04:27:39 +0000 2020",
+"name": "Asociación ELA Perú",
+"screen_name": "ELAperu",
+"text": "@ArbizuGamarra Estamos muy interesados en participar en el petitorio como asociación que representa a pacientes con #ELA #EsclerosisLateralAmiotrófica. Siendo del grupo de #EnfermedadesRaras, no recibimos ningún medicamento específico.",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 05:04:45 +0000 2020",
+"name": "Autoinflammatory All",
+"screen_name": "AAlliance_SAID",
+"text": "Agosto, mes de la concienciación de los autoinflamatorios. 
+@STOP_FMF @AAlliance_SAID @PeriodicFeverUK
+@AutoinflamMonth
+#Autoinflamatorios #Autoinflammatory #SAID #AutoinflamMonth #august4autoinflammatory #EnfermedadesRaras 
+@FEDER_ONG
+@COCEMFE_
+@ffpaciente
+@plataformamm https://t.co/VAPvFpnAPP",
+"ReTweet: "True"},
+{"data": "Sat Aug 01 07:05:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras y edición genética
+
+El editor genético CRISPR permite identificar la ruta molecular implicada en una distrofia poco frecuente. Este descubrimiento ha favorecido encontrar moléculas con potencial terapéutico para tratar la enfermedad. 
+
+https://t.co/rIVDqv4Voy https://t.co/acveoFKxum",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 07:22:03 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "#EnfermedadesRaras y edición genética
+
+El editor genético CRISPR permite identificar la ruta molecular implicada en una distrofia poco frecuente. Este descubrimiento ha favorecido encontrar moléculas con potencial terapéutico para tratar la enfermedad. 
+
+https://t.co/rIVDqv4Voy https://t.co/acveoFKxum",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 07:23:04 +0000 2020",
+"name": "M-CM España",
+"screen_name": "amcmesp",
+"text": "https://t.co/1VAnqJc9Gx ⬅️ En #Share4Rare estamos desarrollando un registro internacional de #pacientes 🌏👥 para comprender mejor cómo afecta la #COVID19 a personas que conviven con #enfermedadesraras. 
+
+¡Comparte esta iniciativa!🔁 #KidsCorona https://t.co/Mo5j9S09Y3",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 07:43:14 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/TslcpCKZRW Thanks to @JFCConsultants @kerri0413 #raredisease #cancer",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 08:06:03 +0000 2020",
+"name": "rosa",
+"screen_name": "rosadomenech51",
+"text": "Cuando sufres crisis de #hemiplejiaalternante pueden pasar desde horas o dias hasta que el cuerpo vuelve a reaccionar. Hasta entonces, solo podemos dar cariño y fuerza a quien la sufre. Impotencia de no poder hacer nada mas.
+#hemiplejiaalternantedelainfancia
+#EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 08:11:25 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "🏃🏻‍♀️🏔¡¡Bravo, Jennifer!! Primera cima, superada 💪🏼💪🏼💪🏼
+
+RETO 8 cimas en 8 días // 1-8 agosto // A beneficio del proyecto educativo de Aefat.
+Nos ayudas? 
+
++ info https://t.co/XvYG8E1UdA
+
+😍 GRACIAS
+#correfrenalaat #Málaga #AtaxiaTelangiectasia #enfermedadesraras #trail #running https://t.co/lMgqcHORqR",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 08:15:12 +0000 2020",
+"name": "Lisette Arnaud",
+"screen_name": "LisetteArnaud",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Sat Aug 01 08:15:21 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "Como nosotros... #genética #ataxiatelangiectasia #enfermedadesraras",
+"ReTweet: "True"},
+{"data": "Sat Aug 01 09:18:32 +0000 2020",
+"name": "Bea calavia",
+"screen_name": "beacalavia",
+"text": "FoneStore tiene el orgullo de unirse a la campaña @LlamadaSolidar1 que consiste en la recogida de #móviles viejos o rotos, para financiar Proyectos de Investigación de #EnfermedadesRaras en niños.
+
+Agradecemos a Mayche su fabulosa atención #LlamadaSolidaria #Solidaridad #Familias https://t.co/maVGq0DGU8",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 09:19:20 +0000 2020",
+"name": "Felicitas Rodriguez",
+"screen_name": "SociedadeI",
+"text": "FoneStore tiene el orgullo de unirse a la campaña @LlamadaSolidar1 que consiste en la recogida de #móviles viejos o rotos, para financiar Proyectos de Investigación de #EnfermedadesRaras en niños.
+
+Agradecemos a Mayche su fabulosa atención #LlamadaSolidaria #Solidaridad #Familias https://t.co/maVGq0DGU8",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 09:40:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCH6tZ5 https://t.co/hPTIqt2wkT",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 09:51:31 +0000 2020",
+"name": "Voro",
+"screen_name": "voro11",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCH6tZ5 https://t.co/hPTIqt2wkT",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 09:52:37 +0000 2020",
+"name": "Salvador Pedraza",
+"screen_name": "salvasapedraza",
+"text": "Solve-RD - solving the unsolved rare diseases: proyecto de investigación financiado por la Comisión Europea, con el objetivo de resolver un gran número de #EnfermedadesRaras para las cuales aún no hay una causa molecular conocida. 
+#infographic on the patient journey to diagnosis https://t.co/ObdmQ4tzDe",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 09:54:48 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "@anursescience Te comprendemos! 😊 Nos pasamos el día buscando financiación privada y donaciones particulares para la investigación de la ataxia telangiectasia... y así, la mayoría de las #enfermedadesraras 😞",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 09:57:16 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCH6tZ5 https://t.co/hPTIqt2wkT",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 10:08:22 +0000 2020",
+"name": "Eva Bermejo-Sánchez",
+"screen_name": "EvaBS14",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Sat Aug 01 10:30:53 +0000 2020",
+"name": "Luis Solo",
+"screen_name": "LuisSoloBilbao",
+"text": "🍀 ¿Tienes pesetas aún en tu casa? ¿Sabías que puedes colaborar con las #EnfermedadesRaras con ellas? 
+
+🔸 A través de @peseta_la descubrirás como donarlas y colaborar con las familias con ER
+
+https://t.co/MvmfCH6tZ5 https://t.co/hPTIqt2wkT",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 10:47:19 +0000 2020",
+"name": "trailrunning.es",
+"screen_name": "TrailRunningEs",
+"text": "🏃🏻‍♀️🏔¡¡Bravo, Jennifer!! Primera cima, superada 💪🏼💪🏼💪🏼
+
+RETO 8 cimas en 8 días // 1-8 agosto // A beneficio del proyecto educativo de Aefat.
+Nos ayudas? 
+
++ info https://t.co/XvYG8E1UdA
+
+😍 GRACIAS
+#correfrenalaat #Málaga #AtaxiaTelangiectasia #enfermedadesraras #trail #running https://t.co/lMgqcHORqR",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 11:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "«La gente necesita saber lo que tiene, ponerle apellido a lo que le pasa»
+
+Luz Couce Pico, jefa de servicio de #Neonatología del CHUS sobre las enfermedades metabólicas hereditarias, las cuales representan 1/6 de las #EnfermedadesRaras https://t.co/bH3CqlD4hB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 11:20:34 +0000 2020",
+"name": "Elisa Fernández",
+"screen_name": "ElisaFernndez1",
+"text": "«La gente necesita saber lo que tiene, ponerle apellido a lo que le pasa»
+
+Luz Couce Pico, jefa de servicio de #Neonatología del CHUS sobre las enfermedades metabólicas hereditarias, las cuales representan 1/6 de las #EnfermedadesRaras https://t.co/bH3CqlD4hB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 12:02:38 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "«La gente necesita saber lo que tiene, ponerle apellido a lo que le pasa»
+
+Luz Couce Pico, jefa de servicio de #Neonatología del CHUS sobre las enfermedades metabólicas hereditarias, las cuales representan 1/6 de las #EnfermedadesRaras https://t.co/bH3CqlD4hB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 12:28:35 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "The latest MPS papas! https://t.co/19kKJvMMeS Thanks to @prevencionmujer #enfermedadesraras #raredisease",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:03:12 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/SirGXWHvTP",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:04:29 +0000 2020",
+"name": "doctorsamiullah",
+"screen_name": "DrMdSamiulla",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/FwQKLTfdlB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:07:23 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/0xsWJHVq9g",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:07:47 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/2bYmg8IyEX",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:08:07 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/hRJT2sqk7x",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:08:33 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/JkDm7yA8iQ",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 13:09:28 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/XQyEiWc6fn",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 15:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Natalia, 9 años, padece fallo intestinal permanente. Hace 13 años varios padres de niños con similares #EnfermedadesRaras decidieron crear NUPA @SomosNupa.
+
+@COPE habló con su directora sobre el trabajo de esta #AsociaciónDePacientes
+https://t.co/ZHGwsJFhpY",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 15:22:51 +0000 2020",
+"name": "Somos NUPA",
+"screen_name": "SomosNupa",
+"text": "Natalia, 9 años, padece fallo intestinal permanente. Hace 13 años varios padres de niños con similares #EnfermedadesRaras decidieron crear NUPA @SomosNupa.
+
+@COPE habló con su directora sobre el trabajo de esta #AsociaciónDePacientes
+https://t.co/ZHGwsJFhpY",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 15:26:51 +0000 2020",
+"name": "CHEN🌼_ADICTA_91_75(María Jesús)",
+"screen_name": "cuandotuvas91",
+"text": "Natalia, 9 años, padece fallo intestinal permanente. Hace 13 años varios padres de niños con similares #EnfermedadesRaras decidieron crear NUPA @SomosNupa.
+
+@COPE habló con su directora sobre el trabajo de esta #AsociaciónDePacientes
+https://t.co/ZHGwsJFhpY",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 15:43:25 +0000 2020",
+"name": "Marisol Garcia Pulgar",
+"screen_name": "marisolgpulgar",
+"text": "«La gente necesita saber lo que tiene, ponerle apellido a lo que le pasa»
+
+Luz Couce Pico, jefa de servicio de #Neonatología del CHUS sobre las enfermedades metabólicas hereditarias, las cuales representan 1/6 de las #EnfermedadesRaras https://t.co/bH3CqlD4hB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 16:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“A menudo, los profesionales clínicos no tienen experiencia suficiente para establecer diagnósticos de #EnfermedadesRaras porque no se han encontrado ningún caso de esa enfermedad antes”
+
+Adolfo López, neurólogo en el Hospital Universitario Donostia
+
+https://t.co/RwRH5PAHB3 https://t.co/WobVz6PqdU",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 16:35:22 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "“A menudo, los profesionales clínicos no tienen experiencia suficiente para establecer diagnósticos de #EnfermedadesRaras porque no se han encontrado ningún caso de esa enfermedad antes”
+
+Adolfo López, neurólogo en el Hospital Universitario Donostia
+
+https://t.co/RwRH5PAHB3 https://t.co/WobVz6PqdU",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 16:43:27 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Natalia, 9 años, padece fallo intestinal permanente. Hace 13 años varios padres de niños con similares #EnfermedadesRaras decidieron crear NUPA @SomosNupa.
+
+@COPE habló con su directora sobre el trabajo de esta #AsociaciónDePacientes
+https://t.co/ZHGwsJFhpY",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 18:05:56 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/To2HIQDl2L Gracias a @retinosis @RarasReales #enfermedadesraras #covid19",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 21:26:08 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "«La gente necesita saber lo que tiene, ponerle apellido a lo que le pasa»
+
+Luz Couce Pico, jefa de servicio de #Neonatología del CHUS sobre las enfermedades metabólicas hereditarias, las cuales representan 1/6 de las #EnfermedadesRaras https://t.co/bH3CqlD4hB",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 21:31:30 +0000 2020",
+"name": "Gabriela Repetto 🧬",
+"screen_name": "gmrepetto",
+"text": "Hablaremos sobre la odisea diagnóstica de las personas con #EnfermedadesRaras prox martes 04/08. Un honor compartir “podio virtual” con la gran ⁦@jecubillare⁩. Gracias ⁦@carolschoihet⁩ x la invitación. ⁦@sochipe⁩ ⁦@sochigen⁩ ⁦@UDD_FM⁩ @clinicaalemana https://t.co/mPxBSkjikN",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 21:40:33 +0000 2020",
+"name": "TuGenetista",
+"screen_name": "TuGenetista",
+"text": "Hablaremos sobre la odisea diagnóstica de las personas con #EnfermedadesRaras prox martes 04/08. Un honor compartir “podio virtual” con la gran ⁦@jecubillare⁩. Gracias ⁦@carolschoihet⁩ x la invitación. ⁦@sochipe⁩ ⁦@sochigen⁩ ⁦@UDD_FM⁩ @clinicaalemana https://t.co/mPxBSkjikN",
+"ReTweet: "False"},
+{"data": "Sat Aug 01 21:54:25 +0000 2020",
+"name": "Soledad Guzman",
+"screen_name": "sguzmanrepetto",
+"text": "Hablaremos sobre la odisea diagnóstica de las personas con #EnfermedadesRaras prox martes 04/08. Un honor compartir “podio virtual” con la gran ⁦@jecubillare⁩. Gracias ⁦@carolschoihet⁩ x la invitación. ⁦@sochipe⁩ ⁦@sochigen⁩ ⁦@UDD_FM⁩ @clinicaalemana https://t.co/mPxBSkjikN",
+"ReTweet: "False"},
