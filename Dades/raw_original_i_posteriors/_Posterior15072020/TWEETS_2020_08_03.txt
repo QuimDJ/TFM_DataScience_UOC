@@ -1,0 +1,950 @@
+{"data": "Sun Aug 02 22:12:23 +0000 2020",
+"name": "ainhoinapm",
+"screen_name": "ainhoinapm",
+"text": ""No hace falta decir que ser padre o madre de un niño enfermo tiene un coste, incluso si eres la persona más positiva del mundo"
+
+Omaira, madre de un niño con#Duchenne escribió este texto sobre crianza de niños con #EnfermedadesRaras que vale la pena leer.
+https://t.co/WOwLniAqQT https://t.co/nNbiewN35S",
+"ReTweet: "False"},
+{"data": "Sun Aug 02 22:58:31 +0000 2020",
+"name": "Ana Prada",
+"screen_name": "AnaPradaTv",
+"text": "!! Gracias @AnaPradaTv  por dar visibilidad al #Glut1 !!  #Glut1DS
+#asGLUTdiece
+#VisibilidadGlut1 #InvestigaciónGlut1 #VideosSolidarios #SolidaridadGlut1 #EnfermedadesMinoritarias  #EnfermedadesRaras 
+https://t.co/yHTLIrwtU1",
+"ReTweet: "False"},
+{"data": "Sun Aug 02 23:31:48 +0000 2020",
+"name": "Piroña",
+"screen_name": "cerrillo_sonia",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 01:14:40 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:02:05 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:04:22 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su investigación
+
+https://t.co/hqdg1gWrTD https://t.co/cQb8BCyFIc",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:18:24 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:31:51 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/5Pb6E2XWPh",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:33:06 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/Y05l8yYBwG",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:33:55 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/japC03BnEe",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:34:22 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/KvazvfNoZA",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:34:42 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/Q2OpPx17Ao",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:35:04 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/lD4okuNOIN",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:35:29 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/qD0QBi6idF",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:35:52 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/aNIIBMXfis",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:36:12 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/xU5xvNKHUK",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:36:40 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/8Oh2CSVmXW",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 06:37:06 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/BTCwNLICBf",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:10:20 +0000 2020",
+"name": "Jose",
+"screen_name": "josesantiago227",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:29:30 +0000 2020",
+"name": "Fundación Poco Frecuente Rare Diseases",
+"screen_name": "Fpocofrecuente",
+"text": ""No hace falta decir que ser padre o madre de un niño enfermo tiene un coste, incluso si eres la persona más positiva del mundo"
+
+Omaira, madre de un niño con#Duchenne escribió este texto sobre crianza de niños con #EnfermedadesRaras que vale la pena leer.
+https://t.co/WOwLniAqQT https://t.co/nNbiewN35S",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:30:08 +0000 2020",
+"name": "Fundación Poco Frecuente Rare Diseases",
+"screen_name": "Fpocofrecuente",
+"text": "¿Qué es la enfermedad genética progresiva del Síndrome de #Hunter ?
+#MPS #ENFERMEDADESRARAS https://t.co/OEZoa0InLC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:31:22 +0000 2020",
+"name": "MPS España",
+"screen_name": "asociacion_mps",
+"text": "¿Qué es la enfermedad genética progresiva del Síndrome de #Hunter ?
+#MPS #ENFERMEDADESRARAS https://t.co/OEZoa0InLC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:42:30 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:43:14 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/qoFa3tX0V3 Thanks to @EIUPerspectives @ChiariTracy #raredisease #australia",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:43:41 +0000 2020",
+"name": "Mjose",
+"screen_name": "kiamjmg1",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:45:22 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": ".@fundacionepic, especializada en el fomento de la salud cardiovascular, colaborará con @FEDER_ONG para posibilitar la continuidad de tratamientos y terapias domiciliarias para pacientes con #EnfermedadesRaras paralizadas por crisis sanitaria Covid-19.
+
+https://t.co/4zxYhiC62d https://t.co/UY1Xc2jmBF",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 07:45:35 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "¡Bañate en el Silken Al-Andalus y mójate por las #EnfermedadesRaras! https://t.co/WqwscQg34J¡bañate-en-el-silken-al-andalus-y-mójate-por-las-er a través de @FEDER_ONG #er #rsc #sevilla https://t.co/EcWGsKxzlM",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 08:07:52 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 08:17:08 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/DSOAXQCW43",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 08:17:31 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/A6mCjCyQuS",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 08:17:49 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/3dRamERHXO",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 08:18:06 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/dRDeqDXsHn",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 08:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Cualquier medio y formato es bueno para dar visibilizar y ofrecer un mayor conocimiento sobre #EnfermedadesRaras.
+
+Conoce mejor con este cómic qué es la Talasemia, un transtorno hereditario que afecta a la producción de hemoglobina.
+
+https://t.co/yCUeTnvBTp https://t.co/3VV0MKMCK6",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:08:03 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/xVbzjoQOG7",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:08:32 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/m5QCwNyfEo",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:08:53 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/s6FWepWBMM",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:09:15 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/E79Psh0rD7",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:10:42 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/5aD8Gwv85G",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:15:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv8O0hY",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:22:46 +0000 2020",
+"name": "Fundación IMAS",
+"screen_name": "FundacionImas",
+"text": "Un ejemplo de discriminación de los #pacientes con enfermedades poco frecuentes en España.  #EsofagitisEosinofílica #enfermedadesRaras
+@redaccionmedica
+ https://t.co/zBw6GmhaTP",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:27:23 +0000 2020",
+"name": "jose maria simon",
+"screen_name": "doctorsimon2",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv8O0hY",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:35:08 +0000 2020",
+"name": "Bhagyashree",
+"screen_name": "Bhagyas96677391",
+"text": "#RareIsStrong.  The people living with FOP, their families and carers are perhaps some of the strongest people you will meet. #CureFOP #FOPFriends #RareDiseaseDay #ShareYourRare https://t.co/c29fQQEoBD",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 09:36:21 +0000 2020",
+"name": "Plataforma MM",
+"screen_name": "plataformamm",
+"text": "#SummerSchoolSpanishEdition2020
+#Dra. @crismallol #EnfermedadesRaras #SSSE2020 #EnfermedadesMinoritarias #RareDisease https://t.co/74SCba4Yc1",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:01:23 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Avance para el tratamiento del síndrome X frágil #XFrágil #SíndromeXFrágil #EnfermedadesRaras vía @RevNeurol https://t.co/MW3LMk0ATT",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:12:29 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:15:57 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "¿Qué es la enfermedad genética progresiva del Síndrome de #Hunter ?
+#MPS #ENFERMEDADESRARAS https://t.co/OEZoa0InLC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:16:56 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "«La gente necesita saber lo que tiene, ponerle apellido a lo que le pasa»
+
+Luz Couce Pico, jefa de servicio de #Neonatología del CHUS sobre las enfermedades metabólicas hereditarias, las cuales representan 1/6 de las #EnfermedadesRaras https://t.co/EEYxB0klRv",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:18:03 +0000 2020",
+"name": "Sección de Medicina ULL",
+"screen_name": "medicina_ull",
+"text": "Natalia, 9 años, padece fallo intestinal permanente. Hace 13 años varios padres de niños con similares #EnfermedadesRaras decidieron crear NUPA @SomosNupa.
+
+@COPE habló con su directora sobre el trabajo de esta #AsociaciónDePacientes
+https://t.co/ZHGwsJFhpY",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:18:15 +0000 2020",
+"name": "patatabrava",
+"screen_name": "perfumealibro",
+"text": "¿Qué es la enfermedad genética progresiva del Síndrome de #Hunter ?
+#MPS #ENFERMEDADESRARAS https://t.co/OEZoa0InLC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 10:34:53 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:00:52 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "La Fundación Jiménez Díaz @Hospital_FJD logra con éxito el nacimiento de un bebé sano e histocompatible con su hermano, afecto de anemia falciforme #AnemiaFalciforme #EnfermedadesRaras https://t.co/Senp7emiIR a través de @quironsalud",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:08:24 +0000 2020",
+"name": "Manuel Fdez Luzón🎶 🎷 🎻🎺🔻",
+"screen_name": "manelflu",
+"text": "Nuevo número de la Newsletter de @CentroCREER @Imserso de los meses de abril-junio de 2020
+Especial "ENFERMEDADES RARAS y COVID-19", disponible para su consulta y descarga en nuestra página web
+#NewsletterCREER #EnfermedadesRaras #COVID19 
+👉https://t.co/lMnFZPJ0gl https://t.co/LxNsuUEzsg",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/SKtuVW4Nyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:11:17 +0000 2020",
+"name": "Stop Sanfilippo",
+"screen_name": "StopSanfilippo",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:17:12 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:19:49 +0000 2020",
+"name": "Victory",
+"screen_name": "Victory091981",
+"text": "¿Qué es la enfermedad genética progresiva del Síndrome de #Hunter ?
+#MPS #ENFERMEDADESRARAS https://t.co/OEZoa0InLC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:23:54 +0000 2020",
+"name": "asile205",
+"screen_name": "asile205",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/SKtuVW4Nyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:24:28 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Progreso a nivel internacional para incluir las #enfermedadesraras en la cobertura sanitaria universal https://t.co/FEEntYVwXp",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 11:35:33 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 11:58:01 +0000 2020",
+"name": "Guillermo Chantada",
+"screen_name": "gchantada",
+"text": "Excelente iniciativa de registro de infeccion por #COVID19  en personas con enfermedades poco frecuentes. https://t.co/RHst9a1cAs",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 12:04:40 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/g2RYFwMg8J",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:35:47 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": "Todos, desde cada rincón del mundo debemos formar parte, es nuestro turno ahora en septiembre de sumarnos a esta campaña por las #EnfermedadesRaras y las #EPOF 👇👏👇 @eurordis 
+
+#CantuArgentina #CantuSyndrome #Nodejemosanadieatras #RareDiseases",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 12:40:13 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "🎗️#InvestiganConIncliva #YoApoyoLaInvestigación Desde @incliva_iis queremos dar las GRACIAS a la asociación @Alfa1Espana por su apoyo y su aportación económica a nuestro GI en #EnfermedadesRaras Respiratorias, dirigido por el Dr.@dasiff.  https://t.co/o2DzJ0la20 https://t.co/bCOvIesLgb",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:41:30 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": "Las redes sociales han supuesto una herramienta clave para las personas con #EnfermedadesRaras y sus familiares. Sin ellas, sería más difícil..
+
+-Concienciación social
+-Conectar entre pacientes
+-Apoyo psicológico
+-Acciones solidarias para su investigación
+
+https://t.co/hqdg1gWrTD https://t.co/cQb8BCyFIc",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:42:14 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:43:07 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "🎗️ #InvestiganConIncliva #YoApoyoLaInvestigación Desde @incliva_iis queremos dar las GRACIAS a la asociación de pacientes y familiares @Alfa1Espana por su apoyo y su aportación económica a nuestro GI en #EnfermedadesRaras Respiratorias, dirigido por el Dr.@dasiff. https://t.co/0ab5PChJB8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:43:08 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "Actualmente, este nuevo grupo de investigación de nuestro tiene en marcha varios proyectos de investigación relacionados con el Déficit de Alfa-1 Antitripsina. #DAAT #EERR #Alpha1Awareness #EnfermedadesRaras #RareDisease  https://t.co/i9ESjtOe9u",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:43:31 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "Actualmente, este nuevo grupo de investigación de nuestro instituto tiene en marcha varios proyectos de investigación relacionados con el Déficit de Alfa-1 Antitripsina. #DAAT #EERR #Alpha1Awareness #EnfermedadesRaras #RareDisease  https://t.co/i9ESjtOe9u",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 12:48:40 +0000 2020",
+"name": "Alfa-1 España",
+"screen_name": "Alfa1Espana",
+"text": "Gracias a vosotros siempre, por vuestra gran implicación en la investigación de las enfermedades respiratorias raras.
+❤️",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 12:53:55 +0000 2020",
+"name": "jose maria simon",
+"screen_name": "doctorsimon2",
+"text": "#EnfermedadesRaras 
+¿Sabías que la #EnfermedadDeGaucher fue descrita por 1ª vez por un estudiante de medicina francés?  Ocurrió en 1882 y su nombre era Philippe #Gaucher.
+
+Encuentra en nuestra web más info sobre sus síntomas, diagnósticos y manejo 👉https://t.co/n8hJDDrs5Y https://t.co/SKtuVW4Nyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:01:19 +0000 2020",
+"name": "Raul NF",
+"screen_name": "rnunez21",
+"text": "#enfermedadesraras Ayuden a difundir y si puede colaboren ! Por favor ! @EnfrmraSaturada @antena3com @la2_tve @La1_tve  @telecincoes @tv3cat @telecincoes @rtve @Ruiz_Noticias @cuatro @laSextaTV @sextaNoticias @vallhebron @salutcat @bomberscat @mossos @gencat @semgencat https://t.co/NnQAo26Tks",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:01:28 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:23:13 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv8O0hY",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:25:23 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:26:39 +0000 2020",
+"name": "Francisco Dasi",
+"screen_name": "dasiff",
+"text": "Muchas gracias @Alfa1Espana por confiar en @incliva_iis y en nuestro grupo de investigación @ERdivulga",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 13:27:37 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "Cualquier medio y formato es bueno para dar visibilizar y ofrecer un mayor conocimiento sobre #EnfermedadesRaras.
+
+Conoce mejor con este cómic qué es la Talasemia, un transtorno hereditario que afecta a la producción de hemoglobina.
+
+https://t.co/yCUeTnvBTp https://t.co/3VV0MKMCK6",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:30:53 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "La Fundación Jiménez Díaz @Hospital_FJD logra con éxito el nacimiento de un bebé sano e histocompatible con su hermano, afecto de anemia falciforme #AnemiaFalciforme #EnfermedadesRaras https://t.co/Senp7emiIR a través de @quironsalud",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:37:27 +0000 2020",
+"name": "Somos ALAPA",
+"screen_name": "AlapaArgentina",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 13:47:30 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 14:03:18 +0000 2020",
+"name": "Cosnautas",
+"screen_name": "cosnautas",
+"text": "¿Conocéis el sitio web 🌐 'Orphanet'?
+
+Es un portal de información sobre #EnfermedadesRaras y medicamentos huérfanos 💊.
+
+Aparece en nuestro 🌳 #ÁrbolDeCos, colección de enlaces para la traducción y la redacción médicas.
+
+Por Laura Munoa, @CamposLeza, María Hernández.
+
+#Cosnautas https://t.co/yjy1ApoMRg",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 14:26:33 +0000 2020",
+"name": "Laura Sánchez",
+"screen_name": "LauraSnchezTra1",
+"text": "¿Conocéis el sitio web 🌐 'Orphanet'?
+
+Es un portal de información sobre #EnfermedadesRaras y medicamentos huérfanos 💊.
+
+Aparece en nuestro 🌳 #ÁrbolDeCos, colección de enlaces para la traducción y la redacción médicas.
+
+Por Laura Munoa, @CamposLeza, María Hernández.
+
+#Cosnautas https://t.co/yjy1ApoMRg",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 14:35:39 +0000 2020",
+"name": "Guillermo Pinilla — Traducción e Interpretación",
+"screen_name": "gpinillagallego",
+"text": "¿Conocéis el sitio web 🌐 'Orphanet'?
+
+Es un portal de información sobre #EnfermedadesRaras y medicamentos huérfanos 💊.
+
+Aparece en nuestro 🌳 #ÁrbolDeCos, colección de enlaces para la traducción y la redacción médicas.
+
+Por Laura Munoa, @CamposLeza, María Hernández.
+
+#Cosnautas https://t.co/yjy1ApoMRg",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 14:46:30 +0000 2020",
+"name": "Ingrid Heidenreich",
+"screen_name": "iaheidenreich",
+"text": "Todos, desde cada rincón del mundo debemos formar parte, es nuestro turno ahora en septiembre de sumarnos a esta campaña por las #EnfermedadesRaras y las #EPOF 👇👏👇 @eurordis 
+
+#CantuArgentina #CantuSyndrome #Nodejemosanadieatras #RareDiseases https://t.co/KjUegxVXO1",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 14:49:59 +0000 2020",
+"name": "Ingrid Heidenreich",
+"screen_name": "iaheidenreich",
+"text": "Nuestro turno, x todas las #EnfermedadesRaras las #EPOF the #RareDiseases y su Cobertura Universal de Salud.  No dejemos a nadie atrás, no importa dónde estén.  Sólo será posible si nos unimos sólo así llegaremos más lejos en la validación y respeto de nuestros derechos. 👇👇",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 14:54:03 +0000 2020",
+"name": "Conociendo a Wally",
+"screen_name": "ConociendoaWall",
+"text": "Entendimiento, unión, solidaridad, difusión, respeto, colaboración, trabajo en equipo, pero de TODOS, para no dejar a nadie atrás.  Sumate a esta campaña de @eurordis ahora en septiembre por la Cobertura Universal de Salud para todas las #EPOF #EnfermedadesRaras #RareDiseases",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 14:54:50 +0000 2020",
+"name": "Ecosciente",
+"screen_name": "sambertus",
+"text": "Entendimiento, unión, solidaridad, difusión, respeto, colaboración, trabajo en equipo, pero de TODOS, para no dejar a nadie atrás.  Sumate a esta campaña de @eurordis ahora en septiembre por la Cobertura Universal de Salud para todas las #EPOF #EnfermedadesRaras #RareDiseases https://t.co/dEXNCJX2lK",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 14:56:14 +0000 2020",
+"name": "Gabriel",
+"screen_name": "melonazo1962",
+"text": "Entendimiento, unión, solidaridad, difusión, respeto, colaboración, trabajo en equipo, pero de TODOS, para no dejar a nadie atrás.  Sumate a esta campaña de @eurordis ahora en septiembre por la Cobertura Universal de Salud para todas las #EPOF #EnfermedadesRaras #RareDiseases",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 15:11:58 +0000 2020",
+"name": "Alfa-1 España",
+"screen_name": "Alfa1Espana",
+"text": "Muchas gracias @Alfa1Espana por confiar en @incliva_iis y en nuestro grupo de investigación @ERdivulga",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 15:21:36 +0000 2020",
+"name": "INCLIVA",
+"screen_name": "incliva_iis",
+"text": "Muchas gracias @Alfa1Espana por confiar en @incliva_iis y en nuestro grupo de investigación @ERdivulga https://t.co/IKylWoFI84",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 15:26:15 +0000 2020",
+"name": "Silvia Gil",
+"screen_name": "Silviagil100Gil",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 15:30:04 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Diana Marroquín de Fundación Atrofia Muscular Espinal México
+#AtrofiaMuscularEspinal #AME #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/15vTAouvW3",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 15:30:46 +0000 2020",
+"name": "Gloria Moreno Pecero",
+"screen_name": "glomope",
+"text": "A veces, la #hemiplejiaalternantedelainfancia se diagnostica como #hepilepsia
+El conocimiento de los síntomas de esta enfermedad, fundamental para poder diagnosticar a tiempo.
+#EnfermedadesRaras
+#1inamillion https://t.co/ONmf7jzaAJ",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 15:30:55 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Diana Marroquín de @curameac Fundación Atrofia Muscular Espinal México
+#AtrofiaMuscularEspinal #AME #EnfermedadesRaras #aliadosfemexer #COVID19 
+https://t.co/15vTAouvW3",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 16:05:09 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/KQQaLOyjeV",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 16:20:58 +0000 2020",
+"name": "DMarrokas",
+"screen_name": "DMarrokas",
+"text": "Te presentamos la entrevista a Diana Marroquín de @curameac Fundación Atrofia Muscular Espinal México
+#AtrofiaMuscularEspinal #AME #EnfermedadesRaras #aliadosfemexer #COVID19 
+https://t.co/15vTAouvW3",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 16:23:55 +0000 2020",
+"name": "matty",
+"screen_name": "patsypatsy28",
+"text": "☹️ #dolorcrónico  #EnfermedadesRaras  #Fibromyalgia",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 16:28:23 +0000 2020",
+"name": "Mar Fernandez Nieto",
+"screen_name": "MarFdezNieto",
+"text": "Gracias a vosotros siempre, por vuestra gran implicación en la investigación de las enfermedades respiratorias raras.
+❤️",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 16:39:16 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Desde @Share4Rare_es ponen en marcha un registro internacional para estudiar la #COVID19 en personas con #enfermedadesraras
+Gr. @SJDbarcelona_es @FundGarrahan @HospGarrahan @AlapaArgentina @FADEPOF @BegonyaNafria 
+Aquí👇#EERR
+https://t.co/YyrbUozbLk
+https://t.co/09NoQa3nZX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:05:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/Ke1j4dy9fC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:11:13 +0000 2020",
+"name": "Gabriel",
+"screen_name": "melonazo1962",
+"text": "Todos, desde cada rincón del mundo debemos formar parte, es nuestro turno ahora en septiembre de sumarnos a esta campaña por las #EnfermedadesRaras y las #EPOF 👇👏👇 @eurordis 
+
+#CantuArgentina #CantuSyndrome #Nodejemosanadieatras #RareDiseases",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 17:20:51 +0000 2020",
+"name": "Itamar Camus",
+"screen_name": "gotamar",
+"text": "¡Boletín de Pediatría Camus  está disponible! https://t.co/ZmYXKdmiyp Gracias a @SEPEAP @roxcanedo #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:25:58 +0000 2020",
+"name": "Paqui Castillo",
+"screen_name": "PaquiCastillo7",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:34:48 +0000 2020",
+"name": "#SoyDisOrganic",
+"screen_name": "soydisorganic",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/Ke1j4dy9fC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:38:48 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/Ke1j4dy9fC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:44:59 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/Ke1j4dy9fC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:45:40 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qQat6U",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 17:47:08 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "Progreso a nivel internacional para incluir las #enfermedadesraras en la cobertura sanitaria universal https://t.co/FEEntYVwXp",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 18:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Muchas #EnfermedadesRaras son citadas de más de una manera ¿Quieres conocer las diferentes formas con las que se nombra una determinada enfermedad minoritaria?
+
+⏬ Descárgate aquí este listado Orphanet de varios cientos de EERR con sus sinónimos
+
+https://t.co/zW30YTRCCb https://t.co/qv3hOFlWsm",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:05:56 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/DMg2BCzTsz Gracias a @RarasReales #enfermedadesraras #oceanaction",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:18:41 +0000 2020",
+"name": "Manuel J Márquez Moy",
+"screen_name": "marquezmoy",
+"text": "!! Gracias @AnaPradaTv  por dar visibilidad al #Glut1 !!  #Glut1DS
+#asGLUTdiece
+#VisibilidadGlut1 #InvestigaciónGlut1 #VideosSolidarios #SolidaridadGlut1 #EnfermedadesMinoritarias  #EnfermedadesRaras 
+https://t.co/yHTLIrwtU1",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:29:09 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/vLNwWDbbir",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:29:20 +0000 2020",
+"name": "Laura Rojas",
+"screen_name": "LauraRojasR",
+"text": "@acpemvzla al fin las enfermedades consideradas como rara tiene esta voz hoy",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 18:29:28 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/mNLz0OrOsg",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:29:38 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/Ke1j4dy9fC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:29:50 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/EtNLMssun2",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:30:11 +0000 2020",
+"name": "A.E.E.G",
+"screen_name": "Glucogenosis",
+"text": "Siguen llegando etiquetas pintadas por nuestros artistas !! @AsuncionLaHorra ... Vais a tener trabajo etiquetando!! 😄
+#gsd #EnfermedadesRaras #Solidaridad #vinosolidario https://t.co/flK8EeWQsr",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:35:23 +0000 2020",
+"name": "Erika González",
+"screen_name": "ekge1979",
+"text": "Seminario de Comunicación! https://t.co/ziexdj6PlX #enfermedadesraras #rsc",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:45:52 +0000 2020",
+"name": "Alfa-1 España",
+"screen_name": "Alfa1Espana",
+"text": "🎗️ #InvestiganConIncliva #YoApoyoLaInvestigación Desde @incliva_iis queremos dar las GRACIAS a la asociación de pacientes y familiares @Alfa1Espana por su apoyo y su aportación económica a nuestro GI en #EnfermedadesRaras Respiratorias, dirigido por el Dr.@dasiff. https://t.co/0ab5PChJB8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:45:57 +0000 2020",
+"name": "Alfa-1 España",
+"screen_name": "Alfa1Espana",
+"text": "Actualmente, este nuevo grupo de investigación de nuestro instituto tiene en marcha varios proyectos de investigación relacionados con el Déficit de Alfa-1 Antitripsina. #DAAT #EERR #Alpha1Awareness #EnfermedadesRaras #RareDisease  https://t.co/i9ESjtOe9u",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:46:15 +0000 2020",
+"name": "EGV",
+"screen_name": "GoyanesElena",
+"text": "Actualmente, este nuevo grupo de investigación de nuestro instituto tiene en marcha varios proyectos de investigación relacionados con el Déficit de Alfa-1 Antitripsina. #DAAT #EERR #Alpha1Awareness #EnfermedadesRaras #RareDisease  https://t.co/i9ESjtOe9u",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:46:19 +0000 2020",
+"name": "EGV",
+"screen_name": "GoyanesElena",
+"text": "🎗️ #InvestiganConIncliva #YoApoyoLaInvestigación Desde @incliva_iis queremos dar las GRACIAS a la asociación de pacientes y familiares @Alfa1Espana por su apoyo y su aportación económica a nuestro GI en #EnfermedadesRaras Respiratorias, dirigido por el Dr.@dasiff. https://t.co/0ab5PChJB8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:46:30 +0000 2020",
+"name": "EGV",
+"screen_name": "GoyanesElena",
+"text": "Muchas gracias @Alfa1Espana por confiar en @incliva_iis y en nuestro grupo de investigación @ERdivulga",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 18:46:37 +0000 2020",
+"name": "EGV",
+"screen_name": "GoyanesElena",
+"text": "Gracias a vosotros siempre, por vuestra gran implicación en la investigación de las enfermedades respiratorias raras.
+❤️",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 18:51:41 +0000 2020",
+"name": "FENAER PACIENTES",
+"screen_name": "fenaer2",
+"text": "Gracias a vosotros siempre, por vuestra gran implicación en la investigación de las enfermedades respiratorias raras.
+❤️",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 18:51:59 +0000 2020",
+"name": "FENAER PACIENTES",
+"screen_name": "fenaer2",
+"text": "🎗️ #InvestiganConIncliva #YoApoyoLaInvestigación Desde @incliva_iis queremos dar las GRACIAS a la asociación de pacientes y familiares @Alfa1Espana por su apoyo y su aportación económica a nuestro GI en #EnfermedadesRaras Respiratorias, dirigido por el Dr.@dasiff. https://t.co/0ab5PChJB8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:54:56 +0000 2020",
+"name": "Mariano Pastor",
+"screen_name": "PastorAlfa1",
+"text": "🎗️ #InvestiganConIncliva #YoApoyoLaInvestigación Desde @incliva_iis queremos dar las GRACIAS a la asociación de pacientes y familiares @Alfa1Espana por su apoyo y su aportación económica a nuestro GI en #EnfermedadesRaras Respiratorias, dirigido por el Dr.@dasiff. https://t.co/0ab5PChJB8",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 18:55:23 +0000 2020",
+"name": "Mariano Pastor",
+"screen_name": "PastorAlfa1",
+"text": "Muchas gracias @Alfa1Espana por confiar en @incliva_iis y en nuestro grupo de investigación @ERdivulga",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 19:09:13 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "Muchas #EnfermedadesRaras son citadas de más de una manera ¿Quieres conocer las diferentes formas con las que se nombra una determinada enfermedad minoritaria?
+
+⏬ Descárgate aquí este listado Orphanet de varios cientos de EERR con sus sinónimos
+
+https://t.co/zW30YTRCCb https://t.co/qv3hOFlWsm",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:15:24 +0000 2020",
+"name": "Norma L. Loeza",
+"screen_name": "Norenaloeza",
+"text": "Conozcan la iniciativa @INadieesmenos, una red de organizaciones que trabajan a favor de las #EnfermedadesdDeBajaPrevalencia #EnfermedadesRaras #RareDiseases #DerehoAlaSalud #SinDiscriminación @SSalud_mx @INSABI_mx @Tu_IMSS #ConectEMos @ISSSTE_mx",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:20:42 +0000 2020",
+"name": "Mº Esther Cámara",
+"screen_name": "MEstherCmara",
+"text": "Progreso a nivel internacional para incluir las #enfermedadesraras en la cobertura sanitaria universal https://t.co/FEEntYVwXp",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 19:22:44 +0000 2020",
+"name": "Crystal 🔻🏴‍☠️ 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+"screen_name": "xtal_b",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/Ke1j4dy9fC",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:26:54 +0000 2020",
+"name": "Lourdes",
+"screen_name": "Lourdes15129458",
+"text": "Gracias a vosotros siempre, por vuestra gran implicación en la investigación de las enfermedades respiratorias raras.
+❤️",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 19:29:47 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Las #EnfermedadesRaras tienen un gran impacto en el día a día de las personas con estas patologías y sus familias.
+
+via @eurordis 
+
+#366DiasdeEERR #masvisibles #kmsporlasEERR #avancesEIM #actualizacionEIM
+
+@NoInvisibles https://t.co/ncZ48DK2PX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:33:15 +0000 2020",
+"name": "Jorge Cruz ",
+"screen_name": "jorgecruzb",
+"text": "¡HAP y otras enfermedades raras. está disponible! https://t.co/xSNsTMGq8q #flexibilidadeducativa #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:33:40 +0000 2020",
+"name": "AERyOH",
+"screen_name": "AsociaAeryoh",
+"text": "Las #EnfermedadesRaras tienen un gran impacto en el día a día de las personas con estas patologías y sus familias.
+
+via @eurordis 
+
+#366DiasdeEERR #masvisibles #kmsporlasEERR #avancesEIM #actualizacionEIM
+
+@NoInvisibles https://t.co/ncZ48DK2PX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:36:25 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "Reto conseguido #canakinumab cada 4 semanas 💪🏻
+#laluchadeunaenferma #luchandoporunavidamejor #lucharpormisderechos #hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras… https://t.co/VrJPe4bo2h",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:38:31 +0000 2020",
+"name": "jordi plana",
+"screen_name": "austrich61",
+"text": "Muchas gracias @Alfa1Espana por confiar en @incliva_iis y en nuestro grupo de investigación @ERdivulga https://t.co/IKylWoFI84",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 19:43:28 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/oHdixLAuff Thanks to @jan_nolta @ahusindia @GlobalGenes #raredisease #shua",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 19:50:12 +0000 2020",
+"name": "P a u l i 🦋",
+"screen_name": "pauligomez_23",
+"text": "Las #EnfermedadesRaras tienen un gran impacto en el día a día de las personas con estas patologías y sus familias.
+
+via @eurordis 
+
+#366DiasdeEERR #masvisibles #kmsporlasEERR #avancesEIM #actualizacionEIM
+
+@NoInvisibles https://t.co/ncZ48DK2PX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 20:21:08 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Todos, desde cada rincón del mundo debemos formar parte, es nuestro turno ahora en septiembre de sumarnos a esta campaña por las #EnfermedadesRaras y las #EPOF 👇👏👇 @eurordis 
+
+#CantuArgentina #CantuSyndrome #Nodejemosanadieatras #RareDiseases",
+"ReTweet: "True"},
+{"data": "Mon Aug 03 20:39:52 +0000 2020",
+"name": "Roxana Canedo-Reyes",
+"screen_name": "roxcanedo",
+"text": "¡Boletín de Pediatría Camus  está disponible! https://t.co/ZmYXKdmiyp Gracias a @SEPEAP @roxcanedo #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 20:49:55 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/Xcw1Q7WBmX",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 20:50:34 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/69gHi4p0Ts",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 20:51:04 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/QTrVx4w6C5",
+"ReTweet: "False"},
+{"data": "Mon Aug 03 21:49:30 +0000 2020",
+"name": "CurAME",
+"screen_name": "curameac",
+"text": "Te presentamos la entrevista a Diana Marroquín de @curameac Fundación Atrofia Muscular Espinal México
+#AtrofiaMuscularEspinal #AME #EnfermedadesRaras #aliadosfemexer #COVID19 
+https://t.co/15vTAouvW3",
+"ReTweet: "False"},
