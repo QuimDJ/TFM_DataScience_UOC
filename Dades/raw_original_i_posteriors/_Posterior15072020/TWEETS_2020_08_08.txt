@@ -1,0 +1,1018 @@
+{"data": "Fri Aug 07 22:16:18 +0000 2020",
+"name": "Jorge Lumbreras",
+"screen_name": "jlumbreras13",
+"text": "🔬⚕️ Las #nuevastecnologías como clave para poder realizar avances en las denominadas #enfermedadesraras
+
+ 🙏Desde @SanofiGenzyme estamos comprometidos con el descubrimiento de terapias para #pacientes con estas patologías 👉https://t.co/QZZOZFZpVL
+
+@RarasReales @SanofiES",
+"ReTweet: "True"},
+{"data": "Fri Aug 07 22:22:57 +0000 2020",
+"name": "Belen",
+"screen_name": "esparisb",
+"text": "🎨🖌️🖼️ 
+
+Cuidadores, pacientes, médicos, familia o amigos. Cualquier persona relacionada con el colectivo #EnfermedadesRaras puede enviar obras de arte al concurso #RareArtist. 
+
+📅 Se admiten nuevos trabajos hasta el 15 de octubre. 
+
+Más info
+https://t.co/uj7q0UEz9L https://t.co/3qsGOMSfsN",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 06:32:44 +0000 2020",
+"name": "Matti Merker",
+"screen_name": "mattimerker",
+"text": "Vorfreude 😊. #leichtathletik #trackandfield #DM2020",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 07:02:59 +0000 2020",
+"name": "José María Hernández",
+"screen_name": "JoseMariaAlfa1",
+"text": "El documento de Reconstrucción del Congreso reconoce la particularidad de las #EnfermedadesRaras en investigación y política farmacéutica. Se pone en valor la necesidad del colectivo como grupo de especial vulnerabilidad, consideran desde @FEDER_ONG 
+https://t.co/zT9gsGia84",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:27:43 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:29:54 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Iván Doménech presenta su último disco, '15 años a dúos', cuyos beneficios irán destinados a paliar el síndrome de #hunter
+#MPS #CURAPARAHUNTER #ENFERMEDADESRARAS 
+ https://t.co/de6ZmvmsFH",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:37:10 +0000 2020",
+"name": "marta maroto",
+"screen_name": "mar_mq",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:41:26 +0000 2020",
+"name": "SportstadtDüsseldorf",
+"screen_name": "sportstadtdus",
+"text": "Trio mit Ambitionen 
+#dm2020 @dlv_online #sportstadtdüsseldorf
+https://t.co/3eTRlKk20F",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:43:13 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/2k2j8SMV7j Thanks to @TrichaShivas @RarePatient @sudhee26 #raredisease #paraneoplastic",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 07:47:47 +0000 2020",
+"name": "Isabel Olea García",
+"screen_name": "IsabelOleaGarca",
+"text": "🏔🏔🏔🏔🏔🏔🏔🏔
+Hoy Jennifer ha logrado su séptima cima, y mañana va a por la final. ¡Gracias, campeona! 
+
+💕 Si queréis ayudarnos en nuestro proyecto educativo, aún podéis donar. ¡Gracias! 
+
+➡️ Más info en https://t.co/XvYG8E1UdA #ataxiatelangiectasia #enfermedadesraras https://t.co/tuhzQjZTXl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 08:15:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv95BGy",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 08:17:44 +0000 2020",
+"name": "Mª Angeles Gonzalez",
+"screen_name": "MAngelesGonzal1",
+"text": "Queda justo un mes para el Día Mundial de concienciación de #Duchenne, una distrofia muscular que afecta a alrededor de 1.000 personas en España
+
+🔎 Aprendemos un poco más de ella con esta infografía @DPPSpain @duchenneday #EnfermedadesRaras https://t.co/pP3whCHi28",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 09:15:08 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": "Hammerwerfer Johannes Bichler greift als erster Münchner in die Wettbewerbe der #DM2020 ein. Sein Finale findet zu Beginn der Vormittags-Session. Ab 12:35 Uhr bewerben sich dann drei #LGSWM-Mittelstrecklerinnen um das 800m-Finale am Sonntagabend.",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 09:20:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/sINy1a4Jq7",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 09:22:25 +0000 2020",
+"name": "Lady Dark",
+"screen_name": "AryaStark5",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/sINy1a4Jq7",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 09:29:17 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/sINy1a4Jq7",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 09:29:42 +0000 2020",
+"name": "Tobias Dollase",
+"screen_name": "TobiasDollase",
+"text": "Sonnenschein über dem Stadion @Stadt_BS, #DM2020 #Leichtathletik, #LGNordBerlin, @dlv_online, @sportDland. https://t.co/TeoAtBuDMs",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 09:48:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀Solicitamos al Parlamento de Andalucía que se reconozca a las personas con #enfermedadesraras como colectivo especialmente vulnerable frente a la #COVID19
+
+Conoce más: https://t.co/ofUtmURgU2 https://t.co/Kk6F38QmlR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 10:14:54 +0000 2020",
+"name": "Raúl González",
+"screen_name": "Raulsexologo",
+"text": "🍀Solicitamos al Parlamento de Andalucía que se reconozca a las personas con #enfermedadesraras como colectivo especialmente vulnerable frente a la #COVID19
+
+Conoce más: https://t.co/ofUtmURgU2 https://t.co/Kk6F38QmlR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 10:20:11 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Die erste 🥇 bei der 120. Leichtathletik-DM geht an Tristan Schwandke. Der Hammerwerfer verteidigt in Braunschweig mit 70,85 Metern seinen Titel erfolgreich 💪 
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #hammerwurf https://t.co/SMRj1FnmKp",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 10:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Cualquier medio y formato es bueno para dar visibilizar y ofrecer un mayor conocimiento sobre #EnfermedadesRaras.
+
+Conoce mejor con este cómic qué es la Talasemia, un transtorno hereditario que afecta a la producción de hemoglobina.
+
+https://t.co/yCUeTnvBTp https://t.co/2PRcrXf2rq",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 10:44:21 +0000 2020",
+"name": "Hammerwurfmeeting FC",
+"screen_name": "hwmfc",
+"text": "Die erste 🥇 bei der 120. Leichtathletik-DM geht an Tristan Schwandke. Der Hammerwerfer verteidigt in Braunschweig mit 70,85 Metern seinen Titel erfolgreich 💪 
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #hammerwurf https://t.co/SMRj1FnmKp",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 10:44:45 +0000 2020",
+"name": "Matti Merker",
+"screen_name": "mattimerker",
+"text": "Die erste 🥇 bei der 120. Leichtathletik-DM geht an Tristan Schwandke. Der Hammerwerfer verteidigt in Braunschweig mit 70,85 Metern seinen Titel erfolgreich 💪 
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #hammerwurf https://t.co/SMRj1FnmKp",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 10:58:38 +0000 2020",
+"name": "Álvaro Martín",
+"screen_name": "alvaromartinmd",
+"text": "🍀Solicitamos al Parlamento de Andalucía que se reconozca a las personas con #enfermedadesraras como colectivo especialmente vulnerable frente a la #COVID19
+
+Conoce más: https://t.co/ofUtmURgU2 https://t.co/Kk6F38QmlR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 12:17:17 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv95BGy",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 12:18:22 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Ella tiene dos mellizas de cinco años de edad, ambas diagnosticadas con la enfermedad de #Pompe, cuyo trastorno genético provoca debilidad muscular que empeora con el tiempo. 
+#lisosomales #enfermedadesraras  https://t.co/okvAWcdCVS",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 12:28:35 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "The latest MPS papas! https://t.co/Mv0PGl5z7m Thanks to @APainPrincess @KIF1A @RareDiseases #raredisease #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 12:52:57 +0000 2020",
+"name": "Pole Vault Power",
+"screen_name": "polevaultpower",
+"text": "German women's Pole Vault Champs. P.B. for Ria Mollers",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 13:22:58 +0000 2020",
+"name": "Héctor Ruiz",
+"screen_name": "hectorruizmex",
+"text": "German women's Pole Vault Champs. P.B. for Ria Mollers",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 13:31:42 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 13:33:10 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 13:51:48 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": "Vier Entscheidungen mit Münchner Beteiligung fallen in der Abendsession der #DM2020. Hochspringerin Laura Gröll macht den Anfang. Es folgen Elisabeth Hafenrichter (Speer), Paulina Huber (100m Hürden) &amp; Yannick Wolf (100m).🔥Ab 17:10 live @sportschau.📺https://t.co/1yASOh5ZoK",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 13:52:21 +0000 2020",
+"name": "Elwis Durán",
+"screen_name": "narude03",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:15:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Ahinoa padece dos #EnfermedadesRaras que complican sobremanera su alimentación y minan su energía. A las dificultades que conllevan sumó incomprensión (a su bajón de peso le endosaron la etiqueta de “anorexia”). Ahora busca apoyos para su investigación.
+https://t.co/yMoKuJSfKa",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:16:42 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:19:45 +0000 2020",
+"name": "Accesibilidad Real #10N #España",
+"screen_name": "28aReal",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:21:47 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:25:21 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Deutsche Meisterschaften Braunschweig:
+16:22: 110m Hürden Männer: Im zweiten Halbfinale wurde Tim Eikermann   Dritter mit PB in 14.18 (großes Q) und Albert Kreutzer Vierter in 13.39 (PB und kleines q).
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:31:15 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "Saksan moukarimestari ei yltäisi mitaleille Kalevan kisoissa",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 14:46:19 +0000 2020",
+"name": "falandeiro",
+"screen_name": "falandeiro",
+"text": "🍀Solicitamos al Parlamento de Andalucía que se reconozca a las personas con #enfermedadesraras como colectivo especialmente vulnerable frente a la #COVID19
+
+Conoce más: https://t.co/ofUtmURgU2 https://t.co/Kk6F38QmlR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:50:36 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "100 Meter Hürden Frauen 1. Halbfinale: Anna Maiwald mit großem Q auf Platz 2 in 13.64. Monika Zapalska in 13.71 auf Platz 3 und somit auch direkt für das Finale qualifiziert. Mareike Arndt läuft als Fünfte ins Ziel in 13.94.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:52:38 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Hop, Step, Gold! Herzlichen Glückwunsch Max Heß zum Dreisprung-DM-Titel mit 16,58 m in Braunschweig! Es ist bereits der vierte Freiluft-Titel für den Chemnitzer. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #dreisprung https://t.co/oWHNAv0qCo",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:56:28 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "16:52: 100 Meter Hürden Frauen 2. Halbfinale: Franziska Schuster (TuS Xanten) läuft mit 13.67 auf Platz 4. Pamela Dutkiewicz (TV Wattenscheid) beendet das Rennen nicht!
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 14:58:19 +0000 2020",
+"name": "ainhoinapm",
+"screen_name": "ainhoinapm",
+"text": "Gracias @RarasReales",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 14:59:09 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Deutsche Meisterschaften Braunschweig:
+Auch im Hochsprung läuft es für die Athleten aus NRW gut. Aktuell liegt Christina Honsel in Führung. Danach auch Platz 2 folgt Alexandra Plaza. Die nächste Sprunghöhe ist 1.87m.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:02:51 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Deutsche Meisterschaften Braunschweig:
+Um 17:15 geht es weiter mit den 3000m Hindernis. Mit aus NRW dabei sind Lotte Meyberg, Kerstin Kalthoff Schulze, Paula Schneiders.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:21:18 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Anflug zum DM-Titel! Hochspringerin Christina Honsel vom TV Wattenscheid meistert 1,90 Meter und gewinnt in Braunschweig das erste DM-Gold ihrer Karriere. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/052TLeDLuG",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:28:04 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Die erste 🥇 bei der 120. Leichtathletik-DM geht an Tristan Schwandke. Der Hammerwerfer verteidigt in Braunschweig mit 70,85 Metern seinen Titel erfolgreich 💪 
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #hammerwurf https://t.co/SMRj1FnmKp",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:28:06 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Hop, Step, Gold! Herzlichen Glückwunsch Max Heß zum Dreisprung-DM-Titel mit 16,58 m in Braunschweig! Es ist bereits der vierte Freiluft-Titel für den Chemnitzer. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #dreisprung https://t.co/oWHNAv0qCo",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:28:10 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Doppelte Titel-Premiere! Stefanie Dauber und Ria Möllers gewinnen mit 4,40 m und den identischen Fehlversuchen gemeinsam DM-🥇im Stabhochsprung. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #stabhochsprung https://t.co/EUc8NlPWpz",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:28:14 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Anflug zum DM-Titel! Hochspringerin Christina Honsel vom TV Wattenscheid meistert 1,90 Meter und gewinnt in Braunschweig das erste DM-Gold ihrer Karriere. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/052TLeDLuG",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:32:30 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Deutsche Meisterschaften Braunschweig:
+17:15: 3000m Hindernis Frauen: Auf Platz Fünf landet Paula Schneiders mit 10:12,93. Kerstin Schulze Kalthoff  mit 10;27,52 auf Platz 8. Lotte Meyberg auf Platz 10 mit 11:18,88.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:32:43 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:33:56 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Deutsche Meisterschaften Braunschweig:
+17:32: Im Speerwurf landet Dana Bergrath von Bayer Leverkusen auf Platz 4 mit 55.16m. Charlotte Wissing wird 10 mit 43.10m.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:34:00 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:36:09 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Flieg       ..../'''' °  d  ° ''''\......",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 15:37:01 +0000 2020",
+"name": "micha.berlin",
+"screen_name": "micho030",
+"text": "Wenn man sieht, dass die Konkurrenz weit voraus ist und man „verletzungsbedingt“ aufgibt. Echte #sportsfrau #gesakrause #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:37:47 +0000 2020",
+"name": "C l a u d i a 🚴🏻 ☀️🌺🌸",
+"screen_name": "VerrueckteTante",
+"text": "Hop, Step, Gold! Herzlichen Glückwunsch Max Heß zum Dreisprung-DM-Titel mit 16,58 m in Braunschweig! Es ist bereits der vierte Freiluft-Titel für den Chemnitzer. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #dreisprung https://t.co/oWHNAv0qCo",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:38:14 +0000 2020",
+"name": "sandra",
+"screen_name": "scabrelles",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:38:50 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:42:14 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Christina Honsel (TV Wattenscheid) wird deutsche Meisterin mit 1.90m. Alexandra Plaza wird zweite mit 1.87m. Auf Platz 8 landet Charlotte Haas mit 1.75m. Katarina Mögenburg  wird 10 mit 1.70m.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:42:34 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/OaHQ4z5ooM",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:43:00 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/1CmmtFWavl",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:43:48 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/F238XlDOCf",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:44:36 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/YLkTxK3uka",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:45:06 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/LtbwmKQEc1",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:46:01 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/wMMEmopgOj",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:46:44 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/4vyOtUvEgE",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:47:18 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Bei 36 Grad 🥵 behält Elena Burkard kühlen Kopf und stürmt mit 9:50,31 min zu ihrem ersten DM-Titel über 3000 m Hindernis. Europameisterin Gesa Krause muss das Rennen angeschlagen vorzeitig beenden. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 https://t.co/LMEGKy6BLX",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:47:25 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "5000m der Männer: Amanal Petros (TV Wattenscheid) | Maximilian Thorwirth (SFD Düsseldorf-Süd) | Mohamed Mohumed (LGO Dortmund) | Nils Voigt (TV Wattenscheid) | Elias Schreml (LGO Dortmund) | 
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:48:23 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Bei 36 Grad 🥵 behält Elena Burkard kühlen Kopf und stürmt mit 9:50,31 min zu ihrem ersten DM-Titel über 3000 m Hindernis. Europameisterin Gesa Krause muss das Rennen angeschlagen vorzeitig beenden. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 https://t.co/LMEGKy6BLX",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:49:26 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Super Sprint 🤩Regards Molis🤩",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 15:54:11 +0000 2020",
+"name": "Jonas",
+"screen_name": "Jonas_Sp94",
+"text": "Warten auf das 3. Halbfinale der 100m Frauen mit Lisa Mayer 🥳 #Braunschweig2020 #leichtathletik #DM2020 https://t.co/5eZrl09opQ",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 15:59:56 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Mohamed Mohumed wird deutscher Meister in 14:02,75. Maximilian Thorwirth wird Zweiter in 14:05,46. Nils Voigt  wird Neunter 14:19,40. Amanal Petros10. in 14:25,74. Elias Schreml 12 in 14:34,85.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:04:49 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:08:13 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Mit einem pfeilschnellen Spurt 🚀 stürmt Mohamed Mohumed zum ersten DM-Titel seiner Karriere in der Männerklasse. Der 21-Jährige siegt bei 37 Grad über 5000 m in 14:02,75 min. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield   #laufen https://t.co/QVofYVrh40",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:09:35 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Respekto 👌✌️",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 16:11:57 +0000 2020",
+"name": "Levin04 👊",
+"screen_name": "luca_lubbi",
+"text": "Wo ist @kivi_97?
+#DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:12:24 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "100m Frauen 1. Halbfinale: Jennifer Montag (Bayer Leverkusen) 2. in 11.52. Synthia Oguama (TV Wattenscheid) 4. in 11.75.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:14:20 +0000 2020",
+"name": "Howie Jott",
+"screen_name": "HowieJott",
+"text": "Max Thorwirth großartiger Zweiter! Glückwunsch!",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 16:18:03 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "100m Frauen 2. Halbfinale: Lilly Kaden (FC Schalke 04) 3. in 11.46 (persönliche Bestleistung).
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:21:35 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:21:41 +0000 2020",
+"name": "LG Olympia Dortmund",
+"screen_name": "lgodortmund",
+"text": "Mit einem pfeilschnellen Spurt 🚀 stürmt Mohamed Mohumed zum ersten DM-Titel seiner Karriere in der Männerklasse. Der 21-Jährige siegt bei 37 Grad über 5000 m in 14:02,75 min. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield   #laufen https://t.co/QVofYVrh40",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:25:41 +0000 2020",
+"name": "Niha N N 🥄",
+"screen_name": "Niha",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:27:23 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "100m Frauen 3. Halbfinale: Johanna Marie Bechthold (TV Wattenscheid) Vierte in 11.67.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:29:40 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:37:21 +0000 2020",
+"name": "Maximilian Rieger",
+"screen_name": "mjrieger",
+"text": "„Ich bin auch nur ein Mensch.“ Sympathisches Interview gerade von Gesa Krause, nachdem sie bei den #DM2020 vorzeitig über 1500 Meter aufgegeben hat. Kein Drumrum reden, selbst wenn sie selbst genau wusste, woran es gelegen hat. #Braunschweig",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:38:46 +0000 2020",
+"name": "Maximilian Rieger",
+"screen_name": "mjrieger",
+"text": "„Ich bin auch nur ein Mensch.“ Sympathisches Interview gerade von Gesa Krause, nachdem sie bei den #DM2020 vorzeitig über 3000 Meter Hindernis aufgegeben hat. Kein Drumrum reden, selbst wenn sie selbst genau wusste, woran es gelegen hat. #Braunschweig",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:41:03 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "18:35: 100m Männer 1. Halbfinale: Daniel Hoffmann (Bayer Leverkusen) Zweiter und somit ein großes Q in 10.49. Noel-Philippe Fiener (TV Wattenscheid) mit einem Fehlstart.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:42:49 +0000 2020",
+"name": "M. Carmen Nadal Massanet",
+"screen_name": "MCarmenNadalM1",
+"text": "Se estiman unos 400 casos de #EnfermedadDeAndrade en España. Como ocurre con muchas otras #EnfermedadesRaras, síntomas asociados a muchas otras patologías + poco conocimiento en Atención Primaria retrasan un diagnóstico precoz vital para su tratamiento.
+https://t.co/g0qVs25rUP",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:43:09 +0000 2020",
+"name": "Thalgrund",
+"screen_name": "Thalgrund",
+"text": "Aber einfach aufzuhören, weil man keine Chance auf den Sieg hat?",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 16:43:49 +0000 2020",
+"name": "Exil1904er",
+"screen_name": "Exil1904er",
+"text": "Dreisprung auf der Bahn macht eigentlich nicht viel Sinn! #DM2020 #Braunschweig2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:45:37 +0000 2020",
+"name": "Exil1904er",
+"screen_name": "Exil1904er",
+"text": "So @nike, bitte #JoshuaHartmann mit einem Vertrag ausstatten. #ausgruenden #DM2020 #Braunschweig2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:46:04 +0000 2020",
+"name": "John McLane",
+"screen_name": "b35158681",
+"text": "#genderwahn bei der #ARD. "Das ist nicht jedermanns bzw jederfraus Sache." Schwachsinn inklusive! 
+Was für eine Gehirnwäsche hat dieser Kommentator hinter sich. #DM2020 #Braunschweig2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:46:52 +0000 2020",
+"name": "Fuglucol",
+"screen_name": "fuglucol",
+"text": "No te pierdas esta transmisión, Nuevas Terapias para Glucogenosis en desarrollo.
+#fuglucol
+#enfermedadesraras
+@fuglucol 
+#colombia https://t.co/5EuTGsVXSg",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:47:31 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "18:41: 100m Männer 2. Halbfinale: Joshua Hartmann (ASV Köln) wird Erster in 10.30 (Q). Phillip Trutenat (TV Wattenscheid) Zweiter/Dritter (Q) in 10.34.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:48:35 +0000 2020",
+"name": "Emmi Watson",
+"screen_name": "Emmi_Watson",
+"text": "@sportschau im Dreisprung der Frauen Platz 4, 2 und 1 zeigen aber nicht die drittplatzierte? 
+Wäre schön, wann man da auch mal einen Sprung zeigen könnte- gerade wo sie PB gesprungen ist 
+#DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:50:44 +0000 2020",
+"name": "Christian Brey",
+"screen_name": "ChrisBrey1",
+"text": "Nach dem vollen Sporttag, vor dem Abendessen... #leichtathletik #DM2020 #sportschule #oberhaching https://t.co/iEwklWkVpU",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 16:52:35 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "18:47: 100m Männer 3. Halbfinale: Robert Hering (TV Wattenscheid) Siebter in 10.63.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:08:44 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Alina Kenzel ist im Kugelstoß nicht zu schlagen. Mit Saisonbestweite 🙌 von 17,96 Metern gewinnt die Waiblingerin ihren ersten DM-Titel im Freien. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoss https://t.co/sHMN8D5xYM",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:15:20 +0000 2020",
+"name": "Torben",
+"screen_name": "lifeoftorben",
+"text": "Acht Athleten laufen 110 Meter Hürden um den deutschen Meistertitel und am Ende gewinnt immer Matthias Bühler. #dm2020 @dlv_live @dlv_online",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:15:25 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Auf dem Sprungsteg zu DM-🥇! Maria Purtsa ist in Braunschweig mit 13,65 Metern die beste Dreispringerin und gewinnt ihren ersten DM-Titel. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #dreisprung https://t.co/luiNdzWQ8d",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:17:30 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "19:10: 110m Hürden Männer Finale: Albert Kreutzer (Bayer Uerdingen/Dormagen) | Erik Balnuweit (TV Wattenscheid) | Tim Eikermann (Bayer Leverkusen)
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:17:40 +0000 2020",
+"name": "Torben",
+"screen_name": "lifeoftorben",
+"text": "Ernsthaft: 2009, 2010, 2011, 2013, 2014, 2016, 2017, 2020. Dazwischen ein Karriereende im Jahr 2018, eine Pause 2019 und jetzt das Comeback. "Mein Ziel ist Tokio." Unglaublicher Wettkampf-Typ. #dm2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:19:16 +0000 2020",
+"name": "Torben",
+"screen_name": "lifeoftorben",
+"text": "@sport_thies @heinzkamke An diesem Fakt konnte er allerdings nichts ändern. https://t.co/HKV15LXr5i",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 17:19:32 +0000 2020",
+"name": "Taiana González  💚",
+"screen_name": "TaianaHosteltur",
+"text": "Hace unos días les contaba de los #podcast que estoy haciendo sobre #EnfermedadesRaras. Acá va otro, sobre Síndrome de Ehlers-Danlos https://t.co/eBwioXCMtP",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:23:07 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "Da schaltet man grad die @sportschau ein und will Leichtathletik schauen, und dann kommt Radsport :(
+
+#Leichtathletik #DM2020 #Braunschweig2020 #Sportschau",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:26:09 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Auf dem Sprungsteg zu DM-🥇! Maria Purtsa ist in Braunschweig mit 13,65 Metern die beste Dreispringerin und gewinnt ihren ersten DM-Titel. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #dreisprung https://t.co/luiNdzWQ8d",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:26:12 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Alina Kenzel ist im Kugelstoß nicht zu schlagen. Mit Saisonbestweite 🙌 von 17,96 Metern gewinnt die Waiblingerin ihren ersten DM-Titel im Freien. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoss https://t.co/sHMN8D5xYM",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:26:16 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Mit einem pfeilschnellen Spurt 🚀 stürmt Mohamed Mohumed zum ersten DM-Titel seiner Karriere in der Männerklasse. Der 21-Jährige siegt bei 37 Grad über 5000 m in 14:02,75 min. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield   #laufen https://t.co/QVofYVrh40",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:26:20 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Bei 36 Grad 🥵 behält Elena Burkard kühlen Kopf und stürmt mit 9:50,31 min zu ihrem ersten DM-Titel über 3000 m Hindernis. Europameisterin Gesa Krause muss das Rennen angeschlagen vorzeitig beenden. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 https://t.co/LMEGKy6BLX",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:26:23 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:26:25 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Anflug zum DM-Titel! Hochspringerin Christina Honsel vom TV Wattenscheid meistert 1,90 Meter und gewinnt in Braunschweig das erste DM-Gold ihrer Karriere. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/052TLeDLuG",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:27:05 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Ich bin begeistert 👀💪‼️ Regards Molis",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 17:28:29 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "So weit................................................O Regards Molis💪",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 17:29:44 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "19:25: 100m Hürden Frauen Finale: Monika Zapalska (LC Paderborn) 3. in 13.33 und SB. Franziska Schuster (Tus Xanten) 5. in 13.65. Anna Maiwald (Bayer Leverkusen) beendet das Rennen nicht!
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:31:25 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "🥇🥇🥇🥇🥇🥇🥇🥇 Der achte DM-Streich von Matthias Bühler. Der Hürdensprinter ist nach dem Rücktritt vom Rücktritt bei der DM in Braunschweig in 13,62 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/MrnWB5qf8G",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:32:01 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": "Weitspringer Yannick Wolf stürmt in 10,43s ins 100m-Finale der #DM2020 um 19:50 Uhr live bei @sportschau.💪Um 3/100 verpasst hat ihren Endlauf Hürdensprinterin Paulina Huber (13,79s). Laura Gröll wird mit 1,81m (=SB) 5. im Hochsprung, Eli Hafenrichter 9. mit dem Speer (49,20m).",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:33:13 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "Yaasss 💪🏻💪🏻👏🏻🤗
+#Leichtathletik #DM2020 #Braunschweig2020",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 17:33:54 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:34:14 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "Hop, Step, Gold! Herzlichen Glückwunsch Max Heß zum Dreisprung-DM-Titel mit 16,58 m in Braunschweig! Es ist bereits der vierte Freiluft-Titel für den Chemnitzer. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #dreisprung https://t.co/oWHNAv0qCo",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:35:42 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "So schnell ... super tronik Regards Molis‼️",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 17:39:09 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "🥇-Premiere für Ricarda Lobe! Die Mannheimerin setzt sich im Hürdensprint bei der DM in Braunschweig mit 13,24 Sekunden durch und holt den Titel. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/QUuL9mnIdA",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:39:25 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "🥇-Premiere für Ricarda Lobe! Die Mannheimerin setzt sich im Hürdensprint bei der DM in Braunschweig mit 13,24 Sekunden durch und holt den Titel. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/QUuL9mnIdA",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:40:08 +0000 2020",
+"name": "hilumilu",
+"screen_name": "Melodramatisch",
+"text": "🥇-Premiere für Ricarda Lobe! Die Mannheimerin setzt sich im Hürdensprint bei der DM in Braunschweig mit 13,24 Sekunden durch und holt den Titel. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/QUuL9mnIdA",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:40:40 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Sehr gute Zeit 💪 Regards Molis👏",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 17:47:34 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "19:40: 100m Frauen Finale: Jennifer Montag (Bayer Leverkusen)  wird 4. in 11.40. Lilly Kaden (FC Schalke 04) wird 6. in 11.50.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:48:06 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "19:50: 100m Männer Finale: Phillip Trutenat (TV Wattenscheid) | Joshua Hartmann (ASV Köln) | Daniel Hoffmann (Bayer Leverkusen)
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:50:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/B4Pis6HOvI",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:53:26 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "Deniz Almas 🚀🚀🚀😲
+
+#Leichtathletik #DM2020 #Braunschweig2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:53:50 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "19:50: 100m Männer Finale: Joshua Hartmann (ASV Köln) wird Zweiter in 10.23. Phillip Trutenat (TV Wattenscheid) wird 4. in 10.32. Daniel Hoffmann (Bayer Leverkusen) wird 8. in 10.47.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 17:59:34 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "++ Überraschung im Canadier – Scheibner schlägt Olympiasieger Brendel ++
+#TopsportNRW #NRW #Sport #Kanu #DKV #DM2020 #Olympia #Rennsport https://t.co/5kTY9ly1GW",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:01:17 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Clemens Prüfer hat den stärksten Arm 💪 und holt mit 62,97 Metern Diskus-Gold bei der DM in Braunschweig. Es ist sein erster Titel in der Männerklasse. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/X2rCVFltnA",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:02:01 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Auf dem Sprungsteg zu DM-🥇! Maria Purtsa ist in Braunschweig mit 13,65 Metern die beste Dreispringerin und gewinnt ihren ersten DM-Titel. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #dreisprung https://t.co/luiNdzWQ8d",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:03:58 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "😮😱💪💪‼️",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 18:04:43 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "🥇-Premiere für Ricarda Lobe! Die Mannheimerin setzt sich im Hürdensprint bei der DM in Braunschweig mit 13,24 Sekunden durch und holt den Titel. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/QUuL9mnIdA",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:05:57 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/ssS2hJoGaR Gracias a @RetimurMurcia @RarasReales @yonemalinica1 #enfermedadesraras #medicamentoshuérfanos",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:10:01 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:12:03 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Schneller als Roadrahner 😱💪‼️🤩",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 18:13:40 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:19:29 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Der „schnellste Wolf“ krallt sich nach Hallen-Gold auch im Freien die Sprint-👑. Deniz Almas ist bei der DM in Braunschweig über 100 m in 10,09 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/kvVWpnVzTY",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:21:33 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Wos is dänn hier los 10,09 😱💪👏👏👏👏👏",
+"ReTweet: "True"},
+{"data": "Sat Aug 08 18:22:03 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "Der „schnellste Wolf“ krallt sich nach Hallen-Gold auch im Freien die Sprint-👑. Deniz Almas ist bei der DM in Braunschweig über 100 m in 10,09 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/kvVWpnVzTY",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:25:34 +0000 2020",
+"name": "Ana 🦋",
+"screen_name": "AnabellaPato",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/B4Pis6HOvI",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 18:59:10 +0000 2020",
+"name": "dawndawn762",
+"screen_name": "dawndawn762yah1",
+"text": "It's #RareDiseaseDay!!! 💙 🧡 
+LIKE &amp; SHARE to help make our rare disease known and understood around the globe. 🌎 https://t.co/lbcuzGZPSj",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:00:39 +0000 2020",
+"name": "Bella Durmiente",
+"screen_name": "BellaDu01289310",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "📸📷📷 La Federación Española de #EnfermedadesRaras @FEDER_ONG y Sanofi Genzyme exponen virtualmente las 29 fotografías finalistas del concurso #EResARte. Objetivo: visibilizar la realidad de las personas que conviven con alguna patología poco frecuente.
+https://t.co/6hG0POTPfp",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:16:25 +0000 2020",
+"name": "hilumilu",
+"screen_name": "Melodramatisch",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:18:47 +0000 2020",
+"name": "hilumilu",
+"screen_name": "Melodramatisch",
+"text": "Clemens Prüfer hat den stärksten Arm 💪 und holt mit 62,97 Metern Diskus-Gold bei der DM in Braunschweig. Es ist sein erster Titel in der Männerklasse. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/X2rCVFltnA",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:28:38 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:30:26 +0000 2020",
+"name": "TuGenetista",
+"screen_name": "TuGenetista",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/B4Pis6HOvI",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:33:29 +0000 2020",
+"name": "TuGenetista",
+"screen_name": "TuGenetista",
+"text": "https://t.co/fL7A59kCMc  
+
+Si quieres saber sobre un gen o enfermedad genética te informamos sobre OMIM y cómo buscar en esta plataforma online #genetica #genetics #enfermedadesraras #Salud",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:35:10 +0000 2020",
+"name": "🌎T&F OLYMPIAD 🏟 Worldwide Athletics",
+"screen_name": "TFOLYMPIAD",
+"text": "Der „schnellste Wolf“ krallt sich nach Hallen-Gold auch im Freien die Sprint-👑. Deniz Almas ist bei der DM in Braunschweig über 100 m in 10,09 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/kvVWpnVzTY",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:43:54 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/dTOig7r4Lz Thanks to @DrDavidPearce @AmyKoziara #raredisease #scleroderma",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:46:25 +0000 2020",
+"name": "Phil",
+"screen_name": "ShadowrunnerP",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 19:53:45 +0000 2020",
+"name": "Isabel Cobeña Núñez",
+"screen_name": "itcobena",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 20:11:27 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": "Etwas schneller wäre Yannick Wolf bei der #DM2020 schon gerne gelaufen, alles in allem zeigte er sich aber zufrieden.😎Der Weitspringer von der #LGSWM erreichte bei seiner DM-Premiere über 100m prompt den Endlauf &amp; sprintete dort als jüngster Teilnehmer in 10,42s auf Rang 7.💪 https://t.co/ZLURKkVNGI",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 21:12:33 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/B4Pis6HOvI",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 21:50:20 +0000 2020",
+"name": "Mobile Independence",
+"screen_name": "Mob_Ind",
+"text": "100m Sprint bei den #Leichtathletik #DM2020: Lisa Marie Kwayie Sprint-Queen aus #Neukölln gewinnt mit 11,3 s. Das wird immer zu wenig beachtet: der Südosten der #Hauptstadt ist nicht nur Underdog, sondern erfolgreich.
+Gratulation zum #NSF und natürlich @fcUnion S-O-#Berlin
+#UNVEU https://t.co/Zl4sQpAcd1",
+"ReTweet: "False"},
