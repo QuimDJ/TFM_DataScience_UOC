@@ -1,0 +1,1738 @@
+{"data": "Sat Aug 08 22:01:50 +0000 2020",
+"name": "Mobile Independence",
+"screen_name": "Mob_Ind",
+"text": "Foto aus @dlv_online. #Berlin kann was. Die KollegInnen von ice cream
+
+🍨 #MiPaChallenge sind begeistert
+🔌 #Strompager gratuliert und
+🗣#eCityruf schreit es heraus
+
+#TrueAthlets #dlv #dm2020 #braunschweig2020 #sprint #nationals #sunday #weekend #sports https://t.co/mwX1VbH87C",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 22:02:51 +0000 2020",
+"name": "FMF ESPAÑA",
+"screen_name": "FMFSPAIN",
+"text": "Muchísimas gracias @FEDER_ONG por difundir nuestro registro internacional de pacientes con #COVID19 y #EnfermedadesRaras 😊➡️ https://t.co/x8nvy4Wrmi #coronavirus #EPOF #investigación #Share4Rare https://t.co/WZxY97ebhc",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 22:05:53 +0000 2020",
+"name": "Laura Soler Azorín",
+"screen_name": "LauraSolerAz",
+"text": "“¿Acojona que no exista cura para el Covid 19? ¿El no saber cómo actuará o cómo paliarlo? Es la realidad que vivimos 3 millones de personas en España”
+
+Noah Higón, activista #EnfermedadesRaras, presentó su recopilatorio de vivencias en forma de libro
+https://t.co/uCEH6fLjgV",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 22:19:08 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 22:30:33 +0000 2020",
+"name": "FundacionACDM",
+"screen_name": "FundacionACDM",
+"text": "🍀¡Báñate en el @SilkenAlAndalus y mójate por las  #enfermedadesraras! 
+
+🔹Esta iniciativa se enmarca en “Un baño de solidaridad”, cuyo fin es recaudar fondos para mejorar la calidad de vida de nuestro colectivo.
+
+Conoce más: https://t.co/MiGDixEp3A https://t.co/gpSURSwtv1",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 22:49:11 +0000 2020",
+"name": "Laura",
+"screen_name": "laurasg_12",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 23:31:08 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "Los invitamos a nuestro live sobre atrofia muscular espinal. Agosto mes de concientización sobre la AME. #Atrofiaespinal #EnfermedadesRaras #HOMI https://t.co/K1hh2OrYZC",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 23:33:01 +0000 2020",
+"name": "Maria Fernanda Lara",
+"screen_name": "mflarad",
+"text": "Los invitamos a nuestro live sobre atrofia muscular espinal. Agosto mes de concientización sobre la AME. #Atrofiaespinal #EnfermedadesRaras #HOMI https://t.co/K1hh2OrYZC",
+"ReTweet: "False"},
+{"data": "Sat Aug 08 23:39:24 +0000 2020",
+"name": "X Frágil Valencia",
+"screen_name": "XFragil_CV",
+"text": "Avanzamos! Gracias @FEDER_ONG por el extraordinario trabajo día  a día  para que  las personas con #EnfermedadesRaras  y sus familias tengamos calidad de vida #xfragilcv  #xfragil",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 01:54:18 +0000 2020",
+"name": "Carabobo.net",
+"screen_name": "carabobo_net",
+"text": "El Virus transmitido por picaduras de garrapatas mata a siete personas
+En China
+#8Agosto #Felizsábado #Noticias #Información #Nacional #Internacional #EnfermedadesRaras #Garrapatas #Virus #Picaduras #China #Carabobonet
+https://t.co/1fSoIJx7NQ",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 01:54:58 +0000 2020",
+"name": "Adey Pérez",
+"screen_name": "03_adey",
+"text": "El Virus transmitido por picaduras de garrapatas mata a siete personas
+En China
+#8Agosto #Felizsábado #Noticias #Información #Nacional #Internacional #EnfermedadesRaras #Garrapatas #Virus #Picaduras #China #Carabobonet
+https://t.co/1fSoIJx7NQ",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 02:00:12 +0000 2020",
+"name": "🅰️DEY",
+"screen_name": "adey0306",
+"text": "El Virus transmitido por picaduras de garrapatas mata a siete personas
+En China
+#8Agosto #Felizsábado #Noticias #Información #Nacional #Internacional #EnfermedadesRaras #Garrapatas #Virus #Picaduras #China #Carabobonet
+https://t.co/1fSoIJx7NQ",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 03:39:20 +0000 2020",
+"name": "Steve David",
+"screen_name": "SteveDavid845",
+"text": "Sharing our journey on #RareDiseaseDay #russellsilversyndrome Let's Continue to FOCUS on #research and #CuresNow ❤️ https://t.co/3aMvlWNWFk",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 04:28:47 +0000 2020",
+"name": "SWR Aktuell",
+"screen_name": "SWRAktuell",
+"text": "Guten Morgen! Heute wichtig:
+- Internationale Hilfe für #Beirut gewinnt an Fahrt
+- Weitsprung-Weltmeisterin Malaika Mihambo bei Leichtathletik-Meisterschaft #dm2020 #Braunschweig2020 
+- Autoritäres Belarus wählt Präsidenten #BelarusPresidentialElection
+https://t.co/69Od9QcEL9 https://t.co/4l52qxEjXv",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 04:35:53 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 06:06:57 +0000 2020",
+"name": "2nd Infrastructure",
+"screen_name": "2ndinfra",
+"text": "RT @dlv_online Die Sprint-Queen heißt Lisa Marie Kwayie! In 11,30 stürmt die #Berlin-erin zu 🥇 und 1. DM-Titel über 100 m.(📸 T.Kiefner)
+
+Auch 👉https://t.co/DoBnjItj3H
+mit 🏃‍♀️ #2ndInfra für B
+
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/tNGhqIWCHo",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 06:10:10 +0000 2020",
+"name": "D.Gollnick",
+"screen_name": "dgo1252",
+"text": "RT @dlv_online Die Sprint-Queen heißt Lisa Marie Kwayie! In 11,30 stürmt die #Berlin-erin zu 🥇 und 1. DM-Titel über 100 m.(📸 T.Kiefner)
+
+Auch 👉https://t.co/DoBnjItj3H
+mit 🏃‍♀️ #2ndInfra für B
+
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/tNGhqIWCHo",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 06:51:00 +0000 2020",
+"name": "AEGH",
+"screen_name": "AEGHgenetica",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:10:10 +0000 2020",
+"name": "Síndrome de Ondine España.CCHS",
+"screen_name": "ondine_spain",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:13:45 +0000 2020",
+"name": "Matthias@Mates60DN2",
+"screen_name": "MatthiasFranz6",
+"text": "Guten Morgen! Heute wichtig:
+- Internationale Hilfe für #Beirut gewinnt an Fahrt
+- Weitsprung-Weltmeisterin Malaika Mihambo bei Leichtathletik-Meisterschaft #dm2020 #Braunschweig2020 
+- Autoritäres Belarus wählt Präsidenten #BelarusPresidentialElection
+https://t.co/69Od9QcEL9 https://t.co/4l52qxEjXv",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:25:59 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "A finales de 2019, @rarediseasesint y @WHO firmaron un memorando, y las #enfermedadesraras presentes en @ONU_es
+En septiembre arrancará una campaña con las organizaciones de pacientes, para defender cobertura sanitaria universal #CSU, q incluya las #EERR👍
+https://t.co/EQvpwmmCBy https://t.co/HWtGLq520g",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:29:12 +0000 2020",
+"name": "Aquila5721",
+"screen_name": "Aquila5721",
+"text": "A finales de 2019, @rarediseasesint y @WHO firmaron un memorando, y las #enfermedadesraras presentes en @ONU_es
+En septiembre arrancará una campaña con las organizaciones de pacientes, para defender cobertura sanitaria universal #CSU, q incluya las #EERR👍
+https://t.co/EQvpwmmCBy https://t.co/HWtGLq520g",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:43:44 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/vjGF1BZgs5 Thanks to @CambsOpenMedia @sabkin12 #raredisease #anxiety",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:47:45 +0000 2020",
+"name": "V i c k y 🌊",
+"screen_name": "VRedorat",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:55:53 +0000 2020",
+"name": "Isabel",
+"screen_name": "Isabel_Izar",
+"text": "A finales de 2019, @rarediseasesint y @WHO firmaron un memorando, y las #enfermedadesraras presentes en @ONU_es
+En septiembre arrancará una campaña con las organizaciones de pacientes, para defender cobertura sanitaria universal #CSU, q incluya las #EERR👍
+https://t.co/EQvpwmmCBy https://t.co/HWtGLq520g",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 07:56:27 +0000 2020",
+"name": "Lluís Arcalà",
+"screen_name": "lluis1966",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 08:10:16 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Guten Morgen! Heute geht es weiter in Braunschweig. Um 12 Uhr beginnt der Stabhochsprung der Männer. Um 12:50 geht es dann weiter auf der Bahn mit den Halbfinals der 200m Frauen! 
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 08:16:52 +0000 2020",
+"name": "Lluis Montoliu",
+"screen_name": "LluisMontoliu",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 08:37:35 +0000 2020",
+"name": "dobleSTUDIO",
+"screen_name": "doblestudio",
+"text": "👏🏻👏🏻😍 Gracias @FEDER_ONG 
+por esta iniciativa de una exposición a nivel nacional sobre #enfermedadesraras. Encantados de colaborar con @AEF_AT . Echando de menos las maratones con ellos!",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 08:58:15 +0000 2020",
+"name": "Florian M. Weber",
+"screen_name": "sportmoderator",
+"text": "Exactly the opposite to German Nationals but happy to have athletics back respecting the different and difficult circumstances. #DM2020 #DLV https://t.co/fgIbgdZAzp",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 08:59:31 +0000 2020",
+"name": "Atletiek Live",
+"screen_name": "AtletiekLive",
+"text": "Exactly the opposite to German Nationals but happy to have athletics back respecting the different and difficult circumstances. #DM2020 #DLV https://t.co/fgIbgdZAzp",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 09:36:30 +0000 2020",
+"name": "PJ Vazel",
+"screen_name": "pjvazel",
+"text": "👀",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 09:52:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀La Asociación "En Ruta por las #enfermedadesraras" lleva estas patologías a lo más alto.
+
+🔹 El montañero Manuel Merillas y el presidente de la asociación, Carlos Lozano, consiguieron coronar la cumbre de la Pica del Jierru.
+
+Conoce más: https://t.co/QCLejAmgzX https://t.co/43qF6sPDub",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 09:55:59 +0000 2020",
+"name": "Fabián Morales Vega",
+"screen_name": "Fabian_MoralesV",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/xwOjGmGahl",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 09:58:57 +0000 2020",
+"name": "Fabián Morales Vega",
+"screen_name": "Fabian_MoralesV",
+"text": ""Los problemas de diagnóstico y tratamiento de las #EnfermedadesRaras se deben, según el 72% del colectivo, al desconocimiento que los especialistas tienen sobre la enfermedad. La formación continua de los profesionales en EE.RR. es una gran necesidad"  
+https://t.co/nu1vwyxjZ8",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 10:10:46 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "++ Die Deutschen Meisterschaften in Braunschweig 2020 (Tag 2) ++
+#TopsportNRW #NRW #Sport #Leichtathletik #DM2020 #Braunschweig #Live https://t.co/d5a8a3RlQ2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 10:18:19 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "🍀La Asociación "En Ruta por las #enfermedadesraras" lleva estas patologías a lo más alto.
+
+🔹 El montañero Manuel Merillas y el presidente de la asociación, Carlos Lozano, consiguieron coronar la cumbre de la Pica del Jierru.
+
+Conoce más: https://t.co/QCLejAmgzX https://t.co/43qF6sPDub",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 10:30:05 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+"Hay que ayudar a las madres que son enfermeras de guardia 24 horas al día y que también tiene derecho a vivir al margen de las necesidades de su hijo enfermo."
+
+Isabel Gemio 
+https://t.co/9A2sg3q3o8 https://t.co/O5E1ops8pw",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 10:53:05 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "12:50: 200m Frauen 1. Halbfinale: Lilly Kaden (FC Schalke 04) auf Platz 4 mit persönlicher Bestleistung in 23.70.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:03:11 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "12:56: 200m Frauen 2. Halbfinale: Synthia Oguama (TV Wattenschied 01) wird 4. mit 23.71 und persönlicher Bestleistung!
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:16:37 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "12:56: Hammer Frauen: Carolin Paesler (Bayer Leverkusen) wird deutsche Meisterin mit PB von 70.99!
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:18:10 +0000 2020",
+"name": "NovoPles",
+"screen_name": "NovoPlesVzla",
+"text": "El Virus transmitido por picaduras de garrapatas mata a siete personas
+En China
+#8Agosto #Felizsábado #Noticias #Información #Nacional #Internacional #EnfermedadesRaras #Garrapatas #Virus #Picaduras #China #Carabobonet
+https://t.co/1fSoIJx7NQ",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:20:43 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Der erste Titel am DM-Sonntag in Braunschweig geht an Carolin Paesler. Die Leverkusenerin ist mit 70,99 m (PB) im 🔨-Wurf nicht zu schlagen. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hammerwurf https://t.co/HbI8tEv5ee",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:21:07 +0000 2020",
+"name": "Matti Merker",
+"screen_name": "mattimerker",
+"text": "Der erste Titel am DM-Sonntag in Braunschweig geht an Carolin Paesler. Die Leverkusenerin ist mit 70,99 m (PB) im 🔨-Wurf nicht zu schlagen. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hammerwurf https://t.co/HbI8tEv5ee",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:21:25 +0000 2020",
+"name": "Hammerwurfmeeting FC",
+"screen_name": "hwmfc",
+"text": "Der erste Titel am DM-Sonntag in Braunschweig geht an Carolin Paesler. Die Leverkusenerin ist mit 70,99 m (PB) im 🔨-Wurf nicht zu schlagen. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hammerwurf https://t.co/HbI8tEv5ee",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:22:43 +0000 2020",
+"name": "Veijo Vaakanainen",
+"screen_name": "VeijoVaak",
+"text": "Toivottavasti ensi viikolla Suomen mestaruuteen tarvitaan vähän pidempi heitto. #yleisurheilu",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 11:23:38 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "So ein Hammer               weit             wurf 70,99 Meter 
+
+Regards Molis👉😏",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 11:38:49 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "„Air Entholzner“ ✈️ im Anflug auf DM-🥇! Maximilian Entholzner ist in Braunschweig bester Weitspringer und gewinnt mit 7,96 m seinen ersten DM-Titel.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/9DvdxPeZiA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:40:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Según estudio #ENSERio sobre gastos familiares relacionados con la atención de #EnfermedadesRaras en España
+
+👉Suponen cerca del 20% de los ingresos familiares anuales
+👉De media, cada familia destina más de 350 euros a esta causa.
+
+https://t.co/CMkSnuW5HL https://t.co/4706qgzHE0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:40:48 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Doppelt soweit wie I A 🤩 Respekto Regards Molis😉",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 11:44:26 +0000 2020",
+"name": "Exil1904er",
+"screen_name": "Exil1904er",
+"text": "Zur Mittagspause bei der #DM2020 in #Braunschweig2020 hat der TSV zwei Titel, eine Medaille in Silber und eine in Bronze. 🥇🥇🥈🥉 #Titelkusen @dlv_online @Bayer04La",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:44:36 +0000 2020",
+"name": "fasolmi",
+"screen_name": "fasolmi2",
+"text": "Según estudio #ENSERio sobre gastos familiares relacionados con la atención de #EnfermedadesRaras en España
+
+👉Suponen cerca del 20% de los ingresos familiares anuales
+👉De media, cada familia destina más de 350 euros a esta causa.
+
+https://t.co/CMkSnuW5HL https://t.co/4706qgzHE0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:44:51 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "13:30: 200m Männer 1. Halbfinale: Philipp Trutenat (TV Wattenscheid) wird 4. in 21.17
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:46:50 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "200m Männer 2. Halbfinale: Robin Erewa wird erster mit großem Q in 20.71. Noel-Philippe Fiener wird 4. mit PB von 21.24. Einen Platz dahinter landet Jonas Breitkopf  in 21.32. Kai Sparenberg  auf Platz 6 mit 21.44.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:47:53 +0000 2020",
+"name": "BayerLeichtathletik",
+"screen_name": "Bayer04La",
+"text": "Der erste Titel am DM-Sonntag in Braunschweig geht an Carolin Paesler. Die Leverkusenerin ist mit 70,99 m (PB) im 🔨-Wurf nicht zu schlagen. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hammerwurf https://t.co/HbI8tEv5ee",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:48:51 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "13:42: 200m Männer 3. Halbfinale: Robert Hering (TV Wattenscheid) mit SB auf Platz 3 in 21.27. Daniel Hoffmann (Bayer Leverkusen) 5. in 21.43. Somit ist Robin Erwa aus NRW im Finale.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:53:02 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "13:50: Stabhochsprung Männer: Bo Kanda Lita Baehre wird deutscher Meister mit einer Höhe von 5.75m. Torben Blech wird zweiter mit 5.50m. Karsten Dilla wird 5. mit 5.30m. Philip Kass mit 5.10m auf Platz 6.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:55:45 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Weiter geht es um 15:20 mit dem Diskus der Frauen. Als nächstes auf der Rundbahn werden die Frauen über 400m Hürden antreten um 15:40! Die nächsten knapp anderthalb Stunden bleibt es ruhig im Stadion in Braunschweig!
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:56:11 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 11:59:12 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Mit Stab so hoch🦥 💪",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 12:10:01 +0000 2020",
+"name": "Felix Brandt",
+"screen_name": "FelixBrandt",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:10:59 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:19:05 +0000 2020",
+"name": "Team Raise The Bar",
+"screen_name": "TeamRaiseBar",
+"text": "German Champion is Doha WC ,4th placer, Bo Kanda. Clearing 5m75",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 12:24:01 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:26:58 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/YjSCQZ1qaO",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:27:14 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/88Ve4Bj1X7",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:27:36 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/MikwLIdRF3",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:27:55 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/F7UNicegj0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:28:14 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/yUyImJrhvH",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:39:33 +0000 2020",
+"name": "BayerLeichtathletik",
+"screen_name": "Bayer04La",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:48:17 +0000 2020",
+"name": "Daniel Kasimirowiczic",
+"screen_name": "dakasi",
+"text": "Max Thorwirth großartiger Zweiter! Glückwunsch! https://t.co/vLCBFyCThL",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 12:51:39 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 12:53:34 +0000 2020",
+"name": "yahhou",
+"screen_name": "yahhou10",
+"text": "#棒高跳 #polevault 
+@Germany 
+
+W杯4位のBo Kanda Lita Baehre(21歳)がBraunschweigの試合で5.75mを跳び、PB更新での優勝。
+
+2位 Torben Blech
+3位 Raphael Holzdeppe
+
+ほぼ空っぽのスタジアムで、選手やコーチ達が協力しあって拍手で盛り上げた。
+
+LEICHTATHLETIK 2020/8/9
+https://t.co/VnNLF95Jtp https://t.co/phry0NHXu0",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 12:54:51 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "Eigentlich wollte Deniz #Almas ja Fußballer werden, aber da machte ihm ausgerechnet sein größtes Talent einen Strich durch die Rechnung. https://t.co/rdZfdpWIUn #leichtathletik #dm2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:01:16 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "Tag zwei der "Geistermeisterschaften" der Leichtathleten in Braunschweig hat mit einem Paukenschlag begonnen. Stabhochspringer Bo Kanda Lita Baehre holte Gold mit persönlicher Bestleistung. https://t.co/0PIwEhu7CW #leichtathletik #dm2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:10:00 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:12:05 +0000 2020",
+"name": "johanne (🏡)",
+"screen_name": "fraschloenj",
+"text": "Tag zwei der "Geistermeisterschaften" der Leichtathleten in Braunschweig hat mit einem Paukenschlag begonnen. Stabhochspringer Bo Kanda Lita Baehre holte Gold mit persönlicher Bestleistung. https://t.co/0PIwEhu7CW #leichtathletik #dm2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:20:51 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": "In wenigen Minuten startet die Abendsession der #DM2020 mit den letzten Entscheidungen. Die #LGSWM ist mit sieben Teilnehmer*innen in vier Wettbewerben vertreten. U.a. im Männer-Hochsprung und bei den 800m der Frauen. Live ab 16:30 Uhr bei @sportextra.👇https://t.co/Sh1ecXwEJW",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:37:34 +0000 2020",
+"name": "Matti Merker",
+"screen_name": "mattimerker",
+"text": "Was mich ärgert: Kein Livestream von der #DM2020 aus #Braunschweig. #leichtathletik #trackandfield",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:48:52 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "13:50: 400m Hürden Frauen Finale: Djamila Böhm (ART Düsseldorf) mit SB in 56.63 auf Platz 2. Christine Salterberg (LT DSHS Köln) auf Platz 5. mit 58.15.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:59:35 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 13:59:48 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "„Air Entholzner“ ✈️ im Anflug auf DM-🥇! Maximilian Entholzner ist in Braunschweig bester Weitspringer und gewinnt mit 7,96 m seinen ersten DM-Titel.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/9DvdxPeZiA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:01:15 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Strahlende Titelverteidigerin 😀 Carolina Krafzik stürmt bei der DM in Braunschweig in 55,89 Sekunden zu Gold über 400 Meter Hürden.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/nXxkXnZBhy",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:02:52 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Nach 400 Meter Hürden noch so ne Freude zu halten🤩🫂",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 14:05:12 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "🥇🥇 Constantin Preis macht das Gold-Double des VfL Sindelfingen über 400 Meter Hürden perfekt 🙌. In 49,57 Sekunden ist er nicht zu stoppen.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/JMgYzFkGeY",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:08:21 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "16:05: 400m Frauen Finale:Brenda Cataria-Byll (LGO Dortmund) auf Platz 6 mit PB in 52.77
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:08:37 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "endlich angekommen ... erster 👏💪",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 14:10:00 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "🥇🥇 Constantin Preis macht das Gold-Double des VfL Sindelfingen über 400 Meter Hürden perfekt 🙌. In 49,57 Sekunden ist er nicht zu stoppen.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/JMgYzFkGeY",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:15:06 +0000 2020",
+"name": "ZDF",
+"screen_name": "ZDF",
+"text": "Der Nachmittag wird sportlich: Wir zeigen die Deutschen Leichtathletik-Meisterschaften in Braunschweig. 🥇🥈🥉 @dlv_online #dm2020 #braunschweig2020
+
+Vorher ab 16:30 Uhr als Zusammenfassung: Kanu-DM und Deutschland-Cup der Bogenschützen. 👉 https://t.co/I601gL8wWP https://t.co/vHQXVVdOst",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:16:11 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "Der Nachmittag wird sportlich: Wir zeigen die Deutschen Leichtathletik-Meisterschaften in Braunschweig. 🥇🥈🥉 @dlv_online #dm2020 #braunschweig2020
+
+Vorher ab 16:30 Uhr als Zusammenfassung: Kanu-DM und Deutschland-Cup der Bogenschützen. 👉 https://t.co/I601gL8wWP https://t.co/vHQXVVdOst",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:18:59 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "16:15: 400m Männer Finale: Manuel Sanders (LGO Dortmund) auf Platz 2 mit 46.00 in SB. Torben Junker (LGO Dortmund) auf Platz 5 in 46.82. Dahinter auf Platz 6 landet Tobias Lange (Bayer Leverkusen) in 46.86.
+#Leichtathletik #NRW #Braunschweig #TopsportNRW #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:20:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:24:57 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:28:00 +0000 2020",
+"name": "ZDF Sport",
+"screen_name": "ZDFsport",
+"text": "Endlich wieder Livesport im @ZDF! 🤗 Schaltet jetzt ein zu den Deutschen Leichtathletik-Meisterschaften in Braunschweig. Außerdem im Programm: Kanu-DM und Deutschland-Cup der Bogenschützen 👇 #dm2020 #LeichtathletikDM #Braunschweig2020 @dlv_online 
+https://t.co/awvVVp2FJr",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:28:13 +0000 2020",
+"name": "Georg Döller",
+"screen_name": "Netzgedanken",
+"text": "Endlich wieder Livesport im @ZDF! 🤗 Schaltet jetzt ein zu den Deutschen Leichtathletik-Meisterschaften in Braunschweig. Außerdem im Programm: Kanu-DM und Deutschland-Cup der Bogenschützen 👇 #dm2020 #LeichtathletikDM #Braunschweig2020 @dlv_online 
+https://t.co/awvVVp2FJr",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:28:51 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Mit Bestzeit und deutscher Jahresbestzeit 🚀 stürmt Marvin Schlegel zu DM-Gold über die Stadionrunde. Mit 45,79 Sekunden ist er so schnell wie noch nie.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/RKYp7AqqAc",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:29:02 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "Endlich wieder Livesport im @ZDF! 🤗 Schaltet jetzt ein zu den Deutschen Leichtathletik-Meisterschaften in Braunschweig. Außerdem im Programm: Kanu-DM und Deutschland-Cup der Bogenschützen 👇 #dm2020 #LeichtathletikDM #Braunschweig2020 @dlv_online 
+https://t.co/awvVVp2FJr",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:31:05 +0000 2020",
+"name": "angie de kleine 🇳🇱🇪🇺🇩🇪🇺🇸🇨🇦🗽",
+"screen_name": "adekleine",
+"text": "Der Nachmittag wird sportlich: Wir zeigen die Deutschen Leichtathletik-Meisterschaften in Braunschweig. 🥇🥈🥉 @dlv_online #dm2020 #braunschweig2020
+
+Vorher ab 16:30 Uhr als Zusammenfassung: Kanu-DM und Deutschland-Cup der Bogenschützen. 👉 https://t.co/I601gL8wWP https://t.co/vHQXVVdOst",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:31:06 +0000 2020",
+"name": "Birgit Kötters 🙂🇩🇪🇪🇺🌍",
+"screen_name": "50lilli",
+"text": "Der Nachmittag wird sportlich: Wir zeigen die Deutschen Leichtathletik-Meisterschaften in Braunschweig. 🥇🥈🥉 @dlv_online #dm2020 #braunschweig2020
+
+Vorher ab 16:30 Uhr als Zusammenfassung: Kanu-DM und Deutschland-Cup der Bogenschützen. 👉 https://t.co/I601gL8wWP https://t.co/vHQXVVdOst",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:31:35 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:32:30 +0000 2020",
+"name": "🌎T&F OLYMPIAD 🏟 Worldwide Athletics",
+"screen_name": "TFOLYMPIAD",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:32:53 +0000 2020",
+"name": "RainerLGW",
+"screen_name": "Rainer_LGW",
+"text": "Endlich wieder Livesport im @ZDF! 🤗 Schaltet jetzt ein zu den Deutschen Leichtathletik-Meisterschaften in Braunschweig. Außerdem im Programm: Kanu-DM und Deutschland-Cup der Bogenschützen 👇 #dm2020 #LeichtathletikDM #Braunschweig2020 @dlv_online 
+https://t.co/awvVVp2FJr",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:33:07 +0000 2020",
+"name": "Sonja Kowalski 💬",
+"screen_name": "scatharis",
+"text": "Der Nachmittag wird sportlich: Wir zeigen die Deutschen Leichtathletik-Meisterschaften in Braunschweig. 🥇🥈🥉 @dlv_online #dm2020 #braunschweig2020
+
+Vorher ab 16:30 Uhr als Zusammenfassung: Kanu-DM und Deutschland-Cup der Bogenschützen. 👉 https://t.co/I601gL8wWP https://t.co/vHQXVVdOst",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:33:58 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Meine Fensterscheibe ist noch ganz👍",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 14:36:02 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:37:52 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Corinna Schwab ist in Braunschweig nicht zu stoppen 🏎. Die Regensburgerin sichert sich in 🙌 PB /51,72 sec den DM-Titel über 400 m im schnellen Finale.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/wHHIgk1brR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:38:30 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "✖️ES VALIENTE
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha… https://t.co/8tF2b4fZmV",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:39:48 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "💚 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/BjO1bljHj2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:40:12 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Verdammt eine Traumzeit 😱👀👈👉🤩👈👉👍",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 14:44:12 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:44:56 +0000 2020",
+"name": "petra71",
+"screen_name": "petra_sperling",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:46:01 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "„Air Entholzner“ ✈️ im Anflug auf DM-🥇! Maximilian Entholzner ist in Braunschweig bester Weitspringer und gewinnt mit 7,96 m seinen ersten DM-Titel.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/9DvdxPeZiA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:47:08 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "Clemens Prüfer hat den stärksten Arm 💪 und holt mit 62,97 Metern Diskus-Gold bei der DM in Braunschweig. Es ist sein erster Titel in der Männerklasse. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/X2rCVFltnA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:47:50 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 14:49:33 +0000 2020",
+"name": "bülent veznikli",
+"screen_name": "buve19081908",
+"text": "Almanya 🇩🇪 Atletizm Şampiyonasında dün Deniz Almas 100 metrede şampiyon oldu. Böylece 60 metrede Almanya salon şampiyonluğunun ardında, 100 metrede de 10.09 luk derecesiyle 🥇🥇🥇👏🏽👏🏽",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 14:50:08 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Diese Weltmeister... lassen nix anbrennen🔥🤩💪🦥",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 15:01:00 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Starker Spurt zur Titelverteidigung 🥇🥇. Karl Bebendorf schnappt sich bei der DM in Braunschweig mit 8:42,42 min Gold über 3000 Meter Hindernis
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hindernislauf https://t.co/2ODW1fxALH",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:01:12 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Vera Coutellier auf Platz 2 mit 4:15,49. Auf Platz 4 läuft Verena Meisl mit PB 4:17,84. Patricia de Graatauch in persönlicher Bestleistung 4:22,05 auf Platz 7. Fabiane Meyer in PB auf Platz 8 in 4:22,05. Wrede auf Platz 9 in 4:22,25.#Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:02:52 +0000 2020",
+"name": "MPS papás",
+"screen_name": "MPSpapas",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:08:18 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Hanna Klein spielt auf den letzten 300 m ihre Endschnelligkeit 🚀 aus und holt den DM-Titel über 1500 m in Braunschweig mit 4:13,71. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #1500m https://t.co/9q464zjHp6",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:09:22 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:10:57 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Die Zeit ist gut... du bist besser als Heinz Laufer 8:44,40👍",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 15:14:13 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Super Zeit ! Du bist in den Top 20 der Welt💪💪💪",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 15:15:11 +0000 2020",
+"name": "ozcan sert",
+"screen_name": "ozcansert66",
+"text": "Almanya 🇩🇪 Atletizm Şampiyonasında dün Deniz Almas 100 metrede şampiyon oldu. Böylece 60 metrede Almanya salon şampiyonluğunun ardında, 100 metrede de 10.09 luk derecesiyle 🥇🥇🥇👏🏽👏🏽",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 15:15:50 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "17:10: 1500m Männer Finale: Marius Probst (TV Watttenscheid) wird deutscher Meister in 3:52,47.#Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:24:40 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "🥇-Premiere für Marius Probst. Noch nie war der Wattenscheider bei einer Freiluft-DM über 1500 m vorn. In Braunschweig macht er in 3:52,47 min das Rennen🏁
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #1500m https://t.co/czhnFxUZfN",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Agosto es el mes de las #EnfermedadesAutoinflamatorias. Objetivo: concienciar e informar sobre este grupo de #EnfermedadesRaras. Ponemos nuestro granito de arena: ¿Sabías que su investigación ha servido para comprender la COVID-19 y cómo tratarla mejor?
+https://t.co/AxUaIRhmOG",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:12 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "🥇🥇🥇🥇🥇🥇🥇🥇 Der achte DM-Streich von Matthias Bühler. Der Hürdensprinter ist nach dem Rücktritt vom Rücktritt bei der DM in Braunschweig in 13,62 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/MrnWB5qf8G",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:15 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "🥇-Premiere für Ricarda Lobe! Die Mannheimerin setzt sich im Hürdensprint bei der DM in Braunschweig mit 13,24 Sekunden durch und holt den Titel. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/QUuL9mnIdA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:18 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Clemens Prüfer hat den stärksten Arm 💪 und holt mit 62,97 Metern Diskus-Gold bei der DM in Braunschweig. Es ist sein erster Titel in der Männerklasse. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/X2rCVFltnA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:21 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:25 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Der „schnellste Wolf“ krallt sich nach Hallen-Gold auch im Freien die Sprint-👑. Deniz Almas ist bei der DM in Braunschweig über 100 m in 10,09 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/kvVWpnVzTY",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:28 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Der erste Titel am DM-Sonntag in Braunschweig geht an Carolin Paesler. Die Leverkusenerin ist mit 70,99 m (PB) im 🔨-Wurf nicht zu schlagen. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hammerwurf https://t.co/HbI8tEv5ee",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:33 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "„Air Entholzner“ ✈️ im Anflug auf DM-🥇! Maximilian Entholzner ist in Braunschweig bester Weitspringer und gewinnt mit 7,96 m seinen ersten DM-Titel.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/9DvdxPeZiA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:37 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:43 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Strahlende Titelverteidigerin 😀 Carolina Krafzik stürmt bei der DM in Braunschweig in 55,89 Sekunden zu Gold über 400 Meter Hürden.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/nXxkXnZBhy",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:47 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "🥇🥇 Constantin Preis macht das Gold-Double des VfL Sindelfingen über 400 Meter Hürden perfekt 🙌. In 49,57 Sekunden ist er nicht zu stoppen.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/JMgYzFkGeY",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:36:50 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Mit Bestzeit und deutscher Jahresbestzeit 🚀 stürmt Marvin Schlegel zu DM-Gold über die Stadionrunde. Mit 45,79 Sekunden ist er so schnell wie noch nie.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/RKYp7AqqAc",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:37:02 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:37:11 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Corinna Schwab ist in Braunschweig nicht zu stoppen 🏎. Die Regensburgerin sichert sich in 🙌 PB /51,72 sec den DM-Titel über 400 m im schnellen Finale.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/wHHIgk1brR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:37:16 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:37:20 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Starker Spurt zur Titelverteidigung 🥇🥇. Karl Bebendorf schnappt sich bei der DM in Braunschweig mit 8:42,42 min Gold über 3000 Meter Hindernis
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hindernislauf https://t.co/2ODW1fxALH",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:37:29 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Hanna Klein spielt auf den letzten 300 m ihre Endschnelligkeit 🚀 aus und holt den DM-Titel über 1500 m in Braunschweig mit 4:13,71. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #1500m https://t.co/9q464zjHp6",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:37:33 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "🥇-Premiere für Marius Probst. Noch nie war der Wattenscheider bei einer Freiluft-DM über 1500 m vorn. In Braunschweig macht er in 3:52,47 min das Rennen🏁
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #1500m https://t.co/czhnFxUZfN",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:39:02 +0000 2020",
+"name": "Antonio Souviron",
+"screen_name": "asouvi",
+"text": "Según estudio #ENSERio sobre gastos familiares relacionados con la atención de #EnfermedadesRaras en España
+
+👉Suponen cerca del 20% de los ingresos familiares anuales
+👉De media, cada familia destina más de 350 euros a esta causa.
+
+https://t.co/CMkSnuW5HL https://t.co/4706qgzHE0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:39:16 +0000 2020",
+"name": "Blau-Gelbe Datenwelt",
+"screen_name": "BlauGelbeDaten",
+"text": "Ist wirklich schön das Eintracht-Stadion mal aus eine andere Perspektive im TV zu sehen! 🥰 #leichtathletik #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:41:43 +0000 2020",
+"name": "Elwis Durán",
+"screen_name": "narude03",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:41:51 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "800m Frauen Finale: Tanja Spill (Bayer Uerdingen/Dormagen) mit einem starken Sprint auf den letzen 100m auf Platz 2 in 2:02,07. Sarah Schmidt (Bayer Leverkusen) mit 2:04,66 auf Platz 6.3:52,47.#Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:49:05 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Christina Hering mach das halbe Dutzend voll! Die Münchnerin siegt zum sechsten Mal bei Deutschen Meisterschaften über 800 m🙌 . Diesmal in 2:01,62 min.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/bjQzF1mxF0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:54:15 +0000 2020",
+"name": "Matthias Stier",
+"screen_name": "MassiveMuseum",
+"text": "Tut euch was Gutes, holt euch ein Eis und schaut die Deutschen #Leichtathletik Meisterschaften auf @ZDF. 🍦+🏃🏽‍♂️=❤️
+#DM2020 #TrueAthletes",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:56:45 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Die erste 🥇 bei der 120. Leichtathletik-DM geht an Tristan Schwandke. Der Hammerwerfer verteidigt in Braunschweig mit 70,85 Metern seinen Titel erfolgreich 💪 
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #hammerwurf https://t.co/SMRj1FnmKp",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:56:51 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Bei 36 Grad 🥵 behält Elena Burkard kühlen Kopf und stürmt mit 9:50,31 min zu ihrem ersten DM-Titel über 3000 m Hindernis. Europameisterin Gesa Krause muss das Rennen angeschlagen vorzeitig beenden. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 https://t.co/LMEGKy6BLX",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:56:57 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Alina Kenzel ist im Kugelstoß nicht zu schlagen. Mit Saisonbestweite 🙌 von 17,96 Metern gewinnt die Waiblingerin ihren ersten DM-Titel im Freien. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoss https://t.co/sHMN8D5xYM",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:57:16 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Hop, Step, Gold! Herzlichen Glückwunsch Max Heß zum Dreisprung-DM-Titel mit 16,58 m in Braunschweig! Es ist bereits der vierte Freiluft-Titel für den Chemnitzer. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #dreisprung https://t.co/oWHNAv0qCo",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:57:26 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "🥇🥇🥇🥇🥇🥇🥇🥇 Der achte DM-Streich von Matthias Bühler. Der Hürdensprinter ist nach dem Rücktritt vom Rücktritt bei der DM in Braunschweig in 13,62 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals https://t.co/MrnWB5qf8G",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:57:42 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Ganz starke Vorstellung von Christin Hussong 🙌 Mit 63,93 Metern gewinnt die Europameisterin in Braunschweig ihren vierten DM-Titel im Speerwurf. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #speerwurf https://t.co/liShvJ4ZF9",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:58:02 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Auf dem Sprungsteg zu DM-🥇! Maria Purtsa ist in Braunschweig mit 13,65 Metern die beste Dreispringerin und gewinnt ihren ersten DM-Titel. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #dreisprung https://t.co/luiNdzWQ8d",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:58:18 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Clemens Prüfer hat den stärksten Arm 💪 und holt mit 62,97 Metern Diskus-Gold bei der DM in Braunschweig. Es ist sein erster Titel in der Männerklasse. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/X2rCVFltnA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:58:52 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "🥇-Premiere für Ricarda Lobe! Die Mannheimerin setzt sich im Hürdensprint bei der DM in Braunschweig mit 13,24 Sekunden durch und holt den Titel. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/QUuL9mnIdA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 15:59:37 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Der „schnellste Wolf“ krallt sich nach Hallen-Gold auch im Freien die Sprint-👑. Deniz Almas ist bei der DM in Braunschweig über 100 m in 10,09 sec nicht zu schlagen. (📸 Theo Kiefner) #TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/kvVWpnVzTY",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:00:11 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Christina Hering mach das halbe Dutzend voll! Die Münchnerin siegt zum sechsten Mal bei Deutschen Meisterschaften über 800 m🙌 . Diesmal in 2:01,62 min.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/bjQzF1mxF0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:00:26 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Starker Spurt zur Titelverteidigung 🥇🥇. Karl Bebendorf schnappt sich bei der DM in Braunschweig mit 8:42,42 min Gold über 3000 Meter Hindernis
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hindernislauf https://t.co/2ODW1fxALH",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:00:37 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:01:42 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Doppelte Titel-Premiere! Stefanie Dauber und Ria Möllers gewinnen mit 4,40 m und den identischen Fehlversuchen gemeinsam DM-🥇im Stabhochsprung. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals #stabhochsprung https://t.co/EUc8NlPWpz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:01:55 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "„Air Entholzner“ ✈️ im Anflug auf DM-🥇! Maximilian Entholzner ist in Braunschweig bester Weitspringer und gewinnt mit 7,96 m seinen ersten DM-Titel.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/9DvdxPeZiA",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:02:11 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Die Sprint-Queen von Braunschweig heißt Lisa Marie Kwayie! In 11,30 Sekunden stürmt die Berlinerin zu 🥇 und ihrem ersten DM-Titel über 100 Meter. (📸 Theo Kiefner)
+#TrueAthletes #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/acDvKwRNGO",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:02:40 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Erfolgreiche Titelverteidigung 🥇! Marc Reuther gewinnt den DM-Titel über 800 m. Der Frankfurter setzt sich in Braunschweig von vorn mit 1:46,97 min durch.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/5fU6Pf6tsR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:03:36 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Strahlende Titelverteidigerin 😀 Carolina Krafzik stürmt bei der DM in Braunschweig in 55,89 Sekunden zu Gold über 400 Meter Hürden.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hürdenlauf https://t.co/nXxkXnZBhy",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:04:04 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Hanna Klein spielt auf den letzten 300 m ihre Endschnelligkeit 🚀 aus und holt den DM-Titel über 1500 m in Braunschweig mit 4:13,71. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #1500m https://t.co/9q464zjHp6",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:04:34 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Mit Bestzeit und deutscher Jahresbestzeit 🚀 stürmt Marvin Schlegel zu DM-Gold über die Stadionrunde. Mit 45,79 Sekunden ist er so schnell wie noch nie.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/RKYp7AqqAc",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:05:16 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Corinna Schwab ist in Braunschweig nicht zu stoppen 🏎. Die Regensburgerin sichert sich in 🙌 PB /51,72 sec den DM-Titel über 400 m im schnellen Finale.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/wHHIgk1brR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:07:45 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Der erste Titel am DM-Sonntag in Braunschweig geht an Carolin Paesler. Die Leverkusenerin ist mit 70,99 m (PB) im 🔨-Wurf nicht zu schlagen. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hammerwurf https://t.co/HbI8tEv5ee",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:08:33 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:08:45 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:09:23 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "Corinna Schwab ist in Braunschweig nicht zu stoppen 🏎. Die Regensburgerin sichert sich in 🙌 PB /51,72 sec den DM-Titel über 400 m im schnellen Finale.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #400m https://t.co/wHHIgk1brR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:09:33 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "Hanna Klein spielt auf den letzten 300 m ihre Endschnelligkeit 🚀 aus und holt den DM-Titel über 1500 m in Braunschweig mit 4:13,71. 
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #1500m https://t.co/9q464zjHp6",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:09:39 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "Kristin Pudenz macht’s noch mal! Mit 62,30 Metern verteidigt die Potsdamerin ihren Diskuswurf-Titel bei der DM in Braunschweig erfolgreich 🙌
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #diskuswurf https://t.co/0bEuy7DhY0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:09:45 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "Christina Hering mach das halbe Dutzend voll! Die Münchnerin siegt zum sechsten Mal bei Deutschen Meisterschaften über 800 m🙌 . Diesmal in 2:01,62 min.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/bjQzF1mxF0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:10:04 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "Starker Spurt zur Titelverteidigung 🥇🥇. Karl Bebendorf schnappt sich bei der DM in Braunschweig mit 8:42,42 min Gold über 3000 Meter Hindernis
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hindernislauf https://t.co/2ODW1fxALH",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:10:12 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Bo Kanda Lita Baehre hamstert weiter DM-Titel. In Braunschweig überfliegt der WM-Vierte erstmals 5,75 m💪 und gewinnt den dritten Freiluft-Titel!
+📸Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #stabhochsprung https://t.co/9aDWiWK14C",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:10:12 +0000 2020",
+"name": "Thomas Härtel",
+"screen_name": "HaertelThomas",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:12:15 +0000 2020",
+"name": "Philipp",
+"screen_name": "PhilippKramer",
+"text": "Erfolgreiche Titelverteidigung 🥇! Marc Reuther gewinnt den DM-Titel über 800 m. Der Frankfurter setzt sich in Braunschweig von vorn mit 1:46,97 min durch.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/5fU6Pf6tsR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:13:13 +0000 2020",
+"name": "Angel David Rodríguez OLY (🔛)",
+"screen_name": "SoyAtletismo",
+"text": "Ya tenemos al primer campeón nacional del grupo. Max Entholzner (@fentcamislata) campeón alemán de longi.",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:20:08 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": ""Nur der Titel zählt", hatte Christina Hering vor der #DM2020 ausgegeben &amp; so ist sie auch gelaufen. Mutig von vorneweg hat sie alle Angriffe abgewehrt &amp; nach 2:01,62min als Siegerin die Ziellinie überquert – 800m-Freilufttitel Nummer 6 für die Münchnerin!!🏆🏆🏆🏆🏆🏆#LGSWM https://t.co/HWjC8nIKNs",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:22:47 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Pünktlich zur DM ist Mateusz Przybylko in Top-Form 🙌 ! Der Hochsprung-Europameister meistert 2,28 Meter und scheitert erst an 2,31 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hochsprung https://t.co/AeTy1Wo57y",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:24:40 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "18:00: 5000m Frauen Finale: Denise Krebs auf Platz 10 mit 16:46,87. Stephanie Strate mit 17:05,94 auf Platz 11. Julia Kümpers auf Platz 13 mit 17:19.80. Auf Platz 15 landet Klara Koppe (LG Brillux Münster) in 17:36.07.#Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:25:08 +0000 2020",
+"name": "hw ❄",
+"screen_name": "DieSpoJo",
+"text": "Stell dir vor, du bist gerade Deutsche Meisterin geworden und der ZDF-Moderator nennt dich im anschließenden Interview bei einem falschen Vornamen. Uff.
+
+#DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:26:21 +0000 2020",
+"name": "Simon",
+"screen_name": "simasview",
+"text": "Sind Raphael Holzdeppe und Daniel Aminati eigentlich verwandt? #DM2020 #Braunschweig2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:26:33 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Die Weitsprung-Weltmeisterin ist auch aus verkürztem Anlauf nicht zu schlagen. Malaika Mihambo 🚀 fliegt auf 6,71 Meter und zu DM-🥇 in Braunschweig.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/SsGlfIbSoa",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:29:11 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Die Weitsprung-Weltmeisterin ist auch aus verkürztem Anlauf nicht zu schlagen. Malaika Mihambo 🚀 fliegt auf 6,71 Meter und zu DM-🥇 in Braunschweig.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/SsGlfIbSoa",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:29:15 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Pünktlich zur DM ist Mateusz Przybylko in Top-Form 🙌 ! Der Hochsprung-Europameister meistert 2,28 Meter und scheitert erst an 2,31 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hochsprung https://t.co/AeTy1Wo57y",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:30:05 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Erfolgreiche Titelverteidigung 🥇! Marc Reuther gewinnt den DM-Titel über 800 m. Der Frankfurter setzt sich in Braunschweig von vorn mit 1:46,97 min durch.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/5fU6Pf6tsR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:30:08 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Christina Hering mach das halbe Dutzend voll! Die Münchnerin siegt zum sechsten Mal bei Deutschen Meisterschaften über 800 m🙌 . Diesmal in 2:01,62 min.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #800m https://t.co/bjQzF1mxF0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:30:19 +0000 2020",
+"name": "Leticia Gil",
+"screen_name": "Letii_le",
+"text": "Maaaax 🤩🤩",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:33:32 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "Die Weitsprung-Weltmeisterin ist auch aus verkürztem Anlauf nicht zu schlagen. Malaika Mihambo 🚀 fliegt auf 6,71 Meter und zu DM-🥇 in Braunschweig.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/SsGlfIbSoa",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:33:43 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "Pünktlich zur DM ist Mateusz Przybylko in Top-Form 🙌 ! Der Hochsprung-Europameister meistert 2,28 Meter und scheitert erst an 2,31 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hochsprung https://t.co/AeTy1Wo57y",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:34:50 +0000 2020",
+"name": "dpfaff",
+"screen_name": "PfaffSC",
+"text": "👀 https://t.co/WxB9FeR8gg",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:35:25 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Alina Reh ist bei der DM über 5000 m nicht zu schlagen 🙌 . Nach zwei Km zieht die Ulmerin an 🏃‍♀️ und holt sich den zweiten DM-Titel nach 2015.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #laufen #5000m https://t.co/VHDaWS7ik2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:38:37 +0000 2020",
+"name": "Tim800",
+"screen_name": "tim800m",
+"text": "Tut euch was Gutes, holt euch ein Eis und schaut die Deutschen #Leichtathletik Meisterschaften auf @ZDF. 🍦+🏃🏽‍♂️=❤️
+#DM2020 #TrueAthletes",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:39:40 +0000 2020",
+"name": "Michael Tschimmel",
+"screen_name": "Tschimbo1974",
+"text": "Also viel sympathischer als Malaika Muhambo geht echt nicht. Absolut mega! #leichtathletik #DM2020 #Braunschweig #leichtathletikdm",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:41:40 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Ganz starke 💪 Vorstellung von Johannes Vetter. Der WM-Dritte im Speerwurf „erbeutet“ DM-Gold mit exzellenten 87,36 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #speerwurf https://t.co/1oLLVb7LAL",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:42:02 +0000 2020",
+"name": "TOM",
+"screen_name": "TomR_",
+"text": "Ganz starke 💪 Vorstellung von Johannes Vetter. Der WM-Dritte im Speerwurf „erbeutet“ DM-Gold mit exzellenten 87,36 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #speerwurf https://t.co/1oLLVb7LAL",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:43:26 +0000 2020",
+"name": "hw ❄",
+"screen_name": "DieSpoJo",
+"text": "Generell nicht so krass gut vorbereitet.
+"Frau Mihambo, Sie waren dort ja über 10 Jahre..."
+"Ja. 18."",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:44:37 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Mega Zeit 👌🥵👏👏👏",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:48:01 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/8BF0CBiTnf",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:48:16 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "18:35: 200m Frauen Finale: Synthia Oguama (TV Wattenscheid) sprintet auf Platz 7 in 23.82. Lilly Kaden (FC Schalke 04) beendet den Lauf in 24.32 auf Platz 8.#Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:48:17 +0000 2020",
+"name": "Molis Channel",
+"screen_name": "MolisChannel",
+"text": "Gut Alina erste Etappe geschafft...
+Nur Du bist DM 2020 🤩👏👏👏✌️🤓😉",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:48:21 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/ZVIxCVo335",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:48:41 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/IN1w1wXk17",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:49:02 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/F7kc8vmMnY",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:49:23 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/Us2rwgOGes",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:49:50 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/yneOZSoB1w",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:50:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": ".@GrupoOrpharSEFH Grupo de #EnfermedadesRaras @sefh_ presentó su primer informe Horizon Scanning de identificación de nuevos #MedicamentosHuérfanos. Este método identifica tendencias potenciales, oportunidades, nuevas tecnologías o amenazas.
+https://t.co/e08AjzSwB2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:50:12 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Jetzt das Finale der 200m Männer mit Robin Erewa und auch der letzte Wettbewerb am heutigen Tag! #Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:50:27 +0000 2020",
+"name": "marisanba1",
+"screen_name": "marisanba1",
+"text": ".@GrupoOrpharSEFH Grupo de #EnfermedadesRaras @sefh_ presentó su primer informe Horizon Scanning de identificación de nuevos #MedicamentosHuérfanos. Este método identifica tendencias potenciales, oportunidades, nuevas tecnologías o amenazas.
+https://t.co/e08AjzSwB2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:51:53 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "📺 Der Topstar hat gewonnen: Weitsprung-Weltmeisterin Malaika #Mihambo holt mit einem Satz auf 6,71 m ihren vierten nationalen Titel. #leichtathletik #dm2020 https://t.co/WdCCTu7oKu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:52:06 +0000 2020",
+"name": "Julian...",
+"screen_name": "J_P_J_D",
+"text": "Bäm!",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 16:53:36 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "18:45: 200m Männer Finale: Robin Erewa (TV Wattenscheid) wird Zweiter in 20.86. #Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:55:12 +0000 2020",
+"name": "Sportschau",
+"screen_name": "sportschau",
+"text": "📺 Der Topstar hat gewonnen: Weitsprung-Weltmeisterin Malaika #Mihambo holt mit einem Satz auf 6,71 m ihren vierten nationalen Titel. #leichtathletik #dm2020 https://t.co/WdCCTu7oKu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:55:28 +0000 2020",
+"name": "Topsport NRW",
+"screen_name": "topsport_nrw",
+"text": "Das war es mit der deutschen Meisterschaft der Leichtathletik 2020 in Braunschweig. Somit endet auch unser Aktuell-Live-Beitrag! Wir gratulieren allen Athleten und freuen uns auf weitere gute Leistungen in diesem Jahr! #Leichtathletik #NRW #Braunschweig #DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:55:48 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Da ist eine Überraschung 💥 Jessica-Bianca Wessoly gewinnt zum zweiten Mal nach 2018 DM-Gold über 200 m. 23,07 sec werden für die Mannheimerin gestoppt.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/hXAtvsMlHR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:56:58 +0000 2020",
+"name": "TSV 1895 Oftersheim",
+"screen_name": "tsvoftersheim",
+"text": "Die Weitsprung-Weltmeisterin ist auch aus verkürztem Anlauf nicht zu schlagen. Malaika Mihambo 🚀 fliegt auf 6,71 Meter und zu DM-🥇 in Braunschweig.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/SsGlfIbSoa",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:58:01 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:58:14 +0000 2020",
+"name": "Infos aus Laichingen",
+"screen_name": "Laichingen",
+"text": "Alina Reh ist bei der DM über 5000 m nicht zu schlagen 🙌 . Nach zwei Km zieht die Ulmerin an 🏃‍♀️ und holt sich den zweiten DM-Titel nach 2015.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #laufen #5000m https://t.co/VHDaWS7ik2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:59:33 +0000 2020",
+"name": "LG SW//M",
+"screen_name": "lgswm",
+"text": "Hochspringer Tobias Potye wiederholt seinen Erfolg von 2018 &amp; wird bei der #DM2020 mit übersprungenen 2,20m erneut deutscher Vizemeister!!🥈Nicht zu schlagen war heute Europameister Mateusz Przybylko mit 2,28m. Der Medaillensatz für die #LGSWM an diesem Wochenende ist komplett!💪 https://t.co/jNrljbe4jV",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 16:59:46 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Pünktlich zur DM ist Mateusz Przybylko in Top-Form 🙌 ! Der Hochsprung-Europameister meistert 2,28 Meter und scheitert erst an 2,31 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hochsprung https://t.co/AeTy1Wo57y",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:00:16 +0000 2020",
+"name": "AtaxiasARG",
+"screen_name": "AtaxiasARG",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:00:38 +0000 2020",
+"name": "Gunnar Sperling",
+"screen_name": "kommunikationpr",
+"text": "Die Weitsprung-Weltmeisterin ist auch aus verkürztem Anlauf nicht zu schlagen. Malaika Mihambo 🚀 fliegt auf 6,71 Meter und zu DM-🥇 in Braunschweig.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/SsGlfIbSoa",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:08:30 +0000 2020",
+"name": "leichtathletik.de",
+"screen_name": "dlv_online",
+"text": "Die letzte 🥇 der 120. Leichtathletik-DM geht an Steven Müller. Mit 20,79 Sekunden setzt sich der Friedberger über 200 Meter in Braunschweig durch.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/pvwEivwUVU",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:09:36 +0000 2020",
+"name": "Bill Javelin",
+"screen_name": "billjavelin",
+"text": "Ganz starke 💪 Vorstellung von Johannes Vetter. Der WM-Dritte im Speerwurf „erbeutet“ DM-Gold mit exzellenten 87,36 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #speerwurf https://t.co/1oLLVb7LAL",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:11:58 +0000 2020",
+"name": "Madlen H 🌈",
+"screen_name": "madlenh14",
+"text": "📺 Der Topstar hat gewonnen: Weitsprung-Weltmeisterin Malaika #Mihambo holt mit einem Satz auf 6,71 m ihren vierten nationalen Titel. #leichtathletik #dm2020 https://t.co/WdCCTu7oKu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:16:19 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Die letzte 🥇 der 120. Leichtathletik-DM geht an Steven Müller. Mit 20,79 Sekunden setzt sich der Friedberger über 200 Meter in Braunschweig durch.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/pvwEivwUVU",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:16:22 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Da ist eine Überraschung 💥 Jessica-Bianca Wessoly gewinnt zum zweiten Mal nach 2018 DM-Gold über 200 m. 23,07 sec werden für die Mannheimerin gestoppt.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #sprint https://t.co/hXAtvsMlHR",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:16:27 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Ganz starke 💪 Vorstellung von Johannes Vetter. Der WM-Dritte im Speerwurf „erbeutet“ DM-Gold mit exzellenten 87,36 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #speerwurf https://t.co/1oLLVb7LAL",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:16:30 +0000 2020",
+"name": "Florian Hohmann",
+"screen_name": "FlorianHohmann",
+"text": "Alina Reh ist bei der DM über 5000 m nicht zu schlagen 🙌 . Nach zwei Km zieht die Ulmerin an 🏃‍♀️ und holt sich den zweiten DM-Titel nach 2015.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #laufen #5000m https://t.co/VHDaWS7ik2",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:17:19 +0000 2020",
+"name": "Sportschau",
+"screen_name": "sportschau",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:21:09 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "Die beiden Topstars haben bei den deutschen Meisterschaften der Leichtathleten in Braunschweig am Sonntag die Erwartungen erfüllt und sich den Titel gesichert. https://t.co/I3bE75RWwd #leichtathletik #dm2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:26:34 +0000 2020",
+"name": "TSV 1895 Oftersheim",
+"screen_name": "tsvoftersheim",
+"text": "📺 Der Topstar hat gewonnen: Weitsprung-Weltmeisterin Malaika #Mihambo holt mit einem Satz auf 6,71 m ihren vierten nationalen Titel. #leichtathletik #dm2020 https://t.co/WdCCTu7oKu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:29:10 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "📺 DM-Titel mit neuer Bestleistung: Bo Kanda Lita Baehre hat souverän im #Stabhochsprung gewonnen. Der 21-Jährige steigerte sich auf 5,75 Meter. #leichtathletik #dm2020 https://t.co/xzXmwEDjtb",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:35:33 +0000 2020",
+"name": "Christian Brey",
+"screen_name": "ChrisBrey1",
+"text": "📺 Der Topstar hat gewonnen: Weitsprung-Weltmeisterin Malaika #Mihambo holt mit einem Satz auf 6,71 m ihren vierten nationalen Titel. #leichtathletik #dm2020 https://t.co/WdCCTu7oKu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:37:03 +0000 2020",
+"name": "Sportschau",
+"screen_name": "sportschau",
+"text": "📺 DM-Titel mit neuer Bestleistung: Bo Kanda Lita Baehre hat souverän im #Stabhochsprung gewonnen. Der 21-Jährige steigerte sich auf 5,75 Meter. #leichtathletik #dm2020 https://t.co/xzXmwEDjtb",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:40:22 +0000 2020",
+"name": "Christian Brey",
+"screen_name": "ChrisBrey1",
+"text": "📺 DM-Titel mit neuer Bestleistung: Bo Kanda Lita Baehre hat souverän im #Stabhochsprung gewonnen. Der 21-Jährige steigerte sich auf 5,75 Meter. #leichtathletik #dm2020 https://t.co/xzXmwEDjtb",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:41:47 +0000 2020",
+"name": "Johannes Schneider",
+"screen_name": "jocoolwu",
+"text": "I’m in awe of some of these Track and Field athletes. That’s 95.5 yards for those who aren’t versed in metric system. Incredible",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 17:42:41 +0000 2020",
+"name": "Johannes Schneider",
+"screen_name": "jocoolwu",
+"text": "I’m in awe of some of these Track and Field athletes. That’s 95.5 yards for those who aren’t versed in metric system. Better arm than Mahomes?!?",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 17:44:46 +0000 2020",
+"name": "BayerLeichtathletik",
+"screen_name": "Bayer04La",
+"text": "Pünktlich zur DM ist Mateusz Przybylko in Top-Form 🙌 ! Der Hochsprung-Europameister meistert 2,28 Meter und scheitert erst an 2,31 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hochsprung https://t.co/AeTy1Wo57y",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:47:09 +0000 2020",
+"name": "Christian Brey",
+"screen_name": "ChrisBrey1",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 17:51:08 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Nueva pausa hexagonal y señal dedicada junto a una palabra para todos que es una #actitud 100% Disfrutar https://t.co/9stBVc9WHP Al pie de la letra ;) 
+¡Gracias Concha y Antonia!
+
+#colaboración #participación #EnfermedadesRaras #ER #visibilidadER #Hemofilia #orpha448 #wikiER13 https://t.co/CvHyGBaucE",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:01:23 +0000 2020",
+"name": "Stephan Dreyse",
+"screen_name": "sDreyse",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:01:35 +0000 2020",
+"name": "Stephan Dreyse",
+"screen_name": "sDreyse",
+"text": "📺 Der Topstar hat gewonnen: Weitsprung-Weltmeisterin Malaika #Mihambo holt mit einem Satz auf 6,71 m ihren vierten nationalen Titel. #leichtathletik #dm2020 https://t.co/WdCCTu7oKu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:03:35 +0000 2020",
+"name": "hilumilu",
+"screen_name": "Melodramatisch",
+"text": "Die Weitsprung-Weltmeisterin ist auch aus verkürztem Anlauf nicht zu schlagen. Malaika Mihambo 🚀 fliegt auf 6,71 Meter und zu DM-🥇 in Braunschweig.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #weitsprung https://t.co/SsGlfIbSoa",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:05:01 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Avanzamos! Gracias @FEDER_ONG por el extraordinario trabajo día  a día  para que  las personas con #EnfermedadesRaras  y sus familias tengamos calidad de vida #xfragilcv  #xfragil",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 18:05:56 +0000 2020",
+"name": "Asociación GERNA",
+"screen_name": "GernaInfo",
+"text": "¡El periódico de las Enfermedades Raras está disponible! https://t.co/zdAs1DSZza Gracias a @asenkawa @retinosis #enfermedadesraras #genetica",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:10:01 +0000 2020",
+"name": "AEFA Kabuki",
+"screen_name": "AefaKabuki",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:11:11 +0000 2020",
+"name": "Teresa_NF",
+"screen_name": "TeresaNF1",
+"text": "Necesitamos investigación!!! #SinCiencianohayFuturo @FEDER_ONG  @CIPFciencia  @incliva_iis @IISLaFe #SomosFeder  #xfragilcv #xfragil",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 18:17:41 +0000 2020",
+"name": "Inma Acero Palacios",
+"screen_name": "inma_acero",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:17:52 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "Malaika #Mihambo zu den "Geisterspielen" in Braunschweig: "Ein neues Normal". #leichtathletik #dm2020 https://t.co/wowDHjsGI0",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:43:56 +0000 2020",
+"name": "Hoppie",
+"screen_name": "hhoppenstedt",
+"text": "📺 DM-Titel mit neuer Bestleistung: Bo Kanda Lita Baehre hat souverän im #Stabhochsprung gewonnen. Der 21-Jährige steigerte sich auf 5,75 Meter. #leichtathletik #dm2020 https://t.co/xzXmwEDjtb",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:51:54 +0000 2020",
+"name": "☣Xevar☣",
+"screen_name": "X_evar",
+"text": "Leichtathletik ist underrated.
+#DM2020",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 18:59:59 +0000 2020",
+"name": "Marina Lobato Pérez",
+"screen_name": "MarinaLbtPrz",
+"text": "Maaaax 🤩🤩",
+"ReTweet: "True"},
+{"data": "Sun Aug 09 19:20:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "👏👏👏 Muy bien por ASER!
+
+Este colectivo trabaja para ayudar a la investigación de las #EnfermedadesRaras. ⚪⚫🔴🔵 Puso en marcha una iniciativa con la que recaudó 2.000 € que entregaron a ASEM, asociación gallega de #EnfermedadesNeuromusculares.
+https://t.co/E0TJyvBiRp",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 19:35:40 +0000 2020",
+"name": "Judith",
+"screen_name": "Youdid219",
+"text": "📺 DM-Titel mit neuer Bestleistung: Bo Kanda Lita Baehre hat souverän im #Stabhochsprung gewonnen. Der 21-Jährige steigerte sich auf 5,75 Meter. #leichtathletik #dm2020 https://t.co/xzXmwEDjtb",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 19:43:12 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/BdZecvZDVU Thanks to @beatingcowdens @GlobalGenes #raredisease #scleroderma",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 21:01:23 +0000 2020",
+"name": "Johannes Vetter",
+"screen_name": "jojo_javelin",
+"text": "Ganz starke 💪 Vorstellung von Johannes Vetter. Der WM-Dritte im Speerwurf „erbeutet“ DM-Gold mit exzellenten 87,36 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #speerwurf https://t.co/1oLLVb7LAL",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 21:02:45 +0000 2020",
+"name": "Johannes Vetter",
+"screen_name": "jojo_javelin",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 21:16:48 +0000 2020",
+"name": "Valentin Alcañiz",
+"screen_name": "Valenalca",
+"text": "Los trastornos neurológicos hereditarios son causa de entre el 40 y el 50% de las #enfermedadesraras.
+
+@aelmhu 
+
+#366DiasdeEERR #masvisibles #kmsporlainvestigacionenEERR #AvancesEIM #ActualizacionEIM 
+
+@NoInvisibles @senep_es @seneurologia @aeghgenetica
+
+https://t.co/nueUzVhrRR",
+"ReTweet: "False"},
