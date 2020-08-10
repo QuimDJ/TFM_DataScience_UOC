@@ -1,0 +1,568 @@
+{"data": "Sun Aug 09 22:03:07 +0000 2020",
+"name": "NiX K",
+"screen_name": "NiXakaNick",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 22:44:00 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 23:05:30 +0000 2020",
+"name": "Bern",
+"screen_name": "BernNow",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Sun Aug 09 23:49:32 +0000 2020",
+"name": "FMF ESPAÑA",
+"screen_name": "FMFSPAIN",
+"text": "@STOP_FMF @CIPFciencia @AAlliance_SAID @PeriodicFeverUK @AutoinflamMonth @FEDER_ONG @COCEMFE_ @ffpaciente @plataformamm No es cierto. Septiembre es el mes de concienciación de las enfermedades autoinflamatorias. Ver aquí:
+https://t.co/1Xov4SGQfZ
+https://t.co/nXwvvxbN24
+
+#Autoinflamatorios #Autoinflammatory #SAID #AutoinflamMonth #EnfermedadesRaras 
+@FEDER_ONG
+@COCEMFE_
+@ffpaciente
+@plataformamm",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 00:05:51 +0000 2020",
+"name": "John Creel",
+"screen_name": "JohnEcreel",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 00:42:16 +0000 2020",
+"name": "TuGenetista",
+"screen_name": "TuGenetista",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 01:06:30 +0000 2020",
+"name": "matty",
+"screen_name": "patsypatsy28",
+"text": "El diagnóstico de una persona con #fibromialgia es un peregrinar, un infierno síntomas complejos. Muy interesantes testimonios de enfermos.
+#dolorcrónico #fatigacrónica #enfermedadesraras 
+https://t.co/syeezYQcpl",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:12:21 +0000 2020",
+"name": "Zay♐️🌈🤷🏾‍♂️",
+"screen_name": "AspiredWritings",
+"text": "#docmontgomery #NewProfilePic #DM2020 #BlackLivesMatter https://t.co/yQXrAI9aTO",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:39:16 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/k16Q1ccVSS",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:39:58 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/npsUeWWegA",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:40:22 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/F2Vw1ghgEn",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:40:43 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/lTqCufUYkf",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:41:34 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/gYAcmkzNvB",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:42:18 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/r3lI4Jj7nK",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:42:50 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/2KErFEOk9u",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:43:17 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/kvGtegRV8v",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 02:44:08 +0000 2020",
+"name": "HopeHealthHospital",
+"screen_name": "HopeHealthHosp",
+"text": "#bihar #sitamadhi #picture  #nursinghome #lifestyle #health #disease #HopeHealthHospital #womenhealth #hairtreatment #kidneydisease #skintreatment #doctor #treatment #relive #rarediseaseday #diseases #heartdisease… https://t.co/xwhz5PzhLQ",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 03:30:00 +0000 2020",
+"name": "om-online.de",
+"screen_name": "OMonlineDe",
+"text": "Die drei Vertreterinnen aus dem Kreis #Cloppenburg haben bei den Deutschen #Leichtathletikmeisterschaften in #Braunschweig erfolgreich abgeschnitten. Das Highlight: Lea Meyer hat den 2. Platz über 3000 Meter Hindernis belegt. #dm2020 @dlv_online @dlv_live https://t.co/kqx6hsQBv3",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 04:16:19 +0000 2020",
+"name": "Jung us Kölle",
+"screen_name": "JungusKoelle123",
+"text": "Pünktlich zur DM ist Mateusz Przybylko in Top-Form 🙌 ! Der Hochsprung-Europameister meistert 2,28 Meter und scheitert erst an 2,31 Metern.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #hochsprung https://t.co/AeTy1Wo57y",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 04:26:05 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Angélica Galindo de Asociación Amigos con Ictiosis
+
+#Ictiosis #EnfermedadesRaras #aliadosfemexer #COVID19
+https://t.co/ZQbyTkIJN2",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 04:27:58 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Laura Yaniz de Ehlers Danlos México
+Síndrome de #EhlersDanlos #SED #EnfermedadesRaras #AliadosFEMEXER #COVID19
+https://t.co/0ABQ5fFvBq",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 04:29:20 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Alejandro Llausás de @FabryGrupo 
+#Fabry #MPS #Morquio #EnfermedadesLisosomales #EnfermedadesRaras #AliadosFEMEXER #COVID19
+https://t.co/BqahsZtAOI",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 05:00:22 +0000 2020",
+"name": "Miss Dolores Betabel",
+"screen_name": "Maty_pr",
+"text": "Días y días de médico tras médico, de estudio a estudio, para que te diagnostiquen algo que dicen te dará #dolorcrónico y #fatigacrónica, y después esos mismos médicos no te creen que te duele... #cosasdepacientes #pacientesquecuentan #SAF #vasculitis",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 05:18:12 +0000 2020",
+"name": "Síndrome de Rett",
+"screen_name": "asociacionrett",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 06:03:35 +0000 2020",
+"name": "Asociación STOP FMF",
+"screen_name": "STOP_FMF",
+"text": "Gracias al @CIPFciencia por apoyar el mes de los #autoinflamatorios
+
+@enca2002 @AAlliance_SAID @STOP_FMF @PReSEMERGE @CAFsociety  @AutoinflamMonth 
+@FEDER @Cocemfe @PacientesFF @Plataformamalal
+#Autoinflammatory #SAID
+#AutoinflamMonth #august4autoinflammatory
+#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 06:06:35 +0000 2020",
+"name": "Asociación STOP FMF",
+"screen_name": "STOP_FMF",
+"text": "Gracias a @COCEMFE_  por apoyar el mes de los #autoinflamatorios
+@enca2002 @AAlliance_SAID @STOP_FMF @PReSEMERGE @CAFsociety @AutoinflamMonth
+@FEDER @Cocemfe @PacientesFF @Plataformamalal
+#Autoinflammatory #SAID
+#AutoinflamMonth #august4autoinflammatory
+#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 06:17:08 +0000 2020",
+"name": "Autoinflammatory Awareness Month",
+"screen_name": "AutoinflamMonth",
+"text": "Gracias! ⭐️❤️🧡",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 06:26:41 +0000 2020",
+"name": "REACTIVESPORT",
+"screen_name": "reactivesport_",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 06:39:48 +0000 2020",
+"name": "Alba Nemalínica",
+"screen_name": "albanemalinica",
+"text": "Interesante siempre leerte",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 06:57:24 +0000 2020",
+"name": "SPORTBUZZER Sachsen",
+"screen_name": "SBSachsen",
+"text": "Olympiasieger Tom Liebscher bleibt bei den Deutschen Meisterschaften der Rennkanuten ohne Medaille. Dafür sicherte sich Jonas Dräger ein anderer vom @kc_dresden  die Silbermedaille. 
+https://t.co/7KVSBbFkv4 @toliebscher @JonasDraeger #Dresden #Kanu #DM2020",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 06:58:01 +0000 2020",
+"name": "Mercado del 13",
+"screen_name": "mercadodel13",
+"text": "@NoInvisibles @hemofiliamadrid @fedhemo @RFVE_hemofilia Poniendo nuestro granito de arena en la visibilización con la enciclopedia creativa de las #ER Muchas Gracias  @NoInvisibles por conectarnos con ellas 😉👍🏻😍😍😍
+
+#enfermedadesraras #hemofilia #visibilidadER #wikiER13 ¡Buen día para todos! 😊",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 07:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 08:42:11 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 08:44:39 +0000 2020",
+"name": "Pilar Pérez Peña",
+"screen_name": "pilarpe23800441",
+"text": ".@GrupoOrpharSEFH Grupo de #EnfermedadesRaras @sefh_ presentó su primer informe Horizon Scanning de identificación de nuevos #MedicamentosHuérfanos. Este método identifica tendencias potenciales, oportunidades, nuevas tecnologías o amenazas.
+https://t.co/e08AjzSwB2",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 08:56:38 +0000 2020",
+"name": "M. Carmen Nadal Massanet",
+"screen_name": "MCarmenNadalM1",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:09:57 +0000 2020",
+"name": "bellevillemaria",
+"screen_name": "artebelleville",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 09:10:50 +0000 2020",
+"name": "Radio Chemnitz",
+"screen_name": "RadioChemnitz",
+"text": "Dreimal Gold für Chemnitzer Leichtathleten vom #LAC bei der #DM2020! #braunschweig2020 #Chemnitz https://t.co/NdwgTuX73t",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:13:22 +0000 2020",
+"name": "Michelle C. Timm",
+"screen_name": "Michi_ffc",
+"text": "Dreimal Gold für Chemnitzer Leichtathleten vom #LAC bei der #DM2020! #braunschweig2020 #Chemnitz https://t.co/NdwgTuX73t",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:14:20 +0000 2020",
+"name": "CIPF",
+"screen_name": "CIPFciencia",
+"text": "Gracias al @CIPFciencia por apoyar el mes de los #autoinflamatorios
+
+@enca2002 @AAlliance_SAID @STOP_FMF @PReSEMERGE @CAFsociety  @AutoinflamMonth 
+@FEDER @Cocemfe @PacientesFF @Plataformamalal
+#Autoinflammatory #SAID
+#AutoinflamMonth #august4autoinflammatory
+#EnfermedadesRaras",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 09:16:06 +0000 2020",
+"name": "NDR Sport",
+"screen_name": "NDRsport",
+"text": "Ohne Fans hat den deutschen Leichtathletik-Meisterschaften in Braunschweig der "letzte Kick" gefehlt. Dass sie überhaupt stattfinden konnten, mit zum Teil guten Leistungen, ist in Corona-Zeiten aber schon ein Erfolg. https://t.co/2HPNupc4r2 #leichtathletik #dm2020",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:16:25 +0000 2020",
+"name": "Sportschau",
+"screen_name": "sportschau",
+"text": "Ohne Fans hat den deutschen Leichtathletik-Meisterschaften in Braunschweig der "letzte Kick" gefehlt. Dass sie überhaupt stattfinden konnten, mit zum Teil guten Leistungen, ist in Corona-Zeiten aber schon ein Erfolg. https://t.co/2HPNupc4r2 #leichtathletik #dm2020",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:17:34 +0000 2020",
+"name": "C l a u d i a 🚴🏻 ☀️🌺🌸",
+"screen_name": "VerrueckteTante",
+"text": "Dreimal Gold für Chemnitzer Leichtathleten vom #LAC bei der #DM2020! #braunschweig2020 #Chemnitz https://t.co/NdwgTuX73t",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:27:11 +0000 2020",
+"name": "Sächsisches Staatsministerium des Innern",
+"screen_name": "SMIsachsen",
+"text": "🏅 Goldregen für Sachsen: Wir gratulieren unseren #Sportassen aus #Sachsen zu einer großartigen Leistung bei den Deutschen Meisterschaften der #Leichtathletik am vergangenen Wochenende! #DM2020 #Braunschweig #Sportland | ➡️ Alle Ergebnisse gibt es unter https://t.co/OeFYtmqoJx",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 09:28:42 +0000 2020",
+"name": "yahhou",
+"screen_name": "yahhou10",
+"text": "＃槍投げ #javelin Kuortane Games
+
+Johannes Vetter 
+「今日は滑りやすかったので、投げるのに骨が折れました」「こういう状況でも87ｍを投げることができて本当に良かった。もっと距離を伸ばすのが目標です。…これからの試合に期待しています」。
+
+LEICHTATHLETIK 2020/8/9
+https://t.co/knhU9G3Se4",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 09:31:24 +0000 2020",
+"name": "Noelia Benetó",
+"screen_name": "NoeliaBeneto",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 10:03:16 +0000 2020",
+"name": "Léa x CYB",
+"screen_name": "SmXfr",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 10:03:47 +0000 2020",
+"name": "Fabián Morales Vega",
+"screen_name": "Fabian_MoralesV",
+"text": "Según estudio #ENSERio sobre gastos familiares relacionados con la atención de #EnfermedadesRaras en España
+
+👉Suponen cerca del 20% de los ingresos familiares anuales
+👉De media, cada familia destina más de 350 euros a esta causa.
+
+https://t.co/CMkSnuW5HL https://t.co/4706qgzHE0",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 10:33:19 +0000 2020",
+"name": "Stop Sanfilippo",
+"screen_name": "StopSanfilippo",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 10:47:05 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "🍀Los profesionales de @CentroCREER @Imserso retoman, poco a poco, sus sesiones con personas con #EnfermedadesRaras, cumpliendo las medidas de seguridad establecidas #COVID19 https://t.co/PfZYV8KtdG",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 10:54:28 +0000 2020",
+"name": "Revista Trail Run",
+"screen_name": "RevistaTrailRun",
+"text": "Ocho cimas en ocho días por la ataxia telangiectasia @AEF_AT 
+La ultra runner, Jennifer Lewinski López, completa su reto solidario, ascender los ocho picos más altos de Málaga, en ocho días. 
+https://t.co/ckNp0qkdHv 
+
+#ataxiatelangiectasia #enfermedadesraras #retosolidario",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 11:16:34 +0000 2020",
+"name": "Elisa Fernández",
+"screen_name": "ElisaFernndez1",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 11:30:34 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 11:41:36 +0000 2020",
+"name": "Mc-Queen",
+"screen_name": "miguelsantaher",
+"text": "🍀Los profesionales de @CentroCREER @Imserso retoman, poco a poco, sus sesiones con personas con #EnfermedadesRaras, cumpliendo las medidas de seguridad establecidas #COVID19 https://t.co/PfZYV8KtdG",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 11:41:58 +0000 2020",
+"name": "Mc-Queen",
+"screen_name": "miguelsantaher",
+"text": "La inhibición de la calpaina, posible estrategia en el tratamiento de la atrofia muscular espinal, según investigadores de @IRBLleida_Info 
+#AME #AtrofiaMuscularEspinal #EnfermedadesRaras https://t.co/yHrIH80sVY",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 12:05:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Prioridad nº 10 en decálogo FEDER para pacientes con #EnfermedadesRaras
+
+"Favorecer la inclusión laboral de las personas con enfermedades minoritarias y sus familiares de forma que puedan conciliar su vida laboral y familiar."
+
+https://t.co/JuTFiWtHwB https://t.co/n75oSRpkRO",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 12:17:36 +0000 2020",
+"name": "marta maroto",
+"screen_name": "mar_mq",
+"text": "#EnfermedadesRaras
+
+"Hay que ayudar a las madres que son enfermeras de guardia 24 horas al día y que también tiene derecho a vivir al margen de las necesidades de su hijo enfermo."
+
+Isabel Gemio 
+https://t.co/9A2sg3q3o8 https://t.co/O5E1ops8pw",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 12:39:31 +0000 2020",
+"name": "Fundacion Sanfilippo Colombia 🇨🇴",
+"screen_name": "sanfilippo_col",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 12:41:46 +0000 2020",
+"name": "jose maria simon",
+"screen_name": "doctorsimon2",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:05:07 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La Unidad de Medicina Maternofetal, Genética y Reproducción @HospitalUVRocio tiene capacidad para el diagnóstico genético de 2.800 #EnfermedadesRaras. @RadioSevilla @La_SER entrevistó a su director Dr. Guillermo Antiñolo.
+https://t.co/lc6qXu7BFt",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:09:35 +0000 2020",
+"name": "Conociendo a Wally",
+"screen_name": "ConociendoaWall",
+"text": "Prioridad nº 10 en decálogo FEDER para pacientes con #EnfermedadesRaras
+
+"Favorecer la inclusión laboral de las personas con enfermedades minoritarias y sus familiares de forma que puedan conciliar su vida laboral y familiar."
+
+https://t.co/JuTFiWtHwB https://t.co/n75oSRpkRO",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:10:17 +0000 2020",
+"name": "Conociendo a Wally",
+"screen_name": "ConociendoaWall",
+"text": "La Unidad de Medicina Maternofetal, Genética y Reproducción @HospitalUVRocio tiene capacidad para el diagnóstico genético de 2.800 #EnfermedadesRaras. @RadioSevilla @La_SER entrevistó a su director Dr. Guillermo Antiñolo.
+https://t.co/lc6qXu7BFt",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:12:19 +0000 2020",
+"name": "isabel maestre",
+"screen_name": "imaestre",
+"text": "La Unidad de Medicina Maternofetal, Genética y Reproducción @HospitalUVRocio tiene capacidad para el diagnóstico genético de 2.800 #EnfermedadesRaras. @RadioSevilla @La_SER entrevistó a su director Dr. Guillermo Antiñolo.
+https://t.co/lc6qXu7BFt",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:17:53 +0000 2020",
+"name": "Corea de Huntington",
+"screen_name": "ehuntingtones",
+"text": "La Unidad de Medicina Maternofetal, Genética y Reproducción @HospitalUVRocio tiene capacidad para el diagnóstico genético de 2.800 #EnfermedadesRaras. @RadioSevilla @La_SER entrevistó a su director Dr. Guillermo Antiñolo.
+https://t.co/lc6qXu7BFt",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:19:04 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/KNvoo2ATyu",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:45:30 +0000 2020",
+"name": "AHC Spain",
+"screen_name": "aesha_ahcspain",
+"text": "La Unidad de Medicina Maternofetal, Genética y Reproducción @HospitalUVRocio tiene capacidad para el diagnóstico genético de 2.800 #EnfermedadesRaras. @RadioSevilla @La_SER entrevistó a su director Dr. Guillermo Antiñolo.
+https://t.co/lc6qXu7BFt",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 13:46:17 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 14:00:01 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Jacqueline Tovar de @prevencionmujer 
+
+#SaludMaterna #SaludPrenatal #SaludPerinatal #TamizNeonatalAmpliado #EnfermedadesRaras #AliadosFEMEXER #COVID19
+https://t.co/YunMW6zw7U",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 14:02:58 +0000 2020",
+"name": "Enferm Menkes Chile",
+"screen_name": "MenkesChile",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 14:04:27 +0000 2020",
+"name": "Judy Gombita",
+"screen_name": "jgombita",
+"text": "See my last tweet 👇🏼",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 14:16:44 +0000 2020",
+"name": "Familias GA",
+"screen_name": "GA1Familia",
+"text": "Otro video de las jornadas que hicimos con @GA1Familia y otras asociaciones. Aquí, actualizaciones sobre tratamiento y seguimiento de GA1 #GA1 #enfermedadesraras #piensaenmetabolico
+https://t.co/eD40vRbkNf",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 15:02:54 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "La comunidad global de pacientes, familiares y profesionales de la salud relacionados con las #EnfermedadesRaras piden a políticos y autoridades de todo el mundo ser incluidos en los planes y estrategias de recuperación de la pandemia Covid-19.
+https://t.co/IY2AdW1EYr",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 15:05:50 +0000 2020",
+"name": "Fundación Poco Frecuente Rare Diseases",
+"screen_name": "Fpocofrecuente",
+"text": ""Los problemas de las #EnfermedadesRaras son los mismos que hace 20 años: Desconocimiento social, ausencia de diagnóstico, detección precoz, prevención, tratamiento..."
+
+Manuel Pérez, en el  IX Congreso Internacional de #MedicamentosHuérfanos y EE.RR.
+https://t.co/wt80qPSSfm",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 15:06:47 +0000 2020",
+"name": "anjana fonseka",
+"screen_name": "fonseka_anjana",
+"text": "📺 Unnachahmlich: Johannes #Vetter gewinnt den Titel im Speerwurf - 87,36 Meter.  #leichtathletik #dm2020 https://t.co/Ww5K3Dujjz",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 15:19:29 +0000 2020",
+"name": "fitness MANAGEMENT",
+"screen_name": "fm_aktuell",
+"text": "Herzlichen Glückwunsch auch uns von uns!!! ❤️🙏🖤 @dlv_online #DLV #Athletics #DM2020 #braunschweig2020 #trackandfield #tracknation #nationals #TrueAthletes 🎽",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 16:08:17 +0000 2020",
+"name": "Mujer México",
+"screen_name": "prevencionmujer",
+"text": "Muchas gracias a al Lic. David Peña por esta entrevista! Todos somos: @FEMEXER",
+"ReTweet: "True"},
+{"data": "Mon Aug 10 16:10:04 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "La pandemia ha introducido muchos desafíos imprevistos relacionados con el tratamiento y el apoyo de pacientes con #EnfermedadesRaras. Un artículo en “Molecular Genetics and Metabolism” recoge los retos directamente relacionados con #EnfermedadDeGaucher.
+https://t.co/YJTowqG6bE",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 16:17:38 +0000 2020",
+"name": "AEFAT",
+"screen_name": "AEF_AT",
+"text": "FEDER pide tener en cuenta las necesidades de los menores con enfermedades raras en el nuevo curso escolar. Vía ⁦@infosalus_com⁩ #educación #EnfermedadesRaras ⁦@FEDER_ONG⁩  https://t.co/kSYVKWpq1j",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 16:37:23 +0000 2020",
+"name": "Vively",
+"screen_name": "VivelyEs",
+"text": "La pandemia ha introducido muchos desafíos imprevistos relacionados con el tratamiento y el apoyo de pacientes con #EnfermedadesRaras. Un artículo en “Molecular Genetics and Metabolism” recoge los retos directamente relacionados con #EnfermedadDeGaucher.
+https://t.co/YJTowqG6bE",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 16:45:53 +0000 2020",
+"name": "Runático",
+"screen_name": "RunaticoRun",
+"text": "Ocho cimas en ocho días por la ataxia telangiectasia @AEF_AT 
+La ultra runner, Jennifer Lewinski López, completa su reto solidario, ascender los ocho picos más altos de Málaga, en ocho días. 
+https://t.co/ckNp0qkdHv 
+
+#ataxiatelangiectasia #enfermedadesraras #retosolidario",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 17:50:29 +0000 2020",
+"name": "Jonas Wengert",
+"screen_name": "JonasWengert",
+"text": "Laubbläser, ferngesteuerte Autos und Musik vom Eurovision Song Contest. Die Deutschen Leichtathletik-Meisterschaften ohne Publikum sind ein akustisches Erlebnis. Für ⁦@zeitonline⁩ war ich vor Ort im Stadion. #dm2020 #braunschweig2020 #leichtathletik https://t.co/NOfbqC6Zh3",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:06:11 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:08:18 +0000 2020",
+"name": "germán",
+"screen_name": "gamolinas2505",
+"text": "@HSJ_Bogota @MedimasEPS 6 meses intentando programar colonoscopia y endoscopia ante hemorragia constante y ha sido imposible. #EnfermedadesRaras    @Supersalud @SectorSalud @odpdh @Pacientesco @PGN_COL @colsaludable @Moviporlasalud @Citytv @NoticiasCaracol @NoticiasRCN https://t.co/NKM2hu74TU",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:08:41 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "La combinación de genómica e inteligencia artificial permitirá acelerar y afinar el proceso diagnóstico de #EnfermedadesRaras. Genome4Care, una «spin off» de la Universidad de Santiago, acaba de constituirse con ese objetivo. 
+https://t.co/snsqzDasfp",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:09:17 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "FEDER pide tener en cuenta las necesidades de los menores con enfermedades raras en el nuevo curso escolar. Vía ⁦@infosalus_com⁩ #educación #EnfermedadesRaras ⁦@FEDER_ONG⁩  https://t.co/kSYVKWpq1j",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:09:41 +0000 2020",
+"name": "AMER",
+"screen_name": "EERRMolina",
+"text": "La pandemia ha introducido muchos desafíos imprevistos relacionados con el tratamiento y el apoyo de pacientes con #EnfermedadesRaras. Un artículo en “Molecular Genetics and Metabolism” recoge los retos directamente relacionados con #EnfermedadDeGaucher.
+https://t.co/YJTowqG6bE",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:43:13 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/heG0PLqvpM Thanks to @healx #raredisease #scleroderma",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 19:59:50 +0000 2020",
+"name": "Vasculitis y Enfermedades Huerfanas Colombia",
+"screen_name": "vasculitis_col",
+"text": "@HSJ_Bogota @MedimasEPS 6 meses intentando programar colonoscopia y endoscopia ante hemorragia constante y ha sido imposible. #EnfermedadesRaras    @Supersalud @SectorSalud @odpdh @Pacientesco @PGN_COL @colsaludable @Moviporlasalud @Citytv @NoticiasCaracol @NoticiasRCN https://t.co/NKM2hu74TU",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 21:42:03 +0000 2020",
+"name": "Ismael_Or_Or",
+"screen_name": "Ismael_Or_Or",
+"text": "🍀Los profesionales de @CentroCREER @Imserso retoman, poco a poco, sus sesiones con personas con #EnfermedadesRaras, cumpliendo las medidas de seguridad establecidas #COVID19 https://t.co/PfZYV8KtdG",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 21:47:04 +0000 2020",
+"name": "Isabel Olea García",
+"screen_name": "IsabelOleaGarca",
+"text": "FEDER pide tener en cuenta las necesidades de los menores con enfermedades raras en el nuevo curso escolar. Vía ⁦@infosalus_com⁩ #educación #EnfermedadesRaras ⁦@FEDER_ONG⁩  https://t.co/kSYVKWpq1j",
+"ReTweet: "False"},
+{"data": "Mon Aug 10 21:49:23 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "🍀Los profesionales de @CentroCREER @Imserso retoman, poco a poco, sus sesiones con personas con #EnfermedadesRaras, cumpliendo las medidas de seguridad establecidas #COVID19 https://t.co/PfZYV8KtdG",
+"ReTweet: "False"},
