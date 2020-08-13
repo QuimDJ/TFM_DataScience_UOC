@@ -1,0 +1,597 @@
+{"data": "Wed Aug 12 23:14:06 +0000 2020",
+"name": "Antonieta",
+"screen_name": "emequijada",
+"text": "Pausa Hexagonal mañana día 13 a las 15:00H con Patricia Joven @pixelypincel en IG para descubrir con su mirada y creatividad una nueva ER. Con la letra I... ¡Conectamos!  
+
+#colaboración #participación #arte #pausahexagonal #EnfermedadesRaras #visibilidadER #wikiER13 https://t.co/CQVtCS5aZa",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 00:50:47 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "Es el tiempo de la esperanza, agosto mes de concientización sobre la atrofia muscular #atrofiaespinal #Educerebrix #EnfermedadesRaras #neuromusculardisorders",
+"ReTweet: "True"},
+{"data": "Thu Aug 13 00:55:06 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "Agosto mes de concientización sobre la atrofia muscular espinal. #Educerebrix #atrofiaespinal #EnfermedadesRaras  https://t.co/VqrLRxfJ85",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 01:04:24 +0000 2020",
+"name": "Dra Nathalia Pardo Cardozo",
+"screen_name": "Nathali18195602",
+"text": "Súper invitados a nuestro simposio de la asociación Colombiana de Neurología Infantil para finalizar el mes de agosto como mes de concientización sobre la atrofia muscular espinal #atrofiaespinal #neuromuscular # ASCONI #EnfermedadesRaras https://t.co/s4vCwVAJbg",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 02:10:31 +0000 2020",
+"name": "swordswoman",
+"screen_name": "_swordswoman_",
+"text": "Las #EnfermedadesRaras se caractericen por su diversidad y heterogeneidad, pero ¿sabías que comparten muchos aspectos en común? 
+
+🔴 85% son crónicas
+🔴 65% son graves e invalidantes
+🔴 Casi un 50% afectan al pronóstico vital del paciente.
+https://t.co/Uasg3FdIXm",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 04:54:55 +0000 2020",
+"name": "Judy-The United Advocate",
+"screen_name": "unitedadvocacy",
+"text": "The latest #RareDiseaseDay! https://t.co/f6yZAS1bBs Thanks to @FibroFlutters @biomatrixsprx @Regeneron #raredisease #covid",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 05:25:41 +0000 2020",
+"name": "Asociación Andaluza de Hemofilia (ASANHEMO)",
+"screen_name": "asanhemo",
+"text": "¡Asanhemo news está disponible! https://t.co/ZeBbG9aqgF Gracias a @nuculas #enfermedadesraras #fpi",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 05:25:42 +0000 2020",
+"name": "Asociación Andaluza de Hemofilia (ASANHEMO)",
+"screen_name": "asanhemo",
+"text": "Boehringer Ingelheim, SEPAR, FEDER y AFEFPI destacan la i... https://t.co/PnWfxaajaN #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 05:29:56 +0000 2020",
+"name": "sandra",
+"screen_name": "scabrelles",
+"text": "Como ocurre con tantas otras #EnfermedadesRaras, la #FibrosisQuística repercute en la integración social de quienes la padecen. Ocurre en la escuela (ausencias) y en los entornos laborales cuando la FQ impide trabajar. 
+
++ en esta infografía @FEFQ_CFspain
+https://t.co/BtKTNGBdAI https://t.co/uXk0lokMfi",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 06:22:18 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Vídeo de @AELIP_ para dar a conocer y explicar las líneas de investigación que sostiene económicamente desde hace años, y en el que @andresiniesta8 y Vicente del Bosque apoyan la investigación en #Lipodistrofias #EnfermedadesRaras https://t.co/b2ngT977kg",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 06:23:46 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "¡Bañate en el Silken Al-Andalus y mójate por las #EnfermedadesRaras! https://t.co/WqwscQg34J a través de @FEDER_ONG
+ #er #rsc #sevilla https://t.co/sti0DJjQgp",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 06:23:52 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "Vídeo de @AELIP_ para dar a conocer y explicar las líneas de investigación que sostiene económicamente desde hace años, y en el que @andresiniesta8 y Vicente del Bosque apoyan la investigación en #Lipodistrofias #EnfermedadesRaras 
+https://t.co/ww9tYkL3Gs",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 06:24:01 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "¡Bañate en el Silken Al-Andalus y mójate por las #EnfermedadesRaras! https://t.co/WqwscQg34J a través de @FEDER_ONG
+ #er #rsc #sevilla https://t.co/sti0DJjQgp",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 06:34:54 +0000 2020",
+"name": "Vivir con FSHD",
+"screen_name": "VivirconFSHD",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 06:45:38 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:08:50 +0000 2020",
+"name": "Eva del Ruste",
+"screen_name": "EvadelRuste",
+"text": "Pausa Hexagonal mañana día 13 a las 15:00H con Patricia Joven @pixelypincel en IG para descubrir con su mirada y creatividad una nueva ER. Con la letra I... ¡Conectamos!  
+
+#colaboración #participación #arte #pausahexagonal #EnfermedadesRaras #visibilidadER #wikiER13 https://t.co/CQVtCS5aZa",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:12:26 +0000 2020",
+"name": "RarasNoInvisibles",
+"screen_name": "NoInvisibles",
+"text": "Pausa Hexagonal mañana día 13 a las 15:00H con Patricia Joven @pixelypincel en IG para descubrir con su mirada y creatividad una nueva ER. Con la letra I... ¡Conectamos!  
+
+#colaboración #participación #arte #pausahexagonal #EnfermedadesRaras #visibilidadER #wikiER13 https://t.co/CQVtCS5aZa",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:15:52 +0000 2020",
+"name": "Sombradoble",
+"screen_name": "sombradoble",
+"text": "Pausa Hexagonal mañana día 13 a las 15:00H con Patricia Joven @pixelypincel en IG para descubrir con su mirada y creatividad una nueva ER. Con la letra I... ¡Conectamos!  
+
+#colaboración #participación #arte #pausahexagonal #EnfermedadesRaras #visibilidadER #wikiER13 https://t.co/CQVtCS5aZa",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:16:14 +0000 2020",
+"name": "Sombradoble",
+"screen_name": "sombradoble",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:27:41 +0000 2020",
+"name": "Imserso",
+"screen_name": "Imserso",
+"text": "📌Nuevo post en nuestro #BlogCREER @Imserso:
+#EnfermedadesRaras y #COVID19
+GRACIAS a los testimonios en primera persona y de familiares que cuentan cómo han visto interrumpida la atención de su patología y cómo les ha afectado el confinamiento
+https://t.co/PGrZcYXSnF https://t.co/ewAdSa5q14",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:43:41 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/j7SUr8YQNd Thanks to @PatientWorthy @cosmicfairy444 @JoeBaber1 #raredisease #charcotmarietoothdisease",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 07:53:27 +0000 2020",
+"name": "Ofi. Parlamentaria",
+"screen_name": "OfiPaML",
+"text": "📌Nuevo post en nuestro #BlogCREER @Imserso:
+#EnfermedadesRaras y #COVID19
+GRACIAS a los testimonios en primera persona y de familiares que cuentan cómo han visto interrumpida la atención de su patología y cómo les ha afectado el confinamiento
+https://t.co/PGrZcYXSnF https://t.co/ewAdSa5q14",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 08:01:14 +0000 2020",
+"name": "Roche España",
+"screen_name": "roche_es",
+"text": "Si crees que lo sabes todo sobre #EnfermedadesRaras, ¡ponte a prueba! Supera el test y compártelo para dar voz a más de 3 millones de personas en España 👨 Ayúdanos a hacer que las #ER sean #VisiblesTodoElAño 👁 https://t.co/OtdQdSgvuD",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 08:08:49 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Futuras mejoras en Europa de la regulación de los llamados #MedicamentosHuérfanos necesitarían una mayor centralización de los procesos relacionados con las enfermedades minoritarias.
+
+Opina la Organización Europea de #EnfermedadesRaras (EURORDIS)
+
+https://t.co/Hw6hLSBT7B",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 08:17:03 +0000 2020",
+"name": "Asociación Andaluza de Hemofilia (ASANHEMO)",
+"screen_name": "asanhemo",
+"text": "¿Crees que lo sabes todo sobre las #Enfermedadesraras?     ¡ @roche_es te pone a aprueba !  Participa en: https://t.co/mQ1BLogFo7
+
+#eerr #hemofilia #otrascoagulopatiascongénitas #VisiblesTodoElAño",
+"ReTweet: "True"},
+{"data": "Thu Aug 13 08:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+🏃  Josele corre maratones para dar a conocer la enfermedad de su hija María, el #SíndromeDeRett. “Línea de Meta” es un documental que explica su historia. Conoce el trailer
+ https://t.co/WTKCxnQpYF",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 08:23:56 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "#EnfermedadesRaras
+
+🏃  Josele corre maratones para dar a conocer la enfermedad de su hija María, el #SíndromeDeRett. “Línea de Meta” es un documental que explica su historia. Conoce el trailer
+ https://t.co/WTKCxnQpYF",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 08:46:12 +0000 2020",
+"name": "cmmmlg",
+"screen_name": "cmmmlg",
+"text": "Pausa Hexagonal mañana día 13 a las 15:00H con Patricia Joven @pixelypincel en IG para descubrir con su mirada y creatividad una nueva ER. Con la letra I... ¡Conectamos!  
+
+#colaboración #participación #arte #pausahexagonal #EnfermedadesRaras #visibilidadER #wikiER13 https://t.co/CQVtCS5aZa",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 08:46:22 +0000 2020",
+"name": "cmmmlg",
+"screen_name": "cmmmlg",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 09:06:15 +0000 2020",
+"name": "Sune Gavnholt",
+"screen_name": "gavnholt",
+"text": "En god træningsuge er ved at være ovre, og så er vi klar til U19 DM i weekenden. Speciel og anderledes opstart, men vi må få det bedste ud af det 🏸 #badminton #coach #baddk #vielskerbadminton @BBladet @BadDK #DM2020 https://t.co/kK4tD5VXl5",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 09:11:29 +0000 2020",
+"name": "FSHD España",
+"screen_name": "fshd_spain",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 09:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Qué gastos generan #EnfermedadesRaras? 
+
+Según #ENSERio en 50% de casos, adquisición de medicamentos y otros productos 
+43% Tratamiento médico 
+30% Ayudas técnicas y ortopedia 
+27% Transporte adaptado 
+23% Asistencia personal 
+9% Adaptación de vivienda 
+
+https://t.co/CMkSnuW5HL https://t.co/qVRwBKJHww",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 09:29:48 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "#EnfermedadesRaras
+
+🏃  Josele corre maratones para dar a conocer la enfermedad de su hija María, el #SíndromeDeRett. “Línea de Meta” es un documental que explica su historia. Conoce el trailer
+ https://t.co/WTKCxnQpYF",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 09:33:03 +0000 2020",
+"name": "Mari Trini Giner🕵🏻‍♀️🎬📝📸",
+"screen_name": "MariTriniGiner",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 10:00:03 +0000 2020",
+"name": "RUTH PAVON DEL VALLE",
+"screen_name": "RUTHPDV",
+"text": "¿Podrían emplearse “otras formas de incentivo” para estimular la #I+D de fármacos para #enfermedadesraras?
+Un informe encargado por la @ComisionEuropea evalúa la normativa de #medicamentoshuérfanos.  https://t.co/OLSxNdbl52 vía @diariofarma",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 10:09:30 +0000 2020",
+"name": "V i c k y 🌊",
+"screen_name": "VRedorat",
+"text": "¿Qué gastos generan #EnfermedadesRaras? 
+
+Según #ENSERio en 50% de casos, adquisición de medicamentos y otros productos 
+43% Tratamiento médico 
+30% Ayudas técnicas y ortopedia 
+27% Transporte adaptado 
+23% Asistencia personal 
+9% Adaptación de vivienda 
+
+https://t.co/CMkSnuW5HL https://t.co/qVRwBKJHww",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 10:18:11 +0000 2020",
+"name": "Ayuda a la Dependencia y enfermedades raras CyL",
+"screen_name": "ADependenciaCyL",
+"text": "#EnfermedadesRaras
+
+🏃  Josele corre maratones para dar a conocer la enfermedad de su hija María, el #SíndromeDeRett. “Línea de Meta” es un documental que explica su historia. Conoce el trailer
+ https://t.co/WTKCxnQpYF",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 10:25:26 +0000 2020",
+"name": "Mariano R.",
+"screen_name": "Trek_970",
+"text": "No. No os sigo. No os sigo cuando retiráis medicamentos del mercado farmacéutico español con la introducción de un genérico que se demuestra inefectivo para el tratamiento de aquellos afectados por extirpación de tiroides a consecuencia de un cáncer.
+
+No.",
+"ReTweet: "True"},
+{"data": "Thu Aug 13 10:31:52 +0000 2020",
+"name": "Hold Your Head Up 💎",
+"screen_name": "HYHUTriangle",
+"text": "It’s #RareDiseaseDay on #BrainTumorThursday Sharing information. Knowledge is power! 👩🏽‍💻🧠Hold Your Head Up @HYHUTriangle https://t.co/j0CLGNvYq8",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 10:38:11 +0000 2020",
+"name": "Arianna 👩🏻‍🏫🏝🇮🇨(Pedagoga emocional)",
+"screen_name": "Paidagoga84",
+"text": "Las #EnfermedadesRaras se caractericen por su diversidad y heterogeneidad, pero ¿sabías que comparten muchos aspectos en común? 
+
+🔴 85% son crónicas
+🔴 65% son graves e invalidantes
+🔴 Casi un 50% afectan al pronóstico vital del paciente.
+https://t.co/Uasg3FdIXm",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 11:05:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/99Xhl3R3TI",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 11:05:12 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Hoy @VivirconFSHD nos presenta a @MTGiner y nos ayuda a hacer #masvisibles las #EnfermedadesRaras https://t.co/eskfuv9Prf
+
+@NoInvisibles @fshd_spain",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 11:15:11 +0000 2020",
+"name": "Displasia cleidocraneal España",
+"screen_name": "aefdcc",
+"text": "Hoy en nuestra sección de testimonios: La historia de Daniel https://t.co/i7b8MlM8qQ
+#enfermedadesraras #eerr #rarasperoreales",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 11:16:43 +0000 2020",
+"name": "Centro CREER",
+"screen_name": "CentroCREER",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 11:38:03 +0000 2020",
+"name": "Denisse Hernandez N.",
+"screen_name": "DenisseNieva",
+"text": "Te presentamos la entrevista a Montserrat Orozco de Síndrome Wolf-Hirschhorn México
+Síndrome de #WolfHirschhorn #EnfermedadesRaras #AliadosFEMEXER #COVID19 
+https://t.co/zgpBmoJwLO",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 11:46:11 +0000 2020",
+"name": "MujeresHepatólogas",
+"screen_name": "HepatologAs",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/99Xhl3R3TI",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 12:02:43 +0000 2020",
+"name": "Pr. Jorge Alva",
+"screen_name": "Pr_JorgeAlva",
+"text": "«La lámpara del cuerpo es el ojo; así que, si tu ojo es bueno, todo tu cuerpo estará lleno de luz» (Mateo 6:22). #PrimeroDios #DM2020 https://t.co/AobpAh33A5",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 12:05:06 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/pBx4Pkc0w7",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 12:06:40 +0000 2020",
+"name": "Vivir con FSHD",
+"screen_name": "VivirconFSHD",
+"text": "¿Eres paciente de #EnfermedadesRaras o familiar? ¿Necesitas algún tipo de información u orientación?  FEDER pone a tu disposición un servicio sin coste para facilitar el acceso a información de calidad a los pacientes EERR lo que necesiten.
+
+https://t.co/xmeMPgN9O5 https://t.co/pBx4Pkc0w7",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 12:42:55 +0000 2020",
+"name": "Taiana González  💚",
+"screen_name": "TaianaHosteltur",
+"text": "Un poquito de otro mundo. Podcast sobre Síndrome de Kleine Levin o Síndrome de la Bella Durmiente #EnfermedadesRaras  https://t.co/3p1ieEDFch",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 12:56:48 +0000 2020",
+"name": "Mar Alonso Hoyas",
+"screen_name": "MarMarhoyas",
+"text": "#EnfermedadesRaras
+
+🏃  Josele corre maratones para dar a conocer la enfermedad de su hija María, el #SíndromeDeRett. “Línea de Meta” es un documental que explica su historia. Conoce el trailer
+ https://t.co/WTKCxnQpYF",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 12:57:39 +0000 2020",
+"name": "Fundación Poco Frecuente Rare Diseases",
+"screen_name": "Fpocofrecuente",
+"text": "#EnfermedadesRaras
+
+¿Conoces los informes Orphanet?
+
+💻🕵️‍♂️ Encuentra en esta página web actualizada de forma periódica una serie de textos e informes que tratan muchos temas relevantes sobre enfermedades minoritarias.
+
+https://t.co/46JGMTPTTE https://t.co/99Xhl3R3TI",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 13:05:11 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv95BGy",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 13:08:15 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "Muchos tratamientos para #EnfermedadesRaras deben administrarse en una cantidad muy específica. Consumir más o menos de la debida puede provocar secuelas. Eso es un problema cuando la única vía disponible es oral. La solución ha surgido en Galicia. 👍
+https://t.co/RFDQv95BGy",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 15:08:13 +0000 2020",
+"name": "José González S. (Webconsultas)",
+"screen_name": "jgwebconsultas",
+"text": "Nuevo tratamiento para una mutación de la distrofia muscular de Duchenne #EnfermedadesRaras #Duchenne 
+https://t.co/t7CeG2vqcL a través de @webconsultas",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 15:25:52 +0000 2020",
+"name": "Pedro Lendinez",
+"screen_name": "pelendinez",
+"text": "Hoy #lacalineta y @50provincias han paseado por #cordoba 
+
+#kmsporlainvestigacioneneerr sigue haciendo #masvisibles las #EnfermedadesRaras 
+
+¿Colaboras?
+
+Buscamos en instagram #DiariodelaCalineta y en
+
+https://t.co/AUgABKIyGF",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 16:48:29 +0000 2020",
+"name": "Rosa C Ll",
+"screen_name": "RosaC2005",
+"text": "🔬 Investigación
+🩺 Diagnóstico
+🧐 Conocimiento
+
+Son las 3⃣ principales reivindicaciones de las personas con #EnfermedadesRaras.
+
+🔄¿Nos ayudas a promover la tercera haciendo RT?
+
+Más información en 👉 https://t.co/meSk6wYmdm
+
+#SanofiEsEnfermedadesRaras https://t.co/FJbJsHlJOz",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 17:27:59 +0000 2020",
+"name": "BadmintonBladet - the Badminton Magazine",
+"screen_name": "BBladet",
+"text": "En god træningsuge er ved at være ovre, og så er vi klar til U19 DM i weekenden. Speciel og anderledes opstart, men vi må få det bedste ud af det 🏸 #badminton #coach #baddk #vielskerbadminton @BBladet @BadDK #DM2020 https://t.co/kK4tD5VXl5",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 17:50:17 +0000 2020",
+"name": "🦋 Diana Pa♥la 🦋",
+"screen_name": "dipagofo",
+"text": "Ayer estuvimos conversando sobre #EnfermedadesRaras con la Dra. Ospina, la Dra. Dávalos y el Dr. Escobar, autor del libro 'Para que las #EnfermedadesHuérfanas dejen de estar huérfanas en Colombia' 🖥️ Ver https://t.co/I6mbkufMLf👈Gracias @_Agora_co 📘https://t.co/QJrrJSbkEI ⬇️ #RT https://t.co/104hjTrYPW",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 17:52:19 +0000 2020",
+"name": "Rare Diseases Clinical Research Network",
+"screen_name": "rarediseasesnet",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos sobre el impacto de la pandemia de #coronavirus de @rarediseasesnet financiada por los @NIH o conozcan más en https://t.co/ez2IfEtezE
+@ncats_nih_gov
+#COVID19 https://t.co/RbGf91jphm",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 18:35:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/IVQlFIHlYM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 18:36:48 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/IVQlFIHlYM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 18:40:11 +0000 2020",
+"name": "Marrah Lachowicz-Scroggins",
+"screen_name": "LachowiczMarrah",
+"text": "¡Se necesitan pacientes con #EnfermedadesRaras y cuidadores! Respondan esta encuesta de 20 minutos sobre el impacto de la pandemia de #coronavirus de @rarediseasesnet financiada por los @NIH o conozcan más en https://t.co/ez2IfEtezE
+@ncats_nih_gov
+#COVID19 https://t.co/RbGf91jphm",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 18:47:49 +0000 2020",
+"name": "Teresa Santos",
+"screen_name": "TeresaSantosNow",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/IVQlFIHlYM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 18:49:08 +0000 2020",
+"name": "FEMEXER",
+"screen_name": "FEMEXER",
+"text": "Te presentamos la entrevista a Adriana Caro Ocampo de XLH y otros Raquitismos México
+#Raquitismo #EnfermedadesRaras #AliadosFEMEXER #COVID19
+https://t.co/bJolkGb6hk",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 19:31:57 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "⚫️ 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/uMed9jnWjM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 19:34:06 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "Saludos y Abrazos 🖤
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha… https://t.co/PsWf3uCUP5",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 19:43:54 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/stpksQeXu6 Thanks to @RareGenomics #raredisease #skin",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 19:45:40 +0000 2020",
+"name": "AMMA",
+"screen_name": "Amma_Andorra",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/IVQlFIHlYM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 20:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "🗣️📢
+
+Ya puedes conocer las imágenes finalistas de #EResArte, un concurso fotográfico para concienciar sobre las #EnfermedadesRaras y expresar con imágenes sus historias únicas. 
+
+Vamos, no te quedes fuera y entra en nuestro museo virtual.
+👉https://t.co/w8ChsntNDe https://t.co/FFUPaVNhDS",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 20:21:43 +0000 2020",
+"name": "germán",
+"screen_name": "gamolinas2505",
+"text": "@SectorSalud @ClaudiaLopez Cuándo @ClaudiaLopez @SectorSalud @AlejandroGL2014 protegerán su población más vulnerable? No hay control sobre EPS que atienden pacientes crónicos , con discapacidad, #EnfermedadesRaras",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 20:27:27 +0000 2020",
+"name": "SilviaEspartana300",
+"screen_name": "silviaginies",
+"text": "@e_nasarre Creo que así nos sentimos muchos.
+Como he dicho antes en otro twit, pagan y pagamos los mismos.
+La incertidumbre como siempre es lo peor, no saber a que atenernos. 
+Las personas con #EnfermedadesRaras #EnfermedadesRaras antes estábamos a la cola en sanidad, ahora ni estamos",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 20:27:52 +0000 2020",
+"name": "#Sozis aus #Mueggelheim",
+"screen_name": "spd_mueggelheim",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 20:31:32 +0000 2020",
+"name": "Cooperation Sports & Peoples' Friendship & Peace",
+"screen_name": "DruschbaAlex",
+"text": "David Storls neunter Streich! Mit 20,17 m setzt sich der zweimalige Weltmeister souverän bei der DM 💪 im Kugelstoß durch &amp; holt sein neuntes DM-Gold.
+📸 Theo Kiefner
+#TrueAthletes #backontrack #dlv #leichtathletik #dm2020 #braunschweig2020 #trackandfield #nationals  #kugelstoß https://t.co/qKW89qqYwM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 20:35:48 +0000 2020",
+"name": "Nata",
+"screen_name": "nata_madrid",
+"text": "#Lupus una #enfermedadesraras, invisible y cruel. Se necesita mucha + #investigación y recursos para todos aquellos científic@s y sus estudios, y para los médic@s q están diagnosticando e intentando mecer la enfermedad. 
+GRACIAS A TOD@S 
+@sanidadgob
+@CienciaGob 
+@AngelRoblesMarh",
+"ReTweet: "True"},
+{"data": "Thu Aug 13 21:06:33 +0000 2020",
+"name": "SilviaMzGz 🦁",
+"screen_name": "SilviaMzGz",
+"text": "Habéis visto esto? Preciosa forma de dar voz y ponerle cara a las enfermedades raras 💙",
+"ReTweet: "True"},
+{"data": "Thu Aug 13 21:44:25 +0000 2020",
+"name": "Fundación Poco Frecuente Rare Diseases",
+"screen_name": "Fpocofrecuente",
+"text": "Existe un gran desconocimiento de las #EnfermedadesRaras respiratorias entre los profesionales pediátricos y estudiantes de Medicina.
+
+Advierte un estudio de la Universidad de Valencia que propone modificar el plan de estudios para corregir esa carencia.
+
+https://t.co/qXPy3XcxVW https://t.co/IVQlFIHlYM",
+"ReTweet: "False"},
+{"data": "Thu Aug 13 21:44:45 +0000 2020",
+"name": "Fundación Poco Frecuente Rare Diseases",
+"screen_name": "Fpocofrecuente",
+"text": "🗣️📢
+
+Ya puedes conocer las imágenes finalistas de #EResArte, un concurso fotográfico para concienciar sobre las #EnfermedadesRaras y expresar con imágenes sus historias únicas. 
+
+Vamos, no te quedes fuera y entra en nuestro museo virtual.
+👉https://t.co/w8ChsntNDe https://t.co/FFUPaVNhDS",
+"ReTweet: "False"},
