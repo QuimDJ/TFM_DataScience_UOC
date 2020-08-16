@@ -1,0 +1,497 @@
+{"data": "Sat Aug 15 22:39:46 +0000 2020",
+"name": "Yesica Font Diego",
+"screen_name": "font_yesica",
+"text": "🍀 ¿Conoces los servicios que ofrecemos desde FEDER a pacientes y familias? 
+
+🔹 Pinchando aquí, descubrirás todo lo que hace FEDER por el colectivo de personas con #enfermedadesraras: https://t.co/dl85Py5p1S https://t.co/1aI47HGazm",
+"ReTweet: "False"},
+{"data": "Sat Aug 15 22:57:28 +0000 2020",
+"name": "Kathy Velasco Casado",
+"screen_name": "KathyCasado",
+"text": "🎙️🔊NUEVO EPISODIO
+Hoy hablamos con @MariTriniGiner y su #podcast #HistoriasNoTanRaras
+Vamos a hablar profundamente sobre #EnfermedadesRaras, viajes y os cuento mi experiencia en bicicleta, tras 10 años sin subir a una. ¡Espero que te guste!
+https://t.co/4GIWUmdSpk",
+"ReTweet: "False"},
+{"data": "Sat Aug 15 23:12:45 +0000 2020",
+"name": "Silvia Mabel Varas",
+"screen_name": "svaras2016",
+"text": "La pandemia ha introducido muchos desafíos imprevistos relacionados con el tratamiento y el apoyo de pacientes con #EnfermedadesRaras. Un artículo en “Molecular Genetics and Metabolism” recoge los retos directamente relacionados con #EnfermedadDeGaucher.
+https://t.co/YJTowqG6bE",
+"ReTweet: "False"},
+{"data": "Sat Aug 15 23:16:19 +0000 2020",
+"name": "hypatia",
+"screen_name": "hypatia350",
+"text": "🍀 ¿Conoces los servicios que ofrecemos desde FEDER a pacientes y familias? 
+
+🔹 Pinchando aquí, descubrirás todo lo que hace FEDER por el colectivo de personas con #enfermedadesraras: https://t.co/dl85Py5p1S https://t.co/1aI47HGazm",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 01:13:46 +0000 2020",
+"name": "Margarita Bofarull",
+"screen_name": "MargaritaBofa",
+"text": "Cribaje genético neonatal? Algunas cuestiones éticas.
+@IBBioetica @uramonllull @SJDbarcelona_es 
+#EnfermedadesRaras #MalaltiesMinoritaries 
+https://t.co/bMHigUesOb https://t.co/LAOzrMmheH",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 02:20:03 +0000 2020",
+"name": "Maria Fernanda",
+"screen_name": "EdMaria19848777",
+"text": ".@fundacionmutua incluye 4 proyectos de investigación de #EnfermedadesRaras del total de 21 beneficiados con 2’3 M € de sus XVII Ayudas a la Investigación en Salud. 
+
+Porfiria aguda intermitente y atrofia muscular espinal, entre las EE.RR. investigadas.
+https://t.co/5ZZSJcAAXQ",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 04:57:44 +0000 2020",
+"name": "Marga Peralta",
+"screen_name": "mapeav75",
+"text": "🍀 ¿Conoces los servicios que ofrecemos desde FEDER a pacientes y familias? 
+
+🔹 Pinchando aquí, descubrirás todo lo que hace FEDER por el colectivo de personas con #enfermedadesraras: https://t.co/dl85Py5p1S https://t.co/1aI47HGazm",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 06:06:00 +0000 2020",
+"name": "Fundación MerckSalud",
+"screen_name": "fundmercksalud",
+"text": "¿Sabes a qué tipo de enfermedades se les denomina #EnfermedadesRaras? Te lo contamos todo en esta infografía 👉 https://t.co/DLVmyYaAJI https://t.co/nyuCe6xFqc",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 07:10:01 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Asociación #Yonemalinica aportará 34.000 € a Universidad Pablo de Olavide para investigar las miopatías congénitas, enfermedades musculares poco frecuentes. @pablodeolavide  cuenta con 1 equipo referente internacional en el estudio de #EnfermedadesRaras.
+https://t.co/3w2d1gpKww",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 07:26:43 +0000 2020",
+"name": "Montse Esquerda",
+"screen_name": "montse_esquerda",
+"text": "#cribajeneinatal #ética de interés @fcentenomalfaz @reginacardenas1 @Aebioetica",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 07:43:15 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/frAHGhYe2f Thanks to @Arisualicetaku1 #raredisease #podcasts",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 07:43:36 +0000 2020",
+"name": "Genagen",
+"screen_name": "somosgenagen",
+"text": "¡El diario de Genagen está disponible! https://t.co/PGNMPOwIAM Gracias a @familiaysalud #enfermedadesraras #yonemalinica",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 08:20:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Las #EnfermedadesNeuromusculares son un conjunto de más de 150 enfermedades neurológicas. Consideradas #EnfermedadesRaras, entre todas suman +60.000 pacientes en España. La Federacion ASEM agrupa veintisiete entidades que trabajan por su visibilidad.
+https://t.co/NYQof7y3g6",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 08:20:41 +0000 2020",
+"name": "AEGH",
+"screen_name": "AEGHgenetica",
+"text": "¡Conócelos! 👇",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 09:01:00 +0000 2020",
+"name": "Despite Pain",
+"screen_name": "DespitePainBlog",
+"text": "Without awareness, there is very little funding for these rare conditions. Without funding, there is little research being done. Awareness ultimately leads to more medical research, better-informed doctors and greater support for patients.
+#RareDiseaseDay
+https://t.co/fRWRIK4Xvo",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 09:07:56 +0000 2020",
+"name": "Dimas",
+"screen_name": "DXjaba",
+"text": "Las #EnfermedadesNeuromusculares son un conjunto de más de 150 enfermedades neurológicas. Consideradas #EnfermedadesRaras, entre todas suman +60.000 pacientes en España. La Federacion ASEM agrupa veintisiete entidades que trabajan por su visibilidad.
+https://t.co/NYQof7y3g6",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 09:25:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "El 28 de agosto será #DiaMundialTurner. Nace una niña con #SíndromeDeTurner por cada 2.500. Como muchas otras #EnfermedadesRaras es importante se diagnostique lo antes posible. 
+
+@AlegranAst organiza campaña de sensibilización y Jornadas de convivencia.
+https://t.co/SweFZqS0r1 https://t.co/tmurQJs3hn",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 09:27:26 +0000 2020",
+"name": "Martha #MamáCrónica 🤰🎸🧡",
+"screen_name": "Pandora_Mr",
+"text": ""ERes arte, pequeño" 🥰🍀💜💚
+
+#mamacronica
+#embarazo 
+#SDRC 
+#pacientesquecuentan",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 09:27:53 +0000 2020",
+"name": "Eres Arte",
+"screen_name": "eres_arte_bot",
+"text": ""ERes arte, pequeño" 🥰🍀💜💚
+
+#mamacronica
+#embarazo 
+#SDRC 
+#pacientesquecuentan https://t.co/09Lfzqr5NP",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 09:33:31 +0000 2020",
+"name": "Elena Siles",
+"screen_name": "ElenaSilesB",
+"text": "El 28 de agosto será #DiaMundialTurner. Nace una niña con #SíndromeDeTurner por cada 2.500. Como muchas otras #EnfermedadesRaras es importante se diagnostique lo antes posible. 
+
+@AlegranAst organiza campaña de sensibilización y Jornadas de convivencia.
+https://t.co/SweFZqS0r1 https://t.co/tmurQJs3hn",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 09:36:40 +0000 2020",
+"name": "Yolanda Casares Alcalá",
+"screen_name": "yolanda_casares",
+"text": "Me encanta esta iniciativa.",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 09:52:57 +0000 2020",
+"name": "As.Turner Alejandra",
+"screen_name": "AlegranAst",
+"text": "El 28 de agosto será #DiaMundialTurner. Nace una niña con #SíndromeDeTurner por cada 2.500. Como muchas otras #EnfermedadesRaras es importante se diagnostique lo antes posible. 
+
+@AlegranAst organiza campaña de sensibilización y Jornadas de convivencia.
+https://t.co/SweFZqS0r1 https://t.co/tmurQJs3hn",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 10:06:11 +0000 2020",
+"name": "@monikaug22",
+"screen_name": "monikaug221",
+"text": "El 28 de agosto será #DiaMundialTurner. Nace una niña con #SíndromeDeTurner por cada 2.500. Como muchas otras #EnfermedadesRaras es importante se diagnostique lo antes posible. 
+
+@AlegranAst organiza campaña de sensibilización y Jornadas de convivencia.
+https://t.co/SweFZqS0r1 https://t.co/tmurQJs3hn",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 10:06:20 +0000 2020",
+"name": "@monikaug22",
+"screen_name": "monikaug221",
+"text": "Las #EnfermedadesNeuromusculares son un conjunto de más de 150 enfermedades neurológicas. Consideradas #EnfermedadesRaras, entre todas suman +60.000 pacientes en España. La Federacion ASEM agrupa veintisiete entidades que trabajan por su visibilidad.
+https://t.co/NYQof7y3g6",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 10:06:27 +0000 2020",
+"name": "@monikaug22",
+"screen_name": "monikaug221",
+"text": "Asociación #Yonemalinica aportará 34.000 € a Universidad Pablo de Olavide para investigar las miopatías congénitas, enfermedades musculares poco frecuentes. @pablodeolavide  cuenta con 1 equipo referente internacional en el estudio de #EnfermedadesRaras.
+https://t.co/3w2d1gpKww",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 10:06:31 +0000 2020",
+"name": "@monikaug22",
+"screen_name": "monikaug221",
+"text": ".@fundacionmutua incluye 4 proyectos de investigación de #EnfermedadesRaras del total de 21 beneficiados con 2’3 M € de sus XVII Ayudas a la Investigación en Salud. 
+
+Porfiria aguda intermitente y atrofia muscular espinal, entre las EE.RR. investigadas.
+https://t.co/5ZZSJcAAXQ",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 10:50:12 +0000 2020",
+"name": "Emilia Arrighi",
+"screen_name": "EmiliaArrighi",
+"text": "Las personas con #EnfermedadesRaras tienen mayor dificultad para formar colectivos o agrupaciones de pacientes, un importante hándicap debido a su baja prevalencia. Internet y las redes sociales están suponiendo una importante revolución en este ámbito. 
+
+https://t.co/V7btPVZ5Ya https://t.co/bYUk1iYZSq",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 10:54:19 +0000 2020",
+"name": "EliasCTM",
+"screen_name": "Elias_CTM",
+"text": "¡El último EliasCTM 'news'! https://t.co/kg4w0HETkL Gracias a @AMEPAR3 @ElSoldeCordoba @NovilloLapeyra #enfermedadesneuromusculares #enfermedadesraras",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 11:00:25 +0000 2020",
+"name": "Pediatría y Familia",
+"screen_name": "pediatriayfam",
+"text": "Algunas #EnfermedadesRaras imposibilitan el #embarazo en la mujer, ya sea por esterilidad, o por tener #abortos de repetición. Sin embargo, ¡la gestación es posible! Conoce todo al respecto en ➡️ https://t.co/lMm9lCN2kw ⬅️ #PediatríayFamilia",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 11:24:43 +0000 2020",
+"name": "🧬🧬Bettina & Genetica Humana🔬🔬🛫🛬",
+"screen_name": "BettinaColos3",
+"text": "¡Conócelos! 👇",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 12:32:54 +0000 2020",
+"name": "Red Star",
+"screen_name": "RedStarFighter",
+"text": "I absolutely agree and it seems for my condition #fibromyalgia more @NHSEngland funding is used for terminal and degenerative illness without having proof fibro isn't degenerative.",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 13:00:56 +0000 2020",
+"name": "Antonio Souviron",
+"screen_name": "asouvi",
+"text": "El 28 de agosto será #DiaMundialTurner. Nace una niña con #SíndromeDeTurner por cada 2.500. Como muchas otras #EnfermedadesRaras es importante se diagnostique lo antes posible. 
+
+@AlegranAst organiza campaña de sensibilización y Jornadas de convivencia.
+https://t.co/SweFZqS0r1 https://t.co/tmurQJs3hn",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 13:05:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Se estiman unos 400 casos de #EnfermedadDeAndrade en España. Como ocurre con muchas otras #EnfermedadesRaras, síntomas asociados a muchas otras patologías + poco conocimiento en Atención Primaria retrasan un diagnóstico precoz vital para su tratamiento.
+https://t.co/g0qVs25rUP",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 13:11:04 +0000 2020",
+"name": "Jesus G Aranguena",
+"screen_name": "AranguenaJGA",
+"text": "Las #EnfermedadesNeuromusculares son un conjunto de más de 150 enfermedades neurológicas. Consideradas #EnfermedadesRaras, entre todas suman +60.000 pacientes en España. La Federacion ASEM agrupa veintisiete entidades que trabajan por su visibilidad.
+https://t.co/NYQof7y3g6",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 13:18:19 +0000 2020",
+"name": "Renovatio Biomédica",
+"screen_name": "Renovatio2016",
+"text": "Se estiman unos 400 casos de #EnfermedadDeAndrade en España. Como ocurre con muchas otras #EnfermedadesRaras, síntomas asociados a muchas otras patologías + poco conocimiento en Atención Primaria retrasan un diagnóstico precoz vital para su tratamiento.
+https://t.co/g0qVs25rUP",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 13:23:30 +0000 2020",
+"name": "FuSCA",
+"screen_name": "FuSCA87640682",
+"text": "@Share4Rare con @FundGarrahan lidera el Registro Internacional de Pacientes de personas con #EPOF y #EnfermedadesRaras que han sufrido el #COVID19. Ayúdanos a correr la voz y a promover la generación de conocimiento científico en este campo tan desconocido. 
+
+👇👇👇👇",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 13:46:27 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "Se estiman unos 400 casos de #EnfermedadDeAndrade en España. Como ocurre con muchas otras #EnfermedadesRaras, síntomas asociados a muchas otras patologías + poco conocimiento en Atención Primaria retrasan un diagnóstico precoz vital para su tratamiento.
+https://t.co/g0qVs25rUP",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 13:48:10 +0000 2020",
+"name": "Fernanda Aspilche ferro",
+"screen_name": "AspilcheFerro",
+"text": "@Share4Rare con @FundGarrahan lidera el Registro Internacional de Pacientes de personas con #EPOF y #EnfermedadesRaras que han sufrido el #COVID19. Ayúdanos a correr la voz y a promover la generación de conocimiento científico en este campo tan desconocido. 
+
+👇👇👇👇",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 14:11:15 +0000 2020",
+"name": "Abuela Gloria",
+"screen_name": "gloria_abuela",
+"text": "Se estiman unos 400 casos de #EnfermedadDeAndrade en España. Como ocurre con muchas otras #EnfermedadesRaras, síntomas asociados a muchas otras patologías + poco conocimiento en Atención Primaria retrasan un diagnóstico precoz vital para su tratamiento.
+https://t.co/g0qVs25rUP",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 14:42:49 +0000 2020",
+"name": "Juan Bosco",
+"screen_name": "BoscoInf",
+"text": "Se estiman unos 400 casos de #EnfermedadDeAndrade en España. Como ocurre con muchas otras #EnfermedadesRaras, síntomas asociados a muchas otras patologías + poco conocimiento en Atención Primaria retrasan un diagnóstico precoz vital para su tratamiento.
+https://t.co/g0qVs25rUP",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 14:49:25 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "CLICK Here for DM and Mch Preparation
+NEET SS 2020
+https://t.co/VP4P9wea3u
+https://t.co/OxB68GNtpi
+
+#neetss #neetdm #neetmch #dm2020 #mch2020 #neetdm online #neetmchonline https://t.co/sjH3i6ec5F",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 14:56:17 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "CLICK Here for DM and Mch Preparation
+NEET SS 2020
+https://t.co/VP4P9wea3u
+https://t.co/OxB68GNtpi
+
+#neetss #neetdm #neetmch #dm2020 #mch2020 #neetdm online #neetmchonline https://t.co/Eww3ImBunF",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 14:56:37 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "CLICK Here for DM and Mch Preparation
+NEET SS 2020
+https://t.co/VP4P9wea3u
+https://t.co/OxB68GNtpi
+
+#neetss #neetdm #neetmch #dm2020 #mch2020 #neetdm online #neetmchonline https://t.co/Yca7ll2N9G",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 15:11:00 +0000 2020",
+"name": "Inés Tomé Manteiga",
+"screen_name": "InesManteiga",
+"text": ""No hace falta decir que ser padre o madre de un niño enfermo tiene un coste, incluso si eres la persona más positiva del mundo"
+
+Omaira, madre de un niño con#Duchenne escribió este texto sobre crianza de niños con #EnfermedadesRaras que vale la pena leer.
+https://t.co/WOwLniiPZl https://t.co/IszNDVDbf9",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 15:58:31 +0000 2020",
+"name": "tris",
+"screen_name": "trona80",
+"text": "🍀 ¿Conoces los servicios que ofrecemos desde FEDER a pacientes y familias? 
+
+🔹 Pinchando aquí, descubrirás todo lo que hace FEDER por el colectivo de personas con #enfermedadesraras: https://t.co/dl85Py5p1S https://t.co/1aI47HGazm",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 17:07:38 +0000 2020",
+"name": "MedExams Prep",
+"screen_name": "medexamprep",
+"text": "CLICK Here for DM and Mch Preparation
+NEET SS 2020
+https://t.co/VP4P9wvLs4
+https://t.co/OxB68H54NS
+
+#neetss #neetdm #neetmch #dm2020 #mch2020 #neetdm online #neetmchonline https://t.co/tSMHBZNmt8",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 17:10:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "“Menos Raras” es una muy reciente iniciativa que nace con la idea de ayudar en la divulgación de las #EnfermedadesRaras para, de esta forma, hacerlas #MenosRaras. Conócela.
+
+🐤Twitter: @MenosRaras
+📺 YouTube: https://t.co/hjOgw07Bjb
+🌐 Web: https://t.co/RzMyh0SYhu https://t.co/3E17tlFJE9",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 17:14:49 +0000 2020",
+"name": "Rocío Requena",
+"screen_name": "RolaRequena",
+"text": "Las #EnfermedadesNeuromusculares son un conjunto de más de 150 enfermedades neurológicas. Consideradas #EnfermedadesRaras, entre todas suman +60.000 pacientes en España. La Federacion ASEM agrupa veintisiete entidades que trabajan por su visibilidad.
+https://t.co/NYQof7y3g6",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 17:36:55 +0000 2020",
+"name": "Juan Antonio Verdoy",
+"screen_name": "Javerdoy",
+"text": "“Menos Raras” es una muy reciente iniciativa que nace con la idea de ayudar en la divulgación de las #EnfermedadesRaras para, de esta forma, hacerlas #MenosRaras. Conócela.
+
+🐤Twitter: @MenosRaras
+📺 YouTube: https://t.co/hjOgw07Bjb
+🌐 Web: https://t.co/RzMyh0SYhu https://t.co/3E17tlFJE9",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 18:18:12 +0000 2020",
+"name": "Abuela Gloria",
+"screen_name": "gloria_abuela",
+"text": "“Menos Raras” es una muy reciente iniciativa que nace con la idea de ayudar en la divulgación de las #EnfermedadesRaras para, de esta forma, hacerlas #MenosRaras. Conócela.
+
+🐤Twitter: @MenosRaras
+📺 YouTube: https://t.co/hjOgw07Bjb
+🌐 Web: https://t.co/RzMyh0SYhu https://t.co/3E17tlFJE9",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 18:20:03 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "España es el único país de Europa sin la especialidad de genética clínica. La creación de la especialidad es una de las #14PropuestasDiagnóstico para un diagnóstico precoz de las #EnfermedadesRaras planteadas por 7 #AsociacionesDePacientes.
+
+https://t.co/l9F4Ddn14M https://t.co/BcewgEyukx",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 18:23:29 +0000 2020",
+"name": "Chema Cenarro",
+"screen_name": "ChemayC",
+"text": "🗣️📢
+
+Ya puedes conocer las imágenes finalistas de #EResArte, un concurso fotográfico para concienciar sobre las #EnfermedadesRaras y expresar con imágenes sus historias únicas. 
+
+Vamos, no te quedes fuera y entra en nuestro museo virtual.
+👉https://t.co/w8ChsntNDe https://t.co/FFUPaVNhDS",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 18:33:16 +0000 2020",
+"name": "Esther Cano",
+"screen_name": "esthercano86",
+"text": "España es el único país de Europa sin la especialidad de genética clínica. La creación de la especialidad es una de las #14PropuestasDiagnóstico para un diagnóstico precoz de las #EnfermedadesRaras planteadas por 7 #AsociacionesDePacientes.
+
+https://t.co/l9F4Ddn14M https://t.co/BcewgEyukx",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 18:37:47 +0000 2020",
+"name": "Carlos Guzman Quilo",
+"screen_name": "GuzmanQCarlos",
+"text": "“Menos Raras” es una muy reciente iniciativa que nace con la idea de ayudar en la divulgación de las #EnfermedadesRaras para, de esta forma, hacerlas #MenosRaras. Conócela.
+
+🐤Twitter: @MenosRaras
+📺 YouTube: https://t.co/hjOgw07Bjb
+🌐 Web: https://t.co/RzMyh0SYhu https://t.co/3E17tlFJE9",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 19:24:02 +0000 2020",
+"name": "Noah Higón Bellver",
+"screen_name": "nh487",
+"text": "Aquí las luces nunca se apagan. #EnfermedadesRaras https://t.co/nEEKgiHnGU",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 19:40:02 +0000 2020",
+"name": "Raras pero Reales",
+"screen_name": "RarasReales",
+"text": "Paciente complejo = reto de #AtenciónPrimaria
+
+👨‍🏫👩‍🏫 #EnfermedadesRaras ¿Las tengo en mi cupo? ¿Cómo abordarlas?
+
+El Dr. Álvaro Pérez y la Dra. Mª José Agüeros impartieron este taller en el 39º Congreso  @SEMERGENap. 
+
+Recupéralo en YouTube
+https://t.co/6C01hrXYdD",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 19:43:44 +0000 2020",
+"name": "SeqComplete",
+"screen_name": "SeqComplete",
+"text": "The latest #RareDiseaseDay! https://t.co/GTnSewQsFE Thanks to @throughfibrofog @PHAssociation @GlobalGenes #raredisease #rightheart",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 20:02:19 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "❌Cuidado 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/3FQ6Hfx6pq",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 20:02:56 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "💯Confianza 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha… https://t.co/NUlqvUx21H",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 20:03:26 +0000 2020",
+"name": "Síndrome de HiperIgD",
+"screen_name": "HiperIgD",
+"text": "🎈 
+#hids 
+#vivirconhids 
+#enfermedadesincomprendidas 
+#enfermedadesminoritarias 
+#enfermedadesraras 
+#enfermedadespocofrecuentes
+#luchamosporunamayorinvestigación 
+#quemiluchaseatulucha 
+#somosrarosymutantes… https://t.co/sBLPtMLESE",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 20:29:38 +0000 2020",
+"name": "Fran Tena",
+"screen_name": "Fran_Tena",
+"text": "España es el único país de Europa sin la especialidad de genética clínica. La creación de la especialidad es una de las #14PropuestasDiagnóstico para un diagnóstico precoz de las #EnfermedadesRaras planteadas por 7 #AsociacionesDePacientes.
+
+https://t.co/l9F4Ddn14M https://t.co/BcewgEyukx",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 20:56:01 +0000 2020",
+"name": "FMF ESPAÑA",
+"screen_name": "FMFSPAIN",
+"text": "España es el único país de Europa sin la especialidad de genética clínica. La creación de la especialidad es una de las #14PropuestasDiagnóstico para un diagnóstico precoz de las #EnfermedadesRaras planteadas por 7 #AsociacionesDePacientes.
+
+https://t.co/l9F4Ddn14M https://t.co/BcewgEyukx",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 21:09:52 +0000 2020",
+"name": "Bernomics",
+"screen_name": "bernomics",
+"text": "The Black Pearl Awards are held every year to mark the occasion of #RareDiseaseDay, to recognise the stars of the rare disease community⭐! 
+
+Nominations are welcome from anywhere in the world - make yours NOW 👇👇
+
+https://t.co/hJNWkiPSs0",
+"ReTweet: "True"},
+{"data": "Sun Aug 16 21:41:06 +0000 2020",
+"name": "Fernando Gomez",
+"screen_name": "dekno69",
+"text": "“Menos Raras” es una muy reciente iniciativa que nace con la idea de ayudar en la divulgación de las #EnfermedadesRaras para, de esta forma, hacerlas #MenosRaras. Conócela.
+
+🐤Twitter: @MenosRaras
+📺 YouTube: https://t.co/hjOgw07Bjb
+🌐 Web: https://t.co/RzMyh0SYhu https://t.co/3E17tlFJE9",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 21:55:00 +0000 2020",
+"name": "FEDER",
+"screen_name": "FEDER_ONG",
+"text": "🍀 ¿Conoces nuestro Observatorio sobre Enfermedades Raras?
+
+🔹 A través de él, compartimos y generamos conocimiento sobre #enfermedadesraras, promoviendo los derechos de pacientes y familias. 
+
+https://t.co/AG6kdOML2U https://t.co/g0UMSTjhij",
+"ReTweet: "False"},
+{"data": "Sun Aug 16 21:55:19 +0000 2020",
+"name": "InvestingMedic",
+"screen_name": "InvestingMedic",
+"text": "🍀 ¿Conoces nuestro Observatorio sobre Enfermedades Raras?
+
+🔹 A través de él, compartimos y generamos conocimiento sobre #enfermedadesraras, promoviendo los derechos de pacientes y familias. 
+
+https://t.co/AG6kdOML2U https://t.co/g0UMSTjhij",
+"ReTweet: "False"},
