@@ -3,7 +3,7 @@
 <img src="./imgLogo.png", align="left">
 </div>
 <div style="float: right; width: 50%;">
-    <p style="margin: 0; padding-top: 22px; text-align:right;"><b>Treball de Final de Màster </b></p>
+    <p style="margin: 0; padding-top: 22px; text-align:right;"><b>Treball de Final de Màster (Máster de Ciència de Dades)</b></p>
 <p style="margin: 0; text-align:right;"><b>ANÀLISI DEL DIA MUNDIAL DE LES MALALTIES MINORITÀRIES 
   <br>(Font de dades: TWITTER)</b>.</p>
 </div>
