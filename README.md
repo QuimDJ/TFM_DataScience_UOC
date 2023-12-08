@@ -1,6 +1,6 @@
 <div style="width: 100%; clear: both;">
 <div style="float: left; width: 50%;">
-<img src="https://www.uoc.edu/portal/system/modules/edu.uoc.presentations/resources/img/branding/logo-uoc-default.png", align="left">
+<img src="[https://www.uoc.edu/portal/system/modules/edu.uoc.presentations/resources/img/branding/logo-uoc-default.png](https://github.com/QuimDJ/TFM_DataScience_UOC)", align="left">
 </div>
 <div style="float: right; width: 50%;">
     <p style="margin: 0; padding-top: 22px; text-align:right;"><b>Treball de Final de Màster </b></p>
