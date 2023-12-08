@@ -1,6 +1,6 @@
 <div style="width: 100%; clear: both;">
 <div style="float: left; width: 50%;">
-<img src="imgLogo.png", align="left">
+<img src="![Logo](./imgLogo.png)", align="left">
 </div>
 <div style="float: right; width: 50%;">
     <p style="margin: 0; padding-top: 22px; text-align:right;"><b>Treball de Final de Màster (Universitat Oberta de Catalunya (UOC) - Máster de Ciència de Dades)</b></p>
